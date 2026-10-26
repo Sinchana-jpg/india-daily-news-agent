@@ -1,11 +1,766 @@
 {
-  "generated_at_utc": null,
-  "generated_at_ist": null,
+  "generated_at_utc": "2026-10-26T14:18:45.382943+00:00",
+  "generated_at_ist": "2026-10-26T19:48:45.382943+05:30",
   "title": "India Daily News Brief",
-  "summary": "Run the GitHub Actions workflow to generate the first news dataset.",
-  "sources_checked": [],
-  "source_errors": [],
-  "total_stories": 0,
-  "categories": {},
-  "stories": []
+  "summary": "35 stories collected from 4 sources; 11 highlighted as major.",
+  "sources_checked": [
+    "The Hindu",
+    "NDTV",
+    "India Today",
+    "BBC News India"
+  ],
+  "source_errors": [
+    "The Indian Express: HTTPError: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/"
+  ],
+  "total_stories": 35,
+  "categories": {
+    "Politics & Governance": 13,
+    "Climate & Environment": 4,
+    "Technology & Science": 1,
+    "India & General": 12,
+    "Business & Economy": 3,
+    "Culture & Society": 1,
+    "Education": 1
+  },
+  "stories": [
+    {
+      "id": "7036b6f1a91940e2",
+      "title": "Supreme Court refuses to ease bail condition for Delhi riots accused to attend law classes in Ghaziabad",
+      "url": "https://www.thehindu.com/news/national/sc-refuses-to-entertain-plea-of-delhi-riots-accused-to-attend-law-classes-in-ghaziabad/article71626278.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/sc-refuses-to-entertain-plea-of-delhi-riots-accused-to-attend-law-classes-in-ghaziabad/article71626278.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:14:09+00:00",
+      "published_at_ist": "2026-10-26T19:44:09+05:30",
+      "summary": "A Bench of Justices Aravind Kumar and Vipul M. Pancholi declined to modify Shadab Ahmad’s bail condition requiring him to remain in Delhi during the trial, questioning why he hadn’t sought the change from the trial court",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "aa5e2e0ca1852685",
+      "title": "Cyclone Arnab: APEPDCL opens 41 control rooms, keeps 4,056 workers ready to restore power",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cyclone-arnab-apepdcl-opens-41-control-rooms-keeps-4056-workers-ready-to-restore-power/article71625634.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cyclone-arnab-apepdcl-opens-41-control-rooms-keeps-4056-workers-ready-to-restore-power/article71625634.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:13:47+00:00",
+      "published_at_ist": "2026-10-26T19:43:47+05:30",
+      "summary": "People in Kakinada, East Godavari and Konaseema, the districts likely to bear the brunt, can report power problems on helpline 1912",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "3a22df5bc18406e7",
+      "title": "Controversy mars Punganur municipal election after TDP’s uncontested sweep",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/controversy-mars-punganur-municipal-election-after-tdps-uncontested-sweep/article71626959.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/controversy-mars-punganur-municipal-election-after-tdps-uncontested-sweep/article71626959.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:11:47+00:00",
+      "published_at_ist": "2026-10-26T19:41:47+05:30",
+      "summary": "The ruling Telugu Desam Party-led alliance has practically gained control of the local body after sweeping 32 of the 36 wards without a single contest; YSRCP leaders claim their candidates were physically blocked from entering and submitting paperwork, effectively elbowing them out of the democratic race",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "186b20c8398bffda",
+      "title": "Extremely heavy rain to hit Andhra on Tuesday as Cyclone Arnab comes close",
+      "url": "https://www.indiatoday.in/science/story/cyclone-arnab-extremely-heavy-rain-forecast-for-coastal-andhra-pradesh-odisha-and-telangana-3025392-2026-10-26?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/science/story/cyclone-arnab-extremely-heavy-rain-forecast-for-coastal-andhra-pradesh-odisha-and-telangana-3025392-2026-10-26?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:00:38+00:00",
+      "published_at_ist": "2026-10-26T19:30:38+05:30",
+      "summary": "Extremely heavy rain to hit Andhra on Tuesday as Cyclone Arnab comes close",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "81d93998a89d6713",
+      "title": "BJP, Congress leaders spar in Haveri over vote chori during Council polls",
+      "url": "https://www.thehindu.com/news/national/karnataka/bjp-congress-leaders-spar-in-haveri-over-vote-chori-during-council-polls/article71627180.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/bjp-congress-leaders-spar-in-haveri-over-vote-chori-during-council-polls/article71627180.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:58:16+00:00",
+      "published_at_ist": "2026-10-26T19:28:16+05:30",
+      "summary": "While the BJP stages a protest seeking action against Congress election malpractice, the latter accuses the former of indulging in it",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "615e696feae0be7a",
+      "title": "Supreme Court addresses judicial retirement, polls and land disputes",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-orders-judicial-retirement-electoral-rolls-bail-land-acquisition-ptag-3025495-2026-10-26?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-orders-judicial-retirement-electoral-rolls-bail-land-acquisition-ptag-3025495-2026-10-26?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-orders-judicial-retirement-electoral-rolls-bail-land-acquisition-ptag-3025495-2026-10-26?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:40:22+00:00",
+      "published_at_ist": "2026-10-26T19:10:22+05:30",
+      "summary": "Supreme Court addresses judicial retirement polls and land disputes",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "6d1847edf894dd41",
+      "title": "Very severe cyclone ‘Arnab’ to make landfall near Yanam-Kakinada; red alert issued for seven districts",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/very-severe-cyclone-arnab-to-make-landfall-near-yanam-kakinada-red-alert-issued-for-seven-districts/article71626990.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/very-severe-cyclone-arnab-to-make-landfall-near-yanam-kakinada-red-alert-issued-for-seven-districts/article71626990.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:34:13+00:00",
+      "published_at_ist": "2026-10-26T19:04:13+05:30",
+      "summary": "Kakinada, East Godavari, Dr. B.R. Ambedkar Konaseema, Eluru, West Godavari, Alluri Sitharama Raju, and Anakapalli districts likely to experience isolated extremely heavy rainfall, while Vizianagaram, Visakhapatnam, NTR, Krishna, Guntur, Bapatla, Srikakulam, Parvathipuram Manyam likely to receive heavy to very heavy rainfall on October 27",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "17416ddab71602bd",
+      "title": "Why isn't Election Commission holding a press conference?",
+      "url": "https://www.indiatoday.in/newsmo/short-videos/why-isnt-election-commission-holding-a-press-conference-3025461-2026-10-26?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/newsmo/short-videos/why-isnt-election-commission-holding-a-press-conference-3025461-2026-10-26?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:10:19+00:00",
+      "published_at_ist": "2026-10-26T18:40:19+05:30",
+      "summary": "Why isnt Election Commission holding a press conference",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "68a5ef7717bacd9b",
+      "title": "In Rajasthan Panchayat Polls, A 'Marriage' Promise Unmasks Deeper Issues",
+      "url": "https://www.ndtv.com/india-news/in-rajasthan-panchayat-polls-a-marriage-promise-unmasks-deeper-issues-12238340#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/in-rajasthan-panchayat-polls-a-marriage-promise-unmasks-deeper-issues-12238340#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:10:12+00:00",
+      "published_at_ist": "2026-10-26T18:40:12+05:30",
+      "summary": "Rajasthan is currently witnessing Panchayati Raj elections",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "9c637284056556af",
+      "title": "Supreme Court scraps 59-acre Bengaluru land acquisition over fraud",
+      "url": "https://www.indiatoday.in/india/law-news/story/bengaluru-land-acquisition-supreme-court-scraps-59-acre-takeover-over-fraud-ptag-3025457-2026-10-26?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/bengaluru-land-acquisition-supreme-court-scraps-59-acre-takeover-over-fraud-ptag-3025457-2026-10-26?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:06:28+00:00",
+      "published_at_ist": "2026-10-26T18:36:28+05:30",
+      "summary": "Supreme Court scraps acre Bengaluru land acquisition over fraud",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "929e472a8b1695df",
+      "title": "Cyclone Arnab closing in on Andhra coast, 4 states on alert ahead of landfall",
+      "url": "https://www.indiatoday.in/india/story/cyclone-arnab-andhra-coast-landfall-odisha-telangana-chhattisgarh-puducherry-centre-alert-3025259-2026-10-26?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/story/cyclone-arnab-andhra-coast-landfall-odisha-telangana-chhattisgarh-puducherry-centre-alert-3025259-2026-10-26?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T10:33:34+00:00",
+      "published_at_ist": "2026-10-26T16:03:34+05:30",
+      "summary": "Cyclone Arnab closing in on Andhra coast states on alert ahead of landfall",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "52eecc910f13c192",
+      "title": "At BRICS meet, Birla calls on parliaments to listen to youth",
+      "url": "https://www.thehindu.com/news/national/regional-conflicts-terrorism-do-not-stop-at-borders-affect-all-lok-sabha-speaker-at-brics-parliamentary-forum/article71626163.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/regional-conflicts-terrorism-do-not-stop-at-borders-affect-all-lok-sabha-speaker-at-brics-parliamentary-forum/article71626163.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:17:14+00:00",
+      "published_at_ist": "2026-10-26T19:47:14+05:30",
+      "summary": "Lok Sabha Speaker says parliamentary diplomacy can help address present-day challenges; PM meets BRICS delegations",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "b6b950d014c433dc",
+      "title": "Vice-President arrives at Tirumala on two-day visit",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vice-president-arrives-at-tirumala-on-two-day-visit/article71626916.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/vice-president-arrives-at-tirumala-on-two-day-visit/article71626916.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:33:34+00:00",
+      "published_at_ist": "2026-10-26T19:03:34+05:30",
+      "summary": "",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "7675739d908e02f5",
+      "title": "Isro in final prep to launch NVS-03 satellite aboard GSLV-F18: Here's when",
+      "url": "https://www.indiatoday.in/science/story/isro-in-final-prep-to-launch-nvs-03-satellite-aboard-gslv-f18-heres-when-3025324-2026-10-26?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/science/story/isro-in-final-prep-to-launch-nvs-03-satellite-aboard-gslv-f18-heres-when-3025324-2026-10-26?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T11:38:41+00:00",
+      "published_at_ist": "2026-10-26T17:08:41+05:30",
+      "summary": "Isro in final prep to launch NVS satellite aboard GSLVF Heres when",
+      "category": "Technology & Science",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "20e4bdcf768ba2fd",
+      "title": "Nilgiri Mountain Railway services cancelled from October 27 to 29",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/nilgiri-mountain-railway-services-cancelled-from-october-27-to-29-2026/article71626939.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/nilgiri-mountain-railway-services-cancelled-from-october-27-to-29-2026/article71626939.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:17:08+00:00",
+      "published_at_ist": "2026-10-26T19:47:08+05:30",
+      "summary": "",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "40765538234af06f",
+      "title": "CAG notes building rule violations in audit of local bodies in Keralam",
+      "url": "https://www.thehindu.com/news/national/kerala/cag-notes-building-rule-violations-in-audit-of-local-bodies-in-keralam/article71627527.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/cag-notes-building-rule-violations-in-audit-of-local-bodies-in-keralam/article71627527.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:17:07+00:00",
+      "published_at_ist": "2026-10-26T19:47:07+05:30",
+      "summary": "CAG detects 10 unauthorised constructions in four urban local bodies and 193 unauthorised additions/alterations in selected urban bodies, which indicates deficiencies in monitoring mechanism",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "62bdf685dc8d08be",
+      "title": "iPhone 17 Pro price drops by Rs 8,000 without conditions",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-price-drops-by-rs-8000-without-conditions-287010-26-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-price-drops-by-rs-8000-without-conditions-287010-26-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:15:09+00:00",
+      "published_at_ist": "2026-10-26T19:45:09+05:30",
+      "summary": "iPhone Pro price drops by Rs without conditions",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "d19714384f3d92a1",
+      "title": "iPhone 17 Pro Max is available at a lower price: Details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-is-available-at-a-lower-price-details-here-287005-26-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-is-available-at-a-lower-price-details-here-287005-26-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:15:09+00:00",
+      "published_at_ist": "2026-10-26T19:45:09+05:30",
+      "summary": "iPhone Pro Max is available at a lower price Details here",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "89ffdc6738756596",
+      "title": "Samsung Galaxy S26 gets Rs 19,000 discount: Where to buy",
+      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-gets-rs-19000-discount-where-to-buy-287001-26-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-gets-rs-19000-discount-where-to-buy-287001-26-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:15:09+00:00",
+      "published_at_ist": "2026-10-26T19:45:09+05:30",
+      "summary": "Samsung Galaxy S gets Rs discount Where to buy",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "0bca493e727b1d47",
+      "title": "Google Pixel 10a is an absolute steal, check the latest price",
+      "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10a-is-an-absolute-steal-check-the-latest-price-286994-26-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10a-is-an-absolute-steal-check-the-latest-price-286994-26-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:15:09+00:00",
+      "published_at_ist": "2026-10-26T19:45:09+05:30",
+      "summary": "Google Pixel a is an absolute steal check the latest price",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "804d697115d6b3de",
+      "title": "iPhone 17 gets a price cut on Flipkart: Here is the deal",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-gets-a-price-cut-on-flipkart-here-is-the-deal-286969-25-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-gets-a-price-cut-on-flipkart-here-is-the-deal-286969-25-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:15:09+00:00",
+      "published_at_ist": "2026-10-26T19:45:09+05:30",
+      "summary": "iPhone gets a price cut on Flipkart Here is the deal",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "8e2ae938db7c0393",
+      "title": "Google Pixel 10 gets Rs 12,000 discount: Know the deal",
+      "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-gets-rs-12000-discount-know-the-deal-286968-25-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-gets-rs-12000-discount-know-the-deal-286968-25-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:15:09+00:00",
+      "published_at_ist": "2026-10-26T19:45:09+05:30",
+      "summary": "Google Pixel gets Rs discount Know the deal",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "1e2c6c96c1c76fd8",
+      "title": "Lanka Dinakar campaigns for NDA Mayoral candidate in Anantapur",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/lanka-dinakar-campaigns-for-nda-mayoral-candidate-in-anantapur/article71626884.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/lanka-dinakar-campaigns-for-nda-mayoral-candidate-in-anantapur/article71626884.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:13:05+00:00",
+      "published_at_ist": "2026-10-26T19:43:05+05:30",
+      "summary": "",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "db3d3552ffc4c8ab",
+      "title": "Six arrested after clash at Kuttiadi police station",
+      "url": "https://www.thehindu.com/news/national/kerala/six-arrested-after-clash-at-kuttiadi-police-station/article71627053.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/six-arrested-after-clash-at-kuttiadi-police-station/article71627053.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:12:43+00:00",
+      "published_at_ist": "2026-10-26T19:42:43+05:30",
+      "summary": "A search of the vehicles led to the seizure of 9 grams of MDMA and 10.5 grams of ganja, say police.",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "ea334f2e7e6a82f1",
+      "title": "After slashing VAT on jet fuel, T.N. govt. asks airlines to add more services from Chennai airport",
+      "url": "https://www.thehindu.com/news/cities/chennai/after-slashing-vat-on-jet-fuel-tn-govt-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/chennai/after-slashing-vat-on-jet-fuel-tn-govt-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-26T14:12:05+00:00",
+      "published_at_ist": "2026-10-26T19:42:05+05:30",
+      "summary": "Sources said that the airlines have assured to expand services after the State government reduced the VAT on jet fuel from 29 per cent to 16 per cent; the airlines, however, have not given a timeframe for the implementation",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "de8287dd994bd069",
+      "title": "Commuters Walk On Tracks After Station Fire Delays Mumbai Locals By 5 Hours",
+      "url": "https://www.ndtv.com/mumbai-news/commuters-walk-on-tracks-after-mumbai-train-station-fire-causes-5-hour-delay-12237840#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/mumbai-news/commuters-walk-on-tracks-after-mumbai-train-station-fire-causes-5-hour-delay-12237840#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:53:56+00:00",
+      "published_at_ist": "2026-10-26T19:23:56+05:30",
+      "summary": "The disruption in Mumbai comes just day after Central Railway had taken a \"Mega Block\" for maintenance.",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "097958d533d417f7",
+      "title": "Amid Opposition Protests On SIR, Union Ministers To Hit The Streets",
+      "url": "https://www.ndtv.com/india-news/amid-opposition-protests-on-sir-union-ministers-to-hit-the-streets-12238610#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/amid-opposition-protests-on-sir-union-ministers-to-hit-the-streets-12238610#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:52:39+00:00",
+      "published_at_ist": "2026-10-26T19:22:39+05:30",
+      "summary": "Sources said senior BJP leaders and Union Ministers will conduct \"padyatras\" .",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "071e6527b8d9bd68",
+      "title": "Woman Bank Employee Dupes Job Seekers Of Rs 20 Lakh In Himachal, Arrested",
+      "url": "https://www.ndtv.com/india-news/woman-bank-employee-dupes-job-seekers-of-rs-20-lakh-in-himachal-pradesh-arrested-12238257#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/woman-bank-employee-dupes-job-seekers-of-rs-20-lakh-in-himachal-pradesh-arrested-12238257#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:47:52+00:00",
+      "published_at_ist": "2026-10-26T19:17:52+05:30",
+      "summary": "Police said a probe was underway to find out if others were involved in the scam.",
+      "category": "Business & Economy",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "bc9d3d16bf50b454",
+      "title": "How Rs 799 Kurti Order Led Delhi Police To Rs 30-Crore Cyber Fraud Network",
+      "url": "https://www.ndtv.com/india-news/how-rs-799-kurti-order-led-delhi-police-to-rs-30-crore-cyber-fraud-network-12237406#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/how-rs-799-kurti-order-led-delhi-police-to-rs-30-crore-cyber-fraud-network-12237406#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:41:01+00:00",
+      "published_at_ist": "2026-10-26T19:11:01+05:30",
+      "summary": "The investigation traced the cheated money through Pine Labs Merchant to a Canara Bank account.",
+      "category": "Business & Economy",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "c141c4962123569a",
+      "title": "After DMK Ex-Minister's Arrest, TVK's \"Bengal Monitor Lizard\" Jab At MK Stalin",
+      "url": "https://www.ndtv.com/india-news/anbil-mahesh-poyyamozhi-vijay-mk-stalin-after-dmk-ex-ministers-arrest-tvks-bengal-monitor-lizard-jab-at-mk-stalin-12238342#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/anbil-mahesh-poyyamozhi-vijay-mk-stalin-after-dmk-ex-ministers-arrest-tvks-bengal-monitor-lizard-jab-at-mk-stalin-12238342#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:10:46+00:00",
+      "published_at_ist": "2026-10-26T18:40:46+05:30",
+      "summary": "Anbil Mahesh was arrested by the Chennai Police's Central Crime Branch (CCB) on Monday",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "2430fbfee213554d",
+      "title": "Tiger Shroff Attackers Had Return Plan For Weapons. Why It Failed In Surat",
+      "url": "https://www.ndtv.com/india-news/tiger-shroffs-attackers-had-a-return-plan-for-weapons-it-failed-in-surat-12237983#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/tiger-shroffs-attackers-had-a-return-plan-for-weapons-it-failed-in-surat-12237983#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:08:31+00:00",
+      "published_at_ist": "2026-10-26T18:38:31+05:30",
+      "summary": "Tiger Shroff, the son of actor Jackie Shroff, escaped unhurt.",
+      "category": "Culture & Society",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "b8b0f57e850801c4",
+      "title": "DMK Ex-Minister Arrested In Rs 100-Crore Bribery Case. MK Stalin Hits Out",
+      "url": "https://www.ndtv.com/india-news/dmk-ex-minister-anbil-mahesh-poyyamozhi-arrested-he-allegedly-took-rs-100-crore-bribe-from-schools-12237486#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/dmk-ex-minister-anbil-mahesh-poyyamozhi-arrested-he-allegedly-took-rs-100-crore-bribe-from-schools-12237486#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:08:09+00:00",
+      "published_at_ist": "2026-10-26T18:38:09+05:30",
+      "summary": "Mahesh is a senior leader of the Dravida Munnetra Kazhagam (DMK).",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "f7d3449650a0f2a6",
+      "title": "Kolkata Man, Father Paraded Naked On Street Over Relationship With Minor",
+      "url": "https://www.ndtv.com/india-news/kolkata-man-father-paraded-naked-on-street-over-relationship-with-minor-12238283#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/kolkata-man-father-paraded-naked-on-street-over-relationship-with-minor-12238283#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:05:32+00:00",
+      "published_at_ist": "2026-10-26T18:35:32+05:30",
+      "summary": "The house where the man, his father were kept and then forced to parade naked through a Kolkata street",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "40f64b42830c199c",
+      "title": "Two Students Die In Rajasthan's Kota, Police Say One A Suicide Case",
+      "url": "https://www.ndtv.com/india-news/two-students-die-in-rajasthans-kota-police-say-one-a-suicide-case-12238094#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/two-students-die-in-rajasthans-kota-police-say-one-a-suicide-case-12238094#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T13:02:31+00:00",
+      "published_at_ist": "2026-10-26T18:32:31+05:30",
+      "summary": "The deaths of two students in a single day - one a case of suicide and the other currently under investigation - have shaken Kota, which is home to approximately 250,000 students at any given time.",
+      "category": "Education",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "6e58017cf07d6021",
+      "title": "40 Shops Destroyed In Massive Fire At Jammu Market",
+      "url": "https://www.ndtv.com/jammu-news/40-shops-destroyed-in-massive-fire-at-jammus-shiv-market-12238064#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/jammu-news/40-shops-destroyed-in-massive-fire-at-jammus-shiv-market-12238064#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-26T12:57:12+00:00",
+      "published_at_ist": "2026-10-26T18:27:12+05:30",
+      "summary": "Despite the scale of the destruction, no casaulities were reported in the incident, officials said.",
+      "category": "Business & Economy",
+      "importance_score": 1,
+      "is_major": false
+    }
+  ]
 }
