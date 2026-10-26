@@ -1,0 +1,25 @@
+{
+  "report_title": "India Daily News Brief",
+  "hours_lookback": 36,
+  "max_stories": 35,
+  "max_per_source": 12,
+  "feeds": [
+    {"name": "The Hindu", "url": "https://www.thehindu.com/news/national/feeder/default.rss"},
+    {"name": "The Indian Express", "url": "https://indianexpress.com/section/india/feed/"},
+    {"name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-top-stories"},
+    {"name": "India Today", "url": "https://www.indiatoday.in/rss/home"},
+    {"name": "BBC News India", "url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml"}
+  ],
+  "categories": {
+    "Politics & Governance": ["parliament", "government", "minister", "election", "court", "supreme court", "policy", "cabinet", "bill", "president", "prime minister", "lok sabha", "rajya sabha"],
+    "Business & Economy": ["economy", "rbi", "inflation", "gdp", "market", "stock", "business", "bank", "rupee", "trade", "budget", "tax", "company", "industry"],
+    "Technology & Science": ["technology", "tech", "artificial intelligence", "space", "isro", "science", "research", "cyber", "startup", "digital"],
+    "Health": ["health", "hospital", "disease", "medical", "doctor", "vaccine", "medicine", "outbreak"],
+    "Climate & Environment": ["climate", "weather", "rain", "flood", "cyclone", "pollution", "environment", "heatwave", "earthquake"],
+    "Security & Defence": ["army", "defence", "defense", "military", "security", "terror", "border", "missile", "navy", "air force"],
+    "Education": ["education", "school", "university", "college", "exam", "neet", "jee", "student", "ugc"],
+    "Sports": ["cricket", "sport", "football", "hockey", "olympic", "badminton", "tennis", "ipl"],
+    "Culture & Society": ["culture", "film", "cinema", "actor", "festival", "society", "community", "heritage"]
+  },
+  "major_story_keywords": ["breaking", "supreme court", "parliament", "prime minister", "president", "election", "cabinet", "rbi", "reserve bank", "budget", "earthquake", "cyclone", "flood", "isro", "missile", "national security"]
+}
