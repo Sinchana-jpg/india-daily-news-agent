@@ -21,3 +21,4 @@ Add `OPENAI_API_KEY` as a repository secret under **Settings → Secrets and var
 A static website can fetch `data/news.json` from `https://raw.githubusercontent.com/OWNER/REPO/main/data/news.json`. The agent stores headlines, short RSS excerpts, timestamps and links, not full articles. Follow publisher terms, link to original reporting, and check syndication/reuse rules before commercial use.
 
 Feed availability and descriptions can vary. The importance score is a heuristic, not an objective measure of truth or significance.
+hiaa
