@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-27T06:39:40.008835+00:00",
-  "generated_at_ist": "2026-10-27T12:09:40.008835+05:30",
+  "generated_at_utc": "2026-10-28T07:11:37.408154+00:00",
+  "generated_at_ist": "2026-10-28T12:41:37.408154+05:30",
   "title": "India Daily News Brief",
-  "summary": "35 stories collected from 4 sources; 23 highlighted as major.",
+  "summary": "35 stories collected from 4 sources; 25 highlighted as major.",
   "sources_checked": [
     "The Hindu",
     "NDTV",
@@ -14,19 +14,18 @@
   ],
   "total_stories": 35,
   "categories": {
-    "Politics & Governance": 15,
-    "Climate & Environment": 8,
-    "Health": 1,
-    "Security & Defence": 2,
-    "Business & Economy": 3,
+    "Politics & Governance": 17,
+    "Climate & Environment": 9,
     "Technology & Science": 1,
-    "India & General": 5
+    "Business & Economy": 3,
+    "India & General": 4,
+    "Security & Defence": 1
   },
   "stories": [
     {
-      "id": "bdc482cb3c8f9424",
-      "title": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
-      "url": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
+      "id": "2e9091fd365cda03",
+      "title": "Why a Congress X post targeting CJI sparked a row in Keralam and prompted a party apology | Explained",
+      "url": "https://www.thehindu.com/news/national/kerala/why-a-congress-x-post-targeting-cji-sparked-a-row-in-keralam-and-prompted-a-party-apology-explained/article71634616.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -34,20 +33,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece"
+          "url": "https://www.thehindu.com/news/national/kerala/why-a-congress-x-post-targeting-cji-sparked-a-row-in-keralam-and-prompted-a-party-apology-explained/article71634616.ece"
         }
       ],
-      "published_at_utc": "2026-10-27T03:56:39+00:00",
-      "published_at_ist": "2026-10-27T09:26:39+05:30",
-      "summary": "A common affidavit filed for the EC, CEC Kumar and Election Commissioners Sandhu and Joshi say that any attempt to restrain the CEC’s functioning is contrary to the 2023 Act; asserts that Form 6 was not amended; West Bengal CEO’s officers filed appeals against inclusions",
+      "published_at_utc": "2026-10-28T07:06:06+00:00",
+      "published_at_ist": "2026-10-28T12:36:06+05:30",
+      "summary": "Kerala Pradesh Congress Committee president has distanced the ruling party from now-deleted post that urged CJI Surya Kant to resign after the latter questioned meeting an INDIA bloc delegation, prompting a legal notice from Supreme Court Bar Association. The post sparked a dispute over authorship and approval, with the party pledging internal reforms to prevent a repeat",
       "category": "Politics & Governance",
       "importance_score": 5,
       "is_major": true
     },
     {
-      "id": "de3fc59297353745",
-      "title": "Supreme Court seeks Centre's reply on data law's threat to press freedom",
-      "url": "https://www.indiatoday.in/india/law-news/story/digital-personal-data-protection-act-challenge-supreme-court-seeks-centre-response-ptag-3025873-2026-10-27?utm_source=rss",
+      "id": "f5c20b6501cdb426",
+      "title": "Trees uprooted, roads flooded as Cyclone Arnab batters Andhra Pradesh, Odisha",
+      "url": "https://www.indiatoday.in/science/video/video-trees-uprooted-roads-flooded-as-cyclone-arnab-batters-andhra-pradesh-odisha-3026686-2026-10-28?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -55,41 +54,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/digital-personal-data-protection-act-challenge-supreme-court-seeks-centre-response-ptag-3025873-2026-10-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/science/video/video-trees-uprooted-roads-flooded-as-cyclone-arnab-batters-andhra-pradesh-odisha-3026686-2026-10-28?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-27T06:38:22+00:00",
-      "published_at_ist": "2026-10-27T12:08:22+05:30",
-      "summary": "Supreme Court seeks Centres reply on data laws threat to press freedom",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "c8977da23af04508",
-      "title": "Cyclone Arnab: Odisha announces evacuation 48,000 in eight districts",
-      "url": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-odisha-announces-evacuation-48000-in-eight-districts/article71630044.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-odisha-announces-evacuation-48000-in-eight-districts/article71630044.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-27T06:37:14+00:00",
-      "published_at_ist": "2026-10-27T12:07:14+05:30",
-      "summary": "Addressing a press conference, Rajesh Pravakar Patil, Special Relief Commissioner, said the very severe cyclonic storm “Arnab”, which was moving with a speed of 22 kmph during past 6 hours, would impact Odisha’s Malkangiri district when it would cross Andhra Pradesh and Yanam coasts",
+      "published_at_utc": "2026-10-28T06:57:40+00:00",
+      "published_at_ist": "2026-10-28T12:27:40+05:30",
+      "summary": "Trees uprooted roads flooded as Cyclone Arnab batters Andhra Pradesh Odisha",
       "category": "Climate & Environment",
-      "importance_score": 4,
+      "importance_score": 5,
       "is_major": true
     },
     {
-      "id": "f57dda6bbad917de",
-      "title": "Cyclone ‘Arnab’ LIVE updates | Landfall expected on Andhra coast near Yanam; Odisha, Bengal, Jharkhand brace for rain",
-      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+      "id": "f50189f1f0ffeecf",
+      "title": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
+      "url": "https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -97,41 +75,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece"
+          "url": "https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece"
         }
       ],
-      "published_at_utc": "2026-10-27T06:30:40+00:00",
-      "published_at_ist": "2026-10-27T12:00:40+05:30",
-      "summary": "Several southern Odisha districts started receiving rain as ‘Arnab’ hurtled towards the Andhra Pradesh coast on October 27 2026",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "c00e3de0681759dc",
-      "title": "CEC row LIVE: SC to hear pleas against CEC Gyanesh Kumar, decisions during SIR",
-      "url": "https://www.thehindu.com/news/national/cec-row-sir-live-updates-supreme-court-hearing-gyanesh-kumar-oct-27-2026/article71629879.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cec-row-sir-live-updates-supreme-court-hearing-gyanesh-kumar-oct-27-2026/article71629879.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-27T06:27:59+00:00",
-      "published_at_ist": "2026-10-27T11:57:59+05:30",
-      "summary": "The ECI, Chief Election Commissioner Gyanesh Kumar and the two Election Commissioners have filed a joint affidavit highlighting that any attempt to restrain the functioning of the CEC will be contrary to law",
+      "published_at_utc": "2026-10-28T06:27:23+00:00",
+      "published_at_ist": "2026-10-28T11:57:23+05:30",
+      "summary": "The medals were presented by His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence",
       "category": "Politics & Governance",
-      "importance_score": 4,
+      "importance_score": 5,
       "is_major": true
     },
     {
-      "id": "976179c7beadf8c7",
-      "title": "Satellites capture Cyclone Arnab churning in Bay of Bengal. What's ahead?",
-      "url": "https://www.indiatoday.in/science/story/cyclone-arnab-satellite-images-andhra-landfall-odisha-imd-3025857-2026-10-27?utm_source=rss",
+      "id": "40c601c3a25bb2ba",
+      "title": "Supreme Court rejects merger of 35 mule account cybercrime cases",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-merger-35-mule-account-cybercrime-cases-ptag-3026720-2026-10-28?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -139,45 +96,24 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/science/story/cyclone-arnab-satellite-images-andhra-landfall-odisha-imd-3025857-2026-10-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-merger-35-mule-account-cybercrime-cases-ptag-3026720-2026-10-28?utm_source=rss"
         },
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/science/story/cyclone-arnab-satellite-images-andhra-landfall-odisha-imd-3025857-2026-10-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-merger-35-mule-account-cybercrime-cases-ptag-3026720-2026-10-28?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-27T06:24:27+00:00",
-      "published_at_ist": "2026-10-27T11:54:27+05:30",
-      "summary": "Satellites capture Cyclone Arnab churning in Bay of Bengal Whats ahead",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "85780456bbbd01cd",
-      "title": "Congress seeks scrapping of SIR, demands CEC’s resignation; protest planned in New Delhi on November 1",
-      "url": "https://www.thehindu.com/news/national/karnataka/congress-seeks-scrapping-of-sir-demands-cecs-resignation-protest-planned-in-new-delhi-on-november-1/article71627267.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/karnataka/congress-seeks-scrapping-of-sir-demands-cecs-resignation-protest-planned-in-new-delhi-on-november-1/article71627267.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-27T05:54:47+00:00",
-      "published_at_ist": "2026-10-27T11:24:47+05:30",
-      "summary": "Questioning the autonomy and impartiality of the Election Commission of India (ECI), former Union Minister J.D. Seelam criticised the changes to the process of appointing election commissioners",
+      "published_at_utc": "2026-10-28T07:04:28+00:00",
+      "published_at_ist": "2026-10-28T12:34:28+05:30",
+      "summary": "Supreme Court rejects merger of mule account cybercrime cases",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "2199058530027316",
-      "title": "Cyclone Arnab: 10,176 households in 37 villages of Visakhapatnam district likely to be affected",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-10176-households-in-37-villages-of-visakhapatnam-district-likely-to-be-affected/article71629825.ece",
+      "id": "9f7c3ed16649d352",
+      "title": "When DMK flexed its muscle during Indira Gandhi’s visit to Tamil Nadu in 1977",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/when-dmk-flexed-its-muscle-during-indira-gandhis-visit-to-tamil-nadu-in-1977/article71632217.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -185,20 +121,62 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-10176-households-in-37-villages-of-visakhapatnam-district-likely-to-be-affected/article71629825.ece"
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/when-dmk-flexed-its-muscle-during-indira-gandhis-visit-to-tamil-nadu-in-1977/article71632217.ece"
         }
       ],
-      "published_at_utc": "2026-10-27T05:45:47+00:00",
-      "published_at_ist": "2026-10-27T11:15:47+05:30",
-      "summary": "Administration readies 54 relief camps for 31,405 people; Special Officers appointed for all 11 mandals",
+      "published_at_utc": "2026-10-28T07:04:03+00:00",
+      "published_at_ist": "2026-10-28T12:34:03+05:30",
+      "summary": "On October 29, 1977, when Indira Gandhi visited Madurai, the DMK members, who were staging blackflag protests, threw stones, sticks at the former Prime Minister; in Chennai, two persons were killed when the police opened fire at the protesters who turned violent on Mount Road",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "4207c5b267392fc7",
+      "title": "Cyclone Arnab brings noticeable chill to Telangana, drops temperatures by up to 2.5°C",
+      "url": "https://www.thehindu.com/news/national/telangana/cyclone-arnab-brings-noticeable-chill-to-telangana-drops-temperatures-by-up-to-25c/article71632522.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/telangana/cyclone-arnab-brings-noticeable-chill-to-telangana-drops-temperatures-by-up-to-25c/article71632522.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-28T07:00:55+00:00",
+      "published_at_ist": "2026-10-28T12:30:55+05:30",
+      "summary": "",
       "category": "Climate & Environment",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "9e72103292797d5b",
-      "title": "Vijay Inspects Chennai Reservoir, Warns Against Repeat Of 2015 Floods",
-      "url": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-chief-minister-vijay-inspects-chembarambakkam-reservoir-in-chennai-warns-against-repeat-of-2015-floods-12240709#publisher=newsstand",
+      "id": "8351d616c7137dba",
+      "title": "Cyclone Arnab: Clear fallen trees within two hours, restore power once winds ease, Naidu tells officials",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-clear-fallen-trees-within-two-hours-restore-power-once-winds-ease-naidu-tells-officials/article71634450.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-clear-fallen-trees-within-two-hours-restore-power-once-winds-ease-naidu-tells-officials/article71634450.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-28T06:55:19+00:00",
+      "published_at_ist": "2026-10-28T12:25:19+05:30",
+      "summary": "The Chief Minister holds a teleconference with about 32,000 officials and field staff on Wednesday morning",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "2b2f95ba23634665",
+      "title": "Cheesesteak, Pepsi: Florida Man's Unusual Quid Pro Quo For Murder Confession",
+      "url": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -206,20 +184,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-chief-minister-vijay-inspects-chembarambakkam-reservoir-in-chennai-warns-against-repeat-of-2015-floods-12240709#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T05:13:41+00:00",
-      "published_at_ist": "2026-10-27T10:43:41+05:30",
-      "summary": "The inspection comes against the backdrop of the devastating floods of December 2015",
-      "category": "Climate & Environment",
+      "published_at_utc": "2026-10-28T06:52:54+00:00",
+      "published_at_ist": "2026-10-28T12:22:54+05:30",
+      "summary": "Kessler said the deal was off and asked the judge to proceed with jury selection.",
+      "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "201255e34e3e723d",
-      "title": "Supreme Court Collegium proposes four judges for HC Chief Justiceships",
-      "url": "https://www.thehindu.com/news/national/supreme-court-collegium-proposes-four-judges-for-hc-chief-justiceships/article71629756.ece",
+      "id": "951580e3331b2a25",
+      "title": "Very severe cyclone Arnab crosses Andhra coast, weakens into severe cyclonic storm: IMD | LIVE",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -227,20 +205,57 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-collegium-proposes-four-judges-for-hc-chief-justiceships/article71629756.ece"
+          "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
         }
       ],
-      "published_at_utc": "2026-10-27T04:45:35+00:00",
-      "published_at_ist": "2026-10-27T10:15:35+05:30",
-      "summary": "Justice Manash Ranjan Pathak, Justice P. Sam Koshy, Justice Tapabrata Chakraborty and Justice Sudhir Singh are the four Judges",
+      "published_at_utc": "2026-10-28T06:44:32+00:00",
+      "published_at_ist": "2026-10-28T12:14:32+05:30",
+      "summary": "The landfall process is complete with the weather system moving entirely over land; CM Naidu says no loss of life reported in Andhra",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "f1c92a02ef6a6fa2",
+      "title": "It's done, bro: BJP jabs DK Shivakumar after sweeping Karnataka MLC elections",
+      "url": "https://www.indiatoday.in/elections/story/karnataka-mlc-election-results-bjp-jds-sweep-four-seats-congress-draws-blank-3026699-2026-10-28?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/elections/story/karnataka-mlc-election-results-bjp-jds-sweep-four-seats-congress-draws-blank-3026699-2026-10-28?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/elections/story/karnataka-mlc-election-results-bjp-jds-sweep-four-seats-congress-draws-blank-3026699-2026-10-28?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/elections/story/karnataka-mlc-election-results-bjp-jds-sweep-four-seats-congress-draws-blank-3026699-2026-10-28?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/elections/story/karnataka-mlc-election-results-bjp-jds-sweep-four-seats-congress-draws-blank-3026699-2026-10-28?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/elections/story/karnataka-mlc-election-results-bjp-jds-sweep-four-seats-congress-draws-blank-3026699-2026-10-28?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-28T06:37:52+00:00",
+      "published_at_ist": "2026-10-28T12:07:52+05:30",
+      "summary": "Its done bro BJP jabs DK Shivakumar after sweeping Karnataka MLC elections",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "a8460e586e4890d8",
-      "title": "Media association challenges privacy law in Supreme Court",
-      "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece",
+      "id": "87e7bdbf8951e943",
+      "title": "Cyclone Arnab threat: Naidu orders evacuations, puts Andhra Pradesh on high alert",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -248,62 +263,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece"
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece"
         }
       ],
-      "published_at_utc": "2026-10-27T04:20:23+00:00",
-      "published_at_ist": "2026-10-27T09:50:23+05:30",
-      "summary": "A three-judge Bench headed by Chief Justice of India Surya Kant is scheduled to hear a batch of petitions filed by activists on October 27",
+      "published_at_utc": "2026-10-28T06:21:17+00:00",
+      "published_at_ist": "2026-10-28T11:51:17+05:30",
+      "summary": "With heavy to extremely heavy rain forecast in 13 districts on October 28 and 29, the government steps up disaster preparedness, shifts 4,711 pregnant women to health facilities and deploys 15 NDRF and SDRF teams; R&B department readies emergency teams to ensure road safety and swift restoration of traffic",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "9f55a845454b3968",
-      "title": "Israel election explained: Netanyahu's fight to survive and what comes next",
-      "url": "https://www.indiatoday.in/world/story/israel-parliamentary-election-netanyahu-eisenkot-coalition-october-27-vote-3025371-2026-10-27?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/israel-parliamentary-election-netanyahu-eisenkot-coalition-october-27-vote-3025371-2026-10-27?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-27T03:30:00+00:00",
-      "published_at_ist": "2026-10-27T09:00:00+05:30",
-      "summary": "Israel election explained Netanyahus fight to survive and what comes next",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "b2cb18e1757f0e1d",
-      "title": "Cyclone Arnab: Schools closed in Odisha, Andhra Pradesh on alert ahead of heavy rain",
-      "url": "https://www.indiatoday.in/education-today/news/story/cyclone-arnab-school-closures-announced-odisha-andhra-pradesh-landfall-alert-district-wise-3025735-2026-10-27?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/education-today/news/story/cyclone-arnab-school-closures-announced-odisha-andhra-pradesh-landfall-alert-district-wise-3025735-2026-10-27?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-27T03:01:45+00:00",
-      "published_at_ist": "2026-10-27T08:31:45+05:30",
-      "summary": "Cyclone Arnab Schools closed in Odisha Andhra Pradesh on alert ahead of heavy rain",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "391d8e3f9b64fa27",
-      "title": "Cyclone ‘Arnab’ hurtling towards Andhra Pradesh coast",
-      "url": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-hurtling-towards-andhra-pradesh-coast/article71629610.ece",
+      "id": "f8079c1313b2a9b5",
+      "title": "Cyclone Arnab: 609 Andhra schools turn into relief shelters",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-609-andhra-schools-turn-into-relief-shelters/article71634201.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -311,20 +284,41 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-hurtling-towards-andhra-pradesh-coast/article71629610.ece"
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-609-andhra-schools-turn-into-relief-shelters/article71634201.ece"
         }
       ],
-      "published_at_utc": "2026-10-27T03:01:32+00:00",
-      "published_at_ist": "2026-10-27T08:31:32+05:30",
-      "summary": "Several southern Odisha districts started receiving rain as ‘Arnab’ hurtled towards the Andhra Pradesh coast on October 27 2026",
+      "published_at_utc": "2026-10-28T06:21:16+00:00",
+      "published_at_ist": "2026-10-28T11:51:16+05:30",
+      "summary": "Schools in 16 coastal districts are closed, and 17,054 NCC, NSS and Scouts volunteers have been mobilised",
       "category": "Climate & Environment",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "b38e1a446f6113d2",
-      "title": "Red alert in Odisha, Andhra as very severe Cyclone Arnab nears, rescue teams readied",
-      "url": "https://www.indiatoday.in/india/story/cyclone-arnab-very-severe-storm-bay-of-bengal-andhra-pradesh-odisha-evacuations-train-cancellations-bengal-rainfall-landfall-on-october-28-3025715-2026-10-27?utm_source=rss",
+      "id": "4b2a407d2200648a",
+      "title": "Schools shut, relief measures intensified in three North Andhra districts as cyclone nears",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/schools-shut-relief-measures-intensified-in-three-north-andhra-districts-as-cyclone-nears/article71628075.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/schools-shut-relief-measures-intensified-in-three-north-andhra-districts-as-cyclone-nears/article71628075.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-28T06:20:40+00:00",
+      "published_at_ist": "2026-10-28T11:50:40+05:30",
+      "summary": "",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "8c8034fe48ac2d70",
+      "title": "Sheikh Hasina approaches UN over ban on Awami League from Bangladesh elections",
+      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-un-action-awami-league-ban-bangladesh-elections-3026654-2026-10-28?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -332,20 +326,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/story/cyclone-arnab-very-severe-storm-bay-of-bengal-andhra-pradesh-odisha-evacuations-train-cancellations-bengal-rainfall-landfall-on-october-28-3025715-2026-10-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/world/story/sheikh-hasina-un-action-awami-league-ban-bangladesh-elections-3026654-2026-10-28?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-27T02:37:42+00:00",
-      "published_at_ist": "2026-10-27T08:07:42+05:30",
-      "summary": "Red alert in Odisha Andhra as very severe Cyclone Arnab nears rescue teams readied",
-      "category": "Climate & Environment",
+      "published_at_utc": "2026-10-28T06:18:24+00:00",
+      "published_at_ist": "2026-10-28T11:48:24+05:30",
+      "summary": "Sheikh Hasina approaches UN over ban on Awami League from Bangladesh elections",
+      "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "95b190eeb4e2d662",
-      "title": "This 'Arab' Factor Holds Critical Balance Of Power In Israel Elections",
-      "url": "https://www.ndtv.com/world-news/this-arab-factor-holds-critical-balance-of-power-in-israel-elections-12240465#publisher=newsstand",
+      "id": "270d66456d666d9a",
+      "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 56 Seats After Half Of Votes Counted",
+      "url": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -353,179 +347,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/this-arab-factor-holds-critical-balance-of-power-in-israel-elections-12240465#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T02:29:54+00:00",
-      "published_at_ist": "2026-10-27T07:59:54+05:30",
-      "summary": "There is already a precedent for an Arab party helping to determine who governs Israel.",
+      "published_at_utc": "2026-10-28T06:13:40+00:00",
+      "published_at_ist": "2026-10-28T11:43:40+05:30",
+      "summary": "Israel Election Results Live: It is the first election since the October 7 attack.",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "864804f6a5513794",
-      "title": "A.P., Odisha on alert as cyclone ‘Arnab’ nears land | Highlights",
-      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
-        },
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/ap-odisha-on-alert-as-cyclone-arnab-nears-land/article71627868.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-27T02:09:08+00:00",
-      "published_at_ist": "2026-10-27T07:39:08+05:30",
-      "summary": "IMD issues red alerts for seven of the 28 districts in Andhra Pradesh for Tuesday; 4,711 pregnant women will be shifted to safer healthcare facilities, say officials; Odisha readies 1,700 shelters in five southern districts",
-      "category": "Health",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "2ad1a2915fac080e",
-      "title": "SC pulls up Rajasthan over Jojari river pollution, warns of CBI probe",
-      "url": "https://www.thehindu.com/news/national/supreme-court-pulls-up-rajasthan-over-jojari-river-pollution-warns-of-cbi-probe/article71627878.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-pulls-up-rajasthan-over-jojari-river-pollution-warns-of-cbi-probe/article71627878.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-26T23:27:44+00:00",
-      "published_at_ist": "2026-10-27T04:57:44+05:30",
-      "summary": "Supreme Court had earlier directed the State government to “seal and dismantle” all illegal and unauthorised discharge points into the river, including bypass arrangements, manholes, chambers, pipelines and conduit",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "64fb27b55ede23aa",
-      "title": "Trump offers $1 million for voter fraud reports, claims Brazil election looked rigged",
-      "url": "https://www.indiatoday.in/world/story/brazil-election-trump-questions-lula-victory-flavio-bolsonaro-annulment-3025696-2026-10-27?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/brazil-election-trump-questions-lula-victory-flavio-bolsonaro-annulment-3025696-2026-10-27?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-26T21:47:56+00:00",
-      "published_at_ist": "2026-10-27T03:17:56+05:30",
-      "summary": "Trump offers million for voter fraud reports claims Brazil election looked rigged",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "787ddac667d1eaf5",
-      "title": "Bihar MLC polls: RJD MP Sanjay Yadav writes to ECI to ensure transparent counting",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-rjd-mp-sanjay-yadav-writes-to-eci-to-ensure-transparent-counting/article71626827.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-rjd-mp-sanjay-yadav-writes-to-eci-to-ensure-transparent-counting/article71626827.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-26T21:33:56+00:00",
-      "published_at_ist": "2026-10-27T03:03:56+05:30",
-      "summary": "In the letter, Sanjay Yadav said that pens of the same type as the violet pens used for marking preferences on ballot papers during polling must not be available to any counting officer or election agent at the counting centre",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "7554ce71708ea884",
-      "title": "Lula's Brazil win, Israel elections and US midterms: What global votes mean for India",
-      "url": "https://www.indiatoday.in/programme/newstrack/video/lulas-brazil-win-israel-elections-and-us-midterms-what-global-votes-mean-for-india-3025684-2026-10-26?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/newstrack/video/lulas-brazil-win-israel-elections-and-us-midterms-what-global-votes-mean-for-india-3025684-2026-10-26?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/newstrack/video/lulas-brazil-win-israel-elections-and-us-midterms-what-global-votes-mean-for-india-3025684-2026-10-26?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-26T18:19:52+00:00",
-      "published_at_ist": "2026-10-26T23:49:52+05:30",
-      "summary": "Lulas Brazil win Israel elections and US midterms What global votes mean for India",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "778562dadbc1871c",
-      "title": "EC Supreme Court affidavit, INDIA bloc rallies over SIR and BJP countermarch",
-      "url": "https://www.indiatoday.in/programme/news-today/video/ec-supreme-court-affidavit-india-bloc-rallies-over-sir-and-bjp-countermarch-3025688-2026-10-26?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/news-today/video/ec-supreme-court-affidavit-india-bloc-rallies-over-sir-and-bjp-countermarch-3025688-2026-10-26?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/news-today/video/ec-supreme-court-affidavit-india-bloc-rallies-over-sir-and-bjp-countermarch-3025688-2026-10-26?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-26T18:19:13+00:00",
-      "published_at_ist": "2026-10-26T23:49:13+05:30",
-      "summary": "EC Supreme Court affidavit INDIA bloc rallies over SIR and BJP countermarch",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "17416ddab71602bd",
-      "title": "Why isn't Election Commission holding a press conference?",
-      "url": "https://www.indiatoday.in/newsmo/short-videos/why-isnt-election-commission-holding-a-press-conference-3025461-2026-10-26?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/newsmo/short-videos/why-isnt-election-commission-holding-a-press-conference-3025461-2026-10-26?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-26T13:10:19+00:00",
-      "published_at_ist": "2026-10-26T18:40:19+05:30",
-      "summary": "Why isnt Election Commission holding a press conference",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "3e7594e1cd41ae97",
-      "title": "Saudi Coalition Destroys 3 Houthi Missiles, 4 Drones Fired Towards Kingdom",
-      "url": "https://www.ndtv.com/world-news/saudi-coalition-destroys-3-houthi-missiles-4-drones-fired-towards-kingdom-12240712#publisher=newsstand",
+      "id": "18691e6e7e22f7fd",
+      "title": "Kerala Congress Apologises To Chief Justice Surya Kant Over Controversial Post",
+      "url": "https://www.ndtv.com/kerala-news/kerala-congress-apologises-to-chief-justice-surya-kant-over-controversial-post-12246217#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -533,45 +368,259 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/saudi-coalition-destroys-3-houthi-missiles-4-drones-fired-towards-kingdom-12240712#publisher=newsstand"
+          "url": "https://www.ndtv.com/kerala-news/kerala-congress-apologises-to-chief-justice-surya-kant-over-controversial-post-12246217#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T03:44:12+00:00",
-      "published_at_ist": "2026-10-27T09:14:12+05:30",
-      "summary": "Saudi Civil Defence issued early warning alerts for a potential hostile threat in the Eastern Region.",
-      "category": "Security & Defence",
+      "published_at_utc": "2026-10-28T06:04:30+00:00",
+      "published_at_ist": "2026-10-28T11:34:30+05:30",
+      "summary": "The apology came in a reply to a legal notice issued by a Supreme Court lawyer.",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "f0917e947319e02d",
+      "title": "Satellite spots Cyclone Arnab covering half of India as it makes landfall",
+      "url": "https://www.indiatoday.in/science/story/satellite-spots-cyclone-arnab-covering-half-of-india-as-it-makes-landfall-3026647-2026-10-28?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/science/story/satellite-spots-cyclone-arnab-covering-half-of-india-as-it-makes-landfall-3026647-2026-10-28?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-28T05:09:52+00:00",
+      "published_at_ist": "2026-10-28T10:39:52+05:30",
+      "summary": "Satellite spots Cyclone Arnab covering half of India as it makes landfall",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "6cd8eae9d45a6e99",
+      "title": "Cyclone Arnab Completes Landfall, Brings Heavy Rain In Andhra, Odisha",
+      "url": "https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-28T05:07:52+00:00",
+      "published_at_ist": "2026-10-28T10:37:52+05:30",
+      "summary": "High tidal waves hit the coast in Visakhapatnam ahead of Cyclone Arnab's landfall",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "efd638ed54819caa",
+      "title": "Supreme Court needs transparent roster system, says former SC judge Oka",
+      "url": "https://www.thehindu.com/news/national/supreme-court-needs-transparent-roster-system-says-former-judge-oka/article71629926.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/supreme-court-needs-transparent-roster-system-says-former-judge-oka/article71629926.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-28T04:51:54+00:00",
+      "published_at_ist": "2026-10-28T10:21:54+05:30",
+      "summary": "Former Supreme Court Judge Abhay Oka was speaking at a discussion on judicial accountability organised by the Campaign for Judicial Accountability and Reforms at the India International Centre in New Delhi",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "2610853692df8514",
+      "title": "Supreme Court seeks government response on pleas challenging Vande Mataram as a ‘divisive religious war song’",
+      "url": "https://www.thehindu.com/news/national/supreme-court-seeks-government-response-on-pleas-challenging-vande-mataram-as-a-divisive-religious-war-song/article71630270.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/supreme-court-seeks-government-response-on-pleas-challenging-vande-mataram-as-a-divisive-religious-war-song/article71630270.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-28T04:47:09+00:00",
+      "published_at_ist": "2026-10-28T10:17:09+05:30",
+      "summary": "The petitions argued that government orders had imposed a “sectarian prayer to particular goddesses of one particular religion as the National Song” which violated fundamental rights of religion and attracted the criminal law",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "d11b3d0970b4c8bd",
+      "title": "Rain Likely In Delhi-NCR Till November 1 Due To Cyclone Arnab, Air Quality Low",
+      "url": "https://www.ndtv.com/delhi-news/rain-likely-in-delhi-ncr-till-november-1-due-to-cyclone-arnab-air-quality-low-12246225#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/delhi-news/rain-likely-in-delhi-ncr-till-november-1-due-to-cyclone-arnab-air-quality-low-12246225#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-28T04:40:39+00:00",
+      "published_at_ist": "2026-10-28T10:10:39+05:30",
+      "summary": "The unseasonal rainfall is expected to bring a significant drop in daytime temperatures.",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "3450f46215737897",
+      "title": "Science is successful only when it benefits society: PM Modi",
+      "url": "https://www.thehindu.com/news/national/science-is-successful-only-when-it-benefits-society-pm-modi/article71632091.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/science-is-successful-only-when-it-benefits-society-pm-modi/article71632091.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-28T01:39:15+00:00",
+      "published_at_ist": "2026-10-28T07:09:15+05:30",
+      "summary": "Prime Minister urges researchers to take innovations from laboratory to land and ensure measurable outcomes",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "e708ff535d11128d",
+      "title": "First Israel elections after Oct 7 attacks. PM Netanyahu seeks repolling extension",
+      "url": "https://www.indiatoday.in/programme/newstrack/video/israel-votes-post-oct-7-record-voter-turnout-netanyahu-seeks-polling-extension-frvd-3026490-2026-10-27?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/programme/newstrack/video/israel-votes-post-oct-7-record-voter-turnout-netanyahu-seeks-polling-extension-frvd-3026490-2026-10-27?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/programme/newstrack/video/israel-votes-post-oct-7-record-voter-turnout-netanyahu-seeks-polling-extension-frvd-3026490-2026-10-27?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-27T17:55:05+00:00",
+      "published_at_ist": "2026-10-27T23:25:05+05:30",
+      "summary": "First Israel elections after Oct attacks PM Netanyahu seeks repolling extension",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "4f3ba2b70b8c9373",
+      "title": "EC says SIR decisions unanimous. Will poll panel's defence convince Supreme Court?",
+      "url": "https://www.indiatoday.in/programme/news-today/video/justice-kaul-on-collegium-17-flee-theni-jail-ujjain-mahakal-scam-frvd-3026461-2026-10-27?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/programme/news-today/video/justice-kaul-on-collegium-17-flee-theni-jail-ujjain-mahakal-scam-frvd-3026461-2026-10-27?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/programme/news-today/video/justice-kaul-on-collegium-17-flee-theni-jail-ujjain-mahakal-scam-frvd-3026461-2026-10-27?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-27T17:32:45+00:00",
+      "published_at_ist": "2026-10-27T23:02:45+05:30",
+      "summary": "EC says SIR decisions unanimous Will poll panels defence convince Supreme Court",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "e416fef34d6fd5b7",
+      "title": "Live: Cyclone Arnab weakens into severe category after landfall in Andhra Pradesh",
+      "url": "https://www.indiatoday.in/india/story/cyclone-arnab-live-updates-bay-of-bengal-imd-alert-odisha-andhra-pradesh-rain-tracker-weather-forecast-3025706-2026-10-27?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/story/cyclone-arnab-live-updates-bay-of-bengal-imd-alert-odisha-andhra-pradesh-rain-tracker-weather-forecast-3025706-2026-10-27?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-27T01:43:43+00:00",
+      "published_at_ist": "2026-10-27T07:13:43+05:30",
+      "summary": "Live Cyclone Arnab weakens into severe category after landfall in Andhra Pradesh",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "79dc1a678d74b101",
+      "title": "Isro's big gamble: How it has changed its approach for NVS-03 success",
+      "url": "https://www.indiatoday.in/science/story/isro-changes-its-playbook-for-nvs-03-mission-the-crucial-fix-after-nvs-02-failure-gslv-f18-3026659-2026-10-28?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/science/story/isro-changes-its-playbook-for-nvs-03-mission-the-crucial-fix-after-nvs-02-failure-gslv-f18-3026659-2026-10-28?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-28T05:45:37+00:00",
+      "published_at_ist": "2026-10-28T11:15:37+05:30",
+      "summary": "Isros big gamble How it has changed its approach for NVS success",
+      "category": "Technology & Science",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "62b2db000c8866b0",
-      "title": "Pakistan's India trade puzzle: Imports see massive 69% jump despite ban",
-      "url": "https://www.indiatoday.in/business/story/pakistan-imports-india-goods-jump-trade-ban-mystery-operation-sindoor-3025866-2026-10-27?utm_source=rss",
-      "source": "India Today",
+      "id": "460f1d803b90fb6a",
+      "title": "India's Bank Cash Surplus Shrinks as RBI Curbs Rupee Bets",
+      "url": "https://www.ndtv.com/india-news/indias-bank-cash-surplus-shrinks-as-rbi-curbs-rupee-bets-12246490#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "India Today"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/business/story/pakistan-imports-india-goods-jump-trade-ban-mystery-operation-sindoor-3025866-2026-10-27?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/business/story/pakistan-imports-india-goods-jump-trade-ban-mystery-operation-sindoor-3025866-2026-10-27?utm_source=rss"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/indias-bank-cash-surplus-shrinks-as-rbi-curbs-rupee-bets-12246490#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T06:37:57+00:00",
-      "published_at_ist": "2026-10-27T12:07:57+05:30",
-      "summary": "Pakistans India trade puzzle Imports see massive jump despite ban",
+      "published_at_utc": "2026-10-28T04:36:45+00:00",
+      "published_at_ist": "2026-10-28T10:06:45+05:30",
+      "summary": "The cash crunch is also spreading through domestic funding markets.",
       "category": "Business & Economy",
-      "importance_score": 1,
+      "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "97095f55a63f97c4",
-      "title": "Living near green spaces linked to 21% lower dementia risk",
-      "url": "https://www.indiatoday.in/health/story/greenery-within-100-metres-of-home-linked-to-lower-dementia-risk-in-older-adults-3025837-2026-10-27?utm_source=rss",
+      "id": "aef3cbe615a41f73",
+      "title": "Why are so many Indians suddenly talking about Serbia?",
+      "url": "https://www.indiatoday.in/newsmo/short-videos/why-are-so-many-indians-suddenly-talking-about-serbia-3026483-2026-10-27?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -579,20 +628,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/health/story/greenery-within-100-metres-of-home-linked-to-lower-dementia-risk-in-older-adults-3025837-2026-10-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/newsmo/short-videos/why-are-so-many-indians-suddenly-talking-about-serbia-3026483-2026-10-27?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-27T06:37:01+00:00",
-      "published_at_ist": "2026-10-27T12:07:01+05:30",
-      "summary": "Living near green spaces linked to lower dementia risk",
-      "category": "Technology & Science",
-      "importance_score": 1,
+      "published_at_utc": "2026-10-27T17:34:39+00:00",
+      "published_at_ist": "2026-10-27T23:04:39+05:30",
+      "summary": "Why are so many Indians suddenly talking about Serbia",
+      "category": "Business & Economy",
+      "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "94e225cbb2ffe7d6",
-      "title": "Kerala HC allows baby with skeletal dysplasia to be handed to welfare panel",
-      "url": "https://www.indiatoday.in/india/law-news/story/kerala-high-court-allows-skeletal-dysplasia-baby-handover-child-welfare-committee-ptag-3025871-2026-10-27?utm_source=rss",
+      "id": "0d7f1035960d93ef",
+      "title": "Opposition plans mock Parliament to target Gyanesh Kumar; SC admits plea on SIR",
+      "url": "https://www.indiatoday.in/programme/to-the-point/video/opposition-mock-parliament-target-chief-election-commissioner-gyanesh-kumar-supreme-court-plea-special-intensive-revision-3026430-2026-10-27?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -600,87 +649,45 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/kerala-high-court-allows-skeletal-dysplasia-baby-handover-child-welfare-committee-ptag-3025871-2026-10-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/programme/to-the-point/video/opposition-mock-parliament-target-chief-election-commissioner-gyanesh-kumar-supreme-court-plea-special-intensive-revision-3026430-2026-10-27?utm_source=rss"
         },
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/kerala-high-court-allows-skeletal-dysplasia-baby-handover-child-welfare-committee-ptag-3025871-2026-10-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/programme/to-the-point/video/opposition-mock-parliament-target-chief-election-commissioner-gyanesh-kumar-supreme-court-plea-special-intensive-revision-3026430-2026-10-27?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-27T06:36:27+00:00",
-      "published_at_ist": "2026-10-27T12:06:27+05:30",
-      "summary": "Kerala HC allows baby with skeletal dysplasia to be handed to welfare panel",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "2450a45c9c91bd56",
-      "title": "'Large Crack On Screen, Crunching Sound': Customers' iPhone Duo Feedback",
-      "url": "https://www.ndtv.com/world-news/customers-iphone-duo-feedback-complaint-large-crack-on-screen-crunching-sound-12241100#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/customers-iphone-duo-feedback-complaint-large-crack-on-screen-crunching-sound-12241100#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-10-27T05:26:57+00:00",
-      "published_at_ist": "2026-10-27T10:56:57+05:30",
-      "summary": "Apple acknowledged the issue in a statement.",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "d00ef9ae4047d42c",
-      "title": "US Midterms In Numbers: 470 Seats, $12 Billion Ads, Trump's Approval Ratings",
-      "url": "https://www.ndtv.com/world-news/us-midterms-in-numbers-470-seats-12-billion-on-ads-31-trump-approval-ratings-12240990#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/us-midterms-in-numbers-470-seats-12-billion-on-ads-31-trump-approval-ratings-12240990#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-10-27T05:01:30+00:00",
-      "published_at_ist": "2026-10-27T10:31:30+05:30",
-      "summary": "The net number of seats Democrats need to gain to take control is 3.",
+      "published_at_utc": "2026-10-27T17:00:12+00:00",
+      "published_at_ist": "2026-10-27T22:30:12+05:30",
+      "summary": "Opposition plans mock Parliament to target Gyanesh Kumar SC admits plea on SIR",
       "category": "Politics & Governance",
-      "importance_score": 1,
+      "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "c070de111daa1f87",
-      "title": "At 15 Degrees, Delhi Records October's Lowest Minimum Temperature In 3 Years",
-      "url": "https://www.ndtv.com/delhi-news/at-15-degrees-delhi-records-octobers-lowest-minimum-temperature-in-3-years-12240857#publisher=newsstand",
-      "source": "NDTV",
+      "id": "08c1ce276f749f69",
+      "title": "iPhone 16 now available at the lowest price in India",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-now-available-at-the-lowest-price-in-india-287048-27-10-2026?utm_source=rss",
+      "source": "India Today",
       "sources": [
-        "NDTV"
+        "India Today"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/delhi-news/at-15-degrees-delhi-records-octobers-lowest-minimum-temperature-in-3-years-12240857#publisher=newsstand"
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-now-available-at-the-lowest-price-in-india-287048-27-10-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-27T04:53:18+00:00",
-      "published_at_ist": "2026-10-27T10:23:18+05:30",
-      "summary": "Delhi's Air Quality Index (AQI) stood at 168 in the moderate category.",
+      "published_at_utc": "2026-10-28T07:10:05+00:00",
+      "published_at_ist": "2026-10-28T12:40:05+05:30",
+      "summary": "iPhone now available at the lowest price in India",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "70264769e9befde6",
-      "title": "How A BMW, Audi Race On UK Street Led To 28-Year Jail Term For 2 Indian-Origin Men",
-      "url": "https://www.ndtv.com/world-news/2-indian-origin-men-get-28-years-in-jail-after-deadly-car-race-on-uk-street-jasskamal-riyat-hardeep-bhachu-12240846#publisher=newsstand",
+      "id": "1bb4c238589e7f82",
+      "title": "Trump Approves Flavio Bolsonaro's US Entry After He Flees Brazil",
+      "url": "https://www.ndtv.com/world-news/donald-trump-approves-flavio-bolsonaros-us-entry-after-he-flees-brazil-losing-election-12247039#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -688,20 +695,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/2-indian-origin-men-get-28-years-in-jail-after-deadly-car-race-on-uk-street-jasskamal-riyat-hardeep-bhachu-12240846#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/donald-trump-approves-flavio-bolsonaros-us-entry-after-he-flees-brazil-losing-election-12247039#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T04:43:34+00:00",
-      "published_at_ist": "2026-10-27T10:13:34+05:30",
-      "summary": "Both Bhachu and Riyat were also given six-year driving bans",
+      "published_at_utc": "2026-10-28T06:51:29+00:00",
+      "published_at_ist": "2026-10-28T12:21:29+05:30",
+      "summary": "Trump made the remarks while talking to reporters on his return from a Texas campaign trip.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "9f566b22b1bc8f15",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat, Asian Shares Trade Higher",
-      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-27-october-us-iran-war-oil-price-12240593#publisher=newsstand",
+      "id": "bf0c2dfd0c55670d",
+      "title": "In China, The AI Bubble Has Already Burst",
+      "url": "https://www.ndtv.com/artificial-intelligence/in-china-the-ai-bubble-has-already-burst-12241386#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -709,20 +716,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-27-october-us-iran-war-oil-price-12240593#publisher=newsstand"
+          "url": "https://www.ndtv.com/artificial-intelligence/in-china-the-ai-bubble-has-already-burst-12241386#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T04:11:52+00:00",
-      "published_at_ist": "2026-10-27T09:41:52+05:30",
-      "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
+      "published_at_utc": "2026-10-28T06:39:31+00:00",
+      "published_at_ist": "2026-10-28T12:09:31+05:30",
+      "summary": "While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports. The meltdown, tanking",
       "category": "Business & Economy",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "7a8cb6f3bff6c6ae",
-      "title": "India's Market Leaders To Decode The New Samvat At NDTV Profit Ignite In Mumbai On 28 October",
-      "url": "https://www.ndtv.com/communication/indias-market-leaders-to-decode-the-new-samvat-at-ndtv-profit-ignite-in-mumbai-on-28-october-12240802#publisher=newsstand",
+      "id": "80caeb740c983921",
+      "title": "How Victory Of Netanyahu's Rival Eisenkot Could Change Course Of Iran War",
+      "url": "https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -730,20 +737,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/communication/indias-market-leaders-to-decode-the-new-samvat-at-ndtv-profit-ignite-in-mumbai-on-28-october-12240802#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T04:04:03+00:00",
-      "published_at_ist": "2026-10-27T09:34:03+05:30",
-      "summary": "NDTV Profit will host NDTV Profit Ignite.",
-      "category": "Business & Economy",
+      "published_at_utc": "2026-10-28T06:37:59+00:00",
+      "published_at_ist": "2026-10-28T12:07:59+05:30",
+      "summary": "Israeli voters delivered a rebuke to Netanyahu's far-right and religious governing coalition",
+      "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "2a0a13e44f4f541b",
-      "title": "India Calls for Equal Veto Rights in UN Security Council Reform",
-      "url": "https://www.ndtv.com/world-news/india-asserts-veto-must-be-held-by-all-permanent-un-security-council-members-12240673#publisher=newsstand",
+      "id": "5b15c431f60313ac",
+      "title": "Tamil Nadu Launches Security Audit Of Jails After 2 Escape Incidents",
+      "url": "https://www.ndtv.com/india-news/thekkampatti-jail-tamil-nadu-launches-security-audit-of-jails-after-2-escape-incidents-12246887#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -751,20 +758,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/india-asserts-veto-must-be-held-by-all-permanent-un-security-council-members-12240673#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/thekkampatti-jail-tamil-nadu-launches-security-audit-of-jails-after-2-escape-incidents-12246887#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T03:58:02+00:00",
-      "published_at_ist": "2026-10-27T09:28:02+05:30",
-      "summary": "India is also seeking a non-permanent seat for the 2028-29 term.",
+      "published_at_utc": "2026-10-28T06:17:00+00:00",
+      "published_at_ist": "2026-10-28T11:47:00+05:30",
+      "summary": "17 undertrial prisoners escaped from the jail in Theni district on Monday",
       "category": "Security & Defence",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "21cbfef4c3289189",
-      "title": "Noel Tata Contests N Chandrasekaran's Reappointment, Flags TVS Motor Dealings",
-      "url": "https://www.ndtv.com/business-news/tata-sons-dispute-noel-tata-contests-n-chandrasekaran-reappointment-tvs-motor-link-12240558#publisher=newsstand",
+      "id": "3195e1866aaaa49a",
+      "title": "US Cruise Ship 'Odyssey' On World Voyage Stops After Fuel Prices Surge",
+      "url": "https://www.ndtv.com/world-news/us-cruise-ship-odyssey-on-world-voyage-stops-after-fuel-prices-surge-villa-vie-residents-12246813#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -772,12 +779,12 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/business-news/tata-sons-dispute-noel-tata-contests-n-chandrasekaran-reappointment-tvs-motor-link-12240558#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/us-cruise-ship-odyssey-on-world-voyage-stops-after-fuel-prices-surge-villa-vie-residents-12246813#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-27T03:16:35+00:00",
-      "published_at_ist": "2026-10-27T08:46:35+05:30",
-      "summary": "Tata Sons Row: Noel Tata's letter asks Tata Sons to preserve relevant records.",
+      "published_at_utc": "2026-10-28T06:08:07+00:00",
+      "published_at_ist": "2026-10-28T11:38:07+05:30",
+      "summary": "Passengers have been told to leave the ship, but the crew's status was unclear.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
