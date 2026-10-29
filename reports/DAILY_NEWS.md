@@ -1,157 +1,156 @@
 # India Daily News Brief
 
-> Published: 28 October 2026, 12:41 PM IST  
+> Published: 29 October 2026, 01:02 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **25**
+- Major stories highlighted: **18**
 - Sources checked successfully: **4**
 
 ### Stories by category
 
-- **Politics & Governance:** 17
+- **Politics & Governance:** 15
 - **Climate & Environment:** 9
-- **India & General:** 4
-- **Business & Economy:** 3
-- **Security & Defence:** 1
-- **Technology & Science:** 1
+- **India & General:** 9
+- **Business & Economy:** 1
+- **Sports:** 1
 
 ## Major stories
 
-### 1. [Why a Congress X post targeting CJI sparked a row in Keralam and prompted a party apology \| Explained](https://www.thehindu.com/news/national/kerala/why-a-congress-x-post-targeting-cji-sparked-a-row-in-keralam-and-prompted-a-party-apology-explained/article71634616.ece)
+### 1. [Rivers in spate in north Andhra after Cyclone Arnab; flood water enters Ichchapuram](https://www.thehindu.com/news/national/andhra-pradesh/rivers-in-spate-in-north-andhra-after-cyclone-arnab-flood-water-enters-ichchapuram/article71638931.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 5/10 (heuristic)
+- **Published:** 29 Oct 2026, 12:51 PM IST
+- **Summary:** A junior lineman dies after falling from an electric pole during repairs in Vizianagaram district
+
+### 2. [Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag](https://www.thehindu.com/news/cities/Visakhapatnam/cyclone-arnab-corporator-candidates-shifts-focus-to-relief-works-from-electioneering-in-vizag/article71635899.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 5/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:36 PM IST
-- **Summary:** Kerala Pradesh Congress Committee president has distanced the ruling party from now-deleted post that urged CJI Surya Kant to resign after the latter questioned meeting an INDIA bloc delegation, prompting a legal notice from Supreme Court Bar Association. The post sparked a dispute over authorship and approval, with th
+- **Published:** 29 Oct 2026, 11:08 AM IST
+- **Summary:** Candidates in the fray for the local body elections visit the cyclone-affected areas, coordinating relief efforts, and helping the administrative machinery restore normalcy
 
-### 2. [Trees uprooted, roads flooded as Cyclone Arnab batters Andhra Pradesh, Odisha](https://www.indiatoday.in/science/video/video-trees-uprooted-roads-flooded-as-cyclone-arnab-batters-andhra-pradesh-odisha-3026686-2026-10-28?utm_source=rss)
-
-- **Category:** Climate & Environment
-- **Source(s):** India Today
-- **Importance score:** 5/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:27 PM IST
-- **Summary:** Trees uprooted roads flooded as Cyclone Arnab batters Andhra Pradesh Odisha
-
-### 3. [Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack](https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece)
+### 3. [Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’](https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 5/10 (heuristic)
-- **Published:** 28 Oct 2026, 11:57 AM IST
-- **Summary:** The medals were presented by His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence
+- **Published:** 29 Oct 2026, 05:12 AM IST
+- **Summary:** Cabinet approves 115 acres of land for a sugar mill and 151.58 acres for other industries. ₹12 crore approved for “Bihar State Games 2026”. Nod for underground road corridor in Patna.
 
-### 4. [Supreme Court rejects merger of 35 mule account cybercrime cases](https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-merger-35-mule-account-cybercrime-cases-ptag-3026720-2026-10-28?utm_source=rss)
+### 4. [Cyclone Arnab LIVE: Amit Shah speaks with CMs of affected States, assures all support](https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 29 Oct 2026, 12:54 PM IST
+- **Summary:** Rain lashes West Bengal as Cyclone Arnab turns into a depression and IMD warns of showers till October 30
+
+### 5. [Supreme Court rejects Anita Advani's marriage claim involving Rajesh Khanna](https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-anita-advani-rajesh-khanna-marriage-claim-ptag-3027482-2026-10-29?utm_source=rss)
 
 - **Category:** Politics & Governance
 - **Source(s):** India Today
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:34 PM IST
-- **Summary:** Supreme Court rejects merger of mule account cybercrime cases
+- **Published:** 29 Oct 2026, 12:42 PM IST
+- **Summary:** Supreme Court rejects Anita Advanis marriage claim involving Rajesh Khanna
 
-### 5. [When DMK flexed its muscle during Indira Gandhi’s visit to Tamil Nadu in 1977](https://www.thehindu.com/news/national/tamil-nadu/when-dmk-flexed-its-muscle-during-indira-gandhis-visit-to-tamil-nadu-in-1977/article71632217.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:34 PM IST
-- **Summary:** On October 29, 1977, when Indira Gandhi visited Madurai, the DMK members, who were staging blackflag protests, threw stones, sticks at the former Prime Minister; in Chennai, two persons were killed when the police opened fire at the protesters who turned violent on Mount Road
-
-### 6. [Cyclone Arnab brings noticeable chill to Telangana, drops temperatures by up to 2.5°C](https://www.thehindu.com/news/national/telangana/cyclone-arnab-brings-noticeable-chill-to-telangana-drops-temperatures-by-up-to-25c/article71632522.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:30 PM IST
-
-### 7. [Cyclone Arnab: Clear fallen trees within two hours, restore power once winds ease, Naidu tells officials](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-clear-fallen-trees-within-two-hours-restore-power-once-winds-ease-naidu-tells-officials/article71634450.ece)
+### 6. [Restore previous elected govt in West Bengal, says TMC’s Abhishek Banerjee after SC’s SIR observations](https://www.thehindu.com/news/national/west-bengal/restore-previous-elected-govt-in-west-bengal-says-tmcs-abhishek-banerjee-after-scs-sir-observations/article71639197.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:25 PM IST
-- **Summary:** The Chief Minister holds a teleconference with about 32,000 officials and field staff on Wednesday morning
+- **Published:** 29 Oct 2026, 12:37 PM IST
+- **Summary:** The Supreme Court said it has not yet adjudicated the legality of the ECI’s use of the "logical discrepancy" category to scrutinise voters' details durins SIR
 
-### 8. [Cheesesteak, Pepsi: Florida Man's Unusual Quid Pro Quo For Murder Confession](https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand)
+### 7. [Cyclone Arnab: Home Minister Shah speaks with CMs of affected States, assures all support](https://www.thehindu.com/news/national/cyclone-arnab-home-minister-shah-speaks-with-cms-of-affected-states-assures-all-support/article71639388.ece)
 
 - **Category:** Politics & Governance
-- **Source(s):** NDTV
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:22 PM IST
-- **Summary:** Kessler said the deal was off and asked the judge to proceed with jury selection.
-
-### 9. [Very severe cyclone Arnab crosses Andhra coast, weakens into severe cyclonic storm: IMD \| LIVE](https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece)
-
-- **Category:** Climate & Environment
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:14 PM IST
-- **Summary:** The landfall process is complete with the weather system moving entirely over land; CM Naidu says no loss of life reported in Andhra
+- **Published:** 29 Oct 2026, 12:36 PM IST
+- **Summary:** Mr. Shah said NDRF and SDRF teams have ‘sprung into action and are continuing rescue and relief operations on a war footing’
 
-### 10. [It's done, bro: BJP jabs DK Shivakumar after sweeping Karnataka MLC elections](https://www.indiatoday.in/elections/story/karnataka-mlc-election-results-bjp-jds-sweep-four-seats-congress-draws-blank-3026699-2026-10-28?utm_source=rss)
+### 8. [Supreme Court lets Chhattisgarh seek Anil Tuteja's bail cancellation](https://www.indiatoday.in/india/law-news/story/anil-tuteja-bail-supreme-court-chhattisgarh-cancellation-plea-misuse-ptag-3027475-2026-10-29?utm_source=rss)
 
 - **Category:** Politics & Governance
 - **Source(s):** India Today
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 12:07 PM IST
-- **Summary:** Its done bro BJP jabs DK Shivakumar after sweeping Karnataka MLC elections
+- **Published:** 29 Oct 2026, 12:26 PM IST
+- **Summary:** Supreme Court lets Chhattisgarh seek Anil Tutejas bail cancellation
 
-### 11. [Cyclone Arnab threat: Naidu orders evacuations, puts Andhra Pradesh on high alert](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece)
+### 9. [Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State](https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-election-congress-bjp-nagpur/article71638769.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 11:51 AM IST
-- **Summary:** With heavy to extremely heavy rain forecast in 13 districts on October 28 and 29, the government steps up disaster preparedness, shifts 4,711 pregnant women to health facilities and deploys 15 NDRF and SDRF teams; R&B department readies emergency teams to ensure road safety and swift restoration of traffic
+- **Published:** 29 Oct 2026, 12:01 PM IST
+- **Summary:** While the NCP SP called for going back to ballot papers for holding elections, the BJP called for introspection among the alliance partners
 
-### 12. [Cyclone Arnab: 609 Andhra schools turn into relief shelters](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-609-andhra-schools-turn-into-relief-shelters/article71634201.ece)
+### 10. [At 12, he built an AI tool to forecast earthquake aftershocks and won a national award](https://www.indiatoday.in/education-today/news/story/california-seventh-grader-builds-ai-tool-to-forecast-earthquake-aftershocks-wins-national-award-3027419-2026-10-29?utm_source=rss)
+
+- **Category:** Climate & Environment
+- **Source(s):** India Today
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 29 Oct 2026, 11:55 AM IST
+- **Summary:** At he built an AI tool to forecast earthquake aftershocks and won a national award
+
+### 11. [Satellite captures Cyclone Arnab's giant rain shield over India. See pics](https://www.indiatoday.in/science/story/cyclone-arnab-spreads-its-wings-across-india-satellite-captures-rare-space-view-3027448-2026-10-29?utm_source=rss)
+
+- **Category:** Climate & Environment
+- **Source(s):** India Today
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 29 Oct 2026, 11:34 AM IST
+- **Summary:** Satellite captures Cyclone Arnabs giant rain shield over India See pics
+
+### 12. [Cyclone Arnab: Guntur district records 41 mm average rainfall; authorities stay alert](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-guntur-district-records-41-mm-average-rainfall-authorities-on-toes/article71634401.ece)
 
 - **Category:** Climate & Environment
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 28 Oct 2026, 11:51 AM IST
-- **Summary:** Schools in 16 coastal districts are closed, and 17,054 NCC, NSS and Scouts volunteers have been mobilised
+- **Published:** 29 Oct 2026, 10:44 AM IST
 
 ## All collected stories
 
-- [Why a Congress X post targeting CJI sparked a row in Keralam and prompted a party apology \| Explained](https://www.thehindu.com/news/national/kerala/why-a-congress-x-post-targeting-cji-sparked-a-row-in-keralam-and-prompted-a-party-apology-explained/article71634616.ece) — **Politics & Governance** · The Hindu
-- [Trees uprooted, roads flooded as Cyclone Arnab batters Andhra Pradesh, Odisha](https://www.indiatoday.in/science/video/video-trees-uprooted-roads-flooded-as-cyclone-arnab-batters-andhra-pradesh-odisha-3026686-2026-10-28?utm_source=rss) — **Climate & Environment** · India Today
-- [Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack](https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court rejects merger of 35 mule account cybercrime cases](https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-merger-35-mule-account-cybercrime-cases-ptag-3026720-2026-10-28?utm_source=rss) — **Politics & Governance** · India Today
-- [When DMK flexed its muscle during Indira Gandhi’s visit to Tamil Nadu in 1977](https://www.thehindu.com/news/national/tamil-nadu/when-dmk-flexed-its-muscle-during-indira-gandhis-visit-to-tamil-nadu-in-1977/article71632217.ece) — **Politics & Governance** · The Hindu
-- [Cyclone Arnab brings noticeable chill to Telangana, drops temperatures by up to 2.5°C](https://www.thehindu.com/news/national/telangana/cyclone-arnab-brings-noticeable-chill-to-telangana-drops-temperatures-by-up-to-25c/article71632522.ece) — **Climate & Environment** · The Hindu
-- [Cyclone Arnab: Clear fallen trees within two hours, restore power once winds ease, Naidu tells officials](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-clear-fallen-trees-within-two-hours-restore-power-once-winds-ease-naidu-tells-officials/article71634450.ece) — **Politics & Governance** · The Hindu
-- [Cheesesteak, Pepsi: Florida Man's Unusual Quid Pro Quo For Murder Confession](https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Very severe cyclone Arnab crosses Andhra coast, weakens into severe cyclonic storm: IMD \| LIVE](https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece) — **Climate & Environment** · The Hindu
-- [It's done, bro: BJP jabs DK Shivakumar after sweeping Karnataka MLC elections](https://www.indiatoday.in/elections/story/karnataka-mlc-election-results-bjp-jds-sweep-four-seats-congress-draws-blank-3026699-2026-10-28?utm_source=rss) — **Politics & Governance** · India Today
-- [Cyclone Arnab threat: Naidu orders evacuations, puts Andhra Pradesh on high alert](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece) — **Politics & Governance** · The Hindu
-- [Cyclone Arnab: 609 Andhra schools turn into relief shelters](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-609-andhra-schools-turn-into-relief-shelters/article71634201.ece) — **Climate & Environment** · The Hindu
-- [Schools shut, relief measures intensified in three North Andhra districts as cyclone nears](https://www.thehindu.com/news/national/andhra-pradesh/schools-shut-relief-measures-intensified-in-three-north-andhra-districts-as-cyclone-nears/article71628075.ece) — **Climate & Environment** · The Hindu
-- [Sheikh Hasina approaches UN over ban on Awami League from Bangladesh elections](https://www.indiatoday.in/world/story/sheikh-hasina-un-action-awami-league-ban-bangladesh-elections-3026654-2026-10-28?utm_source=rss) — **Politics & Governance** · India Today
-- [Israel Election Results Live: Netanyahu Bloc Ahead With 56 Seats After Half Of Votes Counted](https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Kerala Congress Apologises To Chief Justice Surya Kant Over Controversial Post](https://www.ndtv.com/kerala-news/kerala-congress-apologises-to-chief-justice-surya-kant-over-controversial-post-12246217#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Satellite spots Cyclone Arnab covering half of India as it makes landfall](https://www.indiatoday.in/science/story/satellite-spots-cyclone-arnab-covering-half-of-india-as-it-makes-landfall-3026647-2026-10-28?utm_source=rss) — **Climate & Environment** · India Today
-- [Cyclone Arnab Completes Landfall, Brings Heavy Rain In Andhra, Odisha](https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand) — **Climate & Environment** · NDTV
-- [Supreme Court needs transparent roster system, says former SC judge Oka](https://www.thehindu.com/news/national/supreme-court-needs-transparent-roster-system-says-former-judge-oka/article71629926.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court seeks government response on pleas challenging Vande Mataram as a ‘divisive religious war song’](https://www.thehindu.com/news/national/supreme-court-seeks-government-response-on-pleas-challenging-vande-mataram-as-a-divisive-religious-war-song/article71630270.ece) — **Politics & Governance** · The Hindu
-- [Rain Likely In Delhi-NCR Till November 1 Due To Cyclone Arnab, Air Quality Low](https://www.ndtv.com/delhi-news/rain-likely-in-delhi-ncr-till-november-1-due-to-cyclone-arnab-air-quality-low-12246225#publisher=newsstand) — **Climate & Environment** · NDTV
-- [Science is successful only when it benefits society: PM Modi](https://www.thehindu.com/news/national/science-is-successful-only-when-it-benefits-society-pm-modi/article71632091.ece) — **Politics & Governance** · The Hindu
-- [First Israel elections after Oct 7 attacks. PM Netanyahu seeks repolling extension](https://www.indiatoday.in/programme/newstrack/video/israel-votes-post-oct-7-record-voter-turnout-netanyahu-seeks-polling-extension-frvd-3026490-2026-10-27?utm_source=rss) — **Politics & Governance** · India Today
-- [EC says SIR decisions unanimous. Will poll panel's defence convince Supreme Court?](https://www.indiatoday.in/programme/news-today/video/justice-kaul-on-collegium-17-flee-theni-jail-ujjain-mahakal-scam-frvd-3026461-2026-10-27?utm_source=rss) — **Politics & Governance** · India Today
-- [Live: Cyclone Arnab weakens into severe category after landfall in Andhra Pradesh](https://www.indiatoday.in/india/story/cyclone-arnab-live-updates-bay-of-bengal-imd-alert-odisha-andhra-pradesh-rain-tracker-weather-forecast-3025706-2026-10-27?utm_source=rss) — **Climate & Environment** · India Today
-- [Isro's big gamble: How it has changed its approach for NVS-03 success](https://www.indiatoday.in/science/story/isro-changes-its-playbook-for-nvs-03-mission-the-crucial-fix-after-nvs-02-failure-gslv-f18-3026659-2026-10-28?utm_source=rss) — **Technology & Science** · India Today
-- [India's Bank Cash Surplus Shrinks as RBI Curbs Rupee Bets](https://www.ndtv.com/india-news/indias-bank-cash-surplus-shrinks-as-rbi-curbs-rupee-bets-12246490#publisher=newsstand) — **Business & Economy** · NDTV
-- [Why are so many Indians suddenly talking about Serbia?](https://www.indiatoday.in/newsmo/short-videos/why-are-so-many-indians-suddenly-talking-about-serbia-3026483-2026-10-27?utm_source=rss) — **Business & Economy** · India Today
-- [Opposition plans mock Parliament to target Gyanesh Kumar; SC admits plea on SIR](https://www.indiatoday.in/programme/to-the-point/video/opposition-mock-parliament-target-chief-election-commissioner-gyanesh-kumar-supreme-court-plea-special-intensive-revision-3026430-2026-10-27?utm_source=rss) — **Politics & Governance** · India Today
-- [iPhone 16 now available at the lowest price in India](https://www.indiatoday.in/visualstories/technology/iphone-16-now-available-at-the-lowest-price-in-india-287048-27-10-2026?utm_source=rss) — **India & General** · India Today
-- [Trump Approves Flavio Bolsonaro's US Entry After He Flees Brazil](https://www.ndtv.com/world-news/donald-trump-approves-flavio-bolsonaros-us-entry-after-he-flees-brazil-losing-election-12247039#publisher=newsstand) — **India & General** · NDTV
-- [In China, The AI Bubble Has Already Burst](https://www.ndtv.com/artificial-intelligence/in-china-the-ai-bubble-has-already-burst-12241386#publisher=newsstand) — **Business & Economy** · NDTV
-- [How Victory Of Netanyahu's Rival Eisenkot Could Change Course Of Iran War](https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand) — **India & General** · NDTV
-- [Tamil Nadu Launches Security Audit Of Jails After 2 Escape Incidents](https://www.ndtv.com/india-news/thekkampatti-jail-tamil-nadu-launches-security-audit-of-jails-after-2-escape-incidents-12246887#publisher=newsstand) — **Security & Defence** · NDTV
-- [US Cruise Ship 'Odyssey' On World Voyage Stops After Fuel Prices Surge](https://www.ndtv.com/world-news/us-cruise-ship-odyssey-on-world-voyage-stops-after-fuel-prices-surge-villa-vie-residents-12246813#publisher=newsstand) — **India & General** · NDTV
+- [Rivers in spate in north Andhra after Cyclone Arnab; flood water enters Ichchapuram](https://www.thehindu.com/news/national/andhra-pradesh/rivers-in-spate-in-north-andhra-after-cyclone-arnab-flood-water-enters-ichchapuram/article71638931.ece) — **Climate & Environment** · The Hindu
+- [Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag](https://www.thehindu.com/news/cities/Visakhapatnam/cyclone-arnab-corporator-candidates-shifts-focus-to-relief-works-from-electioneering-in-vizag/article71635899.ece) — **Politics & Governance** · The Hindu
+- [Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’](https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece) — **Politics & Governance** · The Hindu
+- [Cyclone Arnab LIVE: Amit Shah speaks with CMs of affected States, assures all support](https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece) — **Climate & Environment** · The Hindu
+- [Supreme Court rejects Anita Advani's marriage claim involving Rajesh Khanna](https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-anita-advani-rajesh-khanna-marriage-claim-ptag-3027482-2026-10-29?utm_source=rss) — **Politics & Governance** · India Today
+- [Restore previous elected govt in West Bengal, says TMC’s Abhishek Banerjee after SC’s SIR observations](https://www.thehindu.com/news/national/west-bengal/restore-previous-elected-govt-in-west-bengal-says-tmcs-abhishek-banerjee-after-scs-sir-observations/article71639197.ece) — **Politics & Governance** · The Hindu
+- [Cyclone Arnab: Home Minister Shah speaks with CMs of affected States, assures all support](https://www.thehindu.com/news/national/cyclone-arnab-home-minister-shah-speaks-with-cms-of-affected-states-assures-all-support/article71639388.ece) — **Politics & Governance** · The Hindu
+- [Supreme Court lets Chhattisgarh seek Anil Tuteja's bail cancellation](https://www.indiatoday.in/india/law-news/story/anil-tuteja-bail-supreme-court-chhattisgarh-cancellation-plea-misuse-ptag-3027475-2026-10-29?utm_source=rss) — **Politics & Governance** · India Today
+- [Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State](https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-election-congress-bjp-nagpur/article71638769.ece) — **Politics & Governance** · The Hindu
+- [At 12, he built an AI tool to forecast earthquake aftershocks and won a national award](https://www.indiatoday.in/education-today/news/story/california-seventh-grader-builds-ai-tool-to-forecast-earthquake-aftershocks-wins-national-award-3027419-2026-10-29?utm_source=rss) — **Climate & Environment** · India Today
+- [Satellite captures Cyclone Arnab's giant rain shield over India. See pics](https://www.indiatoday.in/science/story/cyclone-arnab-spreads-its-wings-across-india-satellite-captures-rare-space-view-3027448-2026-10-29?utm_source=rss) — **Climate & Environment** · India Today
+- [Cyclone Arnab: Guntur district records 41 mm average rainfall; authorities stay alert](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-guntur-district-records-41-mm-average-rainfall-authorities-on-toes/article71634401.ece) — **Climate & Environment** · The Hindu
+- [BJP Dominates UP And Karnataka In MLC Polls, Opposition Wins 3 In Maharashtra](https://www.ndtv.com/india-news/bjp-dominates-up-and-karnataka-in-mlc-polls-opposition-mva-wins-3-in-maharashtra-12251885#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Hunker down: On Cyclone Arnab, its landfall](https://www.thehindu.com/opinion/editorial/hunker-down-on-cyclone-arnab-its-landfall/article71636464.ece) — **Climate & Environment** · The Hindu
+- [Cyclone ‘Arnab’ highlights \| Five killed in Andhra; Telangana extends support to Andhra for restoration works](https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece) — **Climate & Environment** · The Hindu
+- [MLC poll results, Supreme Court's SIR observations and Tata Sons leadership row in focus](https://www.indiatoday.in/programme/news-today/video/mlc-poll-results-supreme-courts-sir-observations-and-tata-sons-leadership-row-in-focus-3027302-2026-10-28?utm_source=rss) — **Politics & Governance** · India Today
+- [Why is the Supreme Court questioning Covid-era drug approvals?](https://www.indiatoday.in/health/story/liposomal-amphotericin-b-black-fungus-supreme-court-dcgi-expired-covid-drug-permits-3026930-2026-10-28?utm_source=rss) — **Politics & Governance** · India Today
+- [Videos of Cyclone Arnab? Don't fall for loud lies](https://www.indiatoday.in/fact-check/story/cyclone-arnab-fact-check-four-viral-storm-videos-old-unrelated-3026812-2026-10-28?utm_source=rss) — **Climate & Environment** · India Today
+- [Parliamentary panel to review exam reforms, NEET UG, coaching centre rules](https://www.indiatoday.in/education-today/news/story/neet-ug-exam-leak-parliamentary-panel-national-exams-coaching-centres-ugc-cbse-ncert-review-3027460-2026-10-29?utm_source=rss) — **Politics & Governance** · India Today
+- [Jiu-jitsu once you recover: Capt Smit's head stitches catch UAE president's eye](https://www.indiatoday.in/india/story/indian-pilot-flydubai-smit-machchhar-stitches-head-uae-president-viral-video-3027455-2026-10-29?utm_source=rss) — **Politics & Governance** · India Today
+- ["Dreadful Wars Should End": EU Foreign Affairs Chief Backs PM Modi's Peace Push](https://www.ndtv.com/world-news/dreadful-wars-should-end-eu-foreign-affairs-chief-backs-pm-modis-peace-push-12251870#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Cabinet approves 3% hike in dearness allowance for central government employees](https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece) — **Politics & Governance** · The Hindu
+- [Justice SK Kaul on the Diwali party photo with CJP leader Saurav Das](https://www.indiatoday.in/newsmo/short-videos/justice-sk-kaul-on-the-diwali-party-photo-with-cjp-leader-saurav-das-3027495-2026-10-29?utm_source=rss) — **India & General** · India Today
+- [पति की 'कातिल' पत्नियां भी रखेंगी करवाचौथ का व्रत? मेरठ जेल में मुस्कान और रविता ने मंगवाई चूड़ी-बिंदी](https://www.aajtak.in/uttar-pradesh/story/murderous-wives-karwa-chauth-vrat-in-meerut-jail-muskan-and-ravita-bangles-and-bindis-lclam-strc-2683150-2026-10-29?utm_source=rss) — **India & General** · India Today
+- [Agrata Sharma Karwa Chauth Mehndi: करवा चौथ पर कुमार विश्वास की बेटी ने लगवाई मेहंदी, काफ्तान पहन छा गईं अग्रता, Photos](https://www.aajtak.in/lifestyle/fashion/photo/agrata-sharma-karwa-chauth-mehndi-kumar-vishwas-daughter-flaunts-in-25100-rupees-designer-kaftan-look-photos-viral-tvisx-2683101-2026-10-29?utm_source=rss) — **India & General** · India Today
+- [17 two-wheelers, four four-wheelers gutted in fire near Pune; one injured](https://www.thehindu.com/news/national/maharashtra/17-two-wheelers-four-four-wheelers-gutted-in-fire-near-pune-one-injured/article71639431.ece) — **India & General** · The Hindu
+- [CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder](https://www.ndtv.com/india-news/cctv-shows-how-ghaziabad-woman-gym-trainer-plotted-husbands-murder-12252156#publisher=newsstand) — **Climate & Environment** · NDTV
+- ["Restore Or Face Action": Hindu Group After Meta Drops Video With Devendra Fadnavis](https://www.ndtv.com/india-news/hindu-group-after-meta-drops-video-with-devendra-fadnavis-restore-or-face-legal-action-12252300#publisher=newsstand) — **India & General** · NDTV
+- ["Won By Not Losing": How Netanyahu Will Still Wield Power In Israel](https://www.ndtv.com/world-news/how-netanyahu-will-still-wield-power-in-israel-after-election-won-by-not-losing-12252257#publisher=newsstand) — **India & General** · NDTV
+- [Direct Mutual Fund Plans Will Be Default Option From November 1: SEBI Chief](https://www.ndtv.com/business-news/ndtv-profit-ignite-direct-mutual-fund-plans-default-option-from-november-1-sebi-chief-tuhin-kanta-pandey-12252192#publisher=newsstand) — **India & General** · NDTV
+- [Child And Mother In Car, Punjab Ex-Congress Leader Shot At, Allegedly Attacked With Axe](https://www.ndtv.com/ludhiana-news/child-and-mother-in-car-punjab-ex-congress-leader-shot-at-attacked-with-axe-12252250#publisher=newsstand) — **India & General** · NDTV
+- ["He Was Treated Very Unfairly": Trump Defends Vivek Ramaswamy Over Ad Row](https://www.ndtv.com/world-news/he-was-treated-very-unfairly-us-president-donald-trump-defends-vivek-ramaswamy-over-ad-row-12252198#publisher=newsstand) — **India & General** · NDTV
+- [Decoys, Italian Passport And A Private Jet: How Brazil's Bolsonaro Fled To US](https://www.ndtv.com/world-news/brazil-election-2026-decoys-italian-passport-and-a-private-jet-how-brazils-flavio-bolsonaro-fled-to-us-12252171#publisher=newsstand) — **Sports** · NDTV
+- [Over 150 Shops Destroyed In Fire At Goa's Vasco Market](https://www.ndtv.com/goa-news/goa-vasco-market-fire-over-150-shops-destroyed-in-fire-at-goas-vasco-market-12251735#publisher=newsstand) — **Business & Economy** · NDTV
+- [Over 500 Arrested As Assam Steps Up Action Against Child Marriage](https://www.ndtv.com/india-news/over-500-arrested-as-assam-steps-up-action-against-child-marriage-12252123#publisher=newsstand) — **Politics & Governance** · NDTV
 
 ## Source health
 
