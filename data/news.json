@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-30T07:36:47.435804+00:00",
-  "generated_at_ist": "2026-10-30T13:06:47.435804+05:30",
+  "generated_at_utc": "2026-10-31T07:22:46.527962+00:00",
+  "generated_at_ist": "2026-10-31T12:52:46.527962+05:30",
   "title": "India Daily News Brief",
-  "summary": "35 stories collected from 4 sources; 20 highlighted as major.",
+  "summary": "35 stories collected from 4 sources; 7 highlighted as major.",
   "sources_checked": [
     "The Hindu",
     "NDTV",
@@ -14,58 +14,40 @@
   ],
   "total_stories": 35,
   "categories": {
-    "Politics & Governance": 17,
-    "Climate & Environment": 5,
-    "Business & Economy": 2,
-    "India & General": 11
+    "Climate & Environment": 2,
+    "Politics & Governance": 13,
+    "India & General": 12,
+    "Business & Economy": 4,
+    "Technology & Science": 2,
+    "Education": 1,
+    "Sports": 1
   },
   "stories": [
     {
-      "id": "f009629a0b43492c",
-      "title": "MPTC, ZPTC polls in Andhra Pradesh moved to November 5; civic polls stay on November 1 despite cyclone",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/mptc-zptc-polls-in-andhra-pradesh-moved-to-november-5-civic-polls-stay-on-november-1-despite-cyclone/article71635507.ece",
-      "source": "The Hindu",
+      "id": "5258586b5533125d",
+      "title": "Cyclone Arnab Triggers Floods, Landslide In Odisha, 3 Die",
+      "url": "https://www.ndtv.com/india-news/cyclone-arnab-triggers-floods-landslide-in-odisha-3-killed-12262082#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "The Hindu"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/mptc-zptc-polls-in-andhra-pradesh-moved-to-november-5-civic-polls-stay-on-november-1-despite-cyclone/article71635507.ece"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/cyclone-arnab-triggers-floods-landslide-in-odisha-3-killed-12262082#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-30T07:08:37+00:00",
-      "published_at_ist": "2026-10-30T12:38:37+05:30",
-      "summary": "The State Election Commission says it does not have enough staff to count civic poll votes and hold the rural polls on the same day",
-      "category": "Politics & Governance",
+      "published_at_utc": "2026-10-31T04:10:38+00:00",
+      "published_at_ist": "2026-10-31T09:40:38+05:30",
+      "summary": "A central team will visit Odisha on November 2 to assess the damage.",
+      "category": "Climate & Environment",
       "importance_score": 5,
       "is_major": true
     },
     {
-      "id": "5e4e421ca00cdd22",
-      "title": "Trump Capturing Maduro Opened \"Floodgate To Freedom\": Venezuela's Machado",
-      "url": "https://www.ndtv.com/world-news/nobel-maria-machado-trump-capturing-nicolas-maduro-opened-floodgate-to-freedom-venezuela-12257535#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/nobel-maria-machado-trump-capturing-nicolas-maduro-opened-floodgate-to-freedom-venezuela-12257535#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:30:43+00:00",
-      "published_at_ist": "2026-10-30T12:00:43+05:30",
-      "summary": "Machado's party wants elections in 2027 and for her to be allowed to run.",
-      "category": "Politics & Governance",
-      "importance_score": 5,
-      "is_major": true
-    },
-    {
-      "id": "fd99f73eb7cd0cce",
-      "title": "KG Basin gas migration dispute: Supreme Court appoints Justice Ranjana Desai as sole mediator",
-      "url": "https://www.thehindu.com/news/national/kg-basin-gas-migration-dispute-supreme-court-appoints-justice-ranjana-desai-as-sole-mediator/article71643966.ece",
+      "id": "2049d81109c862c2",
+      "title": "Why are paper ballots used for MLC polls? Explained",
+      "url": "https://www.thehindu.com/news/national/why-are-paper-ballots-used-for-mlc-polls-explained/article71648197.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -73,20 +55,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kg-basin-gas-migration-dispute-supreme-court-appoints-justice-ranjana-desai-as-sole-mediator/article71643966.ece"
+          "url": "https://www.thehindu.com/news/national/why-are-paper-ballots-used-for-mlc-polls-explained/article71648197.ece"
         }
       ],
-      "published_at_utc": "2026-10-30T07:14:00+00:00",
-      "published_at_ist": "2026-10-30T12:44:00+05:30",
-      "summary": "Mediator requested to take assistance of two domain experts, the Bench said; RIL has refuted the Centre’s claim that RIL “siphoned” gas that had migrated from the neighbouring blocks of state-owned ONGC into RIL’s KG-D6 block",
+      "published_at_utc": "2026-10-31T04:05:53+00:00",
+      "published_at_ist": "2026-10-31T09:35:53+05:30",
+      "summary": "MLC elections use proportional representation through a single transferable vote. Voters rank candidates instead of picking just one. EVMs are built for “first-past-the-post elections” in India in which voter chooses one candidate, so they cannot record ranked preferences",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "c2a74683f91ba7d3",
-      "title": "Former MLA Muthukumar surrenders in bribery case involving ex-Minister Anbil Mahesh Poyyamozhi",
-      "url": "https://www.thehindu.com/news/cities/chennai/former-mla-muthukumar-surrenders-in-bribery-case-involving-ex-minister-anbil-mahesh-poyyamozhi/article71639781.ece",
+      "id": "5f7ee1e363f48501",
+      "title": "Heavy polling in second phase panchayat elections for Sarpanch, Ward Panch in Rajasthan",
+      "url": "https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -94,20 +76,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/chennai/former-mla-muthukumar-surrenders-in-bribery-case-involving-ex-minister-anbil-mahesh-poyyamozhi/article71639781.ece"
+          "url": "https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece"
         }
       ],
-      "published_at_utc": "2026-10-30T07:09:29+00:00",
-      "published_at_ist": "2026-10-30T12:39:29+05:30",
-      "summary": "The Supreme Court on Wednesday dismissed his anticipatory bail petition, following which he surrendered on Thursday morning",
+      "published_at_utc": "2026-10-30T22:09:43+00:00",
+      "published_at_ist": "2026-10-31T03:39:43+05:30",
+      "summary": "The highest voter turnout was recorded at 84.37% in Jaipur district’s Rampura Dabri",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "39d5bbeb5ef09f2c",
-      "title": "Election staff in Vijayawada can vote by postal ballot till 5 p.m. on October 30",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/election-staff-in-vijayawada-can-vote-by-postal-ballot-till-5-pm-on-october-30/article71641590.ece",
+      "id": "4ab74e4394cf8b84",
+      "title": "Failed relationships cannot turn consensual sex into rape: Supreme Court",
+      "url": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -115,20 +97,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/election-staff-in-vijayawada-can-vote-by-postal-ballot-till-5-pm-on-october-30/article71641590.ece"
+          "url": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece"
         }
       ],
-      "published_at_utc": "2026-10-30T06:58:09+00:00",
-      "published_at_ist": "2026-10-30T12:28:09+05:30",
-      "summary": "Election Observer S. Nagalakshmi inspects the postal ballot centre at Mogalrajpuram",
+      "published_at_utc": "2026-10-30T20:34:39+00:00",
+      "published_at_ist": "2026-10-31T02:04:39+05:30",
+      "summary": "Court distinguishes between consent allegedly obtained through deception and regret over consensual intimacy after a relationship ends",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "9fac097e20e61c8b",
-      "title": "CPI(M) has no links with online attacks against Mammootty, says M.V. Govindan",
-      "url": "https://www.thehindu.com/news/national/kerala/cpim-has-no-links-with-online-attacks-on-mammootty-says-mv-govindan/article71643905.ece",
+      "id": "ea595c97ece2eef2",
+      "title": "Election Commission’s appeals against 16.10 lakh cleared voters raise legal questions",
+      "url": "https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -136,20 +118,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/cpim-has-no-links-with-online-attacks-on-mammootty-says-mv-govindan/article71643905.ece"
+          "url": "https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece"
         }
       ],
-      "published_at_utc": "2026-10-30T06:56:02+00:00",
-      "published_at_ist": "2026-10-30T12:26:02+05:30",
-      "summary": "SFI and DYFI have won a lot of nationwide approval in the fight against Chief Election Commissioner Gyanesh Kumar. In that context, there is no reason to decide not to visit Mammootty, says Govindan",
+      "published_at_utc": "2026-10-30T20:30:44+00:00",
+      "published_at_ist": "2026-10-31T02:00:44+05:30",
+      "summary": "The officials who filed appeals against the inclusion of the 16.10 lakh voters may not have had the authority to do so under the Representation of the People Act; according to the Act, the CEO/DEO/ERO/AERO are the authorities with respect to electoral rolls",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "8275ab5bb3a01838",
-      "title": "Cyclone Arnab updates: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
-      "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece",
+      "id": "943207b84fc60568",
+      "title": "Supreme Court asks Centre to take measures against online misuse of court feeds",
+      "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -157,146 +139,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece"
+          "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece"
         }
       ],
-      "published_at_utc": "2026-10-30T06:54:56+00:00",
-      "published_at_ist": "2026-10-30T12:24:56+05:30",
-      "summary": "Andhra Pradesh Chief Minister N Chandrababu Naidu said the very severe cyclonic storm Arnab has inflicted a loss of at least ₹4,600 crore",
+      "published_at_utc": "2026-10-30T20:19:35+00:00",
+      "published_at_ist": "2026-10-31T01:49:35+05:30",
+      "summary": "Solicitor General Tushar Mehta submits that suggestions from various High Courts and other stakeholders have been received and forwarded to the Ministry of Electronics and Information Technology",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "cf8b55977c33ec4c",
-      "title": "Seeman hints at contesting in Ambasamudram bypoll",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/seeman-hints-at-contesting-in-ambasamudram-bypoll/article71640609.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/seeman-hints-at-contesting-in-ambasamudram-bypoll/article71640609.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:53:20+00:00",
-      "published_at_ist": "2026-10-30T12:23:20+05:30",
-      "summary": "The NTK chief says his party will launch its byelection campaign from Palayamkottai on November 26, the birthday of the slain LTTE leader Velupillai Prabhakaran",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "05948df511ac2598",
-      "title": "Cyclone Arnab: Congress says Centre must lead coordinated relief efforts with State Govt., ensure assistance via PMCARES fund",
-      "url": "https://www.thehindu.com/news/national/amid-destruction-caused-by-cyclone-arnab-congress-urges-centralized-coordinated-relief-via-pmcares-with-state-led-rehab/article71643750.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/amid-destruction-caused-by-cyclone-arnab-congress-urges-centralized-coordinated-relief-via-pmcares-with-state-led-rehab/article71643750.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:50:09+00:00",
-      "published_at_ist": "2026-10-30T12:20:09+05:30",
-      "summary": "Rahul Gandhi urged the governments to ensure swift relief and rehabilitation for every affected family, while Mallikarjun Kharge urged party workers to extend all possible help to those in distress",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "3ac962756a394e92",
-      "title": "Supreme Court directs expelled JD(U) MLA Anant Singh to surrender by December 1",
-      "url": "https://www.thehindu.com/news/national/supreme-court-directs-expelled-jdu-mla-anant-singh-to-surrender-by-december-1/article71643970.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-directs-expelled-jdu-mla-anant-singh-to-surrender-by-december-1/article71643970.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:49:46+00:00",
-      "published_at_ist": "2026-10-30T12:19:46+05:30",
-      "summary": "The Bench directed the Bihar police to complete the investigation in the case within four months",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "39d9223ea5735d22",
-      "title": "PM Modi begins two-day Gujarat visit; inaugurates ₹325-crore bovine breeding centre in Banaskantha",
-      "url": "https://www.thehindu.com/news/national/gujarat/prime-minister-narendra-modi-two-day-gujarat-visit-unveil-various-projects/article71643499.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/gujarat/prime-minister-narendra-modi-two-day-gujarat-visit-unveil-various-projects/article71643499.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:42:47+00:00",
-      "published_at_ist": "2026-10-30T12:12:47+05:30",
-      "summary": "The Prime Minister will also visit Ekta Nagar, where the tallest statue of Sardar Vallabhbhai Patel stands, to inaugurate the cultural and tourism festival Bharat Parv 2026 and participate in Narmada aarti, said officials",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "b2338ce78fdd440e",
-      "title": "PM Modi Holds Roadshow In Gujarat During Two-Day State Visit",
-      "url": "https://www.ndtv.com/india-news/pm-narendra-modi-holds-roadshow-in-gujarat-during-two-day-state-visit-12257517#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/pm-narendra-modi-holds-roadshow-in-gujarat-during-two-day-state-visit-12257517#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:31:01+00:00",
-      "published_at_ist": "2026-10-30T12:01:01+05:30",
-      "summary": "Prime Minister Narendra Modi greets people during a roadshow upon his arrival in Gujarat",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "b9e50111a4a85bba",
-      "title": "Cyclone Arnab: Andhra Pradesh secretariat staff struggle to charge phones ahead of pension distribution",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-andhra-pradesh-secretariat-staff-struggle-to-charge-phones-ahead-of-pension-distribution/article71641387.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-andhra-pradesh-secretariat-staff-struggle-to-charge-phones-ahead-of-pension-distribution/article71641387.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:30:46+00:00",
-      "published_at_ist": "2026-10-30T12:00:46+05:30",
-      "summary": "Without power to charge smartphones and biometric devices, secretariat staff are clueless on how to validate beneficiaries’ thumb impressions for identity verification during the NTR Bharosa pension distribution on October 30",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "67c47c35b857d221",
-      "title": "Two satellite images reveal Cyclone Arnab's unstoppable journey across India",
-      "url": "https://www.indiatoday.in/science/story/two-satellite-images-reveal-cyclone-arnabs-unstoppable-journey-across-india-3028312-2026-10-30?utm_source=rss",
+      "id": "7691c98766285b03",
+      "title": "$6.3 bn stolen from Binance in record-breaking cryptocurrency heist",
+      "url": "https://www.indiatoday.in/newsmo/short-videos/63-bn-stolen-from-binance-in-record-breaking-cryptocurrency-heist-3029058-2026-10-31?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -304,104 +160,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/science/story/two-satellite-images-reveal-cyclone-arnabs-unstoppable-journey-across-india-3028312-2026-10-30?utm_source=rss"
+          "url": "https://www.indiatoday.in/newsmo/short-videos/63-bn-stolen-from-binance-in-record-breaking-cryptocurrency-heist-3029058-2026-10-31?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-30T06:26:40+00:00",
-      "published_at_ist": "2026-10-30T11:56:40+05:30",
-      "summary": "Two satellite images reveal Cyclone Arnabs unstoppable journey across India",
-      "category": "Climate & Environment",
+      "published_at_utc": "2026-10-30T19:28:24+00:00",
+      "published_at_ist": "2026-10-31T00:58:24+05:30",
+      "summary": "bn stolen from Binance in recordbreaking cryptocurrency heist",
+      "category": "India & General",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "825c373390506035",
-      "title": "BJP Dominates UP And Karnataka In MLC Polls, Opposition Wins 3 In Maharashtra",
-      "url": "https://www.ndtv.com/india-news/bjp-dominates-up-and-karnataka-in-mlc-polls-opposition-mva-wins-3-in-maharashtra-12251885#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/bjp-dominates-up-and-karnataka-in-mlc-polls-opposition-mva-wins-3-in-maharashtra-12251885#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:06:27+00:00",
-      "published_at_ist": "2026-10-30T11:36:27+05:30",
-      "summary": "The results of the MLC elections in several states have been declared",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "b65399e6fef52d23",
-      "title": "Telangana sends 2,000 staff, material to A.P. for power supply restoration work",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-sends-2k-staff-material-to-ap-for-power-supply-restoration-work/article71641620.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/telangana-sends-2k-staff-material-to-ap-for-power-supply-restoration-work/article71641620.ece"
-        }
-      ],
-      "published_at_utc": "2026-10-30T05:51:51+00:00",
-      "published_at_ist": "2026-10-30T11:21:51+05:30",
-      "summary": "Telangana dispatched nearly 2,000 staff along with emergency materials from its two distribution utilities to assist Andhra Pradesh in restoring power after the Arnab cyclone",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "96997cf64bbce1a8",
-      "title": "Banks Must Pay Digital Fraud Victims If Due-Diligence Failure Is Found: Supreme Court",
-      "url": "https://www.ndtv.com/india-news/banks-must-pay-digital-fraud-victims-if-due-diligence-failure-is-found-supreme-court-12257303#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/banks-must-pay-digital-fraud-victims-if-due-diligence-failure-is-found-supreme-court-12257303#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-10-30T05:27:53+00:00",
-      "published_at_ist": "2026-10-30T10:57:53+05:30",
-      "summary": "The directions are proposed to be notified by November 30 and operationalised by December 31",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "0743bee1a7183889",
-      "title": "Cyclone Arnab Triggers Political Storm In Andhra, Jagan Reddy Targets Chandrababu Naidu",
-      "url": "https://www.ndtv.com/india-news/cyclone-arnab-triggers-political-storm-in-andhra-jagan-reddy-targets-chandrababu-naidu-12257092#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/cyclone-arnab-triggers-political-storm-in-andhra-jagan-reddy-targets-chandrababu-naidu-12257092#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-10-30T04:33:28+00:00",
-      "published_at_ist": "2026-10-30T10:03:28+05:30",
-      "summary": "Reddy claimed nearly 12 lakh acres have suffered crop damage due to Cyclone Arnab",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "4ae11ba40c6144a7",
-      "title": "Glacial lake outburst in Bhutan; 5 districts in Assam and Bengal on flood alert",
-      "url": "https://www.indiatoday.in/india/story/glacial-lake-outburst-reported-in-bhutan-assam-bengal-district-on-possible-flood-alert-sankosh-river-3028135-2026-10-30?utm_source=rss",
+      "id": "72ff62e8bc31f428",
+      "title": "PM Hails ISRO Launch, NVS-03 Satellite Orbit Boost and Five New Missions",
+      "url": "https://www.indiatoday.in/technology/video/pm-hails-isro-launch-nvs-03-satellite-orbit-boost-and-five-new-missions-ytvd-3029099-2026-10-31?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -409,83 +181,125 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/story/glacial-lake-outburst-reported-in-bhutan-assam-bengal-district-on-possible-flood-alert-sankosh-river-3028135-2026-10-30?utm_source=rss"
+          "url": "https://www.indiatoday.in/technology/video/pm-hails-isro-launch-nvs-03-satellite-orbit-boost-and-five-new-missions-ytvd-3029099-2026-10-31?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-29T18:34:42+00:00",
-      "published_at_ist": "2026-10-30T00:04:42+05:30",
-      "summary": "Glacial lake outburst in Bhutan districts in Assam and Bengal on flood alert",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "a6c30c0b97036bab",
-      "title": "You can ask Virat Kohli: Supreme Court suggests plan to promote cracker-free Diwali",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-firecracker-hearing-green-crackers-delhi-pollution-enforcement-3027883-2026-10-29?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-firecracker-hearing-green-crackers-delhi-pollution-enforcement-3027883-2026-10-29?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-29T14:36:43+00:00",
-      "published_at_ist": "2026-10-29T20:06:43+05:30",
-      "summary": "You can ask Virat Kohli Supreme Court suggests plan to promote crackerfree Diwali",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "ebb6b06ec1546bf6",
-      "title": "Isro's big test tonight: Why NVS-03's final orbit manoeuvre will be critical",
-      "url": "https://www.indiatoday.in/science/story/isro-preps-for-gslv-f18-nvs-03-launch-tonight-but-real-test-begins-after-liftoff-3028292-2026-10-30?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/science/story/isro-preps-for-gslv-f18-nvs-03-launch-tonight-but-real-test-begins-after-liftoff-3028292-2026-10-30?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-30T06:09:40+00:00",
-      "published_at_ist": "2026-10-30T11:39:40+05:30",
-      "summary": "Isros big test tonight Why NVSs final orbit manoeuvre will be critical",
+      "published_at_utc": "2026-10-31T03:04:18+00:00",
+      "published_at_ist": "2026-10-31T08:34:18+05:30",
+      "summary": "PM Hails ISRO Launch NVS Satellite Orbit Boost and Five New Missions",
       "category": "Business & Economy",
       "importance_score": 3,
       "is_major": false
     },
     {
-      "id": "018b8a064999b958",
-      "title": "ISRO's 'Smart Boy' Rocket To Launch Key 'Swadeshi' GPS Satellite Today. Why It Matters",
-      "url": "https://www.ndtv.com/india-news/gslv-f18-nvs-03-isros-smart-boy-rocket-to-launch-key-swadeshi-gps-satellite-today-why-it-matters-12257396#publisher=newsstand",
-      "source": "NDTV",
+      "id": "2a92afd584583595",
+      "title": "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/gslv-f18-nvs-03-isros-smart-boy-rocket-to-launch-key-swadeshi-gps-satellite-today-why-it-matters-12257396#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece"
         }
       ],
-      "published_at_utc": "2026-10-30T05:52:18+00:00",
-      "published_at_ist": "2026-10-30T11:22:18+05:30",
-      "summary": "The launch will place the next-generation satellite into Geosynchronous Transfer Orbit",
-      "category": "Business & Economy",
+      "published_at_utc": "2026-10-30T20:48:34+00:00",
+      "published_at_ist": "2026-10-31T02:18:34+05:30",
+      "summary": "Four-hour meeting of the 17 NC legislators in Srinagar comes three days after party vice-president and J&K CM Omar Abdullah expanded the Cabinet, leaving several leaders disgruntled at not being given a berth",
+      "category": "Politics & Governance",
       "importance_score": 3,
       "is_major": false
     },
     {
-      "id": "d0f4fb06d8f626d7",
-      "title": "\"You Look Like Hell\": Trump Body-Shames Reporter Who Asked About His Health",
-      "url": "https://www.ndtv.com/world-news/trump-body-shames-reporter-over-health-question-midterm-rallies-put-yourself-in-shape-12256976#publisher=newsstand",
+      "id": "e87d6df20856a146",
+      "title": "KTR questions proposed sale of IDBI Bank, asks if its valuable real estate assets were factored in valuation",
+      "url": "https://www.thehindu.com/news/national/telangana/ktr-questions-proposed-sale-of-idbi-bank-asks-if-its-valuable-real-estate-assets-were-factored-in-valuation/article71648264.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/telangana/ktr-questions-proposed-sale-of-idbi-bank-asks-if-its-valuable-real-estate-assets-were-factored-in-valuation/article71648264.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-31T06:50:02+00:00",
+      "published_at_ist": "2026-10-31T12:20:02+05:30",
+      "summary": "BRS working president sought to know why the concerns raised by IDBI Bank employees over the proposed disinvestment were not being addressed",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "65db134277a26624",
+      "title": "Uniform Civil Code in U.P. if BJP voted to power again: Amit Shah",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-will-bring-ucc-in-uttar-pradesh-if-voted-to-power-again-says-amit-shah/article71644484.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-will-bring-ucc-in-uttar-pradesh-if-voted-to-power-again-says-amit-shah/article71644484.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-31T06:26:26+00:00",
+      "published_at_ist": "2026-10-31T11:56:26+05:30",
+      "summary": "Amit Shah challenges Rahul Gandhi and Akhilesh Yadav to a debate on the special intensive revision in Parliament, but says they just wanted to create a ruckus",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "3596ba555a1d974c",
+      "title": "Isro chief reveals multiple big missions up next after textbook GSLV launch",
+      "url": "https://www.indiatoday.in/science/story/isro-next-missions-pslv-sslv-gaganyaan-launches-nvs03-gslvf18-moon-india-astronauts-3029144-2026-10-31?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/science/story/isro-next-missions-pslv-sslv-gaganyaan-launches-nvs03-gslvf18-moon-india-astronauts-3029144-2026-10-31?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-31T05:30:03+00:00",
+      "published_at_ist": "2026-10-31T11:00:03+05:30",
+      "summary": "Isro chief reveals multiple big missions up next after textbook GSLV launch",
+      "category": "Technology & Science",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "4852c7cdce820440",
+      "title": "Actor Ajay Devgn moves High Court against FDA notice over Vimal Elaichi ads",
+      "url": "https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-31T04:11:47+00:00",
+      "published_at_ist": "2026-10-31T09:41:47+05:30",
+      "summary": "Devgn's petition stated that the notice was arbitrarily issued to him as an actor rather than to the manufacturing company",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "9e8cc77eec529acd",
+      "title": "US Approves Patriot Missile Sale To Ukraine, But Delivery Could Take Years",
+      "url": "https://www.ndtv.com/world-news/us-approves-patriot-missile-sale-to-ukraine-but-delivery-could-take-years-12261992#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -493,20 +307,41 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/trump-body-shames-reporter-over-health-question-midterm-rallies-put-yourself-in-shape-12256976#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/us-approves-patriot-missile-sale-to-ukraine-but-delivery-could-take-years-12261992#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-30T04:34:23+00:00",
-      "published_at_ist": "2026-10-30T10:04:23+05:30",
-      "summary": "When the reporter clarified he was checking on the President's health, this further infuriated Trump.",
+      "published_at_utc": "2026-10-31T03:28:31+00:00",
+      "published_at_ist": "2026-10-31T08:58:31+05:30",
+      "summary": "The statement did not provide an estimate for when the weapons could be delivered to Ukraine.",
+      "category": "Climate & Environment",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "280ff13b6a33ce5d",
+      "title": "In Poland, Judge Suspends Her Court's President. Protests, Coup Claim Follow",
+      "url": "https://www.ndtv.com/world-news/poland-protest-bogdan-swieczkowski-karol-nawrocki-donald-tusk-poland-constitutional-tribunal-12261899#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/poland-protest-bogdan-swieczkowski-karol-nawrocki-donald-tusk-poland-constitutional-tribunal-12261899#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-31T03:17:00+00:00",
+      "published_at_ist": "2026-10-31T08:47:00+05:30",
+      "summary": "Riot police were deployed around the court.",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "2599f7d626ed3b57",
-      "title": "MPs throw chairs, overturn tables in Armenia parliament",
-      "url": "https://www.indiatoday.in/newsmo/short-videos/mps-throw-chairs-overturn-tables-in-armenia-parliament-3028076-2026-10-29?utm_source=rss",
+      "id": "840460ff42ffebf2",
+      "title": "Poland midnight storm: How court crisis led to stir, President's U-Turn, coup claim",
+      "url": "https://www.indiatoday.in/world/story/poland-constitutional-tribunal-crisis-president-return-judges-suspension-3029096-2026-10-31?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -514,20 +349,83 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/newsmo/short-videos/mps-throw-chairs-overturn-tables-in-armenia-parliament-3028076-2026-10-29?utm_source=rss"
+          "url": "https://www.indiatoday.in/world/story/poland-constitutional-tribunal-crisis-president-return-judges-suspension-3029096-2026-10-31?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-29T17:07:05+00:00",
-      "published_at_ist": "2026-10-29T22:37:05+05:30",
-      "summary": "MPs throw chairs overturn tables in Armenia parliament",
+      "published_at_utc": "2026-10-31T03:15:10+00:00",
+      "published_at_ist": "2026-10-31T08:45:10+05:30",
+      "summary": "Poland midnight storm How court crisis led to stir Presidents UTurn coup claim",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "ebf5e053086825e5",
-      "title": "Toyota Innova Hycross facelift to launch on November 26, flex-fuel hybrid expected",
-      "url": "https://www.indiatoday.in/auto/cars/story/toyota-innova-hycross-facelift-to-launch-on-november-26-flex-fuel-hybrid-expected-3028367-2026-10-30?utm_source=rss",
+      "id": "d6232bac9f12057a",
+      "title": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained",
+      "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-31T02:49:09+00:00",
+      "published_at_ist": "2026-10-31T08:19:09+05:30",
+      "summary": "The mission could help restore the functioning of India’s regional satellite navigation system NavIC; its development began following the 1999 Kargil War, when the U.S reportedly clamped down on GPS data access",
+      "category": "Technology & Science",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "ede92c99b72b3831",
+      "title": "GSLV places next-generation navigation satellite NVS-03 into orbit",
+      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-31T02:39:54+00:00",
+      "published_at_ist": "2026-10-31T08:09:54+05:30",
+      "summary": "The NVS-03, with a mission life of 12 years, is expected to restore the functioning of the NavIC constellation; satellite carries an indigenous atomic clock, along with procured atomic clocks",
+      "category": "Business & Economy",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "12bdd3af83b979ae",
+      "title": "NVS-03 launched successfully; satellite placed in intended orbit | Highlights",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece"
+        }
+      ],
+      "published_at_utc": "2026-10-31T00:41:29+00:00",
+      "published_at_ist": "2026-10-31T06:11:29+05:30",
+      "summary": "NVS-03 satellite is equipped with an indigenous atomic clock alongside procured atomic clocks",
+      "category": "Business & Economy",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "ad7a05766815f2f0",
+      "title": "She quit her job, they started selling cold coco from a car. Now they earn Rs 6 lakh",
+      "url": "https://www.indiatoday.in/jobs/in-focus/story/ahmedabad-couples-cold-coco-business-earns-rs-6-lakh-monthly-from-rs-3000-investment-3029201-2026-10-31?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -535,16 +433,75 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/auto/cars/story/toyota-innova-hycross-facelift-to-launch-on-november-26-flex-fuel-hybrid-expected-3028367-2026-10-30?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/auto/cars/story/toyota-innova-hycross-facelift-to-launch-on-november-26-flex-fuel-hybrid-expected-3028367-2026-10-30?utm_source=rss"
+          "url": "https://www.indiatoday.in/jobs/in-focus/story/ahmedabad-couples-cold-coco-business-earns-rs-6-lakh-monthly-from-rs-3000-investment-3029201-2026-10-31?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-30T07:35:06+00:00",
-      "published_at_ist": "2026-10-30T13:05:06+05:30",
-      "summary": "Toyota Innova Hycross facelift to launch on November flexfuel hybrid expected",
+      "published_at_utc": "2026-10-31T07:20:32+00:00",
+      "published_at_ist": "2026-10-31T12:50:32+05:30",
+      "summary": "She quit her job they started selling cold coco from a car Now they earn Rs lakh",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "4dacf9196070f49c",
+      "title": "Samsung Galaxy S25 Ultra price drops by Rs 35,000",
+      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-price-drops-by-rs-35000-287153-30-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-price-drops-by-rs-35000-287153-30-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-31T07:20:04+00:00",
+      "published_at_ist": "2026-10-31T12:50:04+05:30",
+      "summary": "Samsung Galaxy S Ultra price drops by Rs",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "d31251ad291edd21",
+      "title": "Samsung Galaxy S25 Ultra gets a massive discount of Rs 42,736 on Flipkart: details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-gets-a-massive-discount-of-42736-on-flipkart-details-here-287144-30-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-gets-a-massive-discount-of-42736-on-flipkart-details-here-287144-30-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-31T07:20:04+00:00",
+      "published_at_ist": "2026-10-31T12:50:04+05:30",
+      "summary": "Samsung Galaxy S Ultra gets a massive discount of Rs on Flipkart details here",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "94a397360d9dc538",
+      "title": "iPhone Air price drops below Rs 99,999, details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-below-rs-99999-details-here-287138-30-10-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-below-rs-99999-details-here-287138-30-10-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-10-31T07:20:04+00:00",
+      "published_at_ist": "2026-10-31T12:50:04+05:30",
+      "summary": "iPhone Air price drops below Rs details here",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
@@ -563,8 +520,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-gets-a-price-cut-on-flipkart-details-here-287111-29-10-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-30T07:35:03+00:00",
-      "published_at_ist": "2026-10-30T13:05:03+05:30",
+      "published_at_utc": "2026-10-31T07:20:04+00:00",
+      "published_at_ist": "2026-10-31T12:50:04+05:30",
       "summary": "iPhone gets a price cut on Flipkart details here",
       "category": "India & General",
       "importance_score": 1,
@@ -584,8 +541,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-11-gets-rs-14000-off-check-deal-here-287110-29-10-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-30T07:35:03+00:00",
-      "published_at_ist": "2026-10-30T13:05:03+05:30",
+      "published_at_utc": "2026-10-31T07:20:04+00:00",
+      "published_at_ist": "2026-10-31T12:50:04+05:30",
       "summary": "Google Pixel gets Rs off check deal here",
       "category": "India & General",
       "importance_score": 1,
@@ -605,17 +562,17 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-gets-big-price-drop-details-here-287108-29-10-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-30T07:35:03+00:00",
-      "published_at_ist": "2026-10-30T13:05:03+05:30",
+      "published_at_utc": "2026-10-31T07:20:04+00:00",
+      "published_at_ist": "2026-10-31T12:50:04+05:30",
       "summary": "iPhone gets big price drop details here",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "3c7f225c4d98c875",
-      "title": "Samsung Galaxy S25 price drops by Rs 17,500 without conditions",
-      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-price-drops-by-rs-17500-without-conditions-287084-28-10-2026?utm_source=rss",
+      "id": "d041efcb2213a250",
+      "title": "Shehbaz Sharif orders faster projects in occupied Gilgit-Baltistan",
+      "url": "https://www.indiatoday.in/world/story/gilgit-baltistan-projects-shehbaz-sharif-orders-faster-work-india-opposes-cpec-ptag-3029200-2026-10-31?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -623,62 +580,24 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-price-drops-by-rs-17500-without-conditions-287084-28-10-2026?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-30T07:35:03+00:00",
-      "published_at_ist": "2026-10-30T13:05:03+05:30",
-      "summary": "Samsung Galaxy S price drops by Rs without conditions",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "5d1644929bbdcd88",
-      "title": "Google Pixel 10 gets massive discount on Amazon: details here",
-      "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-gets-massive-discount-on-amazon-details-here-287073-28-10-2026?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
+          "url": "https://www.indiatoday.in/world/story/gilgit-baltistan-projects-shehbaz-sharif-orders-faster-work-india-opposes-cpec-ptag-3029200-2026-10-31?utm_source=rss"
+        },
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-gets-massive-discount-on-amazon-details-here-287073-28-10-2026?utm_source=rss"
+          "url": "https://www.indiatoday.in/world/story/gilgit-baltistan-projects-shehbaz-sharif-orders-faster-work-india-opposes-cpec-ptag-3029200-2026-10-31?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-10-30T07:35:03+00:00",
-      "published_at_ist": "2026-10-30T13:05:03+05:30",
-      "summary": "Google Pixel gets massive discount on Amazon details here",
+      "published_at_utc": "2026-10-31T07:18:29+00:00",
+      "published_at_ist": "2026-10-31T12:48:29+05:30",
+      "summary": "Shehbaz Sharif orders faster projects in occupied GilgitBaltistan",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "08c1ce276f749f69",
-      "title": "iPhone 16 now available at the lowest price in India",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-now-available-at-the-lowest-price-in-india-287048-27-10-2026?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-now-available-at-the-lowest-price-in-india-287048-27-10-2026?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-10-30T07:35:03+00:00",
-      "published_at_ist": "2026-10-30T13:05:03+05:30",
-      "summary": "iPhone now available at the lowest price in India",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "405a9135f40dbc75",
-      "title": "Madhya Pradesh Woman Refuses To Fast On Karwa Chauth, Husband Threatens Divorce",
-      "url": "https://www.ndtv.com/india-news/madhya-pradesh-woman-refuses-to-fast-on-karwa-chauth-husband-threatens-divorce-12257532#publisher=newsstand",
+      "id": "32ee0149d8e4cf96",
+      "title": "On CCTV, Class 3 Student Thrashes Girl With Stones, Pot In Haryana School",
+      "url": "https://www.ndtv.com/india-news/on-cctv-class-3-student-thrashes-girl-with-stones-pot-in-haryana-school-12262510#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -686,20 +605,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/madhya-pradesh-woman-refuses-to-fast-on-karwa-chauth-husband-threatens-divorce-12257532#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/on-cctv-class-3-student-thrashes-girl-with-stones-pot-in-haryana-school-12262510#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-30T06:29:13+00:00",
-      "published_at_ist": "2026-10-30T11:59:13+05:30",
-      "summary": "The man threatened that if his wife fails to celebrate Karwa Chauth, he will divorce her.",
-      "category": "India & General",
+      "published_at_utc": "2026-10-31T06:46:48+00:00",
+      "published_at_ist": "2026-10-31T12:16:48+05:30",
+      "summary": "The boy thrashed her after she allegedly told him that she would complain about him to school teachers.",
+      "category": "Education",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "12fc797cba8fe279",
-      "title": "On Camera, Men Chase Bus, Assault Andhra Driver Over Alleged Rash Driving",
-      "url": "https://www.ndtv.com/andhra-pradesh-news/on-camera-men-chase-bus-assault-andhra-pradesh-apsrtc-driver-over-alleged-rash-driving-12257464#publisher=newsstand",
+      "id": "276366bb2570f617",
+      "title": "\"Multiple Unauthorised Debits\": CBI Case In Greater Noida PNB Fraud Case",
+      "url": "https://www.ndtv.com/india-news/cbi-case-in-greater-noida-pnb-fraud-case-multiple-unauthorised-debits-12262376#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -707,20 +626,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/andhra-pradesh-news/on-camera-men-chase-bus-assault-andhra-pradesh-apsrtc-driver-over-alleged-rash-driving-12257464#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/cbi-case-in-greater-noida-pnb-fraud-case-multiple-unauthorised-debits-12262376#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-30T06:09:45+00:00",
-      "published_at_ist": "2026-10-30T11:39:45+05:30",
-      "summary": "A video purportedly showing the assault has circulated widely on social media.",
-      "category": "India & General",
+      "published_at_utc": "2026-10-31T06:02:41+00:00",
+      "published_at_ist": "2026-10-31T11:32:41+05:30",
+      "summary": "PNB said the alleged fraud came to light after an account holder approached the branch head.",
+      "category": "Sports",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "c5842f2f80336b8f",
-      "title": "Analysis: Drugs, Not Panthik Grievances, Are Driving Punjab's 2027 Race",
-      "url": "https://www.ndtv.com/india-news/bhagwant-mann-aap-drugs-not-panthik-grievances-are-driving-punjabs-2027-race-12257404#publisher=newsstand",
+      "id": "4ed84a08f3cebd4a",
+      "title": "What Are Limpet Mines That Were Used To Hit Tanker Carrying Indians In Hormuz?",
+      "url": "https://www.ndtv.com/world-news/what-are-limpet-mines-that-were-used-to-hit-tanker-carrying-indians-in-hormuz-12262323#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -728,20 +647,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/bhagwant-mann-aap-drugs-not-panthik-grievances-are-driving-punjabs-2027-race-12257404#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/what-are-limpet-mines-that-were-used-to-hit-tanker-carrying-indians-in-hormuz-12262323#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-30T05:54:09+00:00",
-      "published_at_ist": "2026-10-30T11:24:09+05:30",
-      "summary": "The ruling AAP is under pressure. Eradicating drugs was a central promise of its 2022 win",
+      "published_at_utc": "2026-10-31T05:43:17+00:00",
+      "published_at_ist": "2026-10-31T11:13:17+05:30",
+      "summary": "The mines contain small explosive charges that explode through a time-delay device",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "2a59307cbd9fb54e",
-      "title": "'Dixie' Map That Divided US Into North, South Sold For Nearly $1 Million",
-      "url": "https://www.ndtv.com/world-news/dixie-map-mason-dixon-line-that-divided-us-into-north-south-sold-for-nearly-1-million-12257359#publisher=newsstand",
+      "id": "a6a0647e50debe6d",
+      "title": "After Rahul Gandhi, Delhi Traders Turn To His Allies Over November 1 Rally",
+      "url": "https://www.ndtv.com/india-news/after-rahul-gandhi-delhi-traders-turn-to-his-allies-over-november-1-rally-12262208#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -749,13 +668,97 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/dixie-map-mason-dixon-line-that-divided-us-into-north-south-sold-for-nearly-1-million-12257359#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/after-rahul-gandhi-delhi-traders-turn-to-his-allies-over-november-1-rally-12262208#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-10-30T05:45:29+00:00",
-      "published_at_ist": "2026-10-30T11:15:29+05:30",
-      "summary": "Brunk said the buyer asked to remain anonymous, at least for the time being.",
+      "published_at_utc": "2026-10-31T04:58:13+00:00",
+      "published_at_ist": "2026-10-31T10:28:13+05:30",
+      "summary": "The traders' body has flagged the lack of parking space at Ramlila Maidan",
+      "category": "Business & Economy",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "4c4d372a3eb67ebb",
+      "title": "Indian-Origin Woman Missing For Two Months Found Dead In California Canal",
+      "url": "https://www.ndtv.com/world-news/indian-origin-woman-missing-for-two-months-found-dead-in-california-canal-12262157#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/indian-origin-woman-missing-for-two-months-found-dead-in-california-canal-12262157#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-31T04:40:38+00:00",
+      "published_at_ist": "2026-10-31T10:10:38+05:30",
+      "summary": "Kaur was reported missing from the Casa Grande Apartment complex in Ceres on August 23.",
       "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "03d6799ac0d80f03",
+      "title": "Woman Secretly Returns To Pune From UK. How Food Delivery Led To Her Body",
+      "url": "https://www.ndtv.com/india-news/woman-returns-to-india-from-uk-without-informing-family-found-dead-in-pune-12262041#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/woman-returns-to-india-from-uk-without-informing-family-found-dead-in-pune-12262041#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-31T04:11:53+00:00",
+      "published_at_ist": "2026-10-31T09:41:53+05:30",
+      "summary": "There were no visible injury marks on Mugdha's body",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "63140c2d7ebf5174",
+      "title": "BJP Chief Nitin Nabin Hosts Diwali Event For Diplomats From 50 Countries",
+      "url": "https://www.ndtv.com/india-news/bjp-chief-nitin-nabin-hosts-diwali-event-for-diplomats-from-50-countries-12262076#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/bjp-chief-nitin-nabin-hosts-diwali-event-for-diplomats-from-50-countries-12262076#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-31T04:08:28+00:00",
+      "published_at_ist": "2026-10-31T09:38:28+05:30",
+      "summary": "Union Ministers and senior party leaders also attended the event.",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "a45bd313e68e49ee",
+      "title": "US Scraps Traditional G20 Photo As Europeans Object To Posing With Russia's Lavrov",
+      "url": "https://www.ndtv.com/world-news/us-bins-g20-photo-as-europeans-object-to-posing-with-russias-lavrov-12262024#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/us-bins-g20-photo-as-europeans-object-to-posing-with-russias-lavrov-12262024#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-10-31T03:48:01+00:00",
+      "published_at_ist": "2026-10-31T09:18:01+05:30",
+      "summary": "Europeans baulked at being photographed with Russian Foreign Minister Sergey Lavrov.",
+      "category": "Politics & Governance",
       "importance_score": 1,
       "is_major": false
     }
