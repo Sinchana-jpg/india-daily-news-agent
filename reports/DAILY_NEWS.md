@@ -1,119 +1,149 @@
 # India Daily News Brief
 
-> Published: 31 October 2026, 12:52 PM IST  
+> Published: 01 November 2026, 01:25 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **7**
+- Major stories highlighted: **11**
 - Sources checked successfully: **4**
 
 ### Stories by category
 
-- **Politics & Governance:** 13
-- **India & General:** 12
-- **Business & Economy:** 4
+- **India & General:** 15
+- **Politics & Governance:** 14
+- **Business & Economy:** 2
 - **Climate & Environment:** 2
-- **Technology & Science:** 2
-- **Education:** 1
-- **Sports:** 1
+- **Education:** 2
 
 ## Major stories
 
-### 1. [Cyclone Arnab Triggers Floods, Landslide In Odisha, 3 Die](https://www.ndtv.com/india-news/cyclone-arnab-triggers-floods-landslide-in-odisha-3-killed-12262082#publisher=newsstand)
+### 1. [Madras High Court Advocates Association challenges 1965 Union Cabinet decision to continue English as common language for Supreme Court and all High Courts](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece)
 
-- **Category:** Climate & Environment
-- **Source(s):** NDTV
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
 - **Importance score:** 5/10 (heuristic)
-- **Published:** 31 Oct 2026, 09:40 AM IST
-- **Summary:** A central team will visit Odisha on November 2 to assess the damage.
+- **Published:** 01 Nov 2026, 02:27 AM IST
+- **Summary:** Says, the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005
 
-### 2. [Why are paper ballots used for MLC polls? Explained](https://www.thehindu.com/news/national/why-are-paper-ballots-used-for-mlc-polls-explained/article71648197.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 31 Oct 2026, 09:35 AM IST
-- **Summary:** MLC elections use proportional representation through a single transferable vote. Voters rank candidates instead of picking just one. EVMs are built for “first-past-the-post elections” in India in which voter chooses one candidate, so they cannot record ranked preferences
-
-### 3. [Heavy polling in second phase panchayat elections for Sarpanch, Ward Panch in Rajasthan](https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece)
+### 2. [In Punjab, the highway to 2027](https://www.thehindu.com/news/national/punjab/in-punjab-the-highway-to-2027/article71649073.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 31 Oct 2026, 03:39 AM IST
-- **Summary:** The highest voter turnout was recorded at 84.37% in Jaipur district’s Rampura Dabri
+- **Published:** 01 Nov 2026, 01:09 PM IST
+- **Summary:** The drug menace in Punjab has stayed at the centre of political and social attention over the past decade or more. With the killing of anti-drug crusader Parvinder Singh Jhota, public emotions are running high. Political parties are hoping to capitalise on this, with the Assembly election due in early 2027, finds Vikas
 
-### 4. [Failed relationships cannot turn consensual sex into rape: Supreme Court](https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 31 Oct 2026, 02:04 AM IST
-- **Summary:** Court distinguishes between consent allegedly obtained through deception and regret over consensual intimacy after a relationship ends
-
-### 5. [Election Commission’s appeals against 16.10 lakh cleared voters raise legal questions](https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece)
+### 3. [Supreme Court allows tax reassessment of Sabharwal brothers' share deals](https://www.indiatoday.in/india/law-news/story/supreme-court-allows-income-tax-reassessment-sabharwal-brothers-share-deals-ptag-3029793-2026-11-01?utm_source=rss)
 
 - **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 31 Oct 2026, 02:00 AM IST
-- **Summary:** The officials who filed appeals against the inclusion of the 16.10 lakh voters may not have had the authority to do so under the Representation of the People Act; according to the Act, the CEO/DEO/ERO/AERO are the authorities with respect to electoral rolls
-
-### 6. [Supreme Court asks Centre to take measures against online misuse of court feeds](https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 31 Oct 2026, 01:49 AM IST
-- **Summary:** Solicitor General Tushar Mehta submits that suggestions from various High Courts and other stakeholders have been received and forwarded to the Ministry of Electronics and Information Technology
-
-### 7. [$6.3 bn stolen from Binance in record-breaking cryptocurrency heist](https://www.indiatoday.in/newsmo/short-videos/63-bn-stolen-from-binance-in-record-breaking-cryptocurrency-heist-3029058-2026-10-31?utm_source=rss)
-
-- **Category:** India & General
 - **Source(s):** India Today
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 31 Oct 2026, 12:58 AM IST
-- **Summary:** bn stolen from Binance in recordbreaking cryptocurrency heist
+- **Published:** 01 Nov 2026, 12:54 PM IST
+- **Summary:** Supreme Court allows tax reassessment of Sabharwal brothers share deals
+
+### 4. [Second cyclone in less than a week headed to hit Andhra, satellite sends pics](https://www.indiatoday.in/science/story/second-cyclone-in-less-than-a-week-headed-to-hit-andhra-satellite-tracks-from-space-3029784-2026-11-01?utm_source=rss)
+
+- **Category:** Climate & Environment
+- **Source(s):** India Today
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 01 Nov 2026, 12:47 PM IST
+- **Summary:** Second cyclone in less than a week headed to hit Andhra satellite sends pics
+
+### 5. [India's opposition holds mega rally seeking election chief's resignation](https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss)
+
+- **Category:** Politics & Governance
+- **Source(s):** BBC News India
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 01 Nov 2026, 12:30 PM IST
+- **Summary:** It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.
+
+### 6. [Urban local body elections begin in Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections/article71651976.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 01 Nov 2026, 11:30 AM IST
+- **Summary:** State Election Commissioner Anil Chandra Punetha and his team of officers are personally monitoring the conduct of the elections, for which elaborate arrangements were made, including the installation of CCTV cameras and deployment of drones at places where clashes are anticipated
+
+### 7. [1,172 candidates receive offer letters at job fair held in Villupuram](https://www.thehindu.com/news/national/tamil-nadu/1172-candidates-receive-offer-letters-at-job-fair-held-in-villupuram/article71652132.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 01 Nov 2026, 10:38 AM IST
+- **Summary:** More than 167 companies interviewed 4,214 candidates at the fair. Besides those selected for employment, as many as 163 candidates qualified for the second round of selection
+
+### 8. [Clear skies after Arnab cyclone expected to ensure decent poll percentage in North Andhra districts](https://www.thehindu.com/news/national/andhra-pradesh/clear-skies-after-arnab-cyclone-expected-to-ensure-decent-poll-percentage-in-north-andhra-districts/article71651947.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 01 Nov 2026, 09:24 AM IST
+- **Summary:** As many as 229 polling stations have been set up across 62 divisions in the Fort City.
+
+### 9. [Justice Sanjay Kishan Kaul on his memoir ‘Without Fear or Favour ‘and the executive’s growing influence over the collegium system](https://www.thehindu.com/books/justice-sanjay-kishan-kaul-on-his-memoir-without-fear-or-favour-and-the-executives-growing-influence-over-the-collegium-system/article71643731.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 01 Nov 2026, 08:59 AM IST
+- **Summary:** The former Supreme Court judge on delays in clearing collegium recommendations and the need for reform
+
+### 10. [IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity](https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 01 Nov 2026, 03:09 AM IST
+- **Summary:** The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9
+
+### 11. [Piyush Goyal on Chinese goods flooding Indian markets](https://www.indiatoday.in/newsmo/short-videos/piyush-goyal-on-chinese-goods-flooding-indian-markets-3029459-2026-10-31?utm_source=rss)
+
+- **Category:** Business & Economy
+- **Source(s):** India Today
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 31 Oct 2026, 07:08 PM IST
+- **Summary:** Piyush Goyal on Chinese goods flooding Indian markets
 
 ## All collected stories
 
-- [Cyclone Arnab Triggers Floods, Landslide In Odisha, 3 Die](https://www.ndtv.com/india-news/cyclone-arnab-triggers-floods-landslide-in-odisha-3-killed-12262082#publisher=newsstand) — **Climate & Environment** · NDTV
-- [Why are paper ballots used for MLC polls? Explained](https://www.thehindu.com/news/national/why-are-paper-ballots-used-for-mlc-polls-explained/article71648197.ece) — **Politics & Governance** · The Hindu
-- [Heavy polling in second phase panchayat elections for Sarpanch, Ward Panch in Rajasthan](https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece) — **Politics & Governance** · The Hindu
-- [Failed relationships cannot turn consensual sex into rape: Supreme Court](https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece) — **Politics & Governance** · The Hindu
-- [Election Commission’s appeals against 16.10 lakh cleared voters raise legal questions](https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court asks Centre to take measures against online misuse of court feeds](https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece) — **Politics & Governance** · The Hindu
-- [$6.3 bn stolen from Binance in record-breaking cryptocurrency heist](https://www.indiatoday.in/newsmo/short-videos/63-bn-stolen-from-binance-in-record-breaking-cryptocurrency-heist-3029058-2026-10-31?utm_source=rss) — **India & General** · India Today
-- [PM Hails ISRO Launch, NVS-03 Satellite Orbit Boost and Five New Missions](https://www.indiatoday.in/technology/video/pm-hails-isro-launch-nvs-03-satellite-orbit-boost-and-five-new-missions-ytvd-3029099-2026-10-31?utm_source=rss) — **Business & Economy** · India Today
-- [17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party](https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece) — **Politics & Governance** · The Hindu
-- [KTR questions proposed sale of IDBI Bank, asks if its valuable real estate assets were factored in valuation](https://www.thehindu.com/news/national/telangana/ktr-questions-proposed-sale-of-idbi-bank-asks-if-its-valuable-real-estate-assets-were-factored-in-valuation/article71648264.ece) — **Politics & Governance** · The Hindu
-- [Uniform Civil Code in U.P. if BJP voted to power again: Amit Shah](https://www.thehindu.com/news/national/uttar-pradesh/bjp-will-bring-ucc-in-uttar-pradesh-if-voted-to-power-again-says-amit-shah/article71644484.ece) — **Politics & Governance** · The Hindu
-- [Isro chief reveals multiple big missions up next after textbook GSLV launch](https://www.indiatoday.in/science/story/isro-next-missions-pslv-sslv-gaganyaan-launches-nvs03-gslvf18-moon-india-astronauts-3029144-2026-10-31?utm_source=rss) — **Technology & Science** · India Today
-- [Actor Ajay Devgn moves High Court against FDA notice over Vimal Elaichi ads](https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece) — **Politics & Governance** · The Hindu
-- [US Approves Patriot Missile Sale To Ukraine, But Delivery Could Take Years](https://www.ndtv.com/world-news/us-approves-patriot-missile-sale-to-ukraine-but-delivery-could-take-years-12261992#publisher=newsstand) — **Climate & Environment** · NDTV
-- [In Poland, Judge Suspends Her Court's President. Protests, Coup Claim Follow](https://www.ndtv.com/world-news/poland-protest-bogdan-swieczkowski-karol-nawrocki-donald-tusk-poland-constitutional-tribunal-12261899#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Poland midnight storm: How court crisis led to stir, President's U-Turn, coup claim](https://www.indiatoday.in/world/story/poland-constitutional-tribunal-crisis-president-return-judges-suspension-3029096-2026-10-31?utm_source=rss) — **Politics & Governance** · India Today
-- [Why is ISRO’s NVS-03 satellite launch crucial? \| Explained](https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece) — **Technology & Science** · The Hindu
-- [GSLV places next-generation navigation satellite NVS-03 into orbit](https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece) — **Business & Economy** · The Hindu
-- [NVS-03 launched successfully; satellite placed in intended orbit \| Highlights](https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece) — **Business & Economy** · The Hindu
-- [She quit her job, they started selling cold coco from a car. Now they earn Rs 6 lakh](https://www.indiatoday.in/jobs/in-focus/story/ahmedabad-couples-cold-coco-business-earns-rs-6-lakh-monthly-from-rs-3000-investment-3029201-2026-10-31?utm_source=rss) — **India & General** · India Today
+- [Madras High Court Advocates Association challenges 1965 Union Cabinet decision to continue English as common language for Supreme Court and all High Courts](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece) — **Politics & Governance** · The Hindu
+- [In Punjab, the highway to 2027](https://www.thehindu.com/news/national/punjab/in-punjab-the-highway-to-2027/article71649073.ece) — **Politics & Governance** · The Hindu
+- [Supreme Court allows tax reassessment of Sabharwal brothers' share deals](https://www.indiatoday.in/india/law-news/story/supreme-court-allows-income-tax-reassessment-sabharwal-brothers-share-deals-ptag-3029793-2026-11-01?utm_source=rss) — **Politics & Governance** · India Today
+- [Second cyclone in less than a week headed to hit Andhra, satellite sends pics](https://www.indiatoday.in/science/story/second-cyclone-in-less-than-a-week-headed-to-hit-andhra-satellite-tracks-from-space-3029784-2026-11-01?utm_source=rss) — **Climate & Environment** · India Today
+- [India's opposition holds mega rally seeking election chief's resignation](https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss) — **Politics & Governance** · BBC News India
+- [Urban local body elections begin in Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections/article71651976.ece) — **Politics & Governance** · The Hindu
+- [1,172 candidates receive offer letters at job fair held in Villupuram](https://www.thehindu.com/news/national/tamil-nadu/1172-candidates-receive-offer-letters-at-job-fair-held-in-villupuram/article71652132.ece) — **Politics & Governance** · The Hindu
+- [Clear skies after Arnab cyclone expected to ensure decent poll percentage in North Andhra districts](https://www.thehindu.com/news/national/andhra-pradesh/clear-skies-after-arnab-cyclone-expected-to-ensure-decent-poll-percentage-in-north-andhra-districts/article71651947.ece) — **Climate & Environment** · The Hindu
+- [Justice Sanjay Kishan Kaul on his memoir ‘Without Fear or Favour ‘and the executive’s growing influence over the collegium system](https://www.thehindu.com/books/justice-sanjay-kishan-kaul-on-his-memoir-without-fear-or-favour-and-the-executives-growing-influence-over-the-collegium-system/article71643731.ece) — **Politics & Governance** · The Hindu
+- [IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity](https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece) — **Politics & Governance** · The Hindu
+- [Piyush Goyal on Chinese goods flooding Indian markets](https://www.indiatoday.in/newsmo/short-videos/piyush-goyal-on-chinese-goods-flooding-indian-markets-3029459-2026-10-31?utm_source=rss) — **Business & Economy** · India Today
+- [President Murmu inaugurates Simhastha Kumbh preparations in Nashik](https://www.thehindu.com/news/national/maharashtra/president-murmu-inaugurates-simhastha-kumbh-preparations-in-nashik/article71650535.ece) — **Politics & Governance** · The Hindu
+- [At Mock Parliament On Gyanesh Kumar, Meira Kumar Sat On 'Nehru Chair'](https://www.ndtv.com/india-news/at-mock-parliament-on-gyanesh-kumar-meira-kumar-sat-on-nehru-chair-12265132#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Nearly a year after its due date, Kannada Sahitya Sammelana still not held](https://www.thehindu.com/news/national/karnataka/nearly-a-year-after-its-due-date-kannada-sahitya-sammelana-still-not-held/article71649182.ece) — **Politics & Governance** · The Hindu
+- [Former Union Minister Arjun Munda plays flute for ailing mother](https://www.indiatoday.in/newsmo/short-videos/former-union-minister-arjun-munda-plays-flute-for-ailing-mother-3029812-2026-11-01?utm_source=rss) — **Politics & Governance** · India Today
+- [India no banana republic: JP Nadda tears into Rahul Gandhi before INDIA bloc rally](https://www.indiatoday.in/india/story/jp-nadda-attacks-rahul-gandhi-india-bloc-rally-delhi-ramlila-maidan-3029805-2026-11-01?utm_source=rss) — **India & General** · India Today
 - [Samsung Galaxy S25 Ultra price drops by Rs 35,000](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-price-drops-by-rs-35000-287153-30-10-2026?utm_source=rss) — **India & General** · India Today
 - [Samsung Galaxy S25 Ultra gets a massive discount of Rs 42,736 on Flipkart: details here](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-gets-a-massive-discount-of-42736-on-flipkart-details-here-287144-30-10-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone Air price drops below Rs 99,999, details here](https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-below-rs-99999-details-here-287138-30-10-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 17 gets a price cut on Flipkart: details here](https://www.indiatoday.in/visualstories/technology/iphone-17-gets-a-price-cut-on-flipkart-details-here-287111-29-10-2026?utm_source=rss) — **India & General** · India Today
 - [Google Pixel 11 gets Rs 14,000 off, check deal here](https://www.indiatoday.in/visualstories/technology/google-pixel-11-gets-rs-14000-off-check-deal-here-287110-29-10-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 16 gets big price drop, details here](https://www.indiatoday.in/visualstories/technology/iphone-16-gets-big-price-drop-details-here-287108-29-10-2026?utm_source=rss) — **India & General** · India Today
-- [Shehbaz Sharif orders faster projects in occupied Gilgit-Baltistan](https://www.indiatoday.in/world/story/gilgit-baltistan-projects-shehbaz-sharif-orders-faster-work-india-opposes-cpec-ptag-3029200-2026-10-31?utm_source=rss) — **India & General** · India Today
-- [On CCTV, Class 3 Student Thrashes Girl With Stones, Pot In Haryana School](https://www.ndtv.com/india-news/on-cctv-class-3-student-thrashes-girl-with-stones-pot-in-haryana-school-12262510#publisher=newsstand) — **Education** · NDTV
-- ["Multiple Unauthorised Debits": CBI Case In Greater Noida PNB Fraud Case](https://www.ndtv.com/india-news/cbi-case-in-greater-noida-pnb-fraud-case-multiple-unauthorised-debits-12262376#publisher=newsstand) — **Sports** · NDTV
-- [What Are Limpet Mines That Were Used To Hit Tanker Carrying Indians In Hormuz?](https://www.ndtv.com/world-news/what-are-limpet-mines-that-were-used-to-hit-tanker-carrying-indians-in-hormuz-12262323#publisher=newsstand) — **India & General** · NDTV
-- [After Rahul Gandhi, Delhi Traders Turn To His Allies Over November 1 Rally](https://www.ndtv.com/india-news/after-rahul-gandhi-delhi-traders-turn-to-his-allies-over-november-1-rally-12262208#publisher=newsstand) — **Business & Economy** · NDTV
-- [Indian-Origin Woman Missing For Two Months Found Dead In California Canal](https://www.ndtv.com/world-news/indian-origin-woman-missing-for-two-months-found-dead-in-california-canal-12262157#publisher=newsstand) — **India & General** · NDTV
-- [Woman Secretly Returns To Pune From UK. How Food Delivery Led To Her Body](https://www.ndtv.com/india-news/woman-returns-to-india-from-uk-without-informing-family-found-dead-in-pune-12262041#publisher=newsstand) — **India & General** · NDTV
-- [BJP Chief Nitin Nabin Hosts Diwali Event For Diplomats From 50 Countries](https://www.ndtv.com/india-news/bjp-chief-nitin-nabin-hosts-diwali-event-for-diplomats-from-50-countries-12262076#publisher=newsstand) — **Politics & Governance** · NDTV
-- [US Scraps Traditional G20 Photo As Europeans Object To Posing With Russia's Lavrov](https://www.ndtv.com/world-news/us-bins-g20-photo-as-europeans-object-to-posing-with-russias-lavrov-12262024#publisher=newsstand) — **Politics & Governance** · NDTV
+- [LPG Price Hike: दिवाली से पहले झटका, आज महंगा हो गया LPG सिलेंडर, दिल्ली से मुंबई तक ये नए रेट](https://www.aajtak.in/business/utility/story/lpg-cylinder-price-hike-today-19-kg-price-increase-before-diwali-check-delhi-mumbai-new-rates-tutc-dskc-2685670-2026-11-01?utm_source=rss) — **India & General** · India Today
+- [Karnataka thinking of officially recognizing Kannada flag, Chief Minister D.K. Shivakumar](https://www.thehindu.com/news/national/karnataka/karnataka-thinking-of-officially-recognizing-kannada-flag-chief-minister-dk-shivakumar/article71652336.ece) — **Politics & Governance** · The Hindu
+- [Sonia, Rahul Gandhi, Mamata Banerjee among INDIA bloc leaders marching to Ramlila Maidan, demanding CEC's removal \| LIVE](https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece) — **Education** · The Hindu
+- [Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; 22.08% turnout by 11 a.m. \| LIVE](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece) — **India & General** · The Hindu
+- [Telangana Woman, 2 Lovers Kill Husband, Throw Body Into Lake To Stage It As Crash](https://www.ndtv.com/telangana-news/telangana-woman-2-lovers-kill-husband-throw-body-into-lake-to-stage-it-as-crash-12264745#publisher=newsstand) — **India & General** · NDTV
+- [INDIA Bloc Begins Delhi Rally, BJP Calls It "Foolish Orchestrated Drama"](https://www.ndtv.com/delhi-news/india-bloc-and-bjp-to-hold-rival-marches-in-delhi-traders-warn-of-diwali-losses-12265869#publisher=newsstand) — **India & General** · NDTV
+- [Stalking, Rejected Proposal Behind Andhra School Chainsaw Attack: Sources](https://www.ndtv.com/india-news/anantapur-andhra-school-chainsaw-attack-stalking-rejected-proposal-lokesh-nara-zilla-parishad-high-school-raptadu-village-12265999#publisher=newsstand) — **Politics & Governance** · NDTV
+- [On CCTV, MBA Student Steals Thar Tyres In Hyderabad, Took Tools From Puncture Shop](https://www.ndtv.com/hyderabad-news/hyderabad-mba-student-steals-thar-tyres-borrowed-tools-from-puncture-shop-12265957#publisher=newsstand) — **Education** · NDTV
+- [INDIA Bloc Rally, BJP Protest March LIVE Updates: "You Must Come," Says Rahul Gandhi Before 'Chalo Dilli' March](https://www.ndtv.com/india-news/india-bloc-rally-live-updates-chalo-dilli-march-ramlila-maidan-protest-india-bloc-vs-bjp-counter-march-loktantra-bachao-arajakta-hatao-rahul-gandhi-de-12266124#publisher=newsstand) — **India & General** · NDTV
+- [Video: Cab Flips After 3 Vehicles Collide At High Speed In Gurugram](https://www.ndtv.com/india-news/on-camera-cab-flips-after-3-vehicles-collide-at-high-speed-in-gurugram-12266076#publisher=newsstand) — **Business & Economy** · NDTV
+- [Jharkhand Cop Arrested For Raping Woman Inside Police Station, 5 Suspended](https://www.ndtv.com/india-news/jharkhand-cop-arrested-for-raping-woman-inside-police-station-5-suspended-12264968#publisher=newsstand) — **India & General** · NDTV
+- [PM Modi Greets People Of 6 States On Foundation Day](https://www.ndtv.com/india-news/pm-modi-greets-people-of-6-states-on-foundation-day-12266062#publisher=newsstand) — **India & General** · NDTV
+- [Molotov Cocktails, Looted Shops: Germany's Gen Z Protests Turn Violent](https://www.ndtv.com/world-news/molotov-cocktails-looted-shops-germanys-gen-z-protests-turn-violent-12266095#publisher=newsstand) — **India & General** · NDTV
 
 ## Source health
 
