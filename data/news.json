@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-05T08:18:34.955436+00:00",
-  "generated_at_ist": "2026-11-05T13:48:34.955436+05:30",
+  "generated_at_utc": "2026-11-06T08:21:32.751231+00:00",
+  "generated_at_ist": "2026-11-06T13:51:32.751231+05:30",
   "title": "India Daily News Brief",
-  "summary": "35 stories collected from 4 sources; 20 highlighted as major.",
+  "summary": "35 stories collected from 4 sources; 13 highlighted as major.",
   "sources_checked": [
     "The Hindu",
     "NDTV",
@@ -14,38 +14,39 @@
   ],
   "total_stories": 35,
   "categories": {
-    "Politics & Governance": 17,
-    "Climate & Environment": 4,
-    "Business & Economy": 2,
-    "India & General": 11,
-    "Education": 1
+    "Politics & Governance": 16,
+    "Climate & Environment": 1,
+    "Technology & Science": 1,
+    "Business & Economy": 1,
+    "India & General": 15,
+    "Health": 1
   },
   "stories": [
     {
-      "id": "381c5d1bd2797292",
-      "title": "What are the changes in Agniveer scheme, and what prompted government to implement them? | Explained",
-      "url": "https://www.thehindu.com/news/national/what-are-the-changes-in-agniveer-scheme-and-what-prompted-government-to-implement-them-explained/article71668573.ece",
-      "source": "The Hindu",
+      "id": "c6feb7a06333de49",
+      "title": "Democrats Inch Towards Historic House Majority Since 2008 Amid Trump's Rout",
+      "url": "https://www.ndtv.com/world-news/democrats-inch-towards-historic-house-majority-since-2008-amid-trumps-rout-12291630#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "The Hindu"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/what-are-the-changes-in-agniveer-scheme-and-what-prompted-government-to-implement-them-explained/article71668573.ece"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/democrats-inch-towards-historic-house-majority-since-2008-amid-trumps-rout-12291630#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-05T06:25:01+00:00",
-      "published_at_ist": "2026-11-05T11:55:01+05:30",
-      "summary": "The decision, approved by the Cabinet on the recommendations of the three services, creates a pathway for the eventual absorption of all willing Agniveers, subject to merit and prescribed selection criteria",
+      "published_at_utc": "2026-11-06T07:22:48+00:00",
+      "published_at_ist": "2026-11-06T12:52:48+05:30",
+      "summary": "The incumbent president's party often loses seats in a midterm election.",
       "category": "Politics & Governance",
       "importance_score": 5,
       "is_major": true
     },
     {
-      "id": "485efef8b865a911",
-      "title": "Sanskit varsity suspension row: SFI says relay fast to go on till authorities revoke disciplinary action ‘unconditionally’",
-      "url": "https://www.thehindu.com/news/national/kerala/sanskit-varsity-suspension-row-sfi-says-relay-fast-to-go-on-till-authorities-revoke-disciplinary-action-unconditionally/article71668832.ece",
+      "id": "149c8d573edc4fca",
+      "title": "Supreme Court agrees to hear DMK leader's plea challenging rejection of election petition",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-agrees-to-hear-dmk-leaders-plea-challenging-rejection-of-election-petition/article71673206.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -53,20 +54,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/sanskit-varsity-suspension-row-sfi-says-relay-fast-to-go-on-till-authorities-revoke-disciplinary-action-unconditionally/article71668832.ece"
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-agrees-to-hear-dmk-leaders-plea-challenging-rejection-of-election-petition/article71673206.ece"
         }
       ],
-      "published_at_utc": "2026-11-05T08:15:38+00:00",
-      "published_at_ist": "2026-11-05T13:45:38+05:30",
-      "summary": "Their hopes of getting relief from the Supreme Court on their plea challenging the Kerala High Court Division Bench order barring them from writing the semester examinations suffered a setback on the day, with the apex court declining to interfere with the directive",
+      "published_at_utc": "2026-11-06T07:11:40+00:00",
+      "published_at_ist": "2026-11-06T12:41:40+05:30",
+      "summary": "A Bench of Justices Vikram Nath and Aparesh Kumar Singh admitted the appeal by K.R. Periyakaruppan, who has challenged a Madras High Court order that rejected his election petition against Seenivasa Sethupathi's victory in the Tirupattur Assembly constituency",
       "category": "Politics & Governance",
-      "importance_score": 4,
+      "importance_score": 5,
       "is_major": true
     },
     {
-      "id": "720be36df82f3c01",
-      "title": "Supreme Court refuses to transfer Tirupati laddu case trial to another state",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/tirupati-laddu-case-supreme-court-refuses-trial-transfer-andhra-pradesh-ptag-3032793-2026-11-05?utm_source=rss",
+      "id": "d7c83f4ef95d2f9f",
+      "title": "Bhutan glacial lake flood: Satellite reveals what happened after the outburst",
+      "url": "https://www.indiatoday.in/science/story/bhutan-glacial-lake-outburst-flood-satellite-images-3033609-2026-11-06?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -74,437 +75,478 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/andhra-pradesh/story/tirupati-laddu-case-supreme-court-refuses-trial-transfer-andhra-pradesh-ptag-3032793-2026-11-05?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-05T08:14:30+00:00",
-      "published_at_ist": "2026-11-05T13:44:30+05:30",
-      "summary": "Supreme Court refuses to transfer Tirupati laddu case trial to another state",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "dfcf2cb2335f5bf8",
-      "title": "Supreme Court asks Allahabad HC to give Azam Khan priority hearing",
-      "url": "https://www.thehindu.com/news/national/sc-asks-allahabad-hc-to-give-azam-khan-priority-hearing/article71669069.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/sc-asks-allahabad-hc-to-give-azam-khan-priority-hearing/article71669069.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T08:08:33+00:00",
-      "published_at_ist": "2026-11-05T13:38:33+05:30",
-      "summary": "The Supreme Court has asked the High Court to hear the case on November 16; Azam Khan alleges “series of politically motivated cases”",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "763873a8922e9b4b",
-      "title": "Rescuer Goes Missing Amid Cyclone Murasu-Led Heavy Rain In Telangana",
-      "url": "https://www.ndtv.com/india-news/cyclone-murasu-rescuer-goes-missing-amid-cyclone-murasu-led-heavy-rain-in-telangana-andhra-pradesh-12286495#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/cyclone-murasu-rescuer-goes-missing-amid-cyclone-murasu-led-heavy-rain-in-telangana-andhra-pradesh-12286495#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T08:01:03+00:00",
-      "published_at_ist": "2026-11-05T13:31:03+05:30",
-      "summary": "Cyclone Murasu made landfall on November 3.",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "132c55806aba14c2",
-      "title": "24-hour to produce before Magistrate starts from detention, not ‘formal arrest’: Supreme Court",
-      "url": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:59:35+00:00",
-      "published_at_ist": "2026-11-05T13:29:35+05:30",
-      "summary": "The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "8853b262b03caf6f",
-      "title": "Supreme Court bars illegal detention as lawyers cite Emergency",
-      "url": "https://www.thehindu.com/news/national/sc-mandates-free-movement-no-illegal-detentions-subject-to-public-order/article71571202.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/sc-mandates-free-movement-no-illegal-detentions-subject-to-public-order/article71571202.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:32:35+00:00",
-      "published_at_ist": "2026-11-05T13:02:35+05:30",
-      "summary": "Court seeks affidavits on Metro curbs and alleged violations of its October 9 order",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "85b2471197227cd6",
-      "title": "\"Samosa Caucus Is Strong\": US Congressman Raja Krishnamoorthi On US Midterms",
-      "url": "https://www.ndtv.com/world-news/samosa-caucus-is-strong-us-congressman-raja-krishnamoorthi-on-us-midterms-to-ndtv-12285924#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/samosa-caucus-is-strong-us-congressman-raja-krishnamoorthi-on-us-midterms-to-ndtv-12285924#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:29:49+00:00",
-      "published_at_ist": "2026-11-05T12:59:49+05:30",
-      "summary": "Raja Krishnamoorthi said the election of five Indian Americans to Congress was a good step",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "8ea559f717ae14a9",
-      "title": "Cyclone Murasu: Heavy rains wreak havoc in Aswaropet, Dammapeta and other mandals of Bhadradri Kothagudem",
-      "url": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-heavy-rains-wreak-havoc-in-aswaropet-dammapeta-and-other-mandals-of-bhadradri-kothagudem/article71666503.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-heavy-rains-wreak-havoc-in-aswaropet-dammapeta-and-other-mandals-of-bhadradri-kothagudem/article71666503.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:28:49+00:00",
-      "published_at_ist": "2026-11-05T12:58:49+05:30",
-      "summary": "",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "62be85e22a6c02e2",
-      "title": "No Relief For Azam Khan From Supreme Court In Money Laundering Case",
-      "url": "https://www.ndtv.com/india-news/no-relief-for-azam-khan-from-supreme-court-in-money-laundering-case-12286256#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/no-relief-for-azam-khan-from-supreme-court-in-money-laundering-case-12286256#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:28:43+00:00",
-      "published_at_ist": "2026-11-05T12:58:43+05:30",
-      "summary": "The ED arrested Azam Khan on October 31 in the money laundering case.",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "575ed9bb3a9a370f",
-      "title": "Supreme Court refuses to transfer Tirupathi ghee adulteration case out of Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-transfer-tirupathi-ghee-adulteration-case-out-of-andhra-pradesh/article71668973.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-transfer-tirupathi-ghee-adulteration-case-out-of-andhra-pradesh/article71668973.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:23:17+00:00",
-      "published_at_ist": "2026-11-05T12:53:17+05:30",
-      "summary": "CBI and Enforcement Directorate (ED) investigations into the case had revealed a ₹250 crore scam involving the supply of 68 lakh kg of fake and synthetic ghee to the Tirumala Tirupati Devasthanams (TTD) between 2019 and 2024",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "0989f233dd4da7ab",
-      "title": "Sharjeel Imam to Palestine, AMU election campaign goes beyond campus politics",
-      "url": "https://www.indiatoday.in/education-today/news/story/amu-student-union-polls-from-umar-khalid-to-palestine-heres-what-dominated-the-campaign-debate-3032761-2026-11-05?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/education-today/news/story/amu-student-union-polls-from-umar-khalid-to-palestine-heres-what-dominated-the-campaign-debate-3032761-2026-11-05?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:21:09+00:00",
-      "published_at_ist": "2026-11-05T12:51:09+05:30",
-      "summary": "Sharjeel Imam to Palestine AMU election campaign goes beyond campus politics",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "6cdfbd5f30a4c5d5",
-      "title": "Dalal Street Gets A Rs 7 Lakh Crore Diwali Gift After US Election Shock",
-      "url": "https://www.ndtv.com/business-news/stock-market-news-dalal-street-gets-a-rs-7-lakh-crore-diwali-gift-after-us-election-shock-12285545#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/business-news/stock-market-news-dalal-street-gets-a-rs-7-lakh-crore-diwali-gift-after-us-election-shock-12285545#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:20:46+00:00",
-      "published_at_ist": "2026-11-05T12:50:46+05:30",
-      "summary": "Stock Market News: Democrats' victory in US midterms have implications extending beyond Wall Street.",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "f634a832358d4a03",
-      "title": "Supreme Court's Big Remark On 'Arrest', 'Detention' And 24-Hour Deadline",
-      "url": "https://www.ndtv.com/india-news/supreme-courts-big-remark-on-arrest-detention-and-24-hour-deadline-12286109#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/supreme-courts-big-remark-on-arrest-detention-and-24-hour-deadline-12286109#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T06:58:54+00:00",
-      "published_at_ist": "2026-11-05T12:28:54+05:30",
-      "summary": "The detaining authority must ensure that detention does not exceed a reasonable period, court said.",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "ff90009ce988ce81",
-      "title": "Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4",
-      "url": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-impact-on-telangana-extremely-heavy-overnight-rain-in-bhadradri-and-khammam/article71664340.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-impact-on-telangana-extremely-heavy-overnight-rain-in-bhadradri-and-khammam/article71664340.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T06:41:53+00:00",
-      "published_at_ist": "2026-11-05T12:11:53+05:30",
-      "summary": "",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "f4eff3c2b3df494e",
-      "title": "Tamil Nadu seeks urgent oral mentioning in Supreme Court over Cauvery water issue",
-      "url": "https://www.thehindu.com/news/national/cauvery-water-release-tamil-nadu-karnataka-supreme-court/article71668735.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cauvery-water-release-tamil-nadu-karnataka-supreme-court/article71668735.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T05:48:55+00:00",
-      "published_at_ist": "2026-11-05T11:18:55+05:30",
-      "summary": "The court agreed to list the plea early",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "2a37674576b5eddc",
-      "title": "ECI de-links Form 6 from SIR declaration flagged by 2 Election Commissioners",
-      "url": "https://www.indiatoday.in/india/story/eci-completely-de-links-online-form-6-from-sir-declaration-flagged-by-2-election-commissioners-3032687-2026-11-05?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/story/eci-completely-de-links-online-form-6-from-sir-declaration-flagged-by-2-election-commissioners-3032687-2026-11-05?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-05T05:26:57+00:00",
-      "published_at_ist": "2026-11-05T10:56:57+05:30",
-      "summary": "ECI delinks Form from SIR declaration flagged by Election Commissioners",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "d0137fc46f2f6b10",
-      "title": "What NDA’s clean sweep in local body polls means for Andhra Pradesh politics",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/what-ndas-clean-sweep-in-local-body-polls-means-for-andhra-pradesh-politics/article71665693.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/what-ndas-clean-sweep-in-local-body-polls-means-for-andhra-pradesh-politics/article71665693.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T05:18:49+00:00",
-      "published_at_ist": "2026-11-05T10:48:49+05:30",
-      "summary": "NDA’s thumping success in the local body elections is on the expected line, say political analysts, adding that though results show no hint of anti-incumbency, the alliance partners need to focus on ironing out the rifts",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "288b51e6311f6d1d",
-      "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
-      "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T04:38:08+00:00",
-      "published_at_ist": "2026-11-05T10:08:08+05:30",
-      "summary": "‘The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades’, says Bench",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "a2a7c630548378b9",
-      "title": "Eight rescuers missing in Telangana’s Peddacheruvu saved; search on for three others",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-peddacheruvu-rescue-personnel-saved-search-operation-november-5-2026/article71668467.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/telangana-peddacheruvu-rescue-personnel-saved-search-operation-november-5-2026/article71668467.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-05T03:14:00+00:00",
-      "published_at_ist": "2026-11-05T08:44:00+05:30",
-      "summary": "The incident occurred when two inflatable boats carrying 11 personnel capsized in the swollen rivulet while the rescue teams were attempting to evacuate five fishermen stranded in the floodwaters",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "04aebf253c1d7cca",
-      "title": "Renovating Home This Diwali? Check Budget For Affordable, Premium Makeover",
-      "url": "https://www.ndtv.com/business-news/renovating-home-diwali-check-budget-affordable-premium-makeover-real-estate-12285452#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/business-news/renovating-home-diwali-check-budget-affordable-premium-makeover-real-estate-12285452#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:17:47+00:00",
-      "published_at_ist": "2026-11-05T12:47:47+05:30",
-      "summary": "An affordable makeover focuses on the parts of home that make the biggest difference to everyday living.",
-      "category": "Business & Economy",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "d4c6d9949bd887df",
-      "title": "Rise and rise of Jon Ossoff: The 'next Obama' being touted as future president",
-      "url": "https://www.indiatoday.in/world/story/us-midterm-elections-democrat-jon-ossoff-next-barack-obama-president-buzz-3032693-2026-11-05?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/story/us-midterm-elections-democrat-jon-ossoff-next-barack-obama-president-buzz-3032693-2026-11-05?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-05T05:52:23+00:00",
-      "published_at_ist": "2026-11-05T11:22:23+05:30",
-      "summary": "Rise and rise of Jon Ossoff The next Obama being touted as future president",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "d8037469ec64642d",
-      "title": "Paraguay faces biggest-ever banking crisis, over 3 million customers hit",
-      "url": "https://www.indiatoday.in/business/story/paraguay-faces-biggest-ever-banking-crisis-over-3-million-customers-hit-3032809-2026-11-05?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/business/story/paraguay-faces-biggest-ever-banking-crisis-over-3-million-customers-hit-3032809-2026-11-05?utm_source=rss"
+          "url": "https://www.indiatoday.in/science/story/bhutan-glacial-lake-outburst-flood-satellite-images-3033609-2026-11-06?utm_source=rss"
         },
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/business/story/paraguay-faces-biggest-ever-banking-crisis-over-3-million-customers-hit-3032809-2026-11-05?utm_source=rss"
+          "url": "https://www.indiatoday.in/science/story/bhutan-glacial-lake-outburst-flood-satellite-images-3033609-2026-11-06?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-05T08:16:32+00:00",
-      "published_at_ist": "2026-11-05T13:46:32+05:30",
-      "summary": "Paraguay faces biggestever banking crisis over million customers hit",
+      "published_at_utc": "2026-11-06T08:08:39+00:00",
+      "published_at_ist": "2026-11-06T13:38:39+05:30",
+      "summary": "Bhutan glacial lake flood Satellite reveals what happened after the outburst",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "56820254b5dc1912",
+      "title": "Supreme Court refuses to suspend Tarun Tejpal's 10-year jail term in 2013 rape case",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-refuses-to-pause-journalist-tarun-tejpals-10-year-jail-term-in-rape-case-conviction-3033607-2026-11-06?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-refuses-to-pause-journalist-tarun-tejpals-10-year-jail-term-in-rape-case-conviction-3033607-2026-11-06?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-refuses-to-pause-journalist-tarun-tejpals-10-year-jail-term-in-rape-case-conviction-3033607-2026-11-06?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-refuses-to-pause-journalist-tarun-tejpals-10-year-jail-term-in-rape-case-conviction-3033607-2026-11-06?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:05:01+00:00",
+      "published_at_ist": "2026-11-06T13:35:01+05:30",
+      "summary": "Supreme Court refuses to suspend Tarun Tejpals year jail term in rape case",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "588e96d1d0034fce",
+      "title": "Cyclone Murasu: Search for five missing fishermen intensified, says Tamil Nadu Government",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-search-for-five-missing-fishermen-intensified-says-tamil-nadu-government/article71673361.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-search-for-five-missing-fishermen-intensified-says-tamil-nadu-government/article71673361.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:00:02+00:00",
+      "published_at_ist": "2026-11-06T13:30:02+05:30",
+      "summary": "The nine Kasimedu fishermen who left Chennai on October 29 during Cyclone Murasu faced engine failure near Ramayapatnam Port, Andhra Pradesh, on November 3",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "fae95c39dfb8efa8",
+      "title": "AAP spent Centre's ₹1,600 crore flood relief funds for Punjab elsewhere: CM Saini",
+      "url": "https://www.thehindu.com/news/national/punjab/aap-spent-centres-1600-crore-flood-relief-funds-for-punjab-elsewhere-cm-saini/article71673181.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/punjab/aap-spent-centres-1600-crore-flood-relief-funds-for-punjab-elsewhere-cm-saini/article71673181.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T07:52:06+00:00",
+      "published_at_ist": "2026-11-06T13:22:06+05:30",
+      "summary": "Mr. Saini said he had earlier watched a video on social media in which Punjab Chief Minister Bhagwant Mann had promised compensation for every loss suffered by people during the devastating floods, down to a single hen.",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "90f03b445eb06fbb",
+      "title": "Form 8 must be decided during SIR; deletion without hearing denies vote: Bombay HC",
+      "url": "https://www.thehindu.com/news/national/form-8-must-be-decided-during-sir-deletion-without-hearing-denies-vote-bombay-hc/article71673138.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/form-8-must-be-decided-during-sir-deletion-without-hearing-denies-vote-bombay-hc/article71673138.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T07:41:48+00:00",
+      "published_at_ist": "2026-11-06T13:11:48+05:30",
+      "summary": "The Bench also ordered the Election Commission of India to restore the six names, and to set aside the rejection of their Form 8 applications",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "d0c7d4dcccb7aac5",
+      "title": "What is the controversy over the oversight of ECI’s Director-General of IT? Explained",
+      "url": "https://www.thehindu.com/news/national/what-is-the-controversy-over-the-oversight-of-ecis-director-general-of-it-explained/article71673342.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/what-is-the-controversy-over-the-oversight-of-ecis-director-general-of-it-explained/article71673342.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T07:22:35+00:00",
+      "published_at_ist": "2026-11-06T12:52:35+05:30",
+      "summary": "As per the current order, dated October 4, Ms. Khanna is required to route the files related to IT/ICT and Grievances/PGRS through Senior Deputy Election Commissioner Pawan Kumar Sharma, bringing back the oversight which the July 28 order had sought to remove",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "aaec7067ae33a978",
+      "title": "\"Hope You're Enjoying Weather\": Supreme Court's Quip On Delhi Pollution",
+      "url": "https://www.ndtv.com/delhi-news/hope-youre-enjoying-weather-supreme-courts-quip-on-delhi-pollution-12291427#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/delhi-news/hope-youre-enjoying-weather-supreme-courts-quip-on-delhi-pollution-12291427#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-06T07:12:05+00:00",
+      "published_at_ist": "2026-11-06T12:42:05+05:30",
+      "summary": "The Supreme Court heard the matter of air pollution in Delhi",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "7c2b7adff487ef80",
+      "title": "Culture of Diwali gifts adds to vehicular pollution: Supreme Court on Delhi's AQI",
+      "url": "https://www.indiatoday.in/india/law-news/story/culture-of-diwali-gifts-adds-to-vehicular-pollution-supreme-court-remarks-during-delhi-air-pollution-hearing-3033547-2026-11-06?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/culture-of-diwali-gifts-adds-to-vehicular-pollution-supreme-court-remarks-during-delhi-air-pollution-hearing-3033547-2026-11-06?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/culture-of-diwali-gifts-adds-to-vehicular-pollution-supreme-court-remarks-during-delhi-air-pollution-hearing-3033547-2026-11-06?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T06:46:57+00:00",
+      "published_at_ist": "2026-11-06T12:16:57+05:30",
+      "summary": "Culture of Diwali gifts adds to vehicular pollution Supreme Court on Delhis AQI",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "9b63e04784038f44",
+      "title": "Why this Lanka in a Keralam panchayat is betting on people-powered solution to tidal flooding",
+      "url": "https://www.thehindu.com/news/national/kerala/why-this-lanka-in-a-keralam-panchayat-is-betting-on-people-powered-solution-to-tidal-flooding/article71672734.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/why-this-lanka-in-a-keralam-panchayat-is-betting-on-people-powered-solution-to-tidal-flooding/article71672734.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T05:19:24+00:00",
+      "published_at_ist": "2026-11-06T10:49:24+05:30",
+      "summary": "The community project, named Resilient Lanka, will be jointly implemented by Equinoct, a Kochi-based community-sourced environmental and climate-modelling technology solutions provider, and Happiness Project, a newly formed foundation, under overall supervision of Ezhikkara panchayat",
+      "category": "Technology & Science",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "a9db861c129c7d09",
+      "title": "Local body polls: Karnataka govt. finds itself in Catch-22 situation over electoral list",
+      "url": "https://www.thehindu.com/news/national/karnataka/local-body-polls-karnataka-govt-finds-itself-in-catch-22-situation-over-electoral-list/article71671120.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/local-body-polls-karnataka-govt-finds-itself-in-catch-22-situation-over-electoral-list/article71671120.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T04:59:06+00:00",
+      "published_at_ist": "2026-11-06T10:29:06+05:30",
+      "summary": "The State Government has to make a political decision on whether to go with the Election Commission of India’s rolls after the Special Intensive Revision (SIR) or not",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "4ef90572c26c01e0",
+      "title": "Congress-BJP slug it out over a milk federation election result in Maharashtra",
+      "url": "https://www.thehindu.com/news/national/maharashtra/congress-bjp-slug-it-out-over-a-milk-federation-election-result-in-maharashtra/article71671436.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-bjp-slug-it-out-over-a-milk-federation-election-result-in-maharashtra/article71671436.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T04:16:41+00:00",
+      "published_at_ist": "2026-11-06T09:46:41+05:30",
+      "summary": "In Maharashtra, the fallout from the Gokul Milk Federation election intensified on November 5 as Congress accused the BJP of stealing milk producers’ votes after Satej Patil’s panel clinched 13 of 25 seats",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "c0027a7c7df94823",
+      "title": "Rahul wants presidential-style vote-chori debate, Amit Shah says come to Parliament",
+      "url": "https://www.indiatoday.in/programme/india-first/video/shah-challenges-rahul-on-vote-chori-ansari-warns-of-nepal-style-unrest-big-row-frvd-3033239-2026-11-05?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/programme/india-first/video/shah-challenges-rahul-on-vote-chori-ansari-warns-of-nepal-style-unrest-big-row-frvd-3033239-2026-11-05?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/programme/india-first/video/shah-challenges-rahul-on-vote-chori-ansari-warns-of-nepal-style-unrest-big-row-frvd-3033239-2026-11-05?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-05T16:22:39+00:00",
+      "published_at_ist": "2026-11-05T21:52:39+05:30",
+      "summary": "Rahul wants presidentialstyle votechori debate Amit Shah says come to Parliament",
+      "category": "Politics & Governance",
+      "importance_score": 3,
+      "is_major": false
+    },
+    {
+      "id": "07aa646c4b3e3a6c",
+      "title": "No split in party, genuine issues will be addressed in steps: NC president Dr. Farooq Abdullah",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/dissident-national-conference-mlas-meet-omar-farooq-to-air-grievances/article71673269.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/dissident-national-conference-mlas-meet-omar-farooq-to-air-grievances/article71673269.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T07:57:18+00:00",
+      "published_at_ist": "2026-11-06T13:27:18+05:30",
+      "summary": "‘The baseless news of the National Conference (NC) splitting into groups is totally wrong. The party stands together. Those who think the party could be split: it was never, and it will never be split,’ says Dr. Farooq Abdullah",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "61ee4d4419a0e6e7",
+      "title": "Hyderabad startup opens India’s first private space debris recovery facility",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T06:55:59+00:00",
+      "published_at_ist": "2026-11-06T12:25:59+05:30",
+      "summary": "Of the nearly 28,000 satellites currently in orbit, about 10,000 are non-operational, while millions of debris fragments pose risks to active satellites and space missions",
       "category": "Business & Economy",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "0a6ee9d977bfa7da",
+      "title": "Anti-dam activist rejects Arunachal government’s invitation for talks, says time for negotiations is over",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-dam-activist-rejects-arunachal-governments-invitation-for-talks-says-time-for-negotiations-is-over/article71672914.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-dam-activist-rejects-arunachal-governments-invitation-for-talks-says-time-for-negotiations-is-over/article71672914.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-06T06:27:49+00:00",
+      "published_at_ist": "2026-11-06T11:57:49+05:30",
+      "summary": "Katon Moyong, a prominent voice against the proposed 11,200-MW Siang project, called the national security argument an attempt to overcome public resistance",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "1871b5a3ad8f8642",
+      "title": "Sister snatches phone after fight over watching reels, UP boy, 8, dies by suicide",
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-jalaun-boy-dies-by-suicide-after-mobile-phone-dispute-with-sister-3033597-2026-11-06?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/story/uttar-pradesh-jalaun-boy-dies-by-suicide-after-mobile-phone-dispute-with-sister-3033597-2026-11-06?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:18:57+00:00",
+      "published_at_ist": "2026-11-06T13:48:57+05:30",
+      "summary": "Sister snatches phone after fight over watching reels UP boy dies by suicide",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "074beec7bca9e5a6",
+      "title": "Why a Palestinian man is treating a gas cylinder like a bride",
+      "url": "https://www.indiatoday.in/newsmo/short-videos/why-a-palestinian-man-is-treating-a-gas-cylinder-like-a-bride-3033619-2026-11-06?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/newsmo/short-videos/why-a-palestinian-man-is-treating-a-gas-cylinder-like-a-bride-3033619-2026-11-06?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:17:38+00:00",
+      "published_at_ist": "2026-11-06T13:47:38+05:30",
+      "summary": "Why a Palestinian man is treating a gas cylinder like a bride",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "6196c8fe3baf4430",
+      "title": "Pawan Kalyan's ex-wife Renu Desai compares life after divorce to Lord Ram's exile",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/renu-desai-pawan-kalyan-divorce-lord-ram-exile-comparison-3033599-2026-11-06?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/movies/regional-cinema/story/renu-desai-pawan-kalyan-divorce-lord-ram-exile-comparison-3033599-2026-11-06?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/movies/regional-cinema/story/renu-desai-pawan-kalyan-divorce-lord-ram-exile-comparison-3033599-2026-11-06?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:15:25+00:00",
+      "published_at_ist": "2026-11-06T13:45:25+05:30",
+      "summary": "Pawan Kalyans exwife Renu Desai compares life after divorce to Lord Rams exile",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "a67c7c584a5c7561",
+      "title": "iPhone 16 price drop alert, full details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-price-drop-alert-full-details-here-2-287326-06-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-price-drop-alert-full-details-here-2-287326-06-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:15:03+00:00",
+      "published_at_ist": "2026-11-06T13:45:03+05:30",
+      "summary": "iPhone price drop alert full details here",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "b24fbb4c4055388e",
+      "title": "Samsung Galaxy S26 Ultra available under Rs 91,000 on Flipkart, here is how",
+      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-ultra-available-under-rs-91000-on-flipkart-here-is-how-287313-05-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-ultra-available-under-rs-91000-on-flipkart-here-is-how-287313-05-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:15:03+00:00",
+      "published_at_ist": "2026-11-06T13:45:03+05:30",
+      "summary": "Samsung Galaxy S Ultra available under Rs on Flipkart here is how",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "01af0b6facad0e54",
+      "title": "iPhone Air price drops by Rs 20,000: details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-below-rs-99999-details-here-copy-287307-05-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-below-rs-99999-details-here-copy-287307-05-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:15:03+00:00",
+      "published_at_ist": "2026-11-06T13:45:03+05:30",
+      "summary": "iPhone Air price drops by Rs details here",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "d0599a355b275231",
+      "title": "Google Pixel 10 price drops in India, check details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-price-drops-in-india-check-details-here-287306-05-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-price-drops-in-india-check-details-here-287306-05-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-06T08:15:03+00:00",
+      "published_at_ist": "2026-11-06T13:45:03+05:30",
+      "summary": "Google Pixel price drops in India check details here",
+      "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
@@ -522,143 +564,206 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-gets-big-discount-available-under-rs-52000-on-flipkart-287282-04-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-05T08:15:03+00:00",
-      "published_at_ist": "2026-11-05T13:45:03+05:30",
+      "published_at_utc": "2026-11-06T08:15:03+00:00",
+      "published_at_ist": "2026-11-06T13:45:03+05:30",
       "summary": "iPhone gets big discount available under Rs on Flipkart",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "ee4056739c56b36c",
-      "title": "iPhone 17 Pro gets big price drop on Amazon: Full details here",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-gets-big-price-drop-on-amazon-full-details-here-287279-04-11-2026?utm_source=rss",
-      "source": "India Today",
+      "id": "32ffad9568a0c502",
+      "title": "SNDP microfinance case: Setback for Vellappally Natesan as Kerala HC says no sanction needed to prosecute accused",
+      "url": "https://www.thehindu.com/news/national/kerala/sndp-microfinance-case-setback-for-vellappally-natesan-as-kerala-hc-says-no-sanction-needed-to-prosecute-accused/article71673300.ece",
+      "source": "The Hindu",
       "sources": [
-        "India Today"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-gets-big-price-drop-on-amazon-full-details-here-287279-04-11-2026?utm_source=rss"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/sndp-microfinance-case-setback-for-vellappally-natesan-as-kerala-hc-says-no-sanction-needed-to-prosecute-accused/article71673300.ece"
         }
       ],
-      "published_at_utc": "2026-11-05T08:15:03+00:00",
-      "published_at_ist": "2026-11-05T13:45:03+05:30",
-      "summary": "iPhone Pro gets big price drop on Amazon Full details here",
+      "published_at_utc": "2026-11-06T08:10:31+00:00",
+      "published_at_ist": "2026-11-06T13:40:31+05:30",
+      "summary": "Court holds that sanction from Backward Classes Development Department not required",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "e1b509b111d9329e",
+      "title": "Thinking Of Buying A Pre-Owned Car This Dhanteras? 5 Checks That Could Save You Money",
+      "url": "https://www.ndtv.com/business-news/dhanteras-2026-buying-second-hand-pre-owned-car-5-checks-could-save-money-12291611#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/business-news/dhanteras-2026-buying-second-hand-pre-owned-car-5-checks-could-save-money-12291611#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-06T07:19:57+00:00",
+      "published_at_ist": "2026-11-06T12:49:57+05:30",
+      "summary": "A used car's past can tell you a lot about its future, according to auto experts.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "fc9470a2f7a51551",
-      "title": "Samsung Galaxy S25 price drops by 20,000",
-      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-price-drops-by-20000-287257-03-11-2026?utm_source=rss",
-      "source": "India Today",
+      "id": "c542cdc89091db9b",
+      "title": "Nithya Raman's Journey From Kerala To Los Angeles Mayor Via Delhi Slums",
+      "url": "https://www.ndtv.com/world-news/nithya-raman-us-midterms-results-2026-from-kerala-to-delhi-to-los-angeles-mayor-her-india-connection-explained-12291070#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "India Today"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-price-drops-by-20000-287257-03-11-2026?utm_source=rss"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/nithya-raman-us-midterms-results-2026-from-kerala-to-delhi-to-los-angeles-mayor-her-india-connection-explained-12291070#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-05T08:15:03+00:00",
-      "published_at_ist": "2026-11-05T13:45:03+05:30",
-      "summary": "Samsung Galaxy S price drops by",
+      "published_at_utc": "2026-11-06T07:10:07+00:00",
+      "published_at_ist": "2026-11-06T12:40:07+05:30",
+      "summary": "Nithya Raman was backed by the Democratic Socialists of America",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "679eef4c702899cc",
-      "title": "Samsung Galaxy S25 Ultra gets a discount on Amazon",
-      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-gets-a-discount-on-amazon-287249-03-11-2026?utm_source=rss",
-      "source": "India Today",
+      "id": "e91731f5473f4241",
+      "title": "Who Is Amish Shah, First Indian-American To Represent Arizona In US Congress",
+      "url": "https://www.ndtv.com/world-news/us-midterms-2026-who-is-amish-shah-first-indian-american-to-represent-arizona-in-us-congress-12291213#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "India Today"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-gets-a-discount-on-amazon-287249-03-11-2026?utm_source=rss"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/us-midterms-2026-who-is-amish-shah-first-indian-american-to-represent-arizona-in-us-congress-12291213#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-05T08:15:03+00:00",
-      "published_at_ist": "2026-11-05T13:45:03+05:30",
-      "summary": "Samsung Galaxy S Ultra gets a discount on Amazon",
+      "published_at_utc": "2026-11-06T07:08:15+00:00",
+      "published_at_ist": "2026-11-06T12:38:15+05:30",
+      "summary": "Amish Shah was born in Chicago to Gujarati immigrants",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "18ddbe600eb4414b",
-      "title": "Samsung Galaxy S25 price drops by Rs 50,000 without conditions",
-      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-price-drops-by-rs-50000-without-conditions-287246-03-11-2026?utm_source=rss",
-      "source": "India Today",
+      "id": "fe42a828566aa3d5",
+      "title": "90-Year-Old Holocaust Survivor, Who Was Shot At Bondi Beach Last Year, Dies",
+      "url": "https://www.ndtv.com/world-news/90-year-old-holocaust-survivor-who-was-shot-at-australia-bondi-beach-last-year-dies-12291526#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "India Today"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-price-drops-by-rs-50000-without-conditions-287246-03-11-2026?utm_source=rss"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/90-year-old-holocaust-survivor-who-was-shot-at-australia-bondi-beach-last-year-dies-12291526#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-05T08:15:03+00:00",
-      "published_at_ist": "2026-11-05T13:45:03+05:30",
-      "summary": "Samsung Galaxy S price drops by Rs without conditions",
+      "published_at_utc": "2026-11-06T06:54:53+00:00",
+      "published_at_ist": "2026-11-06T12:24:53+05:30",
+      "summary": "She died in a Sydney hospital overnight.",
+      "category": "Health",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "af647e6177da8775",
+      "title": "Major Fire At Oil India Tank Farm In Assam, 1 Dead, 6 Injured",
+      "url": "https://www.ndtv.com/india-news/major-fire-at-oil-india-tank-farm-in-assams-dibrugarh-1-dead-several-injured-12291536#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/major-fire-at-oil-india-tank-farm-in-assams-dibrugarh-1-dead-several-injured-12291536#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-06T06:54:26+00:00",
+      "published_at_ist": "2026-11-06T12:24:26+05:30",
+      "summary": "Several other persons are also believed to have sustained injuries in the incident",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "3dc377bce98353c2",
-      "title": "iPhone 17 price drops by Rs 7,000 without conditions",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drops-by-rs-7000-without-conditions-287220-02-11-2026?utm_source=rss",
-      "source": "India Today",
+      "id": "77d632739defd712",
+      "title": "Opinion: BJP Hunts For A Crack. Rahul Gandhi's Allies Could Be His Weak Spot",
+      "url": "https://www.ndtv.com/opinion/bjp-hunts-for-a-crack-rahul-gandhis-allies-could-be-his-weak-spot-12291238#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "India Today"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drops-by-rs-7000-without-conditions-287220-02-11-2026?utm_source=rss"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/opinion/bjp-hunts-for-a-crack-rahul-gandhis-allies-could-be-his-weak-spot-12291238#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-05T08:15:03+00:00",
-      "published_at_ist": "2026-11-05T13:45:03+05:30",
-      "summary": "iPhone price drops by Rs without conditions",
+      "published_at_utc": "2026-11-06T06:38:41+00:00",
+      "published_at_ist": "2026-11-06T12:08:41+05:30",
+      "summary": "The government suffers a handicap in the sense that there is little to beat the opponents who have been out of power for long. But this is where the Congress and Rahul Gandhi need to use caution",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "9b9431313d0d661a",
+      "title": "On Camera, Man Asks Elderly Mumbai Woman For An Address, Then Snatches Her Gold Chain",
+      "url": "https://www.ndtv.com/mumbai-news/on-camera-man-asks-elderly-mumbai-woman-for-an-address-then-snatches-her-gold-chain-12291414#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/mumbai-news/on-camera-man-asks-elderly-mumbai-woman-for-an-address-then-snatches-her-gold-chain-12291414#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-06T06:29:16+00:00",
+      "published_at_ist": "2026-11-06T11:59:16+05:30",
+      "summary": "The incident was caught on CCTV",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "569a8003027964f1",
-      "title": "'घुसपैठियों के लिए जितनी छाती पीटनी है पीट लो', राहुल गांधी पर अमित शाह का काउंटर अटैक",
-      "url": "https://www.aajtak.in/india/haryana/story/amit-shah-rahul-gandhi-infiltrators-voter-list-karnal-bjp-padyatra-ntc-aktw-rptc-2688924-2026-11-05?utm_source=rss",
-      "source": "India Today",
+      "id": "2a86a83565350d70",
+      "title": "Opinion: Opinion | Rahul Gandhi Is Hailing Sidhu Moose Wala. Can Congress Live With All He Sang?",
+      "url": "https://www.ndtv.com/opinion/rahul-gandhi-is-hailing-sidhu-moose-wala-can-congress-live-with-all-he-did-12291371#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "India Today"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/india/haryana/story/amit-shah-rahul-gandhi-infiltrators-voter-list-karnal-bjp-padyatra-ntc-aktw-rptc-2688924-2026-11-05?utm_source=rss"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/opinion/rahul-gandhi-is-hailing-sidhu-moose-wala-can-congress-live-with-all-he-did-12291371#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-05T08:15:03+00:00",
-      "published_at_ist": "2026-11-05T13:45:03+05:30",
+      "published_at_utc": "2026-11-06T06:22:30+00:00",
+      "published_at_ist": "2026-11-06T11:52:30+05:30",
       "summary": "",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "bf9a8ec9da022b8b",
-      "title": "\"No SIR In 2014, 2019 Or 2024, You Still Lost\": Amit Shah To Rahul Gandhi",
-      "url": "https://www.ndtv.com/india-news/no-sir-in-2014-2019-or-2024-you-still-lost-amit-shah-to-rahul-gandhi-12286427#publisher=newsstand",
+      "id": "2c3e9593fa1236cc",
+      "title": "Agnipath Changes Only For Serving Agniveers, New Recruits Still Get 4 Years",
+      "url": "https://www.ndtv.com/india-news/agnipath-changes-only-for-serving-agniveers-new-recruits-still-get-4-years-12291310#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -666,96 +771,12 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/no-sir-in-2014-2019-or-2024-you-still-lost-amit-shah-to-rahul-gandhi-12286427#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/agnipath-changes-only-for-serving-agniveers-new-recruits-still-get-4-years-12291310#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-05T07:55:05+00:00",
-      "published_at_ist": "2026-11-05T13:25:05+05:30",
-      "summary": "\"No SIR In 2014, 2019 Or 2024, You Still Lost\": Amit Shah To Rahul Gandhi",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "3aa4c7f9728115a6",
-      "title": "Poll Body Announces Special Summary Revision Of Electoral Rolls In 6 States",
-      "url": "https://www.ndtv.com/india-news/poll-body-announces-special-summary-revision-of-electoral-rolls-in-6-states-12286290#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/poll-body-announces-special-summary-revision-of-electoral-rolls-in-6-states-12286290#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:54:13+00:00",
-      "published_at_ist": "2026-11-05T13:24:13+05:30",
-      "summary": "The draft electoral rolls will be published on November 30.",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "16800e8e847652a4",
-      "title": "Haryana Boy, 8, Who Assaulted Girl, 6, In School Released From Juvenile Custody",
-      "url": "https://www.ndtv.com/india-news/haryana-boy-8-who-assaulted-girl-6-in-school-released-from-juvenile-custody-panchkula-12286156#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/haryana-boy-8-who-assaulted-girl-6-in-school-released-from-juvenile-custody-panchkula-12286156#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:45:01+00:00",
-      "published_at_ist": "2026-11-05T13:15:01+05:30",
-      "summary": "The horrifying incident took place on October 28 at the Sanskriti Model School",
-      "category": "Education",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "7fed994458b42e69",
-      "title": "Youth Congress Leader Misses Rahul Gandhi Rally For Uncle's Funeral, Gets Sacked",
-      "url": "https://www.ndtv.com/india-news/youth-congress-leader-misses-rahul-gandhi-rally-for-uncles-funeral-gets-sacked-12286412#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/youth-congress-leader-misses-rahul-gandhi-rally-for-uncles-funeral-gets-sacked-12286412#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:44:21+00:00",
-      "published_at_ist": "2026-11-05T13:14:21+05:30",
-      "summary": "Youth Congress leader Rohit Rajoria shows a card for remembrance event of his late uncle",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "d7e30940eb90c82a",
-      "title": "Opinion: Opinion | Midterm Blues: Why America Might Just Get Even More Unpredictable Now",
-      "url": "https://www.ndtv.com/opinion/why-america-may-just-get-even-more-unpredictable-12286411#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/opinion/why-america-may-just-get-even-more-unpredictable-12286411#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-05T07:44:15+00:00",
-      "published_at_ist": "2026-11-05T13:14:15+05:30",
-      "summary": "",
+      "published_at_utc": "2026-11-06T06:13:24+00:00",
+      "published_at_ist": "2026-11-06T11:43:24+05:30",
+      "summary": "Anyone inducted after December 2026 will serve under the original four-year engagement.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
