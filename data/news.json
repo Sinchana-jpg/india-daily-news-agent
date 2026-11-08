@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-07T07:37:59.206552+00:00",
-  "generated_at_ist": "2026-11-07T13:07:59.206552+05:30",
+  "generated_at_utc": "2026-11-08T07:48:17.485461+00:00",
+  "generated_at_ist": "2026-11-08T13:18:17.485461+05:30",
   "title": "India Daily News Brief",
-  "summary": "35 stories collected from 4 sources; 15 highlighted as major.",
+  "summary": "35 stories collected from 4 sources; 10 highlighted as major.",
   "sources_checked": [
     "The Hindu",
     "NDTV",
@@ -14,37 +14,40 @@
   ],
   "total_stories": 35,
   "categories": {
-    "Politics & Governance": 20,
-    "India & General": 13,
-    "Technology & Science": 1,
-    "Business & Economy": 1
+    "Climate & Environment": 3,
+    "Politics & Governance": 12,
+    "Security & Defence": 2,
+    "India & General": 14,
+    "Business & Economy": 2,
+    "Health": 1,
+    "Education": 1
   },
   "stories": [
     {
-      "id": "8560c5f3db0c0ee9",
-      "title": "Don’t confuse PM Modi, convince him for open debate with me: Rahul Gandhi to Amit Shah",
-      "url": "https://www.thehindu.com/news/national/dont-confuse-pm-modi-convince-him-for-open-debate-with-me-rahul-gandhi-to-amit-shah/article71677239.ece",
-      "source": "The Hindu",
+      "id": "8a0a6d3c6cbc82a4",
+      "title": "22 Injured, Windows Shattered As 5.7-Magnitude Earthquake Hits Japan",
+      "url": "https://www.ndtv.com/world-news/japan-earthquake-news-22-injured-windows-shattered-as-5-7-magnitude-earthquake-hits-japan-12299647#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "The Hindu"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/dont-confuse-pm-modi-convince-him-for-open-debate-with-me-rahul-gandhi-to-amit-shah/article71677239.ece"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/japan-earthquake-news-22-injured-windows-shattered-as-5-7-magnitude-earthquake-hits-japan-12299647#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-07T03:59:56+00:00",
-      "published_at_ist": "2026-11-07T09:29:56+05:30",
-      "summary": "Congress president Mallikarjun Kharge has also said the Prime Minister should come forward and face the questions on vote theft that the nation was posing",
-      "category": "Politics & Governance",
-      "importance_score": 5,
+      "published_at_utc": "2026-11-08T07:35:30+00:00",
+      "published_at_ist": "2026-11-08T13:05:30+05:30",
+      "summary": "Broken windows are seen at an imported car dealership after an earthquake in Toyohashi, Japan",
+      "category": "Climate & Environment",
+      "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "428ddfdec8d7651c",
-      "title": "How did Telangana get back land worth over ₹55,000 crores? | Explained",
-      "url": "https://www.thehindu.com/news/national/telangana/how-did-telangana-get-back-land-worth-over-55000-crores-after-supreme-court-verdict-explained/article71677463.ece",
+      "id": "b0b6154cadc2a06d",
+      "title": "Congress donations fall nearly 75%, sharpest decline in a decade",
+      "url": "https://www.thehindu.com/news/national/congress-donations-fall-nearly-75-sharpest-decline-in-a-decade/article71680699.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -52,20 +55,41 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/how-did-telangana-get-back-land-worth-over-55000-crores-after-supreme-court-verdict-explained/article71677463.ece"
+          "url": "https://www.thehindu.com/news/national/congress-donations-fall-nearly-75-sharpest-decline-in-a-decade/article71680699.ece"
         }
       ],
-      "published_at_utc": "2026-11-07T07:31:26+00:00",
-      "published_at_ist": "2026-11-07T13:01:26+05:30",
-      "summary": "The Supreme Court settles a 32-year fight, granting Telangana 550 acres of land worth ₹55,000 crores tied to historic jagir deeds",
+      "published_at_utc": "2026-11-08T07:26:51+00:00",
+      "published_at_ist": "2026-11-08T12:56:51+05:30",
+      "summary": "Congress had received ₹517.39 crore in such contributions in 2024-25, according to its 2024-25 contribution report submitted to the Election Commission of India",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "5fe88be6d5ef5651",
-      "title": "Andhra Pradesh MPTC, ZPTC election results LIVE: TDP leads in multiple Zilla, Mandal Parishads",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece",
+      "id": "79136a306fae0689",
+      "title": "First Diwali With Every District Free From Naxalism: PM Modi",
+      "url": "https://www.ndtv.com/india-news/first-diwali-with-every-district-free-from-naxalism-pm-modi-12299666#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/first-diwali-with-every-district-free-from-naxalism-pm-modi-12299666#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-08T07:23:02+00:00",
+      "published_at_ist": "2026-11-08T12:53:02+05:30",
+      "summary": "Emphasising his personal bond with the security personnel, the Prime Minister highlighted the transformation witnessed in Bastar.",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "d3242a8e3729f427",
+      "title": "PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists",
+      "url": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -73,37 +97,117 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece"
+          "url": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece"
         }
       ],
-      "published_at_utc": "2026-11-07T07:25:07+00:00",
-      "published_at_ist": "2026-11-07T12:55:07+05:30",
-      "summary": "State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting.",
+      "published_at_utc": "2026-11-08T07:08:12+00:00",
+      "published_at_ist": "2026-11-08T12:38:12+05:30",
+      "summary": "The Prime Minister said Bastar is an area where Maoism once held sway but now, development is flourishing",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "96a8c21a67cae402",
-      "title": "Supreme Court says compulsory retirement does not imply employee misconduct",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-compulsory-retirement-not-punishment-stigma-ptag-3034286-2026-11-07?utm_source=rss",
-      "source": "India Today",
+      "id": "a820e5825b8ec2f2",
+      "title": "News in Frames: Many twists in the monsoon’s tale",
+      "url": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece",
+      "source": "The Hindu",
       "sources": [
-        "India Today"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-compulsory-retirement-not-punishment-stigma-ptag-3034286-2026-11-07?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-compulsory-retirement-not-punishment-stigma-ptag-3034286-2026-11-07?utm_source=rss"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece"
         }
       ],
-      "published_at_utc": "2026-11-07T06:38:22+00:00",
-      "published_at_ist": "2026-11-07T12:08:22+05:30",
-      "summary": "Supreme Court says compulsory retirement does not imply employee misconduct",
+      "published_at_utc": "2026-11-08T06:33:24+00:00",
+      "published_at_ist": "2026-11-08T12:03:24+05:30",
+      "summary": "Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "6ac1958aa6ccd4df",
+      "title": "New Zealand Poll Explained: Special Votes, Coalition Talks And What's Next",
+      "url": "https://www.ndtv.com/world-news/new-zealand-poll-explained-special-votes-coalition-talks-and-whats-next-12299405#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/new-zealand-poll-explained-special-votes-coalition-talks-and-whats-next-12299405#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-08T05:53:42+00:00",
+      "published_at_ist": "2026-11-08T11:23:42+05:30",
+      "summary": "Christopher Luxon, leader of the National Party, with his family at an election party in Auckland",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "4f936c05546c82ab",
+      "title": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
+      "url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-08T05:36:06+00:00",
+      "published_at_ist": "2026-11-08T11:06:06+05:30",
+      "summary": "This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash. Data shows some stated aims of the move remain largely unmet",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "bbe89a3c37d7444e",
+      "title": "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-07T20:50:38+00:00",
+      "published_at_ist": "2026-11-08T02:20:38+05:30",
+      "summary": "As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050; TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "d5fc9c444bc189ff",
+      "title": "Madras HC refuses to reject Anbil Mahesh Poyyamozhi’s election petition",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-07T18:20:33+00:00",
+      "published_at_ist": "2026-11-07T23:50:33+05:30",
+      "summary": "Justice K. Kumaresh Babu dismisses an application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji to reject the election petition",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
@@ -120,10 +224,6 @@
         {
           "source": "India Today",
           "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-plenary-address-kisan-tak-bharat-agriculture-conference-3034287-2026-11-07?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-plenary-address-kisan-tak-bharat-agriculture-conference-3034287-2026-11-07?utm_source=rss"
         }
       ],
       "published_at_utc": "2026-11-07T06:35:34+00:00",
@@ -134,93 +234,9 @@
       "is_major": true
     },
     {
-      "id": "141dac0c04997b81",
-      "title": "Tamil Nadu govt sanctions ₹198 crore as honorarium for officials involved in 2026 Assembly election",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-sanctions-198-crore-as-honorarium-for-officials-involved-in-2026-assembly-election/article71677340.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-sanctions-198-crore-as-honorarium-for-officials-involved-in-2026-assembly-election/article71677340.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-07T06:24:06+00:00",
-      "published_at_ist": "2026-11-07T11:54:06+05:30",
-      "summary": "A Government order, issued by the Public (Elections) Department, stated one month’s basic pay, subject to a maximum of ₹45,000, whichever is less, will be paid to officials and staff members involved in 2026 Assembly election",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "803fe36a88ff8cfd",
-      "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-07T06:03:52+00:00",
-      "published_at_ist": "2026-11-07T11:33:52+05:30",
-      "summary": "The former top poll official also said that the Election Commission of India is supposed to make decisions based on a majority",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "7dd4b437a7f76cf0",
-      "title": "Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR",
-      "url": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-07T05:06:08+00:00",
-      "published_at_ist": "2026-11-07T10:36:08+05:30",
-      "summary": "The Bench highlighted the large number of vehicles plying on roads connecting Delhi with neighbouring areas, including Ghaziabad, Greater Noida, Gurugram and Faridabad",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "503e2b49108c7fa8",
-      "title": "Counting of votes, declaration of results on November 7 for ZPTC, MPTC elections in A.P.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-at-365-centres-on-november-7-for-zptc-mptc-elections-in-ap/article71675028.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-at-365-centres-on-november-7-for-zptc-mptc-elections-in-ap/article71675028.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-07T04:41:58+00:00",
-      "published_at_ist": "2026-11-07T10:11:58+05:30",
-      "summary": "About 11,000 counting supervisors and 28,692 assistants/staff to participate in the process at 365 centres across the State; counting of postal ballots to be taken up first; nearly 20,000 police personnel deployed as part of three-layer security",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "abfc914c8861438f",
-      "title": "Mumbai Civic Body's Top Law Officer Sent On Leave After Supreme Court Rap Over Encroachment",
-      "url": "https://www.ndtv.com/mumbai-news/mumbai-civic-body-bmcs-top-law-officer-komal-punjabi-sent-on-leave-after-supreme-court-rap-over-encroachment-12295675#publisher=newsstand",
+      "id": "e61abbf1ce1d0d06",
+      "title": "Did Trump Pick Wrong Dana White For Press Secretary? Internet Is Convinced",
+      "url": "https://www.ndtv.com/world-news/white-house-press-secretary-did-donald-trump-pick-wrong-dana-white-for-press-secretary-internet-is-convinced-ufc-ceo-dana-white-12299358#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -228,150 +244,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/mumbai-news/mumbai-civic-body-bmcs-top-law-officer-komal-punjabi-sent-on-leave-after-supreme-court-rap-over-encroachment-12295675#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/white-house-press-secretary-did-donald-trump-pick-wrong-dana-white-for-press-secretary-internet-is-convinced-ufc-ceo-dana-white-12299358#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-07T04:34:44+00:00",
-      "published_at_ist": "2026-11-07T10:04:44+05:30",
-      "summary": "The move comes after questions were raised about the civic body's role",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "06b525ee705753ab",
-      "title": "Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives",
-      "url": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-07T03:45:36+00:00",
-      "published_at_ist": "2026-11-07T09:15:36+05:30",
-      "summary": "The Supreme Court permitted the bursting of certified green firecrackers between 6 a.m. and 7 a.m. and between 8 p.m. and 10 p.m. on November 7 and November 8, 2026 in Delhi-NCR",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "faf97d4839cb4769",
-      "title": "Counting of votes in ZPTCs and MPTCs begins in Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-in-zptcs-and-mptcs-election-results-andhra-pradesh/article71677201.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-in-zptcs-and-mptcs-election-results-andhra-pradesh/article71677201.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-07T03:18:03+00:00",
-      "published_at_ist": "2026-11-07T08:48:03+05:30",
-      "summary": "State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting.",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "a2afcc1ec7b4625d",
-      "title": "Zubeen Garg case: Assam CM flags danger to family in threat to besiege his house",
-      "url": "https://www.thehindu.com/news/national/assam/house-gherao-threat-in-zubeen-death-case-poses-danger-to-my-family-to-be-raised-in-court-assam-cm/article71674297.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/assam/house-gherao-threat-in-zubeen-death-case-poses-danger-to-my-family-to-be-raised-in-court-assam-cm/article71674297.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-07T01:12:57+00:00",
-      "published_at_ist": "2026-11-07T06:42:57+05:30",
-      "summary": "He told journalists in Guwahati that he would bring the threat to the notice of the Supreme Court and the Gauhati High Court, as it could amount to an attempt to murder",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "6fd5768034f1bb9d",
-      "title": "BJP-SP poster war over Krishna Janmabhoomi. Mandir politics for 2027 election math?",
-      "url": "https://www.indiatoday.in/programme/india-first/video/sp-bjp-poster-war-erupts-over-2027-up-polls-krishna-narrative-and-hindutva-turf-frvd-3034065-2026-11-06?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/india-first/video/sp-bjp-poster-war-erupts-over-2027-up-polls-krishna-narrative-and-hindutva-turf-frvd-3034065-2026-11-06?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/india-first/video/sp-bjp-poster-war-erupts-over-2027-up-polls-krishna-narrative-and-hindutva-turf-frvd-3034065-2026-11-06?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-06T16:07:21+00:00",
-      "published_at_ist": "2026-11-06T21:37:21+05:30",
-      "summary": "BJPSP poster war over Krishna Janmabhoomi Mandir politics for election math",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "badb738e456296ce",
-      "title": "Supreme Court says salary alone cannot determine OBC creamy layer status",
-      "url": "https://www.indiatoday.in/india/law-news/story/obc-creamy-layer-supreme-court-parental-salary-reservation-ruling-ptag-3033773-2026-11-06?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/obc-creamy-layer-supreme-court-parental-salary-reservation-ruling-ptag-3033773-2026-11-06?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-06T11:32:08+00:00",
-      "published_at_ist": "2026-11-06T17:02:08+05:30",
-      "summary": "Supreme Court says salary alone cannot determine OBC creamy layer status",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "9f09bf19b32c3348",
-      "title": "BJP MLA Sankalp Amonkar inducted into Goa cabinet",
-      "url": "https://www.thehindu.com/news/national/goa/bjp-mla-sankalp-amonkar-inducted-into-goa-cabinet/article71677484.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/goa/bjp-mla-sankalp-amonkar-inducted-into-goa-cabinet/article71677484.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-07T06:59:43+00:00",
-      "published_at_ist": "2026-11-07T12:29:43+05:30",
-      "summary": "Governor P. Ashok Gajapathy Raju administered the oath of office and secrecy to Mr. Amonkar at a ceremony held at Lok Bhavan in Dona Paula, in the presence of Chief Minister Pramod Sawant and other cabinet colleagues",
+      "published_at_utc": "2026-11-08T05:25:33+00:00",
+      "published_at_ist": "2026-11-08T10:55:33+05:30",
+      "summary": "For now, the Dana White publicly named by Donald Trump, is the UFC president.",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "8143fc2ac373d288",
-      "title": "Trump Celebrates Diwali With Indian-Americans, Gets Hanuman Chalisa As Gift",
-      "url": "https://www.ndtv.com/world-news/trump-participates-in-diwali-celebration-at-white-house-12294869#publisher=newsstand",
+      "id": "b708c5a5b76656d1",
+      "title": "Explosions Heard On Iran's Qeshm Island After Missile Strikes",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-explosions-heard-on-irans-qeshm-island-after-missile-strikes-12299181#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -379,20 +265,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/trump-participates-in-diwali-celebration-at-white-house-12294869#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/us-iran-war-explosions-heard-on-irans-qeshm-island-after-missile-strikes-12299181#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-07T06:04:27+00:00",
-      "published_at_ist": "2026-11-07T11:34:27+05:30",
-      "summary": "President Donald Trump participated in a Diwali celebration at the White House on Friday.",
-      "category": "Politics & Governance",
+      "published_at_utc": "2026-11-08T04:19:53+00:00",
+      "published_at_ist": "2026-11-08T09:49:53+05:30",
+      "summary": "Iran has hit vessels it says have violated its restrictions on passage through the waterway",
+      "category": "Security & Defence",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "4f342a8861cfd96f",
-      "title": "Vice President confers Dr. Rajendra Prasad Award for Academic Excellence on Professor K. Chockalingam",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/briefly-vice-president-confers-dr-rajendra-prasad-award-for-academic-excellence-on-professor-k-chockalingam/article71677284.ece",
+      "id": "584adce01fc25903",
+      "title": "Apologise to saints, devotees before visiting Ayodhya: Adityanath ahead of Akhilesh’s visit",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/apologise-to-saints-devotees-before-visiting-ayodhya-adityanath-ahead-of-akhileshs-visit/article71680509.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -400,33 +286,33 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/briefly-vice-president-confers-dr-rajendra-prasad-award-for-academic-excellence-on-professor-k-chockalingam/article71677284.ece"
+          "url": "https://www.thehindu.com/news/national/uttar-pradesh/apologise-to-saints-devotees-before-visiting-ayodhya-adityanath-ahead-of-akhileshs-visit/article71680509.ece"
         }
       ],
-      "published_at_utc": "2026-11-07T05:01:09+00:00",
-      "published_at_ist": "2026-11-07T10:31:09+05:30",
-      "summary": "The honour celebrates Prof. Chockalingam’s academic career, spanning more than five decades and marked by pioneering work in criminology and victimology",
+      "published_at_utc": "2026-11-08T04:17:40+00:00",
+      "published_at_ist": "2026-11-08T09:47:40+05:30",
+      "summary": "The Chief Minister's remark came within hours of the announcement that Samajwadi Party president Akhilesh Yadav would visit the Ram Temple in Ayodhya on December 12",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "360910d387d20ff0",
-      "title": "\"Cropped, Out-Of-Context\": Minister To Rahul Gandhi Over Amit Shah's SIR Clip",
-      "url": "https://www.ndtv.com/india-news/sir-cropped-out-of-context-video-minister-pralhad-joshi-to-rahul-gandhi-over-amit-shah-clip-12295618#publisher=newsstand",
-      "source": "NDTV",
+      "id": "daebc1e91d8b5824",
+      "title": "RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
+      "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/sir-cropped-out-of-context-video-minister-pralhad-joshi-to-rahul-gandhi-over-amit-shah-clip-12295618#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece"
         }
       ],
-      "published_at_utc": "2026-11-07T04:39:29+00:00",
-      "published_at_ist": "2026-11-07T10:09:29+05:30",
-      "summary": "Amit Shah has urged Rahul Gandhi to debate in parliament and not on the streets.",
+      "published_at_utc": "2026-11-07T22:06:02+00:00",
+      "published_at_ist": "2026-11-08T03:36:02+05:30",
+      "summary": "Mr. Yadav said that Mr. Ragi used the abusive language against Yadav community on behest of Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Janata Party (BJP).",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
@@ -466,8 +352,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/oneplus-nord-6-gets-15-discount-details-here-287341-06-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T07:35:03+00:00",
-      "published_at_ist": "2026-11-07T13:05:03+05:30",
+      "published_at_utc": "2026-11-08T07:45:04+00:00",
+      "published_at_ist": "2026-11-08T13:15:04+05:30",
       "summary": "OnePlus Nord gets discount details here",
       "category": "India & General",
       "importance_score": 1,
@@ -487,8 +373,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drops-by-rs-11000-here-is-how-the-deal-works-287339-06-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T07:35:03+00:00",
-      "published_at_ist": "2026-11-07T13:05:03+05:30",
+      "published_at_utc": "2026-11-08T07:45:04+00:00",
+      "published_at_ist": "2026-11-08T13:15:04+05:30",
       "summary": "iPhone price drops by Rs here is how deal works",
       "category": "India & General",
       "importance_score": 1,
@@ -508,8 +394,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-fe-price-drops-below-rs-39999-details-here-287331-06-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T07:35:03+00:00",
-      "published_at_ist": "2026-11-07T13:05:03+05:30",
+      "published_at_utc": "2026-11-08T07:45:04+00:00",
+      "published_at_ist": "2026-11-08T13:15:04+05:30",
       "summary": "Samsung Galaxy S FE price drops below Rs details here",
       "category": "India & General",
       "importance_score": 1,
@@ -529,8 +415,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-price-drop-alert-full-details-here-2-287326-06-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T07:35:03+00:00",
-      "published_at_ist": "2026-11-07T13:05:03+05:30",
+      "published_at_utc": "2026-11-08T07:45:04+00:00",
+      "published_at_ist": "2026-11-08T13:15:04+05:30",
       "summary": "iPhone price drop alert full details here",
       "category": "India & General",
       "importance_score": 1,
@@ -550,8 +436,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-ultra-available-under-rs-91000-on-flipkart-here-is-how-287313-05-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T07:35:03+00:00",
-      "published_at_ist": "2026-11-07T13:05:03+05:30",
+      "published_at_utc": "2026-11-08T07:45:04+00:00",
+      "published_at_ist": "2026-11-08T13:15:04+05:30",
       "summary": "Samsung Galaxy S Ultra available under Rs on Flipkart here is how",
       "category": "India & General",
       "importance_score": 1,
@@ -571,17 +457,59 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-below-rs-99999-details-here-copy-287307-05-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T07:35:03+00:00",
-      "published_at_ist": "2026-11-07T13:05:03+05:30",
+      "published_at_utc": "2026-11-08T07:45:04+00:00",
+      "published_at_ist": "2026-11-08T13:15:04+05:30",
       "summary": "iPhone Air price drops by Rs details here",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "ebc611ad596ea6cd",
-      "title": "SpaceX to catch megarocket using 'chopsticks' during Starship Flight 15",
-      "url": "https://www.indiatoday.in/science/story/spacex-starship-double-catch-next-test-flight-15-elon-musk-rocket-reusable-space-travel-super-heavy-3034310-2026-11-07?utm_source=rss",
+      "id": "7711d5286459d334",
+      "title": "Body of Punjab anti-drug activist Jhota brought to Mansa for last rites",
+      "url": "https://www.thehindu.com/news/national/punjab/body-of-punjab-anti-drug-activist-jhota-brought-to-mansa-for-last-rites/article71680708.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/punjab/body-of-punjab-anti-drug-activist-jhota-brought-to-mansa-for-last-rites/article71680708.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-08T07:42:24+00:00",
+      "published_at_ist": "2026-11-08T13:12:24+05:30",
+      "summary": "Jhota was shot dead in broad daylight at a medical store in a busy marketplace in Mansa town on October 13",
+      "category": "Business & Economy",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "2a1262590d8a8a39",
+      "title": "Naxals Wiped Out In Forests But 'Dimagi Naxals Hide Among Us': PM Modi In Bastar On Diwali",
+      "url": "https://www.ndtv.com/india-news/while-naxalites-have-been-wiped-out-from-the-forests-dimagi-naxals-have-infiltrated-various-organisations-pm-modi-12299676#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/while-naxalites-have-been-wiped-out-from-the-forests-dimagi-naxals-have-infiltrated-various-organisations-pm-modi-12299676#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-08T07:40:18+00:00",
+      "published_at_ist": "2026-11-08T13:10:18+05:30",
+      "summary": "PM Narendra Modi celebrates Diwali with security forces deployed in Bastar",
+      "category": "Security & Defence",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "9e39e3aaf1aacff1",
+      "title": "मनीष मल्होत्रा की दिवाली पार्टी में छाए परिणीति-राघव, शेयर की रोमांटिक तस्वीरें",
+      "url": "https://www.aajtak.in/short-videos/video/raghav-chadha-and-parineeti-chopra-gets-romantic-at-manish-malhotra-diwali-party-bollywood-inside-photos-madhuri-dixit-mmtc-2691081-2026-11-08?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -589,150 +517,129 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/science/story/spacex-starship-double-catch-next-test-flight-15-elon-musk-rocket-reusable-space-travel-super-heavy-3034310-2026-11-07?utm_source=rss"
+          "url": "https://www.aajtak.in/short-videos/video/raghav-chadha-and-parineeti-chopra-gets-romantic-at-manish-malhotra-diwali-party-bollywood-inside-photos-madhuri-dixit-mmtc-2691081-2026-11-08?utm_source=rss"
         },
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/science/story/spacex-starship-double-catch-next-test-flight-15-elon-musk-rocket-reusable-space-travel-super-heavy-3034310-2026-11-07?utm_source=rss"
+          "url": "https://www.aajtak.in/india/delhi/story/diwali-traffic-jam-delhi-ncr-shopping-ntc-rpti-2691048-2026-11-08?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T07:34:22+00:00",
-      "published_at_ist": "2026-11-07T13:04:22+05:30",
-      "summary": "SpaceX to catch megarocket using chopsticks during Starship Flight",
-      "category": "Technology & Science",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "cb348a16c9242d99",
-      "title": "\"Congress, Others Have Not Had A Level Playing Field\": Sonia Gandhi Jabs BJP",
-      "url": "https://www.ndtv.com/india-news/amply-proved-that-many-polls-have-been-stolen-sonia-gandhi-targets-bjp-12296092#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/amply-proved-that-many-polls-have-been-stolen-sonia-gandhi-targets-bjp-12296092#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-07T07:20:15+00:00",
-      "published_at_ist": "2026-11-07T12:50:15+05:30",
-      "summary": "The BJP has hit back at Sonia Gandhi, pointing to the Emergency",
+      "published_at_utc": "2026-11-08T07:39:02+00:00",
+      "published_at_ist": "2026-11-08T13:09:02+05:30",
+      "summary": "",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "46ce033515781353",
-      "title": "Delivery Agent Injured, Glass Shattered In Explosion At Ghaziabad Police Post",
-      "url": "https://www.ndtv.com/ghaziabad-news/delivery-agent-injured-glass-shattered-in-explosion-at-ghaziabad-police-post-diwali-firecracker-likely-landed-in-ac-unit-and-caused-explosion-12295575#publisher=newsstand",
-      "source": "NDTV",
+      "id": "16d2777b5336def7",
+      "title": "हैदराबाद: मजदूरों से भरे ऑटो की ट्रक से टक्कर... 3 की मौत, 10 की हालत नाजुक",
+      "url": "https://www.aajtak.in/india/telangana/story/hyderabad-auto-rickshaw-collides-truck-accident-death-many-injured-ntc-drmt-rptc-2691079-2026-11-08?utm_source=rss",
+      "source": "India Today",
       "sources": [
-        "NDTV"
+        "India Today"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/ghaziabad-news/delivery-agent-injured-glass-shattered-in-explosion-at-ghaziabad-police-post-diwali-firecracker-likely-landed-in-ac-unit-and-caused-explosion-12295575#publisher=newsstand"
+          "source": "India Today",
+          "url": "https://www.aajtak.in/india/telangana/story/hyderabad-auto-rickshaw-collides-truck-accident-death-many-injured-ntc-drmt-rptc-2691079-2026-11-08?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T06:49:33+00:00",
-      "published_at_ist": "2026-11-07T12:19:33+05:30",
-      "summary": "The area has been cordoned off as police officials continue their investigation.",
+      "published_at_utc": "2026-11-08T07:39:02+00:00",
+      "published_at_ist": "2026-11-08T13:09:02+05:30",
+      "summary": "",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "e2b398352b2ce8a6",
-      "title": "Saba Haider Credits Ghaziabad Upbringing For Her Public Life, US Win",
-      "url": "https://www.ndtv.com/world-news/saba-haider-credits-ghaziabad-upbringing-for-her-public-life-us-midterm-win-12296068#publisher=newsstand",
-      "source": "NDTV",
+      "id": "911f46ed3bb4bfd9",
+      "title": "देश की कंपनी बनाएगी QRSAM, सुदर्शन चक्र होगा और घातक... जल्द मिलेगी मंजूरी",
+      "url": "https://www.aajtak.in/defence-news/story/bel-begins-qrsam-production-preparations-ahead-of-expected-30000-crore-defence-deal-dskc-2691077-2026-11-08?utm_source=rss",
+      "source": "India Today",
       "sources": [
-        "NDTV"
+        "India Today"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/saba-haider-credits-ghaziabad-upbringing-for-her-public-life-us-midterm-win-12296068#publisher=newsstand"
+          "source": "India Today",
+          "url": "https://www.aajtak.in/defence-news/story/bel-begins-qrsam-production-preparations-ahead-of-expected-30000-crore-defence-deal-dskc-2691077-2026-11-08?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T06:48:34+00:00",
-      "published_at_ist": "2026-11-07T12:18:34+05:30",
-      "summary": "She said her parents shaped her commitment to addressing the cost of living.",
+      "published_at_utc": "2026-11-08T07:39:02+00:00",
+      "published_at_ist": "2026-11-08T13:09:02+05:30",
+      "summary": "QRSAM",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "34cb79aa086a5a42",
-      "title": "US Believes Nvidia CEO Jensen Huang Had Romantic Relationship With Chinese 'Spy': Report",
-      "url": "https://www.ndtv.com/world-news/woman-who-targeted-nvidia-ceo-jensen-huang-was-recruited-by-top-china-spy-agency-report-12295987#publisher=newsstand",
-      "source": "NDTV",
+      "id": "1565e59e38d7eee6",
+      "title": "IND A vs NZ A: बल्लेबाजों के बाद प्रसिद्ध कृष्णा का कहर, भारतीय टीम ने कीवियों पर कसा शिकंजा",
+      "url": "https://www.aajtak.in/sports/cricket/story/ind-a-vs-nz-a-3rd-unofficial-test-day-2-report-india-a-declare-prasidh-krishna-2-wickets-tspoa-dskc-2691075-2026-11-08?utm_source=rss",
+      "source": "India Today",
       "sources": [
-        "NDTV"
+        "India Today"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/woman-who-targeted-nvidia-ceo-jensen-huang-was-recruited-by-top-china-spy-agency-report-12295987#publisher=newsstand"
+          "source": "India Today",
+          "url": "https://www.aajtak.in/sports/cricket/story/ind-a-vs-nz-a-3rd-unofficial-test-day-2-report-india-a-declare-prasidh-krishna-2-wickets-tspoa-dskc-2691075-2026-11-08?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-07T06:36:34+00:00",
-      "published_at_ist": "2026-11-07T12:06:34+05:30",
-      "summary": "The Financial Times said US officials believe that the relationship was romantic",
+      "published_at_utc": "2026-11-08T07:39:02+00:00",
+      "published_at_ist": "2026-11-08T13:09:02+05:30",
+      "summary": "IND A vs NZ A",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "183e37043d3b133e",
-      "title": "Rahul Gandhi's Diwali Party For Congress Leaders Amid 'Vote Chori' Row",
-      "url": "https://www.ndtv.com/india-news/rahul-gandhis-diwali-party-for-congress-leaders-amid-vote-chori-row-12295992#publisher=newsstand",
-      "source": "NDTV",
+      "id": "a3048100eb4d5a7c",
+      "title": "Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway",
+      "url": "https://www.thehindu.com/news/national/lawrence-bishnoi-gang-member-hari-boxer-detained-in-us-extradition-process-underway/article71680607.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/rahul-gandhis-diwali-party-for-congress-leaders-amid-vote-chori-row-12295992#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/lawrence-bishnoi-gang-member-hari-boxer-detained-in-us-extradition-process-underway/article71680607.ece"
         }
       ],
-      "published_at_utc": "2026-11-07T06:18:55+00:00",
-      "published_at_ist": "2026-11-07T11:48:55+05:30",
-      "summary": "Politics was not discussed and Gandhi did not talk about any roadmap, a leader said.",
+      "published_at_utc": "2026-11-08T07:25:57+00:00",
+      "published_at_ist": "2026-11-08T12:55:57+05:30",
+      "summary": "The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "bd4ed95444afd64e",
-      "title": "Death Count In Assam Oil India Fire Rises To 2, 5 Injured Remain Critical",
-      "url": "https://www.ndtv.com/india-news/death-count-in-assam-oil-india-fire-rises-to-2-5-injured-remain-critical-12295904#publisher=newsstand",
-      "source": "NDTV",
+      "id": "bd93b826bd4ebe20",
+      "title": "Dindigul youth killed in Israel construction site accident laid to rest in native village",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dindigul-youth-killed-in-israel-construction-site-accident-laid-to-rest-in-native-village/article71680678.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/death-count-in-assam-oil-india-fire-rises-to-2-5-injured-remain-critical-12295904#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/dindigul-youth-killed-in-israel-construction-site-accident-laid-to-rest-in-native-village/article71680678.ece"
         }
       ],
-      "published_at_utc": "2026-11-07T05:51:56+00:00",
-      "published_at_ist": "2026-11-07T11:21:56+05:30",
-      "summary": "Oil India added that its fire service personnel were immediately mobilised",
+      "published_at_utc": "2026-11-08T07:12:17+00:00",
+      "published_at_ist": "2026-11-08T12:42:17+05:30",
+      "summary": "Veeramani had gone to Israel two years ago to work in construction. He last visited his village on leave six months ago before returning to work",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "084af244ae4a2ca7",
-      "title": "\"Her Point Of View...\": Sonia Gandhi Recalls Emergency, Indira Gandhi's \"Regret\"",
-      "url": "https://www.ndtv.com/india-news/her-point-of-view-sonia-gandhi-recalls-emergency-indira-gandhis-regret-12295871#publisher=newsstand",
+      "id": "9ceb49d35587c06c",
+      "title": "Diwali Muhurat Trading 2026: 3 Stocks With 25% Potential Upside",
+      "url": "https://www.ndtv.com/business-news/diwali-muhurat-trading-2026-samvat-2083-three-best-stock-picks-share-market-nse-bse-news-12299561#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -740,34 +647,118 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/her-point-of-view-sonia-gandhi-recalls-emergency-indira-gandhis-regret-12295871#publisher=newsstand"
+          "url": "https://www.ndtv.com/business-news/diwali-muhurat-trading-2026-samvat-2083-three-best-stock-picks-share-market-nse-bse-news-12299561#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-07T05:43:55+00:00",
-      "published_at_ist": "2026-11-07T11:13:55+05:30",
-      "summary": "Sonia Gandhi's memoir 'Belonging: A Journey Of Love' releases worldwide on November 10",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "a4c6ecd95e72840a",
-      "title": "Trump's New Chief Of Staff Once Criticised India Over Russian Oil, Trade",
-      "url": "https://www.ndtv.com/world-news/stephen-miller-trumps-new-chief-of-staff-once-criticised-india-over-russian-oil-trade-russia-ukraine-war-white-house-chief-of-staff-12295810#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/stephen-miller-trumps-new-chief-of-staff-once-criticised-india-over-russian-oil-trade-russia-ukraine-war-white-house-chief-of-staff-12295810#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-07T05:38:41+00:00",
-      "published_at_ist": "2026-11-07T11:08:41+05:30",
-      "summary": "Stephen Miller made several remarks criticising India",
+      "published_at_utc": "2026-11-08T07:08:41+00:00",
+      "published_at_ist": "2026-11-08T12:38:41+05:30",
+      "summary": "Samvat 2083: Muhurat trading should be approached with a quality-first investment strategy.",
       "category": "Business & Economy",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "5709b3b2bfc136a4",
+      "title": "Delhi faces new challenge from Samosa caucus",
+      "url": "https://www.thehindu.com/news/national/delhi-faces-new-challenge-from-samosa-caucus/article71680519.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/delhi-faces-new-challenge-from-samosa-caucus/article71680519.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-08T07:06:05+00:00",
+      "published_at_ist": "2026-11-08T12:36:05+05:30",
+      "summary": "Surge in Indian-American wins in U.S. midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "182e5aff6d53d886",
+      "title": "Bengal To Reverify Degrees Of 1.1 Lakh Doctors Amid Fake Credential Row",
+      "url": "https://www.ndtv.com/india-news/west-bengal-to-reverify-degrees-of-1-1-lakh-doctors-amid-fake-credential-row-12299589#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/west-bengal-to-reverify-degrees-of-1-1-lakh-doctors-amid-fake-credential-row-12299589#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-08T06:56:55+00:00",
+      "published_at_ist": "2026-11-08T12:26:55+05:30",
+      "summary": "West Bengal will verify doctors' credentials (representational)",
+      "category": "Health",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "473e8f85a8dd78ca",
+      "title": "Man Arrested For Firing 14 Rounds At Neighbour Over Parking In Faridabad",
+      "url": "https://www.ndtv.com/india-news/faridabad-shooting-news-monu-sharma-arrested-for-firing-14-rounds-at-singapore-based-neighbour-paramjeet-over-parking-in-faridabad-12299516#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/faridabad-shooting-news-monu-sharma-arrested-for-firing-14-rounds-at-singapore-based-neighbour-paramjeet-over-parking-in-faridabad-12299516#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-08T06:37:26+00:00",
+      "published_at_ist": "2026-11-08T12:07:26+05:30",
+      "summary": "The victim, a 42-year-old employee of a firm in Singapore, was shot dead by his neighbour",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "2b3a69f79b24e432",
+      "title": "Delhi Pollution Worsens On Diwali, Air Quality 'Severe' In Many Areas",
+      "url": "https://www.ndtv.com/india-news/delhi-pollution-worsens-on-diwali-air-quality-aqi-severe-in-many-areas-12299481#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/delhi-pollution-worsens-on-diwali-air-quality-aqi-severe-in-many-areas-12299481#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-08T06:17:28+00:00",
+      "published_at_ist": "2026-11-08T11:47:28+05:30",
+      "summary": "The overall AQI of 483 marks a significant deterioration from Saturday morning.",
+      "category": "Climate & Environment",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "7b52eb2fb75f3b6c",
+      "title": "Abhishek Banerjee Named In FIR As Kolkata Cops Probe Birthday Night Clashes",
+      "url": "https://www.ndtv.com/kolkata-news/trinamool-congress-abhishek-banerjee-named-in-fir-as-police-probe-birthday-night-clashes-12299471#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/kolkata-news/trinamool-congress-abhishek-banerjee-named-in-fir-as-police-probe-birthday-night-clashes-12299471#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-08T06:11:23+00:00",
+      "published_at_ist": "2026-11-08T11:41:23+05:30",
+      "summary": "Abhishek Banerjee speaks using a megaphone along with supporters outside his house",
+      "category": "Education",
       "importance_score": 1,
       "is_major": false
     }

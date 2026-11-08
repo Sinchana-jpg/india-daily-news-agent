@@ -1,56 +1,99 @@
 # India Daily News Brief
 
-> Published: 07 November 2026, 01:07 PM IST  
+> Published: 08 November 2026, 01:18 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **15**
+- Major stories highlighted: **10**
 - Sources checked successfully: **4**
 
 ### Stories by category
 
-- **Politics & Governance:** 20
-- **India & General:** 13
-- **Business & Economy:** 1
-- **Technology & Science:** 1
+- **India & General:** 14
+- **Politics & Governance:** 12
+- **Climate & Environment:** 3
+- **Business & Economy:** 2
+- **Security & Defence:** 2
+- **Education:** 1
+- **Health:** 1
 
 ## Major stories
 
-### 1. [Don’t confuse PM Modi, convince him for open debate with me: Rahul Gandhi to Amit Shah](https://www.thehindu.com/news/national/dont-confuse-pm-modi-convince-him-for-open-debate-with-me-rahul-gandhi-to-amit-shah/article71677239.ece)
+### 1. [22 Injured, Windows Shattered As 5.7-Magnitude Earthquake Hits Japan](https://www.ndtv.com/world-news/japan-earthquake-news-22-injured-windows-shattered-as-5-7-magnitude-earthquake-hits-japan-12299647#publisher=newsstand)
 
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 5/10 (heuristic)
-- **Published:** 07 Nov 2026, 09:29 AM IST
-- **Summary:** Congress president Mallikarjun Kharge has also said the Prime Minister should come forward and face the questions on vote theft that the nation was posing
-
-### 2. [How did Telangana get back land worth over ₹55,000 crores? \| Explained](https://www.thehindu.com/news/national/telangana/how-did-telangana-get-back-land-worth-over-55000-crores-after-supreme-court-verdict-explained/article71677463.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
+- **Category:** Climate & Environment
+- **Source(s):** NDTV
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 01:01 PM IST
-- **Summary:** The Supreme Court settles a 32-year fight, granting Telangana 550 acres of land worth ₹55,000 crores tied to historic jagir deeds
+- **Published:** 08 Nov 2026, 01:05 PM IST
+- **Summary:** Broken windows are seen at an imported car dealership after an earthquake in Toyohashi, Japan
 
-### 3. [Andhra Pradesh MPTC, ZPTC election results LIVE: TDP leads in multiple Zilla, Mandal Parishads](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece)
+### 2. [Congress donations fall nearly 75%, sharpest decline in a decade](https://www.thehindu.com/news/national/congress-donations-fall-nearly-75-sharpest-decline-in-a-decade/article71680699.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 12:55 PM IST
-- **Summary:** State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting.
+- **Published:** 08 Nov 2026, 12:56 PM IST
+- **Summary:** Congress had received ₹517.39 crore in such contributions in 2024-25, according to its 2024-25 contribution report submitted to the Election Commission of India
 
-### 4. [Supreme Court says compulsory retirement does not imply employee misconduct](https://www.indiatoday.in/india/law-news/story/supreme-court-compulsory-retirement-not-punishment-stigma-ptag-3034286-2026-11-07?utm_source=rss)
+### 3. [First Diwali With Every District Free From Naxalism: PM Modi](https://www.ndtv.com/india-news/first-diwali-with-every-district-free-from-naxalism-pm-modi-12299666#publisher=newsstand)
 
 - **Category:** Politics & Governance
-- **Source(s):** India Today
+- **Source(s):** NDTV
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 12:08 PM IST
-- **Summary:** Supreme Court says compulsory retirement does not imply employee misconduct
+- **Published:** 08 Nov 2026, 12:53 PM IST
+- **Summary:** Emphasising his personal bond with the security personnel, the Prime Minister highlighted the transformation witnessed in Bastar.
 
-### 5. [Prime Minister Narendra Modi to deliver plenary address at India Today Group's Kisan Tak Bharat Agriculture Conference 2026](https://www.indiatoday.in/india/story/pm-narendra-modi-plenary-address-kisan-tak-bharat-agriculture-conference-3034287-2026-11-07?utm_source=rss)
+### 4. [PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists](https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 08 Nov 2026, 12:38 PM IST
+- **Summary:** The Prime Minister said Bastar is an area where Maoism once held sway but now, development is flourishing
+
+### 5. [News in Frames: Many twists in the monsoon’s tale](https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 08 Nov 2026, 12:03 PM IST
+- **Summary:** Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery
+
+### 6. [New Zealand Poll Explained: Special Votes, Coalition Talks And What's Next](https://www.ndtv.com/world-news/new-zealand-poll-explained-special-votes-coalition-talks-and-whats-next-12299405#publisher=newsstand)
+
+- **Category:** Politics & Governance
+- **Source(s):** NDTV
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 08 Nov 2026, 11:23 AM IST
+- **Summary:** Christopher Luxon, leader of the National Party, with his family at an election party in Auckland
+
+### 7. [10 years since demonetisation: Cash usage unchanged, fake notes on the rise](https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 08 Nov 2026, 11:06 AM IST
+- **Summary:** This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash. Data shows some stated aims of the move remain largely unmet
+
+### 8. [NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well](https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 08 Nov 2026, 02:20 AM IST
+- **Summary:** As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050; TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh
+
+### 9. [Madras HC refuses to reject Anbil Mahesh Poyyamozhi’s election petition](https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 07 Nov 2026, 11:50 PM IST
+- **Summary:** Justice K. Kumaresh Babu dismisses an application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji to reject the election petition
+
+### 10. [Prime Minister Narendra Modi to deliver plenary address at India Today Group's Kisan Tak Bharat Agriculture Conference 2026](https://www.indiatoday.in/india/story/pm-narendra-modi-plenary-address-kisan-tak-bharat-agriculture-conference-3034287-2026-11-07?utm_source=rss)
 
 - **Category:** Politics & Governance
 - **Source(s):** India Today
@@ -58,83 +101,22 @@
 - **Published:** 07 Nov 2026, 12:05 PM IST
 - **Summary:** Prime Minister Narendra Modi to deliver plenary address at India Today Groups Kisan Tak Bharat Agriculture Conference
 
-### 6. [Tamil Nadu govt sanctions ₹198 crore as honorarium for officials involved in 2026 Assembly election](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-sanctions-198-crore-as-honorarium-for-officials-involved-in-2026-assembly-election/article71677340.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 11:54 AM IST
-- **Summary:** A Government order, issued by the Public (Elections) Department, stated one month’s basic pay, subject to a maximum of ₹45,000, whichever is less, will be paid to officials and staff members involved in 2026 Assembly election
-
-### 7. [West Bengal election is not legally valid: Former CEC S.Y. Quraishi](https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 11:33 AM IST
-- **Summary:** The former top poll official also said that the Election Commission of India is supposed to make decisions based on a majority
-
-### 8. [Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR](https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 10:36 AM IST
-- **Summary:** The Bench highlighted the large number of vehicles plying on roads connecting Delhi with neighbouring areas, including Ghaziabad, Greater Noida, Gurugram and Faridabad
-
-### 9. [Counting of votes, declaration of results on November 7 for ZPTC, MPTC elections in A.P.](https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-at-365-centres-on-november-7-for-zptc-mptc-elections-in-ap/article71675028.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 10:11 AM IST
-- **Summary:** About 11,000 counting supervisors and 28,692 assistants/staff to participate in the process at 365 centres across the State; counting of postal ballots to be taken up first; nearly 20,000 police personnel deployed as part of three-layer security
-
-### 10. [Mumbai Civic Body's Top Law Officer Sent On Leave After Supreme Court Rap Over Encroachment](https://www.ndtv.com/mumbai-news/mumbai-civic-body-bmcs-top-law-officer-komal-punjabi-sent-on-leave-after-supreme-court-rap-over-encroachment-12295675#publisher=newsstand)
-
-- **Category:** Politics & Governance
-- **Source(s):** NDTV
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 10:04 AM IST
-- **Summary:** The move comes after questions were raised about the civic body's role
-
-### 11. [Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives](https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 09:15 AM IST
-- **Summary:** The Supreme Court permitted the bursting of certified green firecrackers between 6 a.m. and 7 a.m. and between 8 p.m. and 10 p.m. on November 7 and November 8, 2026 in Delhi-NCR
-
-### 12. [Counting of votes in ZPTCs and MPTCs begins in Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-in-zptcs-and-mptcs-election-results-andhra-pradesh/article71677201.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 07 Nov 2026, 08:48 AM IST
-- **Summary:** State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting.
-
 ## All collected stories
 
-- [Don’t confuse PM Modi, convince him for open debate with me: Rahul Gandhi to Amit Shah](https://www.thehindu.com/news/national/dont-confuse-pm-modi-convince-him-for-open-debate-with-me-rahul-gandhi-to-amit-shah/article71677239.ece) — **Politics & Governance** · The Hindu
-- [How did Telangana get back land worth over ₹55,000 crores? \| Explained](https://www.thehindu.com/news/national/telangana/how-did-telangana-get-back-land-worth-over-55000-crores-after-supreme-court-verdict-explained/article71677463.ece) — **Politics & Governance** · The Hindu
-- [Andhra Pradesh MPTC, ZPTC election results LIVE: TDP leads in multiple Zilla, Mandal Parishads](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court says compulsory retirement does not imply employee misconduct](https://www.indiatoday.in/india/law-news/story/supreme-court-compulsory-retirement-not-punishment-stigma-ptag-3034286-2026-11-07?utm_source=rss) — **Politics & Governance** · India Today
+- [22 Injured, Windows Shattered As 5.7-Magnitude Earthquake Hits Japan](https://www.ndtv.com/world-news/japan-earthquake-news-22-injured-windows-shattered-as-5-7-magnitude-earthquake-hits-japan-12299647#publisher=newsstand) — **Climate & Environment** · NDTV
+- [Congress donations fall nearly 75%, sharpest decline in a decade](https://www.thehindu.com/news/national/congress-donations-fall-nearly-75-sharpest-decline-in-a-decade/article71680699.ece) — **Politics & Governance** · The Hindu
+- [First Diwali With Every District Free From Naxalism: PM Modi](https://www.ndtv.com/india-news/first-diwali-with-every-district-free-from-naxalism-pm-modi-12299666#publisher=newsstand) — **Politics & Governance** · NDTV
+- [PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists](https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece) — **Politics & Governance** · The Hindu
+- [News in Frames: Many twists in the monsoon’s tale](https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece) — **Climate & Environment** · The Hindu
+- [New Zealand Poll Explained: Special Votes, Coalition Talks And What's Next](https://www.ndtv.com/world-news/new-zealand-poll-explained-special-votes-coalition-talks-and-whats-next-12299405#publisher=newsstand) — **Politics & Governance** · NDTV
+- [10 years since demonetisation: Cash usage unchanged, fake notes on the rise](https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece) — **Politics & Governance** · The Hindu
+- [NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well](https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece) — **Politics & Governance** · The Hindu
+- [Madras HC refuses to reject Anbil Mahesh Poyyamozhi’s election petition](https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece) — **Politics & Governance** · The Hindu
 - [Prime Minister Narendra Modi to deliver plenary address at India Today Group's Kisan Tak Bharat Agriculture Conference 2026](https://www.indiatoday.in/india/story/pm-narendra-modi-plenary-address-kisan-tak-bharat-agriculture-conference-3034287-2026-11-07?utm_source=rss) — **Politics & Governance** · India Today
-- [Tamil Nadu govt sanctions ₹198 crore as honorarium for officials involved in 2026 Assembly election](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-sanctions-198-crore-as-honorarium-for-officials-involved-in-2026-assembly-election/article71677340.ece) — **Politics & Governance** · The Hindu
-- [West Bengal election is not legally valid: Former CEC S.Y. Quraishi](https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR](https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece) — **Politics & Governance** · The Hindu
-- [Counting of votes, declaration of results on November 7 for ZPTC, MPTC elections in A.P.](https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-at-365-centres-on-november-7-for-zptc-mptc-elections-in-ap/article71675028.ece) — **Politics & Governance** · The Hindu
-- [Mumbai Civic Body's Top Law Officer Sent On Leave After Supreme Court Rap Over Encroachment](https://www.ndtv.com/mumbai-news/mumbai-civic-body-bmcs-top-law-officer-komal-punjabi-sent-on-leave-after-supreme-court-rap-over-encroachment-12295675#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives](https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece) — **Politics & Governance** · The Hindu
-- [Counting of votes in ZPTCs and MPTCs begins in Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-in-zptcs-and-mptcs-election-results-andhra-pradesh/article71677201.ece) — **Politics & Governance** · The Hindu
-- [Zubeen Garg case: Assam CM flags danger to family in threat to besiege his house](https://www.thehindu.com/news/national/assam/house-gherao-threat-in-zubeen-death-case-poses-danger-to-my-family-to-be-raised-in-court-assam-cm/article71674297.ece) — **Politics & Governance** · The Hindu
-- [BJP-SP poster war over Krishna Janmabhoomi. Mandir politics for 2027 election math?](https://www.indiatoday.in/programme/india-first/video/sp-bjp-poster-war-erupts-over-2027-up-polls-krishna-narrative-and-hindutva-turf-frvd-3034065-2026-11-06?utm_source=rss) — **Politics & Governance** · India Today
-- [Supreme Court says salary alone cannot determine OBC creamy layer status](https://www.indiatoday.in/india/law-news/story/obc-creamy-layer-supreme-court-parental-salary-reservation-ruling-ptag-3033773-2026-11-06?utm_source=rss) — **Politics & Governance** · India Today
-- [BJP MLA Sankalp Amonkar inducted into Goa cabinet](https://www.thehindu.com/news/national/goa/bjp-mla-sankalp-amonkar-inducted-into-goa-cabinet/article71677484.ece) — **Politics & Governance** · The Hindu
-- [Trump Celebrates Diwali With Indian-Americans, Gets Hanuman Chalisa As Gift](https://www.ndtv.com/world-news/trump-participates-in-diwali-celebration-at-white-house-12294869#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Vice President confers Dr. Rajendra Prasad Award for Academic Excellence on Professor K. Chockalingam](https://www.thehindu.com/news/national/tamil-nadu/briefly-vice-president-confers-dr-rajendra-prasad-award-for-academic-excellence-on-professor-k-chockalingam/article71677284.ece) — **Politics & Governance** · The Hindu
-- ["Cropped, Out-Of-Context": Minister To Rahul Gandhi Over Amit Shah's SIR Clip](https://www.ndtv.com/india-news/sir-cropped-out-of-context-video-minister-pralhad-joshi-to-rahul-gandhi-over-amit-shah-clip-12295618#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Did Trump Pick Wrong Dana White For Press Secretary? Internet Is Convinced](https://www.ndtv.com/world-news/white-house-press-secretary-did-donald-trump-pick-wrong-dana-white-for-press-secretary-internet-is-convinced-ufc-ceo-dana-white-12299358#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Explosions Heard On Iran's Qeshm Island After Missile Strikes](https://www.ndtv.com/world-news/us-iran-war-explosions-heard-on-irans-qeshm-island-after-missile-strikes-12299181#publisher=newsstand) — **Security & Defence** · NDTV
+- [Apologise to saints, devotees before visiting Ayodhya: Adityanath ahead of Akhilesh’s visit](https://www.thehindu.com/news/national/uttar-pradesh/apologise-to-saints-devotees-before-visiting-ayodhya-adityanath-ahead-of-akhileshs-visit/article71680509.ece) — **Politics & Governance** · The Hindu
+- [RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi](https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece) — **Politics & Governance** · The Hindu
 - [Bank collapse leaves half of Paraguay without funds, president under house arrest](https://www.indiatoday.in/world/story/ueno-bank-collapse-paraguay-santiago-pena-resignation-impeachment-itspc-3033647-2026-11-07?utm_source=rss) — **Politics & Governance** · India Today
 - [OnePlus Nord 6 gets 15% discount: details here](https://www.indiatoday.in/visualstories/technology/oneplus-nord-6-gets-15-discount-details-here-287341-06-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 17 price drops by Rs 11,000, here is how deal works](https://www.indiatoday.in/visualstories/technology/iphone-17-price-drops-by-rs-11000-here-is-how-the-deal-works-287339-06-11-2026?utm_source=rss) — **India & General** · India Today
@@ -142,15 +124,20 @@
 - [iPhone 16 price drop alert, full details here](https://www.indiatoday.in/visualstories/technology/iphone-16-price-drop-alert-full-details-here-2-287326-06-11-2026?utm_source=rss) — **India & General** · India Today
 - [Samsung Galaxy S26 Ultra available under Rs 91,000 on Flipkart, here is how](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-ultra-available-under-rs-91000-on-flipkart-here-is-how-287313-05-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone Air price drops by Rs 20,000: details here](https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-below-rs-99999-details-here-copy-287307-05-11-2026?utm_source=rss) — **India & General** · India Today
-- [SpaceX to catch megarocket using 'chopsticks' during Starship Flight 15](https://www.indiatoday.in/science/story/spacex-starship-double-catch-next-test-flight-15-elon-musk-rocket-reusable-space-travel-super-heavy-3034310-2026-11-07?utm_source=rss) — **Technology & Science** · India Today
-- ["Congress, Others Have Not Had A Level Playing Field": Sonia Gandhi Jabs BJP](https://www.ndtv.com/india-news/amply-proved-that-many-polls-have-been-stolen-sonia-gandhi-targets-bjp-12296092#publisher=newsstand) — **India & General** · NDTV
-- [Delivery Agent Injured, Glass Shattered In Explosion At Ghaziabad Police Post](https://www.ndtv.com/ghaziabad-news/delivery-agent-injured-glass-shattered-in-explosion-at-ghaziabad-police-post-diwali-firecracker-likely-landed-in-ac-unit-and-caused-explosion-12295575#publisher=newsstand) — **India & General** · NDTV
-- [Saba Haider Credits Ghaziabad Upbringing For Her Public Life, US Win](https://www.ndtv.com/world-news/saba-haider-credits-ghaziabad-upbringing-for-her-public-life-us-midterm-win-12296068#publisher=newsstand) — **India & General** · NDTV
-- [US Believes Nvidia CEO Jensen Huang Had Romantic Relationship With Chinese 'Spy': Report](https://www.ndtv.com/world-news/woman-who-targeted-nvidia-ceo-jensen-huang-was-recruited-by-top-china-spy-agency-report-12295987#publisher=newsstand) — **India & General** · NDTV
-- [Rahul Gandhi's Diwali Party For Congress Leaders Amid 'Vote Chori' Row](https://www.ndtv.com/india-news/rahul-gandhis-diwali-party-for-congress-leaders-amid-vote-chori-row-12295992#publisher=newsstand) — **India & General** · NDTV
-- [Death Count In Assam Oil India Fire Rises To 2, 5 Injured Remain Critical](https://www.ndtv.com/india-news/death-count-in-assam-oil-india-fire-rises-to-2-5-injured-remain-critical-12295904#publisher=newsstand) — **India & General** · NDTV
-- ["Her Point Of View...": Sonia Gandhi Recalls Emergency, Indira Gandhi's "Regret"](https://www.ndtv.com/india-news/her-point-of-view-sonia-gandhi-recalls-emergency-indira-gandhis-regret-12295871#publisher=newsstand) — **India & General** · NDTV
-- [Trump's New Chief Of Staff Once Criticised India Over Russian Oil, Trade](https://www.ndtv.com/world-news/stephen-miller-trumps-new-chief-of-staff-once-criticised-india-over-russian-oil-trade-russia-ukraine-war-white-house-chief-of-staff-12295810#publisher=newsstand) — **Business & Economy** · NDTV
+- [Body of Punjab anti-drug activist Jhota brought to Mansa for last rites](https://www.thehindu.com/news/national/punjab/body-of-punjab-anti-drug-activist-jhota-brought-to-mansa-for-last-rites/article71680708.ece) — **Business & Economy** · The Hindu
+- [Naxals Wiped Out In Forests But 'Dimagi Naxals Hide Among Us': PM Modi In Bastar On Diwali](https://www.ndtv.com/india-news/while-naxalites-have-been-wiped-out-from-the-forests-dimagi-naxals-have-infiltrated-various-organisations-pm-modi-12299676#publisher=newsstand) — **Security & Defence** · NDTV
+- [मनीष मल्होत्रा की दिवाली पार्टी में छाए परिणीति-राघव, शेयर की रोमांटिक तस्वीरें](https://www.aajtak.in/short-videos/video/raghav-chadha-and-parineeti-chopra-gets-romantic-at-manish-malhotra-diwali-party-bollywood-inside-photos-madhuri-dixit-mmtc-2691081-2026-11-08?utm_source=rss) — **India & General** · India Today
+- [हैदराबाद: मजदूरों से भरे ऑटो की ट्रक से टक्कर... 3 की मौत, 10 की हालत नाजुक](https://www.aajtak.in/india/telangana/story/hyderabad-auto-rickshaw-collides-truck-accident-death-many-injured-ntc-drmt-rptc-2691079-2026-11-08?utm_source=rss) — **India & General** · India Today
+- [देश की कंपनी बनाएगी QRSAM, सुदर्शन चक्र होगा और घातक... जल्द मिलेगी मंजूरी](https://www.aajtak.in/defence-news/story/bel-begins-qrsam-production-preparations-ahead-of-expected-30000-crore-defence-deal-dskc-2691077-2026-11-08?utm_source=rss) — **India & General** · India Today
+- [IND A vs NZ A: बल्लेबाजों के बाद प्रसिद्ध कृष्णा का कहर, भारतीय टीम ने कीवियों पर कसा शिकंजा](https://www.aajtak.in/sports/cricket/story/ind-a-vs-nz-a-3rd-unofficial-test-day-2-report-india-a-declare-prasidh-krishna-2-wickets-tspoa-dskc-2691075-2026-11-08?utm_source=rss) — **India & General** · India Today
+- [Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway](https://www.thehindu.com/news/national/lawrence-bishnoi-gang-member-hari-boxer-detained-in-us-extradition-process-underway/article71680607.ece) — **India & General** · The Hindu
+- [Dindigul youth killed in Israel construction site accident laid to rest in native village](https://www.thehindu.com/news/national/tamil-nadu/dindigul-youth-killed-in-israel-construction-site-accident-laid-to-rest-in-native-village/article71680678.ece) — **India & General** · The Hindu
+- [Diwali Muhurat Trading 2026: 3 Stocks With 25% Potential Upside](https://www.ndtv.com/business-news/diwali-muhurat-trading-2026-samvat-2083-three-best-stock-picks-share-market-nse-bse-news-12299561#publisher=newsstand) — **Business & Economy** · NDTV
+- [Delhi faces new challenge from Samosa caucus](https://www.thehindu.com/news/national/delhi-faces-new-challenge-from-samosa-caucus/article71680519.ece) — **India & General** · The Hindu
+- [Bengal To Reverify Degrees Of 1.1 Lakh Doctors Amid Fake Credential Row](https://www.ndtv.com/india-news/west-bengal-to-reverify-degrees-of-1-1-lakh-doctors-amid-fake-credential-row-12299589#publisher=newsstand) — **Health** · NDTV
+- [Man Arrested For Firing 14 Rounds At Neighbour Over Parking In Faridabad](https://www.ndtv.com/india-news/faridabad-shooting-news-monu-sharma-arrested-for-firing-14-rounds-at-singapore-based-neighbour-paramjeet-over-parking-in-faridabad-12299516#publisher=newsstand) — **India & General** · NDTV
+- [Delhi Pollution Worsens On Diwali, Air Quality 'Severe' In Many Areas](https://www.ndtv.com/india-news/delhi-pollution-worsens-on-diwali-air-quality-aqi-severe-in-many-areas-12299481#publisher=newsstand) — **Climate & Environment** · NDTV
+- [Abhishek Banerjee Named In FIR As Kolkata Cops Probe Birthday Night Clashes](https://www.ndtv.com/kolkata-news/trinamool-congress-abhishek-banerjee-named-in-fir-as-police-probe-birthday-night-clashes-12299471#publisher=newsstand) — **Education** · NDTV
 
 ## Source health
 
