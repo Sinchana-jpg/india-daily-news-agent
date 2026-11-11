@@ -1,101 +1,98 @@
 # India Daily News Brief
 
-> Published: 10 November 2026, 02:13 PM IST  
+> Published: 11 November 2026, 01:37 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **5**
+- Major stories highlighted: **4**
 - Sources checked successfully: **4**
 
 ### Stories by category
 
 - **India & General:** 19
-- **Politics & Governance:** 11
+- **Politics & Governance:** 7
 - **Climate & Environment:** 2
-- **Education:** 2
 - **Business & Economy:** 1
+- **Culture & Society:** 1
+- **Education:** 1
+- **Health:** 1
+- **Security & Defence:** 1
+- **Sports:** 1
+- **Technology & Science:** 1
 
 ## Major stories
 
-### 1. [Cyclone Murasu: Heavy rain and power cuts dampen spirit of Deepavali](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-heavy-rainand-power-cutsdampen-spirit-of-deepavali/article71683598.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 10 Nov 2026, 02:09 PM IST
-- **Summary:** Heavy downpour and power cuts have dampened the festival spirit among everyone, right from kids to elderly people and farmers to retail vendors
-
-### 2. [Cyclones Arnab and Murasu damaged crops on 4.61 lakh hectares in Andhra, say officials](https://www.thehindu.com/news/national/andhra-pradesh/cyclones-arnab-and-murasu-damaged-crops-on-461-lakh-hectares-in-andhra-say-officials/article71685099.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 10 Nov 2026, 01:26 PM IST
-- **Summary:** Enumeration covers only 2,211.73 of the 6,748.52 hectares of horticultural crops damaged by Cyclone Murasu
-
-### 3. [What is the Gokul Cooperative Milk Federation election issue in Maharashtra? \| Explained](https://www.thehindu.com/news/national/maharashtra/what-is-the-gokul-cooperative-milk-federation-election-issue-in-maharashtra/article71685177.ece)
+### 1. [BJP wins 77 seats of five Tripura civic bodies unopposed; elections for rest on November 27](https://www.thehindu.com/news/national/tripura/bjp-wins-77-seats-of-five-tripura-civic-bodies-unopposed-elections-for-rest-on-november-27/article71688590.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 10 Nov 2026, 12:38 PM IST
-- **Summary:** A street fight and a court battle continue, even as voting is to take place today for the election of a chairperson of Gokul Cooperative Milk Federation. What is the issue? What has the Bombay High Court said in its recent verdict?
+- **Published:** 11 Nov 2026, 12:34 PM IST
+- **Summary:** Now, the voting will be held in 268 seats, which are set to witness a triangular fight among the BJP-led NDA, CPI(M) and the Congress
 
-### 4. [Tamil Nadu Speaker begins another round of inquiry into disqualification pleas against four ex-AIADMK MLAs](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-speaker-begins-another-round-of-inquiry-into-disqualification-pleas-against-four-ex-aiadmk-mlas/article71685178.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 10 Nov 2026, 12:23 PM IST
-- **Summary:** Within a few weeks of being elected on AIADMK tickets in the 2026 Assembly elections, Esakki Subaya, S. Jayakumar, P. Sathyabama, and Maragatham Kumaravel resigned their membership of the House and joined the ruling TVK
-
-### 5. [NMC cautions students against fake medical colleges, asks them to verify approvals](https://www.thehindu.com/news/national/nmc-cautions-students-against-fake-medical-colleges-asks-them-to-verify-approvals/article71682538.ece)
+### 2. [Why Ladakh polls announcement fails to cut ice with protesting civil society groups \| Explained](https://www.thehindu.com/news/national/ladakh/why-ladakh-polls-announcement-fails-to-cut-ice-with-protesting-civil-society-groups-explained/article71688368.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 10 Nov 2026, 10:07 AM IST
-- **Summary:** The advisory follows the Supreme Court taking cognisance of the issue in an ongoing case in which the court directed regulatory bodies, including the National Medical Commission, to caution students and parents against dealing with unauthorised educational institutions
+- **Published:** 11 Nov 2026, 11:32 AM IST
+- **Summary:** LAB and KDA are demanding postponement of hill council elections to April-May next year, citing unfavourable winter timing and lack of consultation
+
+### 3. [Explained \| What did the Supreme Court clarify on the OBC creamy layer?](https://www.thehindu.com/news/national/explained-what-did-the-supreme-court-clarify-on-the-obc-creamy-layer/article71685709.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 11 Nov 2026, 07:21 AM IST
+- **Summary:** Can parental salary alone disqualify a candidate from claiming OBC reservation benefits? What role do the 1993 Office Memorandum and the 2004 clarification play in determining creamy-layer status?
+
+### 4. [Ramayana box office Day 6: Ranbir Kapoor's film on a record-breaking Rs 800-crore run](https://www.indiatoday.in/movies/bollywood/story/ramayana-part-1-box-office-day-6-ranbir-kapoor-film-record-breaking-rs-800-crore-global-run-3036465-2026-11-11?utm_source=rss)
+
+- **Category:** Culture & Society
+- **Source(s):** India Today
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 11 Nov 2026, 06:50 AM IST
+- **Summary:** Ramayana box office Day Ranbir Kapoors film on a recordbreaking Rs crore run
 
 ## All collected stories
 
-- [Cyclone Murasu: Heavy rain and power cuts dampen spirit of Deepavali](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-heavy-rainand-power-cutsdampen-spirit-of-deepavali/article71683598.ece) — **Climate & Environment** · The Hindu
-- [Cyclones Arnab and Murasu damaged crops on 4.61 lakh hectares in Andhra, say officials](https://www.thehindu.com/news/national/andhra-pradesh/cyclones-arnab-and-murasu-damaged-crops-on-461-lakh-hectares-in-andhra-say-officials/article71685099.ece) — **Climate & Environment** · The Hindu
-- [What is the Gokul Cooperative Milk Federation election issue in Maharashtra? \| Explained](https://www.thehindu.com/news/national/maharashtra/what-is-the-gokul-cooperative-milk-federation-election-issue-in-maharashtra/article71685177.ece) — **Politics & Governance** · The Hindu
-- [Tamil Nadu Speaker begins another round of inquiry into disqualification pleas against four ex-AIADMK MLAs](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-speaker-begins-another-round-of-inquiry-into-disqualification-pleas-against-four-ex-aiadmk-mlas/article71685178.ece) — **Politics & Governance** · The Hindu
-- [NMC cautions students against fake medical colleges, asks them to verify approvals](https://www.thehindu.com/news/national/nmc-cautions-students-against-fake-medical-colleges-asks-them-to-verify-approvals/article71682538.ece) — **Politics & Governance** · The Hindu
-- [Andhra government expected to make significant allocations for Neradi barrage to be constructed on Vamsadhara river](https://www.thehindu.com/news/national/andhra-pradesh/andhra-government-expected-to-make-significant-allocations-for-neradi-barrage-to-be-constructed-on-vamsadhara-river/article71685074.ece) — **Politics & Governance** · The Hindu
-- [Italjet Dragster 700: You have heard about superbikes, but have you heard about a super-scooter?](https://www.indiatoday.in/auto/bikes/story/italjet-dragster-700-you-have-heard-about-superbikes-but-have-you-heard-about-a-super-scooter-3035992-2026-11-10?utm_source=rss) — **Business & Economy** · India Today
-- [N. Ram on his interview with Sonia Gandhi](https://www.thehindu.com/videos/n-ram-on-his-interview-with-sonia-gandhi/article71677246.ece) — **Politics & Governance** · The Hindu
-- [Andhra teachers’ associations flag anomalies in new service rules](https://www.thehindu.com/news/national/andhra-pradesh/andhra-teachers-associations-flag-anomalies-in-new-service-rules/article71685163.ece) — **Politics & Governance** · The Hindu
-- [India's Biggest Elected Religious Body Polls Set Stage For 2027 Punjab Battle](https://www.ndtv.com/india-news/indias-biggest-elected-religious-body-shiromani-gurdwara-parbandhak-committee-sgpc-polls-set-stage-for-2027-punjab-battle-12306947#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Bulldozer tactics: Why Congress is smelling a plot in Parliament's 88-day record](https://www.indiatoday.in/india/story/parliament-88-day-prorogation-record-congress-amit-shah-bulldozer-tactics-delimitation-bills-womens-reservation-itspc-3035450-2026-11-10?utm_source=rss) — **Politics & Governance** · India Today
-- [Thomas Massie seeks to impeach US Secretary of War Pete Hegseth over Iran war](https://www.indiatoday.in/world/video/thomas-massie-moves-to-impeach-us-secretary-of-war-pete-hegseth-over-iran-conflict-ytvd-3036000-2026-11-10?utm_source=rss) — **India & General** · India Today
-- [Man shares how quick commerce helped after father lost chappals at Vrindavan temple](https://www.indiatoday.in/trending-news/story/man-shares-how-quick-commerce-helped-after-father-lost-chappals-at-vrindavan-temple-3035966-2026-11-10?utm_source=rss) — **India & General** · India Today
-- [Hyderabad gears up for Chhath Puja from November 13-16, 2026](https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-chhath-puja-from-november-13-16-2026/article71685398.ece) — **Politics & Governance** · The Hindu
-- [Kanimozhi alleges TVK MLA sent obscene messages to IAS officer, he denies](https://www.indiatoday.in/india/tamil-nadu/story/tvk-mla-arul-vignesh-denies-kallakurichi-collector-harassment-allegations-kanimozhi-3035979-2026-11-10?utm_source=rss) — **India & General** · India Today
+- [BJP wins 77 seats of five Tripura civic bodies unopposed; elections for rest on November 27](https://www.thehindu.com/news/national/tripura/bjp-wins-77-seats-of-five-tripura-civic-bodies-unopposed-elections-for-rest-on-november-27/article71688590.ece) — **Politics & Governance** · The Hindu
+- [Why Ladakh polls announcement fails to cut ice with protesting civil society groups \| Explained](https://www.thehindu.com/news/national/ladakh/why-ladakh-polls-announcement-fails-to-cut-ice-with-protesting-civil-society-groups-explained/article71688368.ece) — **Politics & Governance** · The Hindu
+- [Explained \| What did the Supreme Court clarify on the OBC creamy layer?](https://www.thehindu.com/news/national/explained-what-did-the-supreme-court-clarify-on-the-obc-creamy-layer/article71685709.ece) — **Politics & Governance** · The Hindu
+- [Ramayana box office Day 6: Ranbir Kapoor's film on a record-breaking Rs 800-crore run](https://www.indiatoday.in/movies/bollywood/story/ramayana-part-1-box-office-day-6-ranbir-kapoor-film-record-breaking-rs-800-crore-global-run-3036465-2026-11-11?utm_source=rss) — **Culture & Society** · India Today
+- [‘All Cabinet decisions taken collectively’: Keralam CM Satheesan defends decision-making amid UDF convener’s critique](https://www.thehindu.com/news/national/kerala/all-cabinet-decisions-taken-collectively-keralam-cm-satheesan-defends-decision-making-amid-udf-conveners-critique/article71688761.ece) — **Politics & Governance** · The Hindu
+- [Isro successfully test fires GSLV rocket engine ahead of NVS-04 launch](https://www.indiatoday.in/science/story/isro-succesfully-test-fires-gslv-rocket-engine-ahead-of-nvs-04-launch-3036570-2026-11-11?utm_source=rss) — **Technology & Science** · India Today
+- [RSS activist seeks FIR against Karnataka Home Minister Priyank Kharge over arms seizure post](https://www.thehindu.com/news/national/karnataka/rss-activist-seeks-fir-against-karnataka-home-minister-priyank-kharge-over-arms-seizure-post/article71688248.ece) — **Politics & Governance** · The Hindu
+- [Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes Sonia Gandhi](https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece) — **Politics & Governance** · The Hindu
+- [Army jawan posted with President’s Bodyguard shot in U.P.; condition stable](https://www.thehindu.com/news/national/uttar-pradesh/army-jawan-posted-with-presidents-bodyguard-shot-in-up-condition-stable/article71688180.ece) — **Politics & Governance** · The Hindu
+- [महंगाई का बड़ा झटका! मदर डेयरी ने दूध के दाम 4 रुपये बढ़ाए, 6 महीने में दूसरी बार बढ़ोतरी](https://www.aajtak.in/business/utility/story/mother-dairy-hike-milk-rates-in-delhi-ncr-check-latest-rates-tutd-rpti-2693596-2026-11-11?utm_source=rss) — **India & General** · India Today
+- [सैंडपेपर कांड पर बम फोड़कर फंसे उस्मान ख्वाजा, अब सवालों से बचने को इंटरव्यू से बनाई दूरी](https://www.aajtak.in/sports/cricket/story/usman-khawaja-sandpaper-gate-claims-book-interviews-australia-cricket-bmsp-dskc-2693595-2026-11-11?utm_source=rss) — **India & General** · India Today
+- [Splendor वाली HERO ला रही अनोखी कार... भारत में फाइल किया पेटेंट](https://www.aajtak.in/auto/news/story/hero-vida-nex-3-electric-car-patented-india-expected-features-auam-dskc-2693592-2026-11-11?utm_source=rss) — **India & General** · India Today
+- [IIT मद्रास के छात्र की AI टेक्नोलॉजी ने अमेर‍िका में गाड़े झंडे! जान‍िए- पूरी ड‍िटेल](https://www.aajtak.in/education/career/story/iit-madras-student-cognimesh-ai-technology-us-defense-approval-edmm-dskc-2693591-2026-11-11?utm_source=rss) — **India & General** · India Today
+- [Actress Third Marriage: 51 की एक्ट्रेस ने मक्का में रचाई तीसरी शादी, बिजनेसमैन दूल्हे संग किया उमराह, बोली- शादी हनीमून पीरियड नहीं](https://www.aajtak.in/entertainment/news/story/pakistani-actress-kiran-khan-third-marriage-in-makkah-at-51-age-mother-of-1-son-painful-divorce-ex-husbands-tmovf-dskc-2693583-2026-11-11?utm_source=rss) — **India & General** · India Today
+- [iPhone 16 Plus is available at a lower price: Know the deal](https://www.indiatoday.in/visualstories/technology/iphone-16-plus-is-available-at-a-lower-price-know-the-deal-287417-10-11-2026?utm_source=rss) — **India & General** · India Today
 - [Samsung Galaxy S26 is available at a lower price: Details here](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-is-available-at-a-lower-price-details-here-287386-09-11-2026?utm_source=rss) — **India & General** · India Today
 - [Google Pixel 10a price drop alert, details here](https://www.indiatoday.in/visualstories/technology/google-pixel-10a-price-drop-alert-details-here-287383-09-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 17 Pro available at Rs 54,990, check deal here](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-available-at-rs-54990-check-deal-here-287382-09-11-2026?utm_source=rss) — **India & General** · India Today
 - [OnePlus Nord 6 gets 15% discount: details here](https://www.indiatoday.in/visualstories/technology/oneplus-nord-6-gets-15-discount-details-here-287341-06-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 17 price drops by Rs 11,000, here is how deal works](https://www.indiatoday.in/visualstories/technology/iphone-17-price-drops-by-rs-11000-here-is-how-the-deal-works-287339-06-11-2026?utm_source=rss) — **India & General** · India Today
-- [Samsung Galaxy S25 FE price drops below Rs 39,999, details here](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-fe-price-drops-below-rs-39999-details-here-287331-06-11-2026?utm_source=rss) — **India & General** · India Today
-- [30,000 किलो बिक रहा घी... ऐसे डेयरी बिजनेस किया कि चर्चा में आईं US रिटर्न महिला!](https://www.aajtak.in/trending/story/tanya-bansal-30000-kg-herbal-desi-ghee-jhansi-dairy-success-story-rttw-dskc-2692595-2026-11-10?utm_source=rss) — **India & General** · India Today
-- [Farmers demand uniform ₹4,200 sugarcane rate across Maharashtra](https://www.thehindu.com/news/national/maharashtra/farmers-demand-uniform-4200-sugarcane-rate-across-maharashtra/article71685497.ece) — **India & General** · The Hindu
-- [Former DMK Minister Anbil Mahesh’s bail plea dismissed](https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-maheshs-bail-plea-dismissed/article71685458.ece) — **Politics & Governance** · The Hindu
-- [Pannun’s civil lawsuit: U.S. State department formally serves notice to India](https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece) — **India & General** · The Hindu
-- [Why Sonia Gandhi "Did Not Resist" Son Rahul's Political Plunge](https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-when-sonia-gandhi-did-not-resist-son-rahuls-political-plunge-12306980#publisher=newsstand) — **India & General** · NDTV
-- [China's Sex, Spies And Espionage Game: Jensen Huang May Be The Beginning](https://www.ndtv.com/artificial-intelligence/chinas-sex-spies-and-espionage-game-jensen-huang-may-be-the-beginning-12307060#publisher=newsstand) — **Education** · NDTV
-- [When Indira Gandhi Feared George Fernandes Would "Blow Her Up"](https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-when-indira-gandhi-feared-george-fernandes-would-blow-her-up-12307044#publisher=newsstand) — **India & General** · NDTV
-- ['Pranab Mukherjee Shocked Me With Change At Top Suggestion': Sonia Gandhi](https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-pranab-mukherjee-shocked-me-with-change-at-top-suggestion-sonia-gandhi-12306666#publisher=newsstand) — **Education** · NDTV
-- [4 Suspected Rhino Poachers Arrested In Assam's Jorhat](https://www.ndtv.com/india-news/4-suspected-rhino-poachers-arrested-in-assams-jorhat-12306966#publisher=newsstand) — **India & General** · NDTV
-- [Analysis \| A 25-Day Clock And A Cash Shortfall: Why Punjab Farmers Burn Stubble](https://www.ndtv.com/india-news/a-25-day-clock-and-a-cash-shortfall-why-punjab-farmers-burn-stubble-12306923#publisher=newsstand) — **India & General** · NDTV
-- [Opinion: Opinion \| Sonia Gandhi Belongs Here, And She Wants Us To Know That](https://www.ndtv.com/opinion/sonia-gandhi-belongs-here-and-she-wants-us-to-know-that-12306894#publisher=newsstand) — **India & General** · NDTV
-- [Wrestler Shot Dead While Bursting Diwali Firecrackers Outside Home In Punjab](https://www.ndtv.com/others-news/wrestler-shot-dead-while-bursting-diwali-firecrackers-outside-home-in-punjab-kapurthala-12306827#publisher=newsstand) — **India & General** · NDTV
-- ['Was Sizing Up Women At Reception': Sonia Gandhi Recalls Bill Clinton's Visit](https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-sonia-gandhi-recalls-bill-clintons-visit-was-sizing-up-women-at-reception-12306572#publisher=newsstand) — **Politics & Governance** · NDTV
-- ['Will Have To Come For Pa's Funeral': Sonia Gandhi Recalls Rahul's Warning](https://www.ndtv.com/india-news/sonia-gandhi-memoir-belonging-a-journey-of-love-sonia-gandhi-recalls-rahuls-warning-will-have-to-come-for-pas-funeral-12306244#publisher=newsstand) — **India & General** · NDTV
+- [Faith meets fitness: The Keralam church where prayers come with pull-ups](https://www.thehindu.com/news/national/kerala/faith-meets-fitness-the-keralam-church-where-prayers-come-with-pull-ups/article71677600.ece) — **India & General** · The Hindu
+- [Illegal oocyte collection racket: 27 ART centres inspected across Telangana, notices issued to seven hospitals](https://www.thehindu.com/news/national/telangana/illegal-oocyte-collection-racket-27-art-centres-inspected-across-telangana-notices-issued-to-seven-hospitals/article71688627.ece) — **Health** · The Hindu
+- [Karnataka education officials asked to evaluate pros and cons of cluster kitchen system for midday meals](https://www.thehindu.com/news/national/karnataka/karnataka-education-officials-asked-to-evaluate-pros-and-cons-of-cluster-kitchen-system-for-midday-meals/article71686079.ece) — **Education** · The Hindu
+- [Woman, minor boy allegedly killed 15-year-old](https://www.thehindu.com/news/national/telangana/woman-minor-boy-allegedly-killed-15-year-old/article71687225.ece) — **India & General** · The Hindu
+- [Retired judge Justice M.V. Muralidharan appointed chairperson of Tamil Nadu SC/ST Commission](https://www.thehindu.com/news/national/tamil-nadu/retired-judge-justice-mv-muralidharan-appointed-chairperson-of-tamil-nadu-scst-commission/article71687089.ece) — **India & General** · The Hindu
+- [How GPS Trackers Are Guiding Drones To Smuggle Drugs, Weapons Across Punjab](https://www.ndtv.com/india-news/how-gps-trackers-are-guiding-drones-to-smuggle-drugs-weapons-across-punjab-12311640#publisher=newsstand) — **India & General** · NDTV
+- [Styled By Daughter, Shot By Grandson: Sonia Gandhi On Harper's Bazaar Cover](https://www.ndtv.com/india-news/styled-by-daughter-priyanka-gandhi-vadra-shot-by-grandson-raihan-vadra-sonia-gandhi-on-harpers-bazaar-india-cover-as-memoir-releases-12311511#publisher=newsstand) — **India & General** · NDTV
+- ["Train Kept Moving For A Km After Derailment": Pantry Manager Recalls Assam Horror](https://www.ndtv.com/india-news/kolkata-sairang-express-derail-assam-train-derailment-news-train-kept-going-for-a-km-after-derailment-pantry-manager-recalls-assam-horror-12311499#publisher=newsstand) — **Climate & Environment** · NDTV
+- [Why IPO Investors Are Finding It Harder To Make Money In The Stock Market](https://www.ndtv.com/business-news/share-market-news-why-ipo-investors-are-finding-it-harder-to-make-money-in-the-stock-market-12307125#publisher=newsstand) — **Business & Economy** · NDTV
+- [UK Arrests Senior US Army Soldier Suspected Of Spying For Russia](https://www.ndtv.com/world-news/uk-arrests-senior-us-army-soldier-suspected-of-spying-for-russia-12311512#publisher=newsstand) — **Security & Defence** · NDTV
+- [TVK Chief Vijay To Chair Crucial MLA Meeting Today Amid Controversies](https://www.ndtv.com/tamil-nadu-news/tvk-chief-vijay-to-chair-crucial-mla-meeting-today-amid-controversies-12311498#publisher=newsstand) — **Sports** · NDTV
+- [Sam Pitroda Denies Foreign Funding Charge, BJP Recalls "Hua Toh Hua" Remark](https://www.ndtv.com/india-news/sam-pitroda-denies-foreign-funding-charge-bjp-recalls-hua-toh-hua-remark-12311492#publisher=newsstand) — **India & General** · NDTV
+- [Air India Flight Issues Hijack Alert Just Before Take-Off At Kolkata Airport](https://www.ndtv.com/india-news/air-india-flight-issues-hijack-alert-just-before-take-off-at-kolkata-airport-12311460#publisher=newsstand) — **India & General** · NDTV
+- [80% Of Post-Diwali Pollution In Delhi Caused By Firecrackers: Study](https://www.ndtv.com/delhi-news/80-of-post-diwali-pollution-in-delhi-caused-by-firecrackers-study-12311381#publisher=newsstand) — **Climate & Environment** · NDTV
+- ["Why Are You Letting This Happen?" Sonia Gandhi To Rajiv In Shah Bano Case](https://www.ndtv.com/india-news/belonging-a-journey-of-love-why-are-you-letting-this-happen-sonia-gandhi-to-rajiv-gandhi-in-shah-bano-case-12311458#publisher=newsstand) — **India & General** · NDTV
+- [Meta Fined $1.3 Million For "Algorithmic Manipulation" During Brazil Polls](https://www.ndtv.com/world-news/meta-fined-1-3-million-for-algorithmic-manipulation-during-brazil-polls-12311436#publisher=newsstand) — **India & General** · NDTV
 
 ## Source health
 

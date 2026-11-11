@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-10T08:43:51.357879+00:00",
-  "generated_at_ist": "2026-11-10T14:13:51.357879+05:30",
+  "generated_at_utc": "2026-11-11T08:07:23.932103+00:00",
+  "generated_at_ist": "2026-11-11T13:37:23.932103+05:30",
   "title": "India Daily News Brief",
-  "summary": "35 stories collected from 4 sources; 5 highlighted as major.",
+  "summary": "35 stories collected from 4 sources; 4 highlighted as major.",
   "sources_checked": [
     "The Hindu",
     "NDTV",
@@ -14,17 +14,22 @@
   ],
   "total_stories": 35,
   "categories": {
-    "Climate & Environment": 2,
-    "Politics & Governance": 11,
-    "Business & Economy": 1,
+    "Politics & Governance": 7,
+    "Culture & Society": 1,
+    "Technology & Science": 1,
     "India & General": 19,
-    "Education": 2
+    "Health": 1,
+    "Education": 1,
+    "Climate & Environment": 2,
+    "Business & Economy": 1,
+    "Security & Defence": 1,
+    "Sports": 1
   },
   "stories": [
     {
-      "id": "543f618166c2f980",
-      "title": "Cyclone Murasu: Heavy rain and power cuts dampen spirit of Deepavali",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-heavy-rainand-power-cutsdampen-spirit-of-deepavali/article71683598.ece",
+      "id": "af6beb6e4283af4f",
+      "title": "BJP wins 77 seats of five Tripura civic bodies unopposed; elections for rest on November 27",
+      "url": "https://www.thehindu.com/news/national/tripura/bjp-wins-77-seats-of-five-tripura-civic-bodies-unopposed-elections-for-rest-on-november-27/article71688590.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -32,62 +37,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-heavy-rainand-power-cutsdampen-spirit-of-deepavali/article71683598.ece"
+          "url": "https://www.thehindu.com/news/national/tripura/bjp-wins-77-seats-of-five-tripura-civic-bodies-unopposed-elections-for-rest-on-november-27/article71688590.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T08:39:13+00:00",
-      "published_at_ist": "2026-11-10T14:09:13+05:30",
-      "summary": "Heavy downpour and power cuts have dampened the festival spirit among everyone, right from kids to elderly people and farmers to retail vendors",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "b25c2a0efdd62a6b",
-      "title": "Cyclones Arnab and Murasu damaged crops on 4.61 lakh hectares in Andhra, say officials",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclones-arnab-and-murasu-damaged-crops-on-461-lakh-hectares-in-andhra-say-officials/article71685099.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclones-arnab-and-murasu-damaged-crops-on-461-lakh-hectares-in-andhra-say-officials/article71685099.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-10T07:56:58+00:00",
-      "published_at_ist": "2026-11-10T13:26:58+05:30",
-      "summary": "Enumeration covers only 2,211.73 of the 6,748.52 hectares of horticultural crops damaged by Cyclone Murasu",
-      "category": "Climate & Environment",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "90726a9408fd6797",
-      "title": "What is the Gokul Cooperative Milk Federation election issue in Maharashtra? | Explained",
-      "url": "https://www.thehindu.com/news/national/maharashtra/what-is-the-gokul-cooperative-milk-federation-election-issue-in-maharashtra/article71685177.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/maharashtra/what-is-the-gokul-cooperative-milk-federation-election-issue-in-maharashtra/article71685177.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-10T07:08:10+00:00",
-      "published_at_ist": "2026-11-10T12:38:10+05:30",
-      "summary": "A street fight and a court battle continue, even as voting is to take place today for the election of a chairperson of Gokul Cooperative Milk Federation. What is the issue? What has the Bombay High Court said in its recent verdict?",
+      "published_at_utc": "2026-11-11T07:04:47+00:00",
+      "published_at_ist": "2026-11-11T12:34:47+05:30",
+      "summary": "Now, the voting will be held in 268 seats, which are set to witness a triangular fight among the BJP-led NDA, CPI(M) and the Congress",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "a3606ebc3797f633",
-      "title": "Tamil Nadu Speaker begins another round of inquiry into disqualification pleas against four ex-AIADMK MLAs",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-speaker-begins-another-round-of-inquiry-into-disqualification-pleas-against-four-ex-aiadmk-mlas/article71685178.ece",
+      "id": "a945267a163e8872",
+      "title": "Why Ladakh polls announcement fails to cut ice with protesting civil society groups | Explained",
+      "url": "https://www.thehindu.com/news/national/ladakh/why-ladakh-polls-announcement-fails-to-cut-ice-with-protesting-civil-society-groups-explained/article71688368.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -95,20 +58,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-speaker-begins-another-round-of-inquiry-into-disqualification-pleas-against-four-ex-aiadmk-mlas/article71685178.ece"
+          "url": "https://www.thehindu.com/news/national/ladakh/why-ladakh-polls-announcement-fails-to-cut-ice-with-protesting-civil-society-groups-explained/article71688368.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T06:53:46+00:00",
-      "published_at_ist": "2026-11-10T12:23:46+05:30",
-      "summary": "Within a few weeks of being elected on AIADMK tickets in the 2026 Assembly elections, Esakki Subaya, S. Jayakumar, P. Sathyabama, and Maragatham Kumaravel resigned their membership of the House and joined the ruling TVK",
+      "published_at_utc": "2026-11-11T06:02:26+00:00",
+      "published_at_ist": "2026-11-11T11:32:26+05:30",
+      "summary": "LAB and KDA are demanding postponement of hill council elections to April-May next year, citing unfavourable winter timing and lack of consultation",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "7aa6ecd84e7e8480",
-      "title": "NMC cautions students against fake medical colleges, asks them to verify approvals",
-      "url": "https://www.thehindu.com/news/national/nmc-cautions-students-against-fake-medical-colleges-asks-them-to-verify-approvals/article71682538.ece",
+      "id": "13bcea5f1e5acc52",
+      "title": "Explained | What did the Supreme Court clarify on the OBC creamy layer?",
+      "url": "https://www.thehindu.com/news/national/explained-what-did-the-supreme-court-clarify-on-the-obc-creamy-layer/article71685709.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -116,41 +79,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/nmc-cautions-students-against-fake-medical-colleges-asks-them-to-verify-approvals/article71682538.ece"
+          "url": "https://www.thehindu.com/news/national/explained-what-did-the-supreme-court-clarify-on-the-obc-creamy-layer/article71685709.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T04:37:57+00:00",
-      "published_at_ist": "2026-11-10T10:07:57+05:30",
-      "summary": "The advisory follows the Supreme Court taking cognisance of the issue in an ongoing case in which the court directed regulatory bodies, including the National Medical Commission, to caution students and parents against dealing with unauthorised educational institutions",
+      "published_at_utc": "2026-11-11T01:51:23+00:00",
+      "published_at_ist": "2026-11-11T07:21:23+05:30",
+      "summary": "Can parental salary alone disqualify a candidate from claiming OBC reservation benefits? What role do the 1993 Office Memorandum and the 2004 clarification play in determining creamy-layer status?",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "704dc8e64f67ac4a",
-      "title": "Andhra government expected to make significant allocations for Neradi barrage to be constructed on Vamsadhara river",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-government-expected-to-make-significant-allocations-for-neradi-barrage-to-be-constructed-on-vamsadhara-river/article71685074.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-government-expected-to-make-significant-allocations-for-neradi-barrage-to-be-constructed-on-vamsadhara-river/article71685074.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-10T08:38:24+00:00",
-      "published_at_ist": "2026-11-10T14:08:24+05:30",
-      "summary": "According to BRR Vamsadhara Project Chairman Aravala Ravindrababu, the State government which had given an administrative sanction for ₹461 crores a couple of months back, may give additional sanctions in the next budget",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "efa988125d756fe7",
-      "title": "Italjet Dragster 700: You have heard about superbikes, but have you heard about a super-scooter?",
-      "url": "https://www.indiatoday.in/auto/bikes/story/italjet-dragster-700-you-have-heard-about-superbikes-but-have-you-heard-about-a-super-scooter-3035992-2026-11-10?utm_source=rss",
+      "id": "b42823b8ce0a7400",
+      "title": "Ramayana box office Day 6: Ranbir Kapoor's film on a record-breaking Rs 800-crore run",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-part-1-box-office-day-6-ranbir-kapoor-film-record-breaking-rs-800-crore-global-run-3036465-2026-11-11?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -158,24 +100,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/auto/bikes/story/italjet-dragster-700-you-have-heard-about-superbikes-but-have-you-heard-about-a-super-scooter-3035992-2026-11-10?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/auto/bikes/story/italjet-dragster-700-you-have-heard-about-superbikes-but-have-you-heard-about-a-super-scooter-3035992-2026-11-10?utm_source=rss"
+          "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-part-1-box-office-day-6-ranbir-kapoor-film-record-breaking-rs-800-crore-global-run-3036465-2026-11-11?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-10T08:35:51+00:00",
-      "published_at_ist": "2026-11-10T14:05:51+05:30",
-      "summary": "Italjet Dragster You have heard about superbikes but have you heard about a superscooter",
-      "category": "Business & Economy",
-      "importance_score": 2,
-      "is_major": false
+      "published_at_utc": "2026-11-11T01:20:19+00:00",
+      "published_at_ist": "2026-11-11T06:50:19+05:30",
+      "summary": "Ramayana box office Day Ranbir Kapoors film on a recordbreaking Rs crore run",
+      "category": "Culture & Society",
+      "importance_score": 4,
+      "is_major": true
     },
     {
-      "id": "f97658e1d6d9d3f7",
-      "title": "N. Ram on his interview with Sonia Gandhi",
-      "url": "https://www.thehindu.com/videos/n-ram-on-his-interview-with-sonia-gandhi/article71677246.ece",
+      "id": "6219287911b312bc",
+      "title": "‘All Cabinet decisions taken collectively’: Keralam CM Satheesan defends decision-making amid UDF convener’s critique",
+      "url": "https://www.thehindu.com/news/national/kerala/all-cabinet-decisions-taken-collectively-keralam-cm-satheesan-defends-decision-making-amid-udf-conveners-critique/article71688761.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -183,20 +121,41 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/videos/n-ram-on-his-interview-with-sonia-gandhi/article71677246.ece"
+          "url": "https://www.thehindu.com/news/national/kerala/all-cabinet-decisions-taken-collectively-keralam-cm-satheesan-defends-decision-making-amid-udf-conveners-critique/article71688761.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T08:19:04+00:00",
-      "published_at_ist": "2026-11-10T13:49:04+05:30",
-      "summary": "N. Ram reflects on his interview with former Congress president Sonia Gandhi, who discusses her upcoming memoir, Belonging: A Journey of Love. She speaks about the impact of twelve years of BJP-RSS rule on Indian democracy, defends the Congress party’s fight for a level playing field and shares how her love story with Rajiv Gandhi evolved into a lifelong commitment to India.",
+      "published_at_utc": "2026-11-11T08:01:49+00:00",
+      "published_at_ist": "2026-11-11T13:31:49+05:30",
+      "summary": "Satheesan says will choose not to comment on the issue, accuses the media of twisting Adoor Prakash’s remarks",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "98a0f1ad0d9e63e4",
-      "title": "Andhra teachers’ associations flag anomalies in new service rules",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-teachers-associations-flag-anomalies-in-new-service-rules/article71685163.ece",
+      "id": "c5f99779418a8076",
+      "title": "Isro successfully test fires GSLV rocket engine ahead of NVS-04 launch",
+      "url": "https://www.indiatoday.in/science/story/isro-succesfully-test-fires-gslv-rocket-engine-ahead-of-nvs-04-launch-3036570-2026-11-11?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/science/story/isro-succesfully-test-fires-gslv-rocket-engine-ahead-of-nvs-04-launch-3036570-2026-11-11?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-11T07:17:29+00:00",
+      "published_at_ist": "2026-11-11T12:47:29+05:30",
+      "summary": "Isro successfully test fires GSLV rocket engine ahead of NVS launch",
+      "category": "Technology & Science",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "f3ad9354ced0d047",
+      "title": "RSS activist seeks FIR against Karnataka Home Minister Priyank Kharge over arms seizure post",
+      "url": "https://www.thehindu.com/news/national/karnataka/rss-activist-seeks-fir-against-karnataka-home-minister-priyank-kharge-over-arms-seizure-post/article71688248.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -204,41 +163,62 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-teachers-associations-flag-anomalies-in-new-service-rules/article71685163.ece"
+          "url": "https://www.thehindu.com/news/national/karnataka/rss-activist-seeks-fir-against-karnataka-home-minister-priyank-kharge-over-arms-seizure-post/article71688248.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T08:18:09+00:00",
-      "published_at_ist": "2026-11-10T13:48:09+05:30",
-      "summary": "The associations said they had repeatedly requested the government to frame comprehensive and uniform service rules for Government and Panchayat Raj teachers in the wake of the Presidential Order, 2025",
+      "published_at_utc": "2026-11-11T05:44:35+00:00",
+      "published_at_ist": "2026-11-11T11:14:35+05:30",
+      "summary": "The complainant alleged that the Minister’s statements and insinuations created an impression that the RSS was connected to criminal activities, potentially triggering hostility and disturbing communal harmony",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "3f4649c0c2aafd7e",
-      "title": "India's Biggest Elected Religious Body Polls Set Stage For 2027 Punjab Battle",
-      "url": "https://www.ndtv.com/india-news/indias-biggest-elected-religious-body-shiromani-gurdwara-parbandhak-committee-sgpc-polls-set-stage-for-2027-punjab-battle-12306947#publisher=newsstand",
-      "source": "NDTV",
+      "id": "6607141f362b2651",
+      "title": "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes Sonia Gandhi",
+      "url": "https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/indias-biggest-elected-religious-body-shiromani-gurdwara-parbandhak-committee-sgpc-polls-set-stage-for-2027-punjab-battle-12306947#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T07:45:27+00:00",
-      "published_at_ist": "2026-11-10T13:15:27+05:30",
-      "summary": "Shiromani Gurdwara Parbandhak Committee president polls: Harjinder Singh Dhami vs Bibi Jagir Kaur",
+      "published_at_utc": "2026-11-11T05:00:51+00:00",
+      "published_at_ist": "2026-11-11T10:30:51+05:30",
+      "summary": "In her memoir, former Congress president recalls 2010 conversation; Pranab Mukherjee’s daughter Sharmistha asks what there was to be shocked about, says it is not a crime to be ambitious",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "28757ed1f52ab767",
-      "title": "Bulldozer tactics: Why Congress is smelling a plot in Parliament's 88-day record",
-      "url": "https://www.indiatoday.in/india/story/parliament-88-day-prorogation-record-congress-amit-shah-bulldozer-tactics-delimitation-bills-womens-reservation-itspc-3035450-2026-11-10?utm_source=rss",
+      "id": "0775c1c285520882",
+      "title": "Army jawan posted with President’s Bodyguard shot in U.P.; condition stable",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/army-jawan-posted-with-presidents-bodyguard-shot-in-up-condition-stable/article71688180.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/uttar-pradesh/army-jawan-posted-with-presidents-bodyguard-shot-in-up-condition-stable/article71688180.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-11T03:53:52+00:00",
+      "published_at_ist": "2026-11-11T09:23:52+05:30",
+      "summary": "Incident took place on Deepavali night in Baghpat; efforts on by three police teams to nab two accused who remain at large",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "99ef769bc4e9d0c9",
+      "title": "महंगाई का बड़ा झटका! मदर डेयरी ने दूध के दाम 4 रुपये बढ़ाए, 6 महीने में दूसरी बार बढ़ोतरी",
+      "url": "https://www.aajtak.in/business/utility/story/mother-dairy-hike-milk-rates-in-delhi-ncr-check-latest-rates-tutd-rpti-2693596-2026-11-11?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -246,41 +226,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/story/parliament-88-day-prorogation-record-congress-amit-shah-bulldozer-tactics-delimitation-bills-womens-reservation-itspc-3035450-2026-11-10?utm_source=rss"
+          "url": "https://www.aajtak.in/business/utility/story/mother-dairy-hike-milk-rates-in-delhi-ncr-check-latest-rates-tutd-rpti-2693596-2026-11-11?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-10T01:00:00+00:00",
-      "published_at_ist": "2026-11-10T06:30:00+05:30",
-      "summary": "Bulldozer tactics Why Congress is smelling a plot in Parliaments day record",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "aa95d11c4461a958",
-      "title": "Thomas Massie seeks to impeach US Secretary of War Pete Hegseth over Iran war",
-      "url": "https://www.indiatoday.in/world/video/thomas-massie-moves-to-impeach-us-secretary-of-war-pete-hegseth-over-iran-conflict-ytvd-3036000-2026-11-10?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/world/video/thomas-massie-moves-to-impeach-us-secretary-of-war-pete-hegseth-over-iran-conflict-ytvd-3036000-2026-11-10?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-10T08:43:07+00:00",
-      "published_at_ist": "2026-11-10T14:13:07+05:30",
-      "summary": "Thomas Massie seeks to impeach US Secretary of War Pete Hegseth over Iran war",
+      "published_at_utc": "2026-11-11T08:06:02+00:00",
+      "published_at_ist": "2026-11-11T13:36:02+05:30",
+      "summary": "",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "3e8094ab1b569f0a",
-      "title": "Man shares how quick commerce helped after father lost chappals at Vrindavan temple",
-      "url": "https://www.indiatoday.in/trending-news/story/man-shares-how-quick-commerce-helped-after-father-lost-chappals-at-vrindavan-temple-3035966-2026-11-10?utm_source=rss",
+      "id": "5fdf6afc82f81e48",
+      "title": "सैंडपेपर कांड पर बम फोड़कर फंसे उस्मान ख्वाजा, अब सवालों से बचने को इंटरव्यू से बनाई दूरी",
+      "url": "https://www.aajtak.in/sports/cricket/story/usman-khawaja-sandpaper-gate-claims-book-interviews-australia-cricket-bmsp-dskc-2693595-2026-11-11?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -288,45 +247,24 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/trending-news/story/man-shares-how-quick-commerce-helped-after-father-lost-chappals-at-vrindavan-temple-3035966-2026-11-10?utm_source=rss"
+          "url": "https://www.aajtak.in/sports/cricket/story/usman-khawaja-sandpaper-gate-claims-book-interviews-australia-cricket-bmsp-dskc-2693595-2026-11-11?utm_source=rss"
         },
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/trending-news/story/man-shares-how-quick-commerce-helped-after-father-lost-chappals-at-vrindavan-temple-3035966-2026-11-10?utm_source=rss"
+          "url": "https://www.aajtak.in/defence-news/story/iaf-high-intensity-air-drill-near-lac-in-uttarakhand-rptc-2693584-2026-11-11?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-10T08:42:18+00:00",
-      "published_at_ist": "2026-11-10T14:12:18+05:30",
-      "summary": "Man shares how quick commerce helped after father lost chappals at Vrindavan temple",
+      "published_at_utc": "2026-11-11T08:06:02+00:00",
+      "published_at_ist": "2026-11-11T13:36:02+05:30",
+      "summary": "",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "b5014eb83c5ae875",
-      "title": "Hyderabad gears up for Chhath Puja from November 13-16, 2026",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-chhath-puja-from-november-13-16-2026/article71685398.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-chhath-puja-from-november-13-16-2026/article71685398.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-10T08:40:48+00:00",
-      "published_at_ist": "2026-11-10T14:10:48+05:30",
-      "summary": "Bihar Association urges civic bodies to make arrangements with focus on sanitation and hygiene. Telangana government directs civic bodies and disaster management authorities to facilitate Chhath Puja at 28 locations across Hyderabad",
-      "category": "Politics & Governance",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "ce3e6d2d9546d197",
-      "title": "Kanimozhi alleges TVK MLA sent obscene messages to IAS officer, he denies",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tvk-mla-arul-vignesh-denies-kallakurichi-collector-harassment-allegations-kanimozhi-3035979-2026-11-10?utm_source=rss",
+      "id": "275d0d23442419fc",
+      "title": "Splendor वाली HERO ला रही अनोखी कार... भारत में फाइल किया पेटेंट",
+      "url": "https://www.aajtak.in/auto/news/story/hero-vida-nex-3-electric-car-patented-india-expected-features-auam-dskc-2693592-2026-11-11?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -334,12 +272,75 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/tamil-nadu/story/tvk-mla-arul-vignesh-denies-kallakurichi-collector-harassment-allegations-kanimozhi-3035979-2026-11-10?utm_source=rss"
+          "url": "https://www.aajtak.in/auto/news/story/hero-vida-nex-3-electric-car-patented-india-expected-features-auam-dskc-2693592-2026-11-11?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-10T08:40:47+00:00",
-      "published_at_ist": "2026-11-10T14:10:47+05:30",
-      "summary": "Kanimozhi alleges TVK MLA sent obscene messages to IAS officer he denies",
+      "published_at_utc": "2026-11-11T08:06:02+00:00",
+      "published_at_ist": "2026-11-11T13:36:02+05:30",
+      "summary": "Splendor HERO",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "e085252bd6632cf2",
+      "title": "IIT मद्रास के छात्र की AI टेक्नोलॉजी ने अमेर‍िका में गाड़े झंडे! जान‍िए- पूरी ड‍िटेल",
+      "url": "https://www.aajtak.in/education/career/story/iit-madras-student-cognimesh-ai-technology-us-defense-approval-edmm-dskc-2693591-2026-11-11?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.aajtak.in/education/career/story/iit-madras-student-cognimesh-ai-technology-us-defense-approval-edmm-dskc-2693591-2026-11-11?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-11T08:06:02+00:00",
+      "published_at_ist": "2026-11-11T13:36:02+05:30",
+      "summary": "IIT AI",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "9f61d45b948702be",
+      "title": "Actress Third Marriage: 51 की एक्ट्रेस ने मक्का में रचाई तीसरी शादी, बिजनेसमैन दूल्हे संग किया उमराह, बोली- शादी हनीमून पीरियड नहीं",
+      "url": "https://www.aajtak.in/entertainment/news/story/pakistani-actress-kiran-khan-third-marriage-in-makkah-at-51-age-mother-of-1-son-painful-divorce-ex-husbands-tmovf-dskc-2693583-2026-11-11?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.aajtak.in/entertainment/news/story/pakistani-actress-kiran-khan-third-marriage-in-makkah-at-51-age-mother-of-1-son-painful-divorce-ex-husbands-tmovf-dskc-2693583-2026-11-11?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-11T08:06:02+00:00",
+      "published_at_ist": "2026-11-11T13:36:02+05:30",
+      "summary": "Actress Third Marriage",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "9dee50034427f33f",
+      "title": "iPhone 16 Plus is available at a lower price: Know the deal",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-plus-is-available-at-a-lower-price-know-the-deal-287417-10-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-plus-is-available-at-a-lower-price-know-the-deal-287417-10-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-11T08:05:03+00:00",
+      "published_at_ist": "2026-11-11T13:35:03+05:30",
+      "summary": "iPhone Plus is available at a lower price Know the deal",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
@@ -358,8 +359,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-is-available-at-a-lower-price-details-here-287386-09-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-10T08:40:03+00:00",
-      "published_at_ist": "2026-11-10T14:10:03+05:30",
+      "published_at_utc": "2026-11-11T08:05:03+00:00",
+      "published_at_ist": "2026-11-11T13:35:03+05:30",
       "summary": "Samsung Galaxy S is available at a lower price Details here",
       "category": "India & General",
       "importance_score": 1,
@@ -379,8 +380,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10a-price-drop-alert-details-here-287383-09-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-10T08:40:03+00:00",
-      "published_at_ist": "2026-11-10T14:10:03+05:30",
+      "published_at_utc": "2026-11-11T08:05:03+00:00",
+      "published_at_ist": "2026-11-11T13:35:03+05:30",
       "summary": "Google Pixel a price drop alert details here",
       "category": "India & General",
       "importance_score": 1,
@@ -400,8 +401,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-available-at-rs-54990-check-deal-here-287382-09-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-10T08:40:03+00:00",
-      "published_at_ist": "2026-11-10T14:10:03+05:30",
+      "published_at_utc": "2026-11-11T08:05:03+00:00",
+      "published_at_ist": "2026-11-11T13:35:03+05:30",
       "summary": "iPhone Pro available at Rs check deal here",
       "category": "India & General",
       "importance_score": 1,
@@ -421,80 +422,17 @@
           "url": "https://www.indiatoday.in/visualstories/technology/oneplus-nord-6-gets-15-discount-details-here-287341-06-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-10T08:40:03+00:00",
-      "published_at_ist": "2026-11-10T14:10:03+05:30",
+      "published_at_utc": "2026-11-11T08:05:03+00:00",
+      "published_at_ist": "2026-11-11T13:35:03+05:30",
       "summary": "OnePlus Nord gets discount details here",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "cd56e22941e001de",
-      "title": "iPhone 17 price drops by Rs 11,000, here is how deal works",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drops-by-rs-11000-here-is-how-the-deal-works-287339-06-11-2026?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drops-by-rs-11000-here-is-how-the-deal-works-287339-06-11-2026?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-10T08:40:03+00:00",
-      "published_at_ist": "2026-11-10T14:10:03+05:30",
-      "summary": "iPhone price drops by Rs here is how deal works",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "f0e33de7364ace79",
-      "title": "Samsung Galaxy S25 FE price drops below Rs 39,999, details here",
-      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-fe-price-drops-below-rs-39999-details-here-287331-06-11-2026?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-fe-price-drops-below-rs-39999-details-here-287331-06-11-2026?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-10T08:40:03+00:00",
-      "published_at_ist": "2026-11-10T14:10:03+05:30",
-      "summary": "Samsung Galaxy S FE price drops below Rs details here",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "5569c4e40a661caf",
-      "title": "30,000 किलो बिक रहा घी... ऐसे डेयरी बिजनेस किया कि चर्चा में आईं US रिटर्न महिला!",
-      "url": "https://www.aajtak.in/trending/story/tanya-bansal-30000-kg-herbal-desi-ghee-jhansi-dairy-success-story-rttw-dskc-2692595-2026-11-10?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/trending/story/tanya-bansal-30000-kg-herbal-desi-ghee-jhansi-dairy-success-story-rttw-dskc-2692595-2026-11-10?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-10T08:39:02+00:00",
-      "published_at_ist": "2026-11-10T14:09:02+05:30",
-      "summary": "US",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "bf9c6bb36ebe19e3",
-      "title": "Farmers demand uniform ₹4,200 sugarcane rate across Maharashtra",
-      "url": "https://www.thehindu.com/news/national/maharashtra/farmers-demand-uniform-4200-sugarcane-rate-across-maharashtra/article71685497.ece",
+      "id": "310efc863165f53b",
+      "title": "Faith meets fitness: The Keralam church where prayers come with pull-ups",
+      "url": "https://www.thehindu.com/news/national/kerala/faith-meets-fitness-the-keralam-church-where-prayers-come-with-pull-ups/article71677600.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -502,20 +440,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/maharashtra/farmers-demand-uniform-4200-sugarcane-rate-across-maharashtra/article71685497.ece"
+          "url": "https://www.thehindu.com/news/national/kerala/faith-meets-fitness-the-keralam-church-where-prayers-come-with-pull-ups/article71677600.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T08:35:41+00:00",
-      "published_at_ist": "2026-11-10T14:05:41+05:30",
-      "summary": "The delegation demanded a ₹2 lakh incentive grant for farmers who regularly repay their loans and ₹1 lakh per hectare in financial assistance for drought-affected cultivators",
+      "published_at_utc": "2026-11-11T08:01:31+00:00",
+      "published_at_ist": "2026-11-11T13:31:31+05:30",
+      "summary": "St. Joseph’s Church in Kuriachira, Thrissur, has set up an open gym to promote fitness among parishioners. With no fixed timings, parishioners can drop in at their convenience, with many heading to the gym after attending Holy Mass",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "28a090840fd2763b",
-      "title": "Former DMK Minister Anbil Mahesh’s bail plea dismissed",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-maheshs-bail-plea-dismissed/article71685458.ece",
+      "id": "0c7dce7a4d627e60",
+      "title": "Illegal oocyte collection racket: 27 ART centres inspected across Telangana, notices issued to seven hospitals",
+      "url": "https://www.thehindu.com/news/national/telangana/illegal-oocyte-collection-racket-27-art-centres-inspected-across-telangana-notices-issued-to-seven-hospitals/article71688627.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -523,20 +461,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-maheshs-bail-plea-dismissed/article71685458.ece"
+          "url": "https://www.thehindu.com/news/national/telangana/illegal-oocyte-collection-racket-27-art-centres-inspected-across-telangana-notices-issued-to-seven-hospitals/article71688627.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T08:35:37+00:00",
-      "published_at_ist": "2026-11-10T14:05:37+05:30",
-      "summary": "Anbil Mahesh was arrested on October 26 and remanded in judicial custody till November 18",
-      "category": "Politics & Governance",
+      "published_at_utc": "2026-11-11T07:59:19+00:00",
+      "published_at_ist": "2026-11-11T13:29:19+05:30",
+      "summary": "The investigation also includes examining the involvement of women identified in connection with the case, doctors, IVF centres and intermediaries allegedly facilitating the activities",
+      "category": "Health",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "a280c6ef8a35c9f8",
-      "title": "Pannun’s civil lawsuit: U.S. State department formally serves notice to India",
-      "url": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+      "id": "65ae9577a2c664cb",
+      "title": "Karnataka education officials asked to evaluate pros and cons of cluster kitchen system for midday meals",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-education-officials-asked-to-evaluate-pros-and-cons-of-cluster-kitchen-system-for-midday-meals/article71686079.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -544,125 +482,62 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece"
+          "url": "https://www.thehindu.com/news/national/karnataka/karnataka-education-officials-asked-to-evaluate-pros-and-cons-of-cluster-kitchen-system-for-midday-meals/article71686079.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T08:27:11+00:00",
-      "published_at_ist": "2026-11-10T13:57:11+05:30",
-      "summary": "The State Department said it was legally obliged to do so and is not taking a position on the case",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "67c858fc49799262",
-      "title": "Why Sonia Gandhi \"Did Not Resist\" Son Rahul's Political Plunge",
-      "url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-when-sonia-gandhi-did-not-resist-son-rahuls-political-plunge-12306980#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-when-sonia-gandhi-did-not-resist-son-rahuls-political-plunge-12306980#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-10T08:24:50+00:00",
-      "published_at_ist": "2026-11-10T13:54:50+05:30",
-      "summary": "In March 2004, Rahul said he would contest from Amethi, with Sonia Gandhi moving to Rae Bareli",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "d0b34f50a2228b54",
-      "title": "China's Sex, Spies And Espionage Game: Jensen Huang May Be The Beginning",
-      "url": "https://www.ndtv.com/artificial-intelligence/chinas-sex-spies-and-espionage-game-jensen-huang-may-be-the-beginning-12307060#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/artificial-intelligence/chinas-sex-spies-and-espionage-game-jensen-huang-may-be-the-beginning-12307060#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-10T08:17:08+00:00",
-      "published_at_ist": "2026-11-10T13:47:08+05:30",
-      "summary": "There could be many more examples beyond the Nvidia chief, Jensen Huang",
+      "published_at_utc": "2026-11-11T07:57:59+00:00",
+      "published_at_ist": "2026-11-11T13:27:59+05:30",
+      "summary": "This would relieve teachers of midday meal responsibilities and enable them to focus on teaching, the association has argued",
       "category": "Education",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "8c99ccf4c58633a0",
-      "title": "When Indira Gandhi Feared George Fernandes Would \"Blow Her Up\"",
-      "url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-when-indira-gandhi-feared-george-fernandes-would-blow-her-up-12307044#publisher=newsstand",
-      "source": "NDTV",
+      "id": "9673b3855e3f37be",
+      "title": "Woman, minor boy allegedly killed 15-year-old",
+      "url": "https://www.thehindu.com/news/national/telangana/woman-minor-boy-allegedly-killed-15-year-old/article71687225.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-when-indira-gandhi-feared-george-fernandes-would-blow-her-up-12307044#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/telangana/woman-minor-boy-allegedly-killed-15-year-old/article71687225.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T08:11:38+00:00",
-      "published_at_ist": "2026-11-10T13:41:38+05:30",
-      "summary": "Indira Gandhi was assassinated by two of her own Sikh bodyguards in 1984",
+      "published_at_utc": "2026-11-11T07:54:50+00:00",
+      "published_at_ist": "2026-11-11T13:24:50+05:30",
+      "summary": "",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "1c7e426122e10a21",
-      "title": "'Pranab Mukherjee Shocked Me With Change At Top Suggestion': Sonia Gandhi",
-      "url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-pranab-mukherjee-shocked-me-with-change-at-top-suggestion-sonia-gandhi-12306666#publisher=newsstand",
-      "source": "NDTV",
+      "id": "2472b7c343c5d18d",
+      "title": "Retired judge Justice M.V. Muralidharan appointed chairperson of Tamil Nadu SC/ST Commission",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/retired-judge-justice-mv-muralidharan-appointed-chairperson-of-tamil-nadu-scst-commission/article71687089.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-pranab-mukherjee-shocked-me-with-change-at-top-suggestion-sonia-gandhi-12306666#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/retired-judge-justice-mv-muralidharan-appointed-chairperson-of-tamil-nadu-scst-commission/article71687089.ece"
         }
       ],
-      "published_at_utc": "2026-11-10T08:01:46+00:00",
-      "published_at_ist": "2026-11-10T13:31:46+05:30",
-      "summary": "Pranab Mukherjee had developed serious differences with P Chidambaram, writes Sonia Gandhi",
-      "category": "Education",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "6ee1aa70b2f755a5",
-      "title": "4 Suspected Rhino Poachers Arrested In Assam's Jorhat",
-      "url": "https://www.ndtv.com/india-news/4-suspected-rhino-poachers-arrested-in-assams-jorhat-12306966#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/4-suspected-rhino-poachers-arrested-in-assams-jorhat-12306966#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-10T07:51:17+00:00",
-      "published_at_ist": "2026-11-10T13:21:17+05:30",
-      "summary": "The arrested men are reportedly from different parts of Assam.",
+      "published_at_utc": "2026-11-11T07:50:57+00:00",
+      "published_at_ist": "2026-11-11T13:20:57+05:30",
+      "summary": "The post of chairperson of the Tamil Nadu State Commission for Scheduled Castes and Scheduled Tribes remained vacant since March 22, following the demise of retired judge S. Tamilvanan.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "e87576cda0dfcc12",
-      "title": "Analysis | A 25-Day Clock And A Cash Shortfall: Why Punjab Farmers Burn Stubble",
-      "url": "https://www.ndtv.com/india-news/a-25-day-clock-and-a-cash-shortfall-why-punjab-farmers-burn-stubble-12306923#publisher=newsstand",
+      "id": "a4725dfb6c35896c",
+      "title": "How GPS Trackers Are Guiding Drones To Smuggle Drugs, Weapons Across Punjab",
+      "url": "https://www.ndtv.com/india-news/how-gps-trackers-are-guiding-drones-to-smuggle-drugs-weapons-across-punjab-12311640#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -670,20 +545,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/a-25-day-clock-and-a-cash-shortfall-why-punjab-farmers-burn-stubble-12306923#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/how-gps-trackers-are-guiding-drones-to-smuggle-drugs-weapons-across-punjab-12311640#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-10T07:47:58+00:00",
-      "published_at_ist": "2026-11-10T13:17:58+05:30",
-      "summary": "Punjab recorded 2,196 farm-fire incidents between September 15 and November 3",
+      "published_at_utc": "2026-11-11T07:30:46+00:00",
+      "published_at_ist": "2026-11-11T13:00:46+05:30",
+      "summary": "The alleged operation follows a multi-layered pattern.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "631bcf2169440ad9",
-      "title": "Opinion: Opinion | Sonia Gandhi Belongs Here, And She Wants Us To Know That",
-      "url": "https://www.ndtv.com/opinion/sonia-gandhi-belongs-here-and-she-wants-us-to-know-that-12306894#publisher=newsstand",
+      "id": "c4123d1dbe591401",
+      "title": "Styled By Daughter, Shot By Grandson: Sonia Gandhi On Harper's Bazaar Cover",
+      "url": "https://www.ndtv.com/india-news/styled-by-daughter-priyanka-gandhi-vadra-shot-by-grandson-raihan-vadra-sonia-gandhi-on-harpers-bazaar-india-cover-as-memoir-releases-12311511#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -691,20 +566,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/opinion/sonia-gandhi-belongs-here-and-she-wants-us-to-know-that-12306894#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/styled-by-daughter-priyanka-gandhi-vadra-shot-by-grandson-raihan-vadra-sonia-gandhi-on-harpers-bazaar-india-cover-as-memoir-releases-12311511#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-10T07:29:39+00:00",
-      "published_at_ist": "2026-11-10T12:59:39+05:30",
-      "summary": "Sonia Gandhi was easily the most misunderstood person in Indian politics. I believe Belonging is her way of telling us who she really was and is, writes Sanjay Jha.",
+      "published_at_utc": "2026-11-11T07:27:15+00:00",
+      "published_at_ist": "2026-11-11T12:57:15+05:30",
+      "summary": "The cover has been described as a landmark moment",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "75429bee4b7af488",
-      "title": "Wrestler Shot Dead While Bursting Diwali Firecrackers Outside Home In Punjab",
-      "url": "https://www.ndtv.com/others-news/wrestler-shot-dead-while-bursting-diwali-firecrackers-outside-home-in-punjab-kapurthala-12306827#publisher=newsstand",
+      "id": "b0041b3547ea846a",
+      "title": "\"Train Kept Moving For A Km After Derailment\": Pantry Manager Recalls Assam Horror",
+      "url": "https://www.ndtv.com/india-news/kolkata-sairang-express-derail-assam-train-derailment-news-train-kept-going-for-a-km-after-derailment-pantry-manager-recalls-assam-horror-12311499#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -712,20 +587,104 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/others-news/wrestler-shot-dead-while-bursting-diwali-firecrackers-outside-home-in-punjab-kapurthala-12306827#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/kolkata-sairang-express-derail-assam-train-derailment-news-train-kept-going-for-a-km-after-derailment-pantry-manager-recalls-assam-horror-12311499#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-10T07:12:43+00:00",
-      "published_at_ist": "2026-11-10T12:42:43+05:30",
-      "summary": "The victim was identified as Mani",
+      "published_at_utc": "2026-11-11T07:11:32+00:00",
+      "published_at_ist": "2026-11-11T12:41:32+05:30",
+      "summary": "A recovery train was rushed to the spot for rescue operations and clearing the tracks",
+      "category": "Climate & Environment",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "9331a9d4f28175a6",
+      "title": "Why IPO Investors Are Finding It Harder To Make Money In The Stock Market",
+      "url": "https://www.ndtv.com/business-news/share-market-news-why-ipo-investors-are-finding-it-harder-to-make-money-in-the-stock-market-12307125#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/business-news/share-market-news-why-ipo-investors-are-finding-it-harder-to-make-money-in-the-stock-market-12307125#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-11T06:56:17+00:00",
+      "published_at_ist": "2026-11-11T12:26:17+05:30",
+      "summary": "India Stock Market News: A heavily subscribed IPO is not necessarily attractively valued.",
+      "category": "Business & Economy",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "3ead9ccbb89100b1",
+      "title": "UK Arrests Senior US Army Soldier Suspected Of Spying For Russia",
+      "url": "https://www.ndtv.com/world-news/uk-arrests-senior-us-army-soldier-suspected-of-spying-for-russia-12311512#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/uk-arrests-senior-us-army-soldier-suspected-of-spying-for-russia-12311512#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-11T06:55:24+00:00",
+      "published_at_ist": "2026-11-11T12:25:24+05:30",
+      "summary": "FBI director Kash Patel thanked UK police and intelligence agencies. (File Photo)",
+      "category": "Security & Defence",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "761adf768f96d034",
+      "title": "TVK Chief Vijay To Chair Crucial MLA Meeting Today Amid Controversies",
+      "url": "https://www.ndtv.com/tamil-nadu-news/tvk-chief-vijay-to-chair-crucial-mla-meeting-today-amid-controversies-12311498#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/tamil-nadu-news/tvk-chief-vijay-to-chair-crucial-mla-meeting-today-amid-controversies-12311498#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-11T06:50:41+00:00",
+      "published_at_ist": "2026-11-11T12:20:41+05:30",
+      "summary": "TVK chief Joseph Vijay to lead MLA meeting focusing on discipline and unity amid controversies",
+      "category": "Sports",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "cb82979e35f4800c",
+      "title": "Sam Pitroda Denies Foreign Funding Charge, BJP Recalls \"Hua Toh Hua\" Remark",
+      "url": "https://www.ndtv.com/india-news/sam-pitroda-denies-foreign-funding-charge-bjp-recalls-hua-toh-hua-remark-12311492#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/sam-pitroda-denies-foreign-funding-charge-bjp-recalls-hua-toh-hua-remark-12311492#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-11T06:49:54+00:00",
+      "published_at_ist": "2026-11-11T12:19:54+05:30",
+      "summary": "Sam Pitroda and the BJP have been fighting a war of words over foreign influence claims",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "bc92198fff877e67",
-      "title": "'Was Sizing Up Women At Reception': Sonia Gandhi Recalls Bill Clinton's Visit",
-      "url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-sonia-gandhi-recalls-bill-clintons-visit-was-sizing-up-women-at-reception-12306572#publisher=newsstand",
+      "id": "a8cd6a69ddbe5a0d",
+      "title": "Air India Flight Issues Hijack Alert Just Before Take-Off At Kolkata Airport",
+      "url": "https://www.ndtv.com/india-news/air-india-flight-issues-hijack-alert-just-before-take-off-at-kolkata-airport-12311460#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -733,20 +692,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-sonia-gandhi-recalls-bill-clintons-visit-was-sizing-up-women-at-reception-12306572#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/air-india-flight-issues-hijack-alert-just-before-take-off-at-kolkata-airport-12311460#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-10T07:08:41+00:00",
-      "published_at_ist": "2026-11-10T12:38:41+05:30",
-      "summary": "Bill Clinton meeting Sonia Gandhi during his New Delhi visit.",
-      "category": "Politics & Governance",
+      "published_at_utc": "2026-11-11T06:47:14+00:00",
+      "published_at_ist": "2026-11-11T12:17:14+05:30",
+      "summary": "The aircraft has been moved to an isolation bay",
+      "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "0954c521e728b82e",
-      "title": "'Will Have To Come For Pa's Funeral': Sonia Gandhi Recalls Rahul's Warning",
-      "url": "https://www.ndtv.com/india-news/sonia-gandhi-memoir-belonging-a-journey-of-love-sonia-gandhi-recalls-rahuls-warning-will-have-to-come-for-pas-funeral-12306244#publisher=newsstand",
+      "id": "48c4aea7ea7a95a0",
+      "title": "80% Of Post-Diwali Pollution In Delhi Caused By Firecrackers: Study",
+      "url": "https://www.ndtv.com/delhi-news/80-of-post-diwali-pollution-in-delhi-caused-by-firecrackers-study-12311381#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -754,12 +713,54 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/sonia-gandhi-memoir-belonging-a-journey-of-love-sonia-gandhi-recalls-rahuls-warning-will-have-to-come-for-pas-funeral-12306244#publisher=newsstand"
+          "url": "https://www.ndtv.com/delhi-news/80-of-post-diwali-pollution-in-delhi-caused-by-firecrackers-study-12311381#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-10T07:07:49+00:00",
-      "published_at_ist": "2026-11-10T12:37:49+05:30",
-      "summary": "Sonia Gandhi describes the moments surrounding Rajiv Gandhi's assassination in her memoir.",
+      "published_at_utc": "2026-11-11T06:43:41+00:00",
+      "published_at_ist": "2026-11-11T12:13:41+05:30",
+      "summary": "Low wind speed caused pollutants to remain suspended for a long time.",
+      "category": "Climate & Environment",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "cc0a5c71e0cc486d",
+      "title": "\"Why Are You Letting This Happen?\" Sonia Gandhi To Rajiv In Shah Bano Case",
+      "url": "https://www.ndtv.com/india-news/belonging-a-journey-of-love-why-are-you-letting-this-happen-sonia-gandhi-to-rajiv-gandhi-in-shah-bano-case-12311458#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/belonging-a-journey-of-love-why-are-you-letting-this-happen-sonia-gandhi-to-rajiv-gandhi-in-shah-bano-case-12311458#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-11T06:40:10+00:00",
+      "published_at_ist": "2026-11-11T12:10:10+05:30",
+      "summary": "The newspapers accused Rajiv Gandhi of \"sacrificing\" Muslim women's interests.",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "9ebd0d5fb25f780a",
+      "title": "Meta Fined $1.3 Million For \"Algorithmic Manipulation\" During Brazil Polls",
+      "url": "https://www.ndtv.com/world-news/meta-fined-1-3-million-for-algorithmic-manipulation-during-brazil-polls-12311436#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/meta-fined-1-3-million-for-algorithmic-manipulation-during-brazil-polls-12311436#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-11T06:36:44+00:00",
+      "published_at_ist": "2026-11-11T12:06:44+05:30",
+      "summary": "\"We are going to have to regulate them,\" Lula had said after his electoral victory.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
