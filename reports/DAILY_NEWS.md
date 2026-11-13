@@ -1,68 +1,118 @@
 # India Daily News Brief
 
-> Published: 12 November 2026, 02:12 PM IST  
+> Published: 13 November 2026, 02:04 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **1**
+- Major stories highlighted: **7**
 - Sources checked successfully: **4**
 
 ### Stories by category
 
-- **India & General:** 24
-- **Politics & Governance:** 5
-- **Business & Economy:** 2
-- **Climate & Environment:** 2
-- **Education:** 2
+- **India & General:** 19
+- **Politics & Governance:** 11
+- **Technology & Science:** 2
+- **Business & Economy:** 1
+- **Climate & Environment:** 1
+- **Health:** 1
 
 ## Major stories
 
-### 1. [4.9-magnitude moderate earthquake hits West Sikkim, mild tremors felt in Gangtok](https://www.thehindu.com/news/national/sikkim/49-magnitude-moderate-earthquake-hits-west-sikkim-mild-tremors-felt-in-gangtok/article71692438.ece)
+### 1. [Bharat Summit takes off in Hyderabad today; Rahul Gandhi to participate in valedictory](https://www.thehindu.com/news/national/telangana/bharat-summit-takes-off-in-hyderabad-today-rahul-gandhi-to-participate-in-valedictory/article71694796.ece)
 
-- **Category:** Climate & Environment
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 5/10 (heuristic)
+- **Published:** 13 Nov 2026, 01:19 PM IST
+- **Summary:** The gathering assumes significance as the first major international meeting of progressive leaders following electoral outcomes in Brazil, Hungary and Serbia, and comes soon after the United States mid-term elections
+
+### 2. [C.S. Karnan, controversial former High Court judge, passes away in Chennai](https://www.thehindu.com/news/national/tamil-nadu/cs-karnan-controversial-former-high-court-judge-passes-away-in-chennai/article71696842.ece)
+
+- **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 12 Nov 2026, 11:16 AM IST
+- **Published:** 13 Nov 2026, 01:37 PM IST
+- **Summary:** He was sentenced to six months of imprisonment during his stint as a judge of Calcutta High Court in 2017 after he passed an “order” sentencing the then CJI and seven other Supreme Court judges to five years of imprisonment
+
+### 3. [Prime Minister Narendra Modi inaugurates golden jubilee celebrations of Prashanti Kutiram, attends event marking birth centenary of former RSS general secretary H.V. Sheshadri](https://www.thehindu.com/news/cities/bangalore/prime-minister-narendra-modi-inaugurates-golden-jubilee-celebrations-of-prashanti-kutiram-attends-event-marking-birth-centenary-of-former-rss-general-secretary-hv-sheshadri/article71696726.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 13 Nov 2026, 12:48 PM IST
+- **Summary:** Mr Modi laid the foundation stone for the Golden Jubilee Administrative Block of S-VYASA University and inaugurated the university’s Thiruvananthapuram off-campus via video conferencing
+
+### 4. [Madras High Court refuses to reject election plea against Udhayanidhi’s win from Chepauk-Thiruvallikeni](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-plea-against-udhayanidhis-win-from-chepauk-thiruvallikeni/article71696602.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 13 Nov 2026, 12:30 PM IST
+- **Summary:** Justice G. Arul Murugan dismisses two applications filed by the Leader of the Opposition and decides to proceed with the trial
+
+### 5. [Agricultural growth tops 4% for first decade since Independence; Centre absorbed ₹43 of diesel hike: PM Modi](https://www.thehindu.com/news/national/agricultural-growth-tops-4-for-first-decade-since-independence-centre-absorbed-43-of-diesel-hike-pm-modi/article71696695.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 13 Nov 2026, 12:00 PM IST
+- **Summary:** Calling agriculture "our culture, our tradition and the basis of our social life", the Prime Minister said a developed India was not possible without making farming "smarter" and farmers "self-reliant"
+
+### 6. [Narendra Modi will not remain PM after one-on-one debate with me, says Rahul Gandhi](https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 13 Nov 2026, 11:27 AM IST
+- **Summary:** Rahul Gandhi has repeatedly challenged Narendra Modi to an open debate and earlier claimed that it would take him just five minutes to establish that the Prime Minister was a “traitor”.
+
+### 7. [Why Ladakh polls announcement fails to cut ice with protesting civil society groups \| Explained](https://www.thehindu.com/news/national/ladakh/why-ladakh-polls-announcement-fails-to-cut-ice-with-protesting-civil-society-groups-explained/article71688368.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 13 Nov 2026, 10:38 AM IST
+- **Summary:** LAB and KDA are demanding postponement of hill council elections to April-May next year, citing unfavourable winter timing and lack of consultation
 
 ## All collected stories
 
-- [4.9-magnitude moderate earthquake hits West Sikkim, mild tremors felt in Gangtok](https://www.thehindu.com/news/national/sikkim/49-magnitude-moderate-earthquake-hits-west-sikkim-mild-tremors-felt-in-gangtok/article71692438.ece) — **Climate & Environment** · The Hindu
-- [Jagga Reddy plans Telugu film on Sonia Gandhi’s life based on book ‘Belonging: A Journey of Love’](https://www.thehindu.com/news/national/telangana/jagga-reddy-plans-telugu-film-on-sonia-gandhis-life/article71690522.ece) — **Politics & Governance** · The Hindu
-- [Drone industry needs deeper localisation as import dependence poses risks: DFI](https://www.thehindu.com/news/national/karnataka/drone-industry-needs-deeper-localisation-as-import-dependence-poses-risks-dfi/article71689910.ece) — **Politics & Governance** · The Hindu
-- [Uttarakhand biker escapes death after elephant steps on him twice on highway](https://www.indiatoday.in/trending-news/story/uttarakhand-biker-escapes-death-after-elephant-steps-on-him-twice-on-highway-3037308-2026-11-12?utm_source=rss) — **India & General** · India Today
+- [Bharat Summit takes off in Hyderabad today; Rahul Gandhi to participate in valedictory](https://www.thehindu.com/news/national/telangana/bharat-summit-takes-off-in-hyderabad-today-rahul-gandhi-to-participate-in-valedictory/article71694796.ece) — **Politics & Governance** · The Hindu
+- [C.S. Karnan, controversial former High Court judge, passes away in Chennai](https://www.thehindu.com/news/national/tamil-nadu/cs-karnan-controversial-former-high-court-judge-passes-away-in-chennai/article71696842.ece) — **Politics & Governance** · The Hindu
+- [Prime Minister Narendra Modi inaugurates golden jubilee celebrations of Prashanti Kutiram, attends event marking birth centenary of former RSS general secretary H.V. Sheshadri](https://www.thehindu.com/news/cities/bangalore/prime-minister-narendra-modi-inaugurates-golden-jubilee-celebrations-of-prashanti-kutiram-attends-event-marking-birth-centenary-of-former-rss-general-secretary-hv-sheshadri/article71696726.ece) — **Politics & Governance** · The Hindu
+- [Madras High Court refuses to reject election plea against Udhayanidhi’s win from Chepauk-Thiruvallikeni](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-plea-against-udhayanidhis-win-from-chepauk-thiruvallikeni/article71696602.ece) — **Politics & Governance** · The Hindu
+- [Agricultural growth tops 4% for first decade since Independence; Centre absorbed ₹43 of diesel hike: PM Modi](https://www.thehindu.com/news/national/agricultural-growth-tops-4-for-first-decade-since-independence-centre-absorbed-43-of-diesel-hike-pm-modi/article71696695.ece) — **Politics & Governance** · The Hindu
+- [Narendra Modi will not remain PM after one-on-one debate with me, says Rahul Gandhi](https://www.thehindu.com/news/national/narendra-modi-will-not-remain-pm-after-one-on-one-debate-with-me-says-rahul-gandhi/article71696693.ece) — **Politics & Governance** · The Hindu
+- [Why Ladakh polls announcement fails to cut ice with protesting civil society groups \| Explained](https://www.thehindu.com/news/national/ladakh/why-ladakh-polls-announcement-fails-to-cut-ice-with-protesting-civil-society-groups-explained/article71688368.ece) — **Politics & Governance** · The Hindu
+- [Discontent brews among Congress workers over delay in Cabinet berth for Kullu MLA](https://www.thehindu.com/news/national/himachal-pradesh/discontent-brews-among-congress-workers-over-delay-in-cabinet-berth-for-kullu-mla/article71696879.ece) — **Politics & Governance** · The Hindu
+- [PM Modi Inaugurates Bengaluru Metro's Pink Line, Takes Ride With DK Shivakumar](https://www.ndtv.com/bangalore-news/pm-modi-inaugurates-bengaluru-metros-pink-line-takes-ride-with-dk-shivakumar-12321314#publisher=newsstand) — **India & General** · NDTV, India Today
+- [Opposition not informed about possible Special Parliament session on delimitation: Priyanka Gandhi](https://www.thehindu.com/news/national/opposition-not-informed-about-possible-special-parliament-session-on-delimitation-priyanka-gandhi/article71697000.ece) — **Politics & Governance** · The Hindu
+- [India Inflation Breaches RBI's Limit. What Happens If It Remains Above 6%](https://www.ndtv.com/business-news/india-inflation-breaches-rbi-limit-expensive-grocery-price-shock-monthly-budget-12321053#publisher=newsstand) — **Business & Economy** · NDTV
+- [All you need to know about Jagdeep Dhankhar: 5 key facts about India’s 14th Vice-President](https://www.thehindu.com/news/national/jagdeep-dhankhar-5-key-facts-about-india-14th-vice-president/article71696691.ece) — **Politics & Governance** · The Hindu
+- [Rain alert: Isro satellite captures new system rising in Andaman Sea](https://www.indiatoday.in/science/story/isro-satellite-captures-new-rain-system-rising-in-andaman-sea-packing-gusty-winds-3037961-2026-11-13?utm_source=rss) — **Technology & Science** · India Today
+- [Is VD Satheesan cabinet facing a 'collective responsibility' crisis?](https://www.indiatoday.in/india-today-insight/story/is-vd-satheesan-cabinet-facing-a-collective-responsibility-crisis-3037653-2026-11-12?utm_source=rss) — **Politics & Governance** · India Today
+- [Yaga Review: Carrie-Anne Moss, Hudson Williams enchant in a seductive mystery](https://www.indiatoday.in/entertainment/ott/story/yaga-review-carrie-anne-moss-hudson-williams-seductive-mystery-3038075-2026-11-13?utm_source=rss) — **India & General** · India Today
+- [Ghost Soldier review: Jim Caviezel's action thriller fires blanks](https://www.indiatoday.in/movies/reviews/story/ghost-soldier-review-jim-caviezel-action-thriller-fires-blanks-3038066-2026-11-13?utm_source=rss) — **India & General** · India Today
+- [iPhone 17 price cut by Rs 7,000 and there are no conditions](https://www.indiatoday.in/visualstories/technology/iphone-17-price-cut-by-rs-7000-and-there-are-no-conditions-287455-12-11-2026?utm_source=rss) — **India & General** · India Today
+- [Samsung Galaxy S25 price drops by Rs 50,000 on Flipkart](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-price-drops-by-rs-50000-on-flipkart-287451-12-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 16 Plus is available at a lower price: Know the deal](https://www.indiatoday.in/visualstories/technology/iphone-16-plus-is-available-at-a-lower-price-know-the-deal-287417-10-11-2026?utm_source=rss) — **India & General** · India Today
 - [Samsung Galaxy S26 is available at a lower price: Details here](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-is-available-at-a-lower-price-details-here-287386-09-11-2026?utm_source=rss) — **India & General** · India Today
 - [Google Pixel 10a price drop alert, details here](https://www.indiatoday.in/visualstories/technology/google-pixel-10a-price-drop-alert-details-here-287383-09-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 17 Pro available at Rs 54,990, check deal here](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-available-at-rs-54990-check-deal-here-287382-09-11-2026?utm_source=rss) — **India & General** · India Today
-- [OnePlus Nord 6 gets 15% discount: details here](https://www.indiatoday.in/visualstories/technology/oneplus-nord-6-gets-15-discount-details-here-287341-06-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 17 price drops by Rs 11,000, here is how deal works](https://www.indiatoday.in/visualstories/technology/iphone-17-price-drops-by-rs-11000-here-is-how-the-deal-works-287339-06-11-2026?utm_source=rss) — **India & General** · India Today
-- [पटाखे या गाड़ियां... दिवाली के बाद दिल्ली की जहरीली हवा का असली गुनहगार कौन? चौंका देंगे आंकड़े](https://www.aajtak.in/auto/news/story/delhi-air-pollution-diwali-crackers-71-percent-vehicles-6-percent-iitm-auaw-dskc-2694428-2026-11-12?utm_source=rss) — **India & General** · India Today
-- [कौन हैं Kimberly Powell? एनवीडिया सीईओ जेनसन हुआंग से कथित रिश्ते की खबर के बाद क्यों हो रही चर्चा?](https://www.aajtak.in/technology/tech-news/story/kimberly-powell-who-is-she-nvidia-jensen-huang-ttecm-dskc-2694422-2026-11-12?utm_source=rss) — **India & General** · India Today
-- [5-10 रुपये में गंगा की मिट्टी खरीदने की होड़... घाट के किनारे नाव पर सजीं दुकानें, छठ पूजा से जुड़ी है कहानी](https://www.aajtak.in/bihar/story/ganga-soil-sold-on-boats-in-katihar-for-chhath-puja-devotees-from-bengal-lcla-dskc-2694419-2026-11-12?utm_source=rss) — **India & General** · India Today
-- [दुबई में क्यों एक दिन के 25 लाख रुपये देकर भी होटल में कमरा बुक कर रहे हैं लोग? ऐसा क्या होने वाला है](https://www.aajtak.in/information/story/dubai-hotel-room-rent-25-lakh-new-year-burj-khalifa-fireworks-2027-tedu-dskc-2694402-2026-11-12?utm_source=rss) — **India & General** · India Today
-- [Kerala HC Division Bench allows State’s appeal against Single Judge order quashing police association rejig](https://www.thehindu.com/news/national/kerala/kerala-hc-division-bench-allows-states-appeal-against-single-judge-order-quashing-police-association-rejig/article71692716.ece) — **India & General** · The Hindu
-- [Axar Patel doesn't want to captain Delhi Capitals, KL Rahul is an option: Ex-opener](https://www.indiatoday.in/sports/cricket/story/delhi-capitals-captaincy-kl-rahul-option-axar-patel-reluctant-ipl-2027-3037311-2026-11-12?utm_source=rss) — **India & General** · India Today
-- [Work on success stories of India, PM Modi tells media](https://www.thehindu.com/news/national/work-on-success-stories-of-india-pm-modi-tells-media/article71692866.ece) — **India & General** · The Hindu
-- [Amid reports of Korean firms shifting to A.P., Hwashin and Seoyon commit ₹1,370-crore investments in T.N.](https://www.thehindu.com/news/national/tamil-nadu/amid-reports-of-korean-firms-shifting-to-ap-hwashin-and-seoyon-commit-1370-crore-investments-in-tn/article71690137.ece) — **Politics & Governance** · The Hindu
-- [Temperatures drop further in Telangana; lowest of 11.3°C in Sangareddy](https://www.thehindu.com/news/national/telangana/temperatures-drop-further-in-telangana-lowest-of-113c-in-sangareddy/article71692815.ece) — **India & General** · The Hindu
-- [LPST rankholders resume stir in front of Keralam Secretariat after police remove protesters on hunger strike](https://www.thehindu.com/news/national/kerala/lpst-rankholders-resume-stir-in-front-of-keralam-secretariat-after-police-remove-protesters-on-hunger-strike/article71692697.ece) — **India & General** · The Hindu
-- [Owaisi names Chandrashekhar Azad as Uttar Pradesh CM face of Samajik Parivartan Morcha](https://www.thehindu.com/news/national/uttar-pradesh/owaisi-azad-alliance-for-uttar-pradesh-elections/article71692358.ece) — **India & General** · The Hindu
-- [Nvidia CEO's Daughter Knew About China 'Spy' Affair? Viral Video Sparks Debate](https://www.ndtv.com/world-news/nvidia-ceo-jensen-huangs-daughter-knew-about-china-spy-affair-viral-video-sparks-debate-12316290#publisher=newsstand) — **Business & Economy** · NDTV
-- [CII Partnership Summit: Vizianagaram likely to attract more investments due to Bhogapuram airport, officials say](https://www.thehindu.com/news/national/andhra-pradesh/cii-partnership-summit-vizianagaram-likely-to-attract-more-investments-due-to-bhogapuram-airport-officials-say/article71692154.ece) — **Politics & Governance** · The Hindu
-- [13-Year-Old Used School Laptop To Plan Suicide With Google Gemini, Lawsuit Claims](https://www.ndtv.com/artificial-intelligence/13-year-old-used-school-laptop-to-plan-suicide-with-gemini-lawsuit-claims-12316223#publisher=newsstand) — **Education** · NDTV
-- [Low-pressure area likely to form over Bay of Bengal, ease rain deficit in State](https://www.thehindu.com/news/national/tamil-nadu/next-low-pressure-area-likely-to-form-over-bay-of-bengal-around-november-13-and-intensify-into-depression-in-2-days/article71689794.ece) — **Climate & Environment** · The Hindu
-- [Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit](https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece) — **India & General** · The Hindu
-- ['Pay Rs 7 Crore': Arvind Kejriwal, His Daughter Get Death Threat](https://www.ndtv.com/india-news/arvind-kejriwal-gets-death-threat-allegedly-from-lawrence-bishnoi-gang-12316084#publisher=newsstand) — **India & General** · NDTV
-- [How Nvidia Spy Scandal Exposes Singapore's Role In Advanced AI Chips Trade](https://www.ndtv.com/world-news/how-nvidia-spy-scandal-exposes-singapore-s-role-in-advanced-ai-chips-trade-12315934#publisher=newsstand) — **Business & Economy** · NDTV
-- [Man Chases Father's Killer, Murders Him With Axe In Jaipur After 7 Years](https://www.ndtv.com/india-news/man-chases-fathers-killer-murders-him-with-axe-in-jaipur-after-7-years-12316149#publisher=newsstand) — **India & General** · NDTV
-- [Price Of Prosperity: Are Indians Spending More Than Ever To Feel Wealthier?](https://www.ndtv.com/business-news/price-of-prosperity-are-indians-spending-more-to-feel-wealthy-personal-finance-12311856#publisher=newsstand) — **India & General** · NDTV
-- [Telangana Agriculture University Vice-Chancellor Accused Of Sexual Harassment](https://www.ndtv.com/telangana-news/telangana-agriculture-university-vice-chancellor-accused-of-sexual-harassment-12306120#publisher=newsstand) — **Education** · NDTV
-- [Agnipath Changes Only For Serving Agniveers, New Recruits Still Get 4 Years](https://www.ndtv.com/india-news/agnipath-changes-only-for-serving-agniveers-new-recruits-still-get-4-years-12291310#publisher=newsstand) — **India & General** · NDTV
-- [Opinion: Opinion \| History Is Repeating Itself In Pakistan's Rawalkot, And India Should Be Worried](https://www.ndtv.com/opinion/history-is-repeating-itself-in-pakistans-rawalkot-and-india-should-be-worried-12316019#publisher=newsstand) — **India & General** · NDTV
-- [Sonia Gandhi On Why She Spoke To Priyanka, Rahul In Hindi And Not In Italian](https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-not-english-not-italian-why-sonia-gandhi-spoke-to-priyanka-rahul-in-hindi-12316010#publisher=newsstand) — **India & General** · NDTV
-- [Man Confronts Punjab Minister Over Alleged Open Drug Sales In Sangrur](https://www.ndtv.com/india-news/man-confronts-punjab-minister-aman-arora-over-alleged-open-drug-sales-in-sangrur-12315989#publisher=newsstand) — **Politics & Governance** · NDTV
+- [एयरफोर्स के लिए खुशखबरी... तेजस MK1A की डिलीवरी जनवरी 2027 में](https://www.aajtak.in/defence-news/story/first-tejas-mk1a-jet-set-for-iaf-delivery-in-january-2027-dskc-2695418-2026-11-13?utm_source=rss) — **India & General** · India Today
+- ['मेरा फोन टैप किया जा रहा है', राहुल गांधी का बड़ा दावा](https://www.aajtak.in/india/news/story/rahul-gandhi-phone-tapping-pm-narendra-modi-debate-challenge-ntc-mnrd-rpti-2695369-2026-11-13?utm_source=rss) — **India & General** · India Today
+- [Speeding SUV On Fire After 6-Vehicle Chain-Reaction Crash In Mumbai](https://www.ndtv.com/mumbai-news/speeding-suv-on-fire-after-6-vehicle-chain-reaction-crash-in-mumbai-12320992#publisher=newsstand) — **India & General** · NDTV
+- [Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line \| LIVE](https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece) — **India & General** · The Hindu
+- ["Rollout In 2030, A Sensing Network": Sunil Mittal To NDTV On 6G](https://www.ndtv.com/india-news/rollout-in-2030-a-sensing-network-sunil-mittal-to-ndtv-on-6g-12321203#publisher=newsstand) — **India & General** · NDTV
+- [Kozhikode-Wayanad tunnel project in Keralam remains stalled despite submission of documents](https://www.thehindu.com/news/national/kerala/kozhikode-wayanad-tunnel-project-in-keralam-remains-stalled-despite-submission-of-documents/article71696932.ece) — **India & General** · The Hindu
+- [Fresh Rain, Snowfall In Parts Of Kashmir](https://www.ndtv.com/india-news/fresh-rain-snowfall-in-parts-of-kashmir-12321247#publisher=newsstand) — **Climate & Environment** · NDTV
+- [India For Continued Engagement With Myanmar Ahead Of PM Modi's Manila Visit](https://www.ndtv.com/world-news/india-myanmar-relations-india-for-continued-engagement-with-myanmar-ahead-of-pm-narendra-modis-manila-visit-12321261#publisher=newsstand) — **India & General** · NDTV
+- [Microsoft Outage: What Went Wrong And Why Is It Taking So Long To Fix It?](https://www.ndtv.com/business-news/microsoft-outlook-365-global-outage-what-went-wrong-why-taking-so-long-to-fix-12321248#publisher=newsstand) — **India & General** · NDTV
+- [Day Before Jensen Huang's Resignation, Trump Urged Him To Fight For His Job](https://www.ndtv.com/world-news/day-before-nvidia-ceo-jensen-huangs-resignation-trump-urged-him-to-fight-for-his-job-12321220#publisher=newsstand) — **India & General** · NDTV
+- [Jensen Huang's Chinese Lover May Not Have Spied On Nvidia: Report](https://www.ndtv.com/world-news/us-intel-uncertain-if-jensen-huangs-lover-spied-on-nvidia-report-12321119#publisher=newsstand) — **India & General** · NDTV
+- [Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation](https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897#publisher=newsstand) — **Technology & Science** · NDTV
+- [Delhi Overtakes Lahore As World's Most Polluted City As AQI Hits Severe Level](https://www.ndtv.com/india-news/delhi-air-pollution-delhi-overtakes-lahore-as-worlds-most-polluted-city-as-aqi-hits-severe-level-12321108#publisher=newsstand) — **Health** · NDTV
 
 ## Source health
 
