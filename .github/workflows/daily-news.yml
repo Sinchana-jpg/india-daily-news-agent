@@ -1,3 +1,4 @@
+
 name: India Daily News
 
 on:
@@ -17,26 +18,35 @@ jobs:
   build-news-brief:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
+
       - name: Install dependencies
         run: pip install -r requirements.txt
+
       - name: Collect and analyze news
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
         run: python news_agent.py
+
+      - name: Configure Git identity
+        run: |
+          git config user.name "Sinchana-jpg"
+          git config user.email "256723910+Sinchana-jpg@users.noreply.github.com"
+
       - name: Commit updated news files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add reports/DAILY_NEWS.md reports/daily data/news.json
+
           if git diff --cached --quiet; then
             echo "No news changes to commit."
           else
