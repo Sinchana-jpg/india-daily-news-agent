@@ -1,280 +1,126 @@
-
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta name="theme-color" content="#f7f8fa">
-  <meta name="description" content="India Brief — Your daily source for important news, headlines and stories shaping India.">
-
+  <meta name="theme-color" content="#f5f5f0">
+  <meta name="description" content="India Brief — a clearer perspective on the stories shaping India.">
   <title>India Brief — India's Daily Newsroom</title>
-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <script src="app.js" defer></script>
 </head>
-
 <body>
-
   <a class="skip-link" href="#main-content">Skip to content</a>
 
-  <!-- HEADER -->
   <header class="topbar">
     <div class="topbar-inner">
-
       <a class="brand" href="./" aria-label="India Brief homepage">
-        <span class="brand-mark">IB</span>
-        <span class="brand-name">
-          india<span class="brand-light">brief</span>
-        </span>
+        <span class="brand-mark">ib<span>.</span></span>
+        <span class="brand-name">india<span class="brand-light">brief</span></span>
       </a>
-
       <div class="topbar-right">
-        <span class="live-indicator">
-          <span class="live-dot"></span>
-          Daily news desk
-        </span>
-
-        <button
-          id="refreshBtn"
-          class="refresh-btn"
-          type="button"
-          aria-label="Refresh latest news"
-        >
-          <span aria-hidden="true">↻</span>
-          <span>Refresh</span>
+        <span class="live-indicator"><span class="live-dot"></span> Your daily news desk</span>
+        <button id="refreshBtn" class="refresh-btn" type="button" aria-label="Refresh latest news">
+          <span class="refresh-symbol" aria-hidden="true">↻</span><span>Refresh</span>
         </button>
       </div>
-
     </div>
   </header>
 
-
-  <!-- MAIN CONTENT -->
   <main id="main-content" class="page-wrap">
-
-    <!-- HERO -->
     <section class="hero" aria-labelledby="hero-title">
-
       <div class="hero-copy">
-
-        <p class="eyebrow">
-          <span class="eyebrow-line"></span>
-          THE DAY, IN CONTEXT
-        </p>
-
-        <h1 id="hero-title">
-          India, <span>briefed.</span>
-        </h1>
-
-        <p class="hero-sub">
-          A clearer perspective on the stories shaping India.
-          Less noise. More understanding.
-        </p>
-
+        <p class="eyebrow"><span class="eyebrow-line"></span> THE DAY, IN CONTEXT</p>
+        <h1 id="hero-title">India, <em>briefed.</em></h1>
+        <p class="hero-sub">A clearer perspective on the stories shaping India.<br class="desktop-break"> Less noise. More understanding.</p>
         <div class="hero-meta">
           <span class="hero-date" id="currentDate"></span>
           <span class="meta-divider"></span>
-          <span id="updatedAt" class="updated">
-            Preparing today's briefing...
-          </span>
-        </div>
-
-      </div>
-
-      <div class="hero-stamp" aria-hidden="true">
-        <div class="stamp-inner">
-          <span>INDIA</span>
-          <strong>IN</strong>
-          <span>FOCUS</span>
+          <span id="updatedAt" class="updated">Preparing today's briefing…</span>
         </div>
       </div>
-
+      <div class="hero-art" aria-hidden="true">
+        <div class="art-orbit orbit-one"></div>
+        <div class="art-orbit orbit-two"></div>
+        <div class="art-core"><span>INDIA</span><strong>IN</strong><span>FOCUS</span></div>
+        <span class="art-spark spark-one">✳</span><span class="art-spark spark-two">✦</span>
+      </div>
+      <div class="hero-bottomline"><span>INDEPENDENTLY CURATED</span><span>•</span><span>UPDATED DAILY</span></div>
     </section>
 
-
-    <!-- NEWS OVERVIEW -->
     <section class="stats" aria-label="Today's news overview">
-
       <article class="stat-card">
-        <div class="stat-top">
-          <span class="stat-label">Stories today</span>
-          <span class="stat-icon" aria-hidden="true">▤</span>
-        </div>
-        <strong id="storyCount">—</strong>
-        <span class="stat-note">Across selected sources</span>
+        <div class="stat-top"><span class="stat-label">Stories collected</span><span class="stat-icon">↗</span></div>
+        <strong id="storyCount">—</strong><span class="stat-note">Across selected sources</span>
       </article>
-
+      <article class="stat-card stat-featured">
+        <div class="stat-top"><span class="stat-label">Top stories</span><span class="stat-icon">✳</span></div>
+        <strong id="majorCount">—</strong><span class="stat-note">Worth a closer look</span>
+      </article>
       <article class="stat-card">
-        <div class="stat-top">
-          <span class="stat-label">Top stories</span>
-          <span class="stat-icon" aria-hidden="true">✦</span>
-        </div>
-        <strong id="majorCount">—</strong>
-        <span class="stat-note">Worth a closer look</span>
+        <div class="stat-top"><span class="stat-label">Sources checked</span><span class="stat-icon">◎</span></div>
+        <strong id="sourceCount">—</strong><span class="stat-note">Newsrooms reviewed</span>
       </article>
-
-      <article class="stat-card">
-        <div class="stat-top">
-          <span class="stat-label">Sources checked</span>
-          <span class="stat-icon" aria-hidden="true">◎</span>
-        </div>
-        <strong id="sourceCount">—</strong>
-        <span class="stat-note">News feeds reviewed</span>
-      </article>
-
     </section>
 
-
-    <!-- NEWS SECTION -->
     <section class="news-section" aria-labelledby="news-title">
-
-      <div class="toolbar">
-
+      <div class="section-heading">
         <div class="toolbar-heading">
           <p class="section-kicker">YOUR DAILY BRIEFING</p>
-          <h2 id="news-title">Latest stories<span class="heading-dot">.</span></h2>
-          <p class="section-description">
-            The latest headlines, gathered in one place.
-          </p>
+          <h2 id="news-title">The latest <em>stories.</em></h2>
+          <p class="section-description">Important headlines, gathered in one place.</p>
         </div>
-
         <div class="filters">
-
           <label class="search-wrap">
             <span class="search-icon" aria-hidden="true">⌕</span>
-            <input
-              id="searchInput"
-              type="search"
-              placeholder="Search headlines..."
-              aria-label="Search news headlines"
-              autocomplete="off"
-            >
+            <input id="searchInput" type="search" placeholder="Search the briefing…" aria-label="Search news headlines" autocomplete="off">
+            <kbd>/</kbd>
           </label>
-
-          <label class="visually-hidden" for="categoryFilter">
-            Filter news by category
-          </label>
-
-          <select id="categoryFilter">
-            <option value="all">All categories</option>
-          </select>
-
+          <label class="visually-hidden" for="categoryFilter">Filter news by category</label>
+          <select id="categoryFilter"><option value="all">All categories</option></select>
         </div>
-
       </div>
 
+      <nav id="categoryChips" class="category-chips" aria-label="Quick category filters"></nav>
 
-      <!-- CATEGORY FILTERS -->
-      <nav
-        id="categoryChips"
-        class="category-chips"
-        aria-label="Quick category filters"
-      ></nav>
-
-
-      <!-- LIVE STATUS -->
-      <div
-        id="statusMessage"
-        class="status-message"
-        role="status"
-        aria-live="polite"
-      >
-        Loading the latest news...
+      <div class="results-row">
+        <div id="statusMessage" class="status-message" role="status" aria-live="polite">Loading the latest news…</div>
+        <span class="results-caption">OPEN A STORY TO READ THE FULL REPORTING ↗</span>
       </div>
 
+      <section id="newsGrid" class="news-grid" aria-label="Latest news articles"></section>
 
-      <!-- NEWS CARDS -->
-      <section
-        id="newsGrid"
-        class="news-grid"
-        aria-label="Latest news articles"
-      ></section>
-
-
-      <!-- EMPTY STATE -->
-      <section
-        id="emptyState"
-        class="empty-state"
-        aria-labelledby="empty-title"
-        hidden
-      >
-        <span class="empty-icon" aria-hidden="true">◎</span>
-
-        <h3 id="empty-title">No stories found</h3>
-
-        <p>
-          We couldn't find anything matching your search.
-          Try a different keyword or category.
-        </p>
-
-        <button
-          id="clearFilters"
-          class="text-button"
-          type="button"
-        >
-          Clear all filters
-        </button>
+      <section id="emptyState" class="empty-state" aria-labelledby="empty-title" hidden>
+        <span class="empty-icon" aria-hidden="true">⌕</span>
+        <h3 id="empty-title">Nothing in this edition.</h3>
+        <p>Try another keyword or clear your filters to see all available stories.</p>
+        <button id="clearFilters" class="text-button" type="button">Clear all filters <span aria-hidden="true">↗</span></button>
       </section>
-
     </section>
 
-
-    <!-- FOOTER -->
     <footer class="footer">
-
       <div class="footer-main">
-
-        <a class="footer-brand" href="./" aria-label="India Brief home">
-          india<span>brief</span>
-        </a>
-
+        <a class="footer-brand" href="./" aria-label="India Brief home">india<span>brief</span><b>.</b></a>
         <p>Stay informed. Keep perspective.</p>
-
       </div>
-
       <div class="footer-bottom">
-
-        <p class="footer-note">
-          Headlines and excerpts are provided by their respective
-          news sources. Visit the original articles for full reporting
-          and context.
-        </p>
-
-        <a href="reports/DAILY_NEWS.md">
-          View today's full report <span aria-hidden="true">↗</span>
-        </a>
-
+        <p class="footer-note">Headlines and excerpts are provided by their respective news sources. Visit the original articles for full reporting, context and updates.</p>
+        <a class="report-link" href="reports/DAILY_NEWS.md">View today's full report <span aria-hidden="true">↗</span></a>
       </div>
-
-      <p class="copyright">
-        © <span id="copyrightYear">2026</span> India Brief.
-        Built for better awareness.
-      </p>
-
+      <p class="copyright">© <span id="copyrightYear">2026</span> India Brief. Made for a more informed India.</p>
     </footer>
-
   </main>
 
-
-  <!-- SMALL PROGRESSIVE ENHANCEMENT -->
   <script>
     const dateElement = document.getElementById("currentDate");
     const yearElement = document.getElementById("copyrightYear");
-
-    if (dateElement) {
-      dateElement.textContent = new Intl.DateTimeFormat("en-IN", {
-        weekday: "long",
-        day: "numeric",
-        month: "long",
-        year: "numeric"
-      }).format(new Date());
-    }
-
-    if (yearElement) {
-      yearElement.textContent = new Date().getFullYear();
-    }
+    if (dateElement) dateElement.textContent = new Intl.DateTimeFormat("en-IN", {
+      weekday: "long", day: "numeric", month: "long", year: "numeric"
+    }).format(new Date());
+    if (yearElement) yearElement.textContent = new Date().getFullYear();
   </script>
-
 </body>
 </html>
