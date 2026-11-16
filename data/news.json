@@ -1,31 +1,71 @@
 {
-  "generated_at_utc": "2026-11-15T08:15:18.282644+00:00",
-  "generated_at_ist": "2026-11-15T13:45:18.282644+05:30",
+  "generated_at_utc": "2026-11-16T08:23:48.946557+00:00",
+  "generated_at_ist": "2026-11-16T13:53:48.946557+05:30",
   "title": "India Daily News Brief",
-  "summary": "35 stories collected from 4 sources; 6 highlighted as major.",
+  "summary": "35 stories collected from 5 sources; 16 highlighted as major.",
   "sources_checked": [
     "The Hindu",
+    "The Indian Express",
     "NDTV",
     "India Today",
     "BBC News India"
   ],
-  "source_errors": [
-    "The Indian Express: HTTPError: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/"
-  ],
+  "source_errors": [],
   "total_stories": 35,
   "categories": {
-    "Politics & Governance": 9,
-    "Climate & Environment": 4,
+    "Politics & Governance": 11,
+    "Sports": 2,
+    "Climate & Environment": 8,
     "Security & Defence": 2,
-    "India & General": 17,
-    "Culture & Society": 2,
-    "Business & Economy": 1
+    "India & General": 12
   },
   "stories": [
     {
-      "id": "4b270ebdefed1d02",
-      "title": "PT Usha's IOA election bid gets a boost as Electoral Officer clears nomination",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pt-usha-ioa-elections-nomination-cleared-ice-hockey-association-membership-objections-3039302-2026-11-15?utm_source=rss",
+      "id": "3ac54d34fbb791d9",
+      "title": "Ram temple donation theft: Congress seeks new SIT reporting exclusively to Supreme Court",
+      "url": "https://www.thehindu.com/news/national/ram-temple-donation-theft-congress-seeks-new-sit-reporting-exclusively-to-supreme-court/article71706910.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/ram-temple-donation-theft-congress-seeks-new-sit-reporting-exclusively-to-supreme-court/article71706910.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-16T06:16:51+00:00",
+      "published_at_ist": "2026-11-16T11:46:51+05:30",
+      "summary": "Congress said that Prime Minister Narendra Modi’s “silence” on the issue is “deeply troubling” to the nation and asserted that those who have betrayed people’s faith must be held accountable",
+      "category": "Politics & Governance",
+      "importance_score": 5,
+      "is_major": true
+    },
+    {
+      "id": "3a32a256b671cd19",
+      "title": "India’s relation with ASEAN at heart of Act East Policy, says PM Modi",
+      "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-manila-asean-india-summit-east-asia-summit/article71706657.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-manila-asean-india-summit-east-asia-summit/article71706657.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-16T03:30:00+00:00",
+      "published_at_ist": "2026-11-16T09:00:00+05:30",
+      "summary": "Prime Minister Narendra Modi is visiting Manila on November 16-17 to participate in the 23rd ASEAN-India Summit and the 21st East Asia Summit at the invitation of Philippine President Ferdinand R Marcos Jr.",
+      "category": "Politics & Governance",
+      "importance_score": 5,
+      "is_major": true
+    },
+    {
+      "id": "8667e0556606defe",
+      "title": "Rajat Patidar smashes 13 sixes for record-breaking 135 day before IPL retention",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rajat-patidar-record-135-madhya-pradesh-assam-ipl-2027-retention-3039850-2026-11-16?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -33,20 +73,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/sports/other-sports/story/pt-usha-ioa-elections-nomination-cleared-ice-hockey-association-membership-objections-3039302-2026-11-15?utm_source=rss"
+          "url": "https://www.indiatoday.in/sports/cricket/story/rajat-patidar-record-135-madhya-pradesh-assam-ipl-2027-retention-3039850-2026-11-16?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-15T07:38:17+00:00",
-      "published_at_ist": "2026-11-15T13:08:17+05:30",
-      "summary": "PT Ushas IOA election bid gets a boost as Electoral Officer clears nomination",
-      "category": "Politics & Governance",
+      "published_at_utc": "2026-11-16T08:18:27+00:00",
+      "published_at_ist": "2026-11-16T13:48:27+05:30",
+      "summary": "Rajat Patidar smashes sixes for recordbreaking day before IPL retention",
+      "category": "Sports",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "f42d7f2b41803aab",
-      "title": "PM Modi pays tribute to Birsa Munda on birth anniversary",
-      "url": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-birsa-munda-on-birth-anniversary/article71704060.ece",
+      "id": "2a00cc0b546d2098",
+      "title": "BJP hits back at Rahul Gandhi over 'dead economy' remark",
+      "url": "https://www.thehindu.com/news/national/bjp-hits-back-at-rahul-gandhi-over-dead-economy-remark/article71707158.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -54,41 +94,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-birsa-munda-on-birth-anniversary/article71704060.ece"
+          "url": "https://www.thehindu.com/news/national/bjp-hits-back-at-rahul-gandhi-over-dead-economy-remark/article71707158.ece"
         }
       ],
-      "published_at_utc": "2026-11-15T03:51:39+00:00",
-      "published_at_ist": "2026-11-15T09:21:39+05:30",
-      "summary": "Prime Minister Modi said the courage, struggle and sacrifice of 'Dharti Aaba' would continue to inspire generations to uphold self-respect, freedom and rights",
+      "published_at_utc": "2026-11-16T08:13:59+00:00",
+      "published_at_ist": "2026-11-16T13:43:59+05:30",
+      "summary": "In a post on X, BJP national media convenor Ashish Usha Agarwal said that despite global uncertainties and geopolitical instability, India continued to chart a strong growth trajectory under the leadership of Prime Minister Narendra Modi",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "b084ca9f7e080d31",
-      "title": "\"Congress Seeking 181 Seats In 2027 UP Assembly Elections\": Akhilesh Yadav",
-      "url": "https://www.ndtv.com/india-news/congress-seeking-181-seats-in-2027-up-assembly-elections-akhilesh-yadav-12328531#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/congress-seeking-181-seats-in-2027-up-assembly-elections-akhilesh-yadav-12328531#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-15T03:15:54+00:00",
-      "published_at_ist": "2026-11-15T08:45:54+05:30",
-      "summary": "Asked if he is considering an alliance with BSP, Akhilesh Yadav said he doesn't think of other alliances",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "fa365432513be3ec",
-      "title": "‘Alive’ to voters’ need to find their names on the electoral roll, ECI assures Supreme Court",
-      "url": "https://www.thehindu.com/news/national/alive-to-voters-need-to-find-their-names-on-the-electoral-roll-eci-assures-supreme-court/article71702627.ece",
+      "id": "67153cf7d564e230",
+      "title": "Supreme Court asks Centre, States to file status reports on setting up of special courts to hear NDPS Act cases",
+      "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -96,20 +115,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/alive-to-voters-need-to-find-their-names-on-the-electoral-roll-eci-assures-supreme-court/article71702627.ece"
+          "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece"
         }
       ],
-      "published_at_utc": "2026-11-15T02:24:00+00:00",
-      "published_at_ist": "2026-11-15T07:54:00+05:30",
-      "summary": "Poll body says voters who shifted within the State need not submit Form 8; DEC oversight over IT Division in place",
+      "published_at_utc": "2026-11-16T07:45:04+00:00",
+      "published_at_ist": "2026-11-16T13:15:04+05:30",
+      "summary": "Supreme Court took note of the submissions of Additional Solicitor General Aishwarya Bhati, appearing for the Centre, that not much progress has been made in pursuance of the orders passed by the apex court recently on setting up of special courts",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "6ea14ed50061f2ac",
-      "title": "Villagers in 25 districts cast votes for panchayat elections’ final phase in Rajasthan",
-      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-local-elections-2026-final-phase-voting/article71700929.ece",
+      "id": "2ac69242c6281e41",
+      "title": "Cyclone may bring isolated heavy rain to Andhra Pradesh from November 18 to 20",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-may-bring-isolated-heavy-rain-to-andhra-pradesh-from-november-18-to-20/article71701292.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -117,41 +136,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-local-elections-2026-final-phase-voting/article71700929.ece"
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-may-bring-isolated-heavy-rain-to-andhra-pradesh-from-november-18-to-20/article71701292.ece"
         }
       ],
-      "published_at_utc": "2026-11-14T21:52:18+00:00",
-      "published_at_ist": "2026-11-15T03:22:18+05:30",
-      "summary": "The final phase polls across 25 districts for Zila Parishad and Panchayat Samiti faced EVM glitches, boycotts, and a 72% turnout",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "da98d831ffeed83f",
-      "title": "4.5 magnitude earthquake tremors felt in Maharashtra’s Jalgaon",
-      "url": "https://www.thehindu.com/news/national/maharashtra/45-magnitude-earthquake-tremors-felt-in-jalgaon/article71702938.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/maharashtra/45-magnitude-earthquake-tremors-felt-in-jalgaon/article71702938.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-14T21:18:48+00:00",
-      "published_at_ist": "2026-11-15T02:48:48+05:30",
-      "summary": "District Collector Rohan Ghuge said, “No loss of life or property damage in Jalgaon has been reported. Residents should not panic or fall prey to any rumours”",
+      "published_at_utc": "2026-11-16T07:22:39+00:00",
+      "published_at_ist": "2026-11-16T12:52:39+05:30",
+      "summary": "According to the IMD’s afternoon bulletin, heavy rain is likely at one or two places in coastal Andhra Pradesh and gusty winds, with speed reaching 40-50 kmph, on November 18, 19 and 20.",
       "category": "Climate & Environment",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "12704895e3e22b24",
-      "title": "Political leaders mourn veteran Telugu actor Giribabu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/political-leaders-mourn-veteran-telugu-actor-giribabu/article71701937.ece",
+      "id": "5fd68966928aa22f",
+      "title": "Odisha orders early evacuation of vulnerable areas as cyclone threat looms",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-orders-early-evacuation-of-vulnerable-areas-as-cyclone-threat-looms/article71706877.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -159,20 +157,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/political-leaders-mourn-veteran-telugu-actor-giribabu/article71701937.ece"
+          "url": "https://www.thehindu.com/news/national/odisha/odisha-orders-early-evacuation-of-vulnerable-areas-as-cyclone-threat-looms/article71706877.ece"
         }
       ],
-      "published_at_utc": "2026-11-15T07:49:24+00:00",
-      "published_at_ist": "2026-11-15T13:19:24+05:30",
-      "summary": "Governor, Chief Minister, Deputy Chief Minister and YSRCP president recall his contribution to Telugu cinema spanning over five decades and more than 600 films",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
+      "published_at_utc": "2026-11-16T07:17:35+00:00",
+      "published_at_ist": "2026-11-16T12:47:35+05:30",
+      "summary": "The weather system is likely to develop into a very severe cyclonic storm before reaching the Andhra Pradesh coast around November 19 night",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
     },
     {
-      "id": "018019ae8fa2f7f2",
-      "title": "President Murmu, PM Modi greet Jharkhand residents on State’s foundation day",
-      "url": "https://www.thehindu.com/news/national/leaders-greet-jharkhand-residents-on-states-foundation-day/article71704061.ece",
+      "id": "eedd47cc9ba2a26b",
+      "title": "Depression likely to become cyclone, move towards A.P.; Tamil Nadu, Odisha to get rain: IMD",
+      "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -180,20 +178,192 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/leaders-greet-jharkhand-residents-on-states-foundation-day/article71704061.ece"
+          "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece"
         }
       ],
-      "published_at_utc": "2026-11-15T06:27:32+00:00",
-      "published_at_ist": "2026-11-15T11:57:32+05:30",
-      "summary": "Jharkhand, which is known for its pristine forests and natural resources, was created on November 15, 2000, from what was previously the southern areas of Bihar",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
+      "published_at_utc": "2026-11-16T07:15:40+00:00",
+      "published_at_ist": "2026-11-16T12:45:40+05:30",
+      "summary": "If Cyclone Akvan, as the storm is being called, makes landfall in Andhra Pradesh, it will be the third cyclone within a month to hit the State",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
     },
     {
-      "id": "e4efac3909b805f2",
-      "title": "Saudi Alliance Intercepts 2 Houthi Missiles, 3 Drones Targeting Riyadh",
-      "url": "https://www.ndtv.com/world-news/saudi-alliance-intercepts-2-houthi-missiles-3-drones-targeting-riyadh-12328633#publisher=newsstand",
+      "id": "dcbb2e3da99ab92b",
+      "title": "Cyclone likely to form over Bay of Bengal today, IMD alert for Andhra, Odisha",
+      "url": "https://www.indiatoday.in/science/story/cyclone-akvan-tracker-andhra-pradesh-odisha-extreme-rain-145-kmph-gusts-3039778-2026-11-16?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/science/story/cyclone-akvan-tracker-andhra-pradesh-odisha-extreme-rain-145-kmph-gusts-3039778-2026-11-16?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/science/story/cyclone-akvan-tracker-andhra-pradesh-odisha-extreme-rain-145-kmph-gusts-3039778-2026-11-16?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-16T07:08:25+00:00",
+      "published_at_ist": "2026-11-16T12:38:25+05:30",
+      "summary": "Cyclone likely to form over Bay of Bengal today IMD alert for Andhra Odisha",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "9bea759993f01d26",
+      "title": "Cyclone Akvan to cross Andhra coast between Nellore and Tuni by November 20 noon, says IMD",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-16T07:07:03+00:00",
+      "published_at_ist": "2026-11-16T12:37:03+05:30",
+      "summary": "Andhra fishermen still awaiting compensation for Cyclone Arnab’s losses are told to stay ashore till November 20 ahead of Akvan",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "d93504a2957948dd",
+      "title": "Tripura poll panel seeks central forces for civic elections",
+      "url": "https://www.thehindu.com/news/national/tripura/tripura-civic-elections/article71706941.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tripura/tripura-civic-elections/article71706941.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-16T06:13:47+00:00",
+      "published_at_ist": "2026-11-16T11:43:47+05:30",
+      "summary": "Elections to 16 urban local bodies, including the Agartala Municipal Corporation (AMC), will be held on November 27, while counting will take place on December 3",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "5e158cdcfb56e240",
+      "title": "Jawaharlal Nehru through an intelligence prism",
+      "url": "https://www.thehindu.com/news/national/jawaharlal-nehru-through-an-intelligence-prism/article71704599.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/jawaharlal-nehru-through-an-intelligence-prism/article71704599.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-16T03:49:15+00:00",
+      "published_at_ist": "2026-11-16T09:19:15+05:30",
+      "summary": "Critics of Jawaharlal Nehru have spared no effort to portray him as being rosy-eyed and naive about China; yet, memoirs of Bhola Nath Mullik, the intelligence chief who served under Nehru for almost the entire duration his Prime Ministership make it clear this was far from the truth",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "ceb35681257494b4",
+      "title": "India News Live Updates, 16 November 2026 | Cyclone threat: Odisha orders evacuation, Andhra bars fishermen from sea",
+      "url": "https://indianexpress.com/article/india/india-news-live-updates-16-november-2026-delhi-mumbai-weather-pollution-aqi-yamuna-chhath-asean-modi-quad-trump-10964698/",
+      "source": "The Indian Express",
+      "sources": [
+        "The Indian Express"
+      ],
+      "source_links": [
+        {
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/india-news-live-updates-16-november-2026-delhi-mumbai-weather-pollution-aqi-yamuna-chhath-asean-modi-quad-trump-10964698/"
+        }
+      ],
+      "published_at_utc": "2026-11-16T03:49:01+00:00",
+      "published_at_ist": "2026-11-16T09:19:01+05:30",
+      "summary": "",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "d1b4cc6bb186ec50",
+      "title": "Andhra Pradesh braces for third intense cyclone in a month",
+      "url": "https://indianexpress.com/article/india/andhra-pradesh-braces-for-third-intense-cyclone-in-a-month-10964246/",
+      "source": "The Indian Express",
+      "sources": [
+        "The Indian Express"
+      ],
+      "source_links": [
+        {
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/andhra-pradesh-braces-for-third-intense-cyclone-in-a-month-10964246/"
+        }
+      ],
+      "published_at_utc": "2026-11-15T13:21:18+00:00",
+      "published_at_ist": "2026-11-15T18:51:18+05:30",
+      "summary": "",
+      "category": "Climate & Environment",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "eb29647880cd22a6",
+      "title": "Why a Supreme Court order may let Maharashtra’s women prisoners live with their children in a colony",
+      "url": "https://indianexpress.com/article/india/maharashtra-open-prison-colony-women-supreme-court-nashik-sambhajinagar-10963956/",
+      "source": "The Indian Express",
+      "sources": [
+        "The Indian Express"
+      ],
+      "source_links": [
+        {
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/maharashtra-open-prison-colony-women-supreme-court-nashik-sambhajinagar-10963956/"
+        }
+      ],
+      "published_at_utc": "2026-11-15T08:55:07+00:00",
+      "published_at_ist": "2026-11-15T14:25:07+05:30",
+      "summary": "",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "411ebf019442cdae",
+      "title": "Another ‘encounter’ in Assam, why a case in Supreme Court remains stuck",
+      "url": "https://indianexpress.com/article/india/another-encounter-in-assam-why-a-case-in-supreme-court-remains-stuck-10963456/",
+      "source": "The Indian Express",
+      "sources": [
+        "The Indian Express"
+      ],
+      "source_links": [
+        {
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/another-encounter-in-assam-why-a-case-in-supreme-court-remains-stuck-10963456/"
+        }
+      ],
+      "published_at_utc": "2026-11-15T01:30:38+00:00",
+      "published_at_ist": "2026-11-15T07:00:38+05:30",
+      "summary": "",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "179e675ba8196605",
+      "title": "\"Will Find You\": Iran Threatens 2 US Officers Who \"Ordered\" Minab Attack",
+      "url": "https://www.ndtv.com/world-news/will-find-you-iran-threatens-2-us-officers-who-ordered-minab-school-attack-12332397#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -201,14 +371,161 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/saudi-alliance-intercepts-2-houthi-missiles-3-drones-targeting-riyadh-12328633#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/will-find-you-iran-threatens-2-us-officers-who-ordered-minab-school-attack-12332397#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-15T04:04:02+00:00",
-      "published_at_ist": "2026-11-15T09:34:02+05:30",
-      "summary": "The Houthis have intensified attacks on the Saudi capital in recent days.",
+      "published_at_utc": "2026-11-16T06:57:47+00:00",
+      "published_at_ist": "2026-11-16T12:27:47+05:30",
+      "summary": "On February 28, at least one US missile hit a school in Minab killing at least 123 children.",
       "category": "Security & Defence",
       "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "f8c8f288436edc17",
+      "title": "Will discuss induction of woman Minister with high command: Karnataka CM",
+      "url": "https://www.thehindu.com/news/national/karnataka/will-discuss-induction-of-woman-minister-with-high-command-karnataka-cm/article71705417.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/will-discuss-induction-of-woman-minister-with-high-command-karnataka-cm/article71705417.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-16T04:56:56+00:00",
+      "published_at_ist": "2026-11-16T10:26:56+05:30",
+      "summary": "Two Cabinet berths remain vacant",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "e2ea060b3eb71a5f",
+      "title": "10 years on, homebuyers seek PM Modi’s intervention to fix RERA; Cabinet Secretariat takes note",
+      "url": "https://indianexpress.com/article/india/cabinet-secretary-looking-into-rera-amendment-suggestions-homebuyers-letter-narendra-modi-10964104/",
+      "source": "The Indian Express",
+      "sources": [
+        "The Indian Express"
+      ],
+      "source_links": [
+        {
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/cabinet-secretary-looking-into-rera-amendment-suggestions-homebuyers-letter-narendra-modi-10964104/"
+        }
+      ],
+      "published_at_utc": "2026-11-15T10:50:33+00:00",
+      "published_at_ist": "2026-11-15T16:20:33+05:30",
+      "summary": "",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "38a8ae92bc37d97d",
+      "title": "Delhi showroom murder: CCTV captures brutal attack inside store",
+      "url": "https://www.indiatoday.in/newsmo/short-videos/delhi-showroom-murder-cctv-captures-brutal-attack-inside-store-3039860-2026-11-16?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/newsmo/short-videos/delhi-showroom-murder-cctv-captures-brutal-attack-inside-store-3039860-2026-11-16?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-16T08:23:04+00:00",
+      "published_at_ist": "2026-11-16T13:53:04+05:30",
+      "summary": "Delhi showroom murder CCTV captures brutal attack inside store",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "8131704e3e0a71a6",
+      "title": "When Kate Middleton wore Anita Dongre and crashed the designer's website",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/when-kate-middleton-wore-anita-dongre-in-india-and-crashed-the-designers-website-prince-william-3039816-2026-11-16?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/lifestyle/fashion/story/when-kate-middleton-wore-anita-dongre-in-india-and-crashed-the-designers-website-prince-william-3039816-2026-11-16?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-16T08:22:32+00:00",
+      "published_at_ist": "2026-11-16T13:52:32+05:30",
+      "summary": "When Kate Middleton wore Anita Dongre and crashed the designers website",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "25d2f7bfb5096b61",
+      "title": "Silicon Valley backs Jensen Huang for Nvidia return, but can he make a comeback?",
+      "url": "https://www.indiatoday.in/technology/news/story/silicon-valley-backs-jensen-huang-for-nvidia-return-but-can-he-make-a-comeback-3039789-2026-11-16?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/technology/news/story/silicon-valley-backs-jensen-huang-for-nvidia-return-but-can-he-make-a-comeback-3039789-2026-11-16?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-16T08:22:10+00:00",
+      "published_at_ist": "2026-11-16T13:52:10+05:30",
+      "summary": "Silicon Valley backs Jensen Huang for Nvidia return but can he make a comeback",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "aaf7d2ada3704fb3",
+      "title": "Prince William and Sachin play gully cricket in Mumbai",
+      "url": "https://www.indiatoday.in/newsmo/short-videos/prince-william-and-sachin-play-gully-cricket-in-mumbai-3039855-2026-11-16?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/newsmo/short-videos/prince-william-and-sachin-play-gully-cricket-in-mumbai-3039855-2026-11-16?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-16T08:20:11+00:00",
+      "published_at_ist": "2026-11-16T13:50:11+05:30",
+      "summary": "Prince William and Sachin play gully cricket in Mumbai",
+      "category": "Sports",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "2604bfe3567561dd",
+      "title": "Google Pixel 10 price drops on Amazon: Check the deal",
+      "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-price-drops-on-amazon-check-the-deal-287513-15-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-price-drops-on-amazon-check-the-deal-287513-15-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-16T08:20:05+00:00",
+      "published_at_ist": "2026-11-16T13:50:05+05:30",
+      "summary": "Google Pixel price drops on Amazon Check the deal",
+      "category": "India & General",
+      "importance_score": 1,
       "is_major": false
     },
     {
@@ -225,8 +542,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-gets-rs-50000-discount-where-to-buy-287491-14-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-15T08:10:05+00:00",
-      "published_at_ist": "2026-11-15T13:40:05+05:30",
+      "published_at_utc": "2026-11-16T08:20:05+00:00",
+      "published_at_ist": "2026-11-16T13:50:05+05:30",
       "summary": "Samsung Galaxy S Ultra gets Rs discount Where to buy",
       "category": "India & General",
       "importance_score": 1,
@@ -246,8 +563,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-price-drops-by-rs-9000-without-conditions-287474-13-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-15T08:10:05+00:00",
-      "published_at_ist": "2026-11-15T13:40:05+05:30",
+      "published_at_utc": "2026-11-16T08:20:05+00:00",
+      "published_at_ist": "2026-11-16T13:50:05+05:30",
       "summary": "iPhone Pro Max price drops by Rs without conditions",
       "category": "India & General",
       "importance_score": 1,
@@ -267,8 +584,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-available-under-rs-55000-on-flipkart-here-is-how-2-287471-13-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-15T08:10:05+00:00",
-      "published_at_ist": "2026-11-15T13:40:05+05:30",
+      "published_at_utc": "2026-11-16T08:20:05+00:00",
+      "published_at_ist": "2026-11-16T13:50:05+05:30",
       "summary": "iPhone available under Rs on Flipkart Here is how",
       "category": "India & General",
       "importance_score": 1,
@@ -288,8 +605,8 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-available-under-rs-82000-but-there-is-a-catch-287470-13-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-15T08:10:05+00:00",
-      "published_at_ist": "2026-11-15T13:40:05+05:30",
+      "published_at_utc": "2026-11-16T08:20:05+00:00",
+      "published_at_ist": "2026-11-16T13:50:05+05:30",
       "summary": "iPhone Pro available under Rs but there is a catch",
       "category": "India & General",
       "importance_score": 1,
@@ -309,84 +626,17 @@
           "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-11-gets-rs-11000-off-no-conditions-287469-13-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-15T08:10:05+00:00",
-      "published_at_ist": "2026-11-15T13:40:05+05:30",
+      "published_at_utc": "2026-11-16T08:20:05+00:00",
+      "published_at_ist": "2026-11-16T13:50:05+05:30",
       "summary": "Google Pixel gets Rs off no conditions",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "d781e089fe200932",
-      "title": "iPhone 16 price drop alert, check details here",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-price-drop-alert-check-details-here-287468-13-11-2026?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-price-drop-alert-check-details-here-287468-13-11-2026?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-15T08:10:05+00:00",
-      "published_at_ist": "2026-11-15T13:40:05+05:30",
-      "summary": "iPhone price drop alert check details here",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "ad0be04f72a33617",
-      "title": "I need good work: Josh actor reacts to viral video, reveals baby with girlfriend",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/josh-actor-sharad-kapoor-reacts-to-viral-video-reveals-baby-with-girlfriend-i-need-good-work-3039304-2026-11-15?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/movies/celebrities/story/josh-actor-sharad-kapoor-reacts-to-viral-video-reveals-baby-with-girlfriend-i-need-good-work-3039304-2026-11-15?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/movies/celebrities/story/josh-actor-sharad-kapoor-reacts-to-viral-video-reveals-baby-with-girlfriend-i-need-good-work-3039304-2026-11-15?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-15T08:08:48+00:00",
-      "published_at_ist": "2026-11-15T13:38:48+05:30",
-      "summary": "I need good work Josh actor reacts to viral video reveals baby with girlfriend",
-      "category": "Culture & Society",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "92b08777669f51e5",
-      "title": "CCTV shows theni driver's final moments before he was found dead",
-      "url": "https://www.indiatoday.in/newsmo/short-videos/cctv-shows-theni-drivers-final-moments-before-he-was-found-dead-3039313-2026-11-15?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/newsmo/short-videos/cctv-shows-theni-drivers-final-moments-before-he-was-found-dead-3039313-2026-11-15?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-15T08:08:32+00:00",
-      "published_at_ist": "2026-11-15T13:38:32+05:30",
-      "summary": "CCTV shows theni drivers final moments before he was found dead",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "2653213785101e58",
-      "title": "Dhinakaran, Vasan urge Vijay to protect interests of T.N. farmers in Mekedatu issue",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-vasan-urge-vijay-to-protect-interests-of-tn-farmers-in-mekedatu-issue/article71704365.ece",
+      "id": "3d00f7bd60a0b0e5",
+      "title": "Telangana records 11.7°C in Sangareddy on November 15 ; 15.3°C in Hyderabad",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-records-117c-in-sangareddy-on-november-15-153c-in-hyderabad/article71707172.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -394,238 +644,41 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-vasan-urge-vijay-to-protect-interests-of-tn-farmers-in-mekedatu-issue/article71704365.ece"
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-records-117c-in-sangareddy-on-november-15-153c-in-hyderabad/article71707172.ece"
         }
       ],
-      "published_at_utc": "2026-11-15T08:07:11+00:00",
-      "published_at_ist": "2026-11-15T13:37:11+05:30",
-      "summary": "In a statement, Mr. Dhinakaran accused Mr. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened D.K. Shivakumar to persist with the Mekedatu project",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "fc7fd5df345dbc49",
-      "title": "भारत में कब होगा ऐसा? थाईलैंड की सड़कें दिखाकर भारतीय ने पूछा सवाल, Video Viral",
-      "url": "https://www.aajtak.in/trending/story/thailand-tesla-stops-for-pedestrian-indian-creator-viral-video-tstf-dskc-2696939-2026-11-15?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/trending/story/thailand-tesla-stops-for-pedestrian-indian-creator-viral-video-tstf-dskc-2696939-2026-11-15?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-15T08:06:03+00:00",
-      "published_at_ist": "2026-11-15T13:36:03+05:30",
-      "summary": "Video Viral",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "dd38166e9371c159",
-      "title": "पुणे से गुवाहाटी जा रही इंडिगो की फ्लाइट में तकनीकी खराबी, उड़ान भरने के बाद वापस लौटा विमान, सुरक्षित लैंडिंग",
-      "url": "https://www.aajtak.in/india/news/story/indigo-flight-technical-issue-safe-landing-pune-airport-alternative-flight-ntc-pvp-rptc-2696936-2026-11-15?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/india/news/story/indigo-flight-technical-issue-safe-landing-pune-airport-alternative-flight-ntc-pvp-rptc-2696936-2026-11-15?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-pak-u19-asia-cup-shoaib-akhtar-on-mohit-ulva-match-winning-mentality-aksp-dskc-2696934-2026-11-15?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/uttar-pradesh/story/ghaziabad-35-year-old-pooja-murder-on-bhai-dooj-loni-border-area-shot-head-lcla-strc-2696903-2026-11-15?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-15T08:06:03+00:00",
-      "published_at_ist": "2026-11-15T13:36:03+05:30",
+      "published_at_utc": "2026-11-16T08:16:52+00:00",
+      "published_at_ist": "2026-11-16T13:46:52+05:30",
       "summary": "",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "99869814dd0bea0e",
-      "title": "Best Snowfall Places in India: दिसंबर से फरवरी के बीच लेना है बर्फबारी का मजा? भारत की ये 9 जगहें रहेंगी बेस्ट",
-      "url": "https://www.aajtak.in/travel/story/winter-holiday-destinations-9-best-snowfall-places-in-india-gulmarg-ladakh-auli-skiing-trip-shimla-sonmarg-december-to-february-tmovx-dskc-2696935-2026-11-15?utm_source=rss",
-      "source": "India Today",
+      "id": "934001608ea6386e",
+      "title": "Security sweep across Kashmir’s Kulgam as ‘some leads’ emerge on CRPF attackers",
+      "url": "https://indianexpress.com/article/india/kashmir-security-sweep-kulgam-crpf-attackers-lead-10965070/",
+      "source": "The Indian Express",
       "sources": [
-        "India Today"
+        "The Indian Express"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/travel/story/winter-holiday-destinations-9-best-snowfall-places-in-india-gulmarg-ladakh-auli-skiing-trip-shimla-sonmarg-december-to-february-tmovx-dskc-2696935-2026-11-15?utm_source=rss"
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/kashmir-security-sweep-kulgam-crpf-attackers-lead-10965070/"
         }
       ],
-      "published_at_utc": "2026-11-15T08:06:03+00:00",
-      "published_at_ist": "2026-11-15T13:36:03+05:30",
-      "summary": "Best Snowfall Places in India",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "7dd1ad3a8b628363",
-      "title": "German delegation visits Auroville",
-      "url": "https://www.thehindu.com/news/cities/puducherry/german-delegation-visits-auroville/article71704359.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/puducherry/german-delegation-visits-auroville/article71704359.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-15T08:03:35+00:00",
-      "published_at_ist": "2026-11-15T13:33:35+05:30",
-      "summary": "The Ambassador also expressed his interest in the founders’ spiritual vision and said he planned to return to Auroville in December",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "5bf1c0f4767d4ff7",
-      "title": "Palaniswami urges Vijay to raise Mekedatu issue with Congress leadership",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-urges-vijay-to-raise-mekedatu-issue-with-congress-leadership/article71704352.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-urges-vijay-to-raise-mekedatu-issue-with-congress-leadership/article71704352.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-15T07:58:34+00:00",
-      "published_at_ist": "2026-11-15T13:28:34+05:30",
-      "summary": "Mr. Palaniswami criticised Karnataka Chief Minister D.K. Shivakumar for repeatedly asserting that building a dam at Mekedatu was Karnataka’s right and required no one’s permission",
-      "category": "Politics & Governance",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "4909023f0e98138c",
-      "title": "Veteran Telugu actor Giri Babu dies at 80",
-      "url": "https://www.thehindu.com/news/national/telangana/veteran-telugu-actor-giri-babu-dies-at-80/article71702232.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/veteran-telugu-actor-giri-babu-dies-at-80/article71702232.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-15T07:45:19+00:00",
-      "published_at_ist": "2026-11-15T13:15:19+05:30",
-      "summary": "Through his five-decade-long career, Giri Babu acted in over 600 films He also directed and produced a few films",
-      "category": "Culture & Society",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "505e7ac54078311e",
-      "title": "Three arrested in Bhopal for duping Delhi woman of ₹71 lakh in ‘digital arrest’ scam",
-      "url": "https://www.thehindu.com/news/cities/Delhi/three-arrested-in-bhopal-for-duping-delhi-woman-of-71-lakh-in-digital-arrest-scam/article71704339.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/Delhi/three-arrested-in-bhopal-for-duping-delhi-woman-of-71-lakh-in-digital-arrest-scam/article71704339.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-15T07:42:23+00:00",
-      "published_at_ist": "2026-11-15T13:12:23+05:30",
-      "summary": "The accused impersonated an IPS officer and threatened the victim with arrest in a fake ₹6.5-crore money laundering case; IFSO uncovers a network of mule bank accounts used to route the cheated money",
-      "category": "Business & Economy",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "ff344fc82cf8aff7",
-      "title": "Rainfall expected in Tamil Nadu as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
-      "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-15T07:41:25+00:00",
-      "published_at_ist": "2026-11-15T13:11:25+05:30",
-      "summary": "Rains are expected to occur in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. So far, no rainfall alerts have been given for Andhra Pradesh.",
-      "category": "Climate & Environment",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "a69ca51e58abcb72",
-      "title": "Activist Sonam Wangchuk Under 60-Day House Arrest Over Ladakh Anti-Poll Protest",
-      "url": "https://www.ndtv.com/india-news/activist-sonam-wangchuk-under-60-day-house-arrest-over-ladakh-anti-poll-protest-12329129#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/activist-sonam-wangchuk-under-60-day-house-arrest-over-ladakh-anti-poll-protest-12329129#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-15T06:44:07+00:00",
-      "published_at_ist": "2026-11-15T12:14:07+05:30",
-      "summary": "Sonam Wangchuk said he was put under house arrest and was surrounded by cops",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "b9cf3ba922b5e74d",
-      "title": "Israel Kills Senior Hamas Commander Who Planned, Oversaw October 7 Attack",
-      "url": "https://www.ndtv.com/world-news/israel-kills-senior-hamas-commander-samir-abu-younis-planned-oversaw-october-7-attack-12328458#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/israel-kills-senior-hamas-commander-samir-abu-younis-planned-oversaw-october-7-attack-12328458#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-15T06:41:35+00:00",
-      "published_at_ist": "2026-11-15T12:11:35+05:30",
-      "summary": "Gaza's civil defence spokesman said two people were wounded in the strike in Gaza's south.",
+      "published_at_utc": "2026-11-16T08:02:33+00:00",
+      "published_at_ist": "2026-11-16T13:32:33+05:30",
+      "summary": "",
       "category": "Security & Defence",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "24c5c0ad1874c670",
-      "title": "2 With Pakistan Links Arrested In Punjab For Rajasthan Train Track Blast",
-      "url": "https://www.ndtv.com/india-news/2-with-pakistan-links-arrested-in-punjab-for-rajasthan-sri-ganganagar-train-track-blast-12328795#publisher=newsstand",
+      "id": "e9915bcc4b355b78",
+      "title": "\"Don't Stereotype\": Kerala High Court Questions Police Curbs On DJ Parties",
+      "url": "https://www.ndtv.com/kerala-news/dont-stereotype-kerala-high-court-questions-police-curbs-on-dj-parties-12332645#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -633,83 +686,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/2-with-pakistan-links-arrested-in-punjab-for-rajasthan-sri-ganganagar-train-track-blast-12328795#publisher=newsstand"
+          "url": "https://www.ndtv.com/kerala-news/dont-stereotype-kerala-high-court-questions-police-curbs-on-dj-parties-12332645#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-15T06:41:06+00:00",
-      "published_at_ist": "2026-11-15T12:11:06+05:30",
-      "summary": "The accused were identified as 21-year-old Mahakdeep Kaur and 22-year-old Davinder Singh",
-      "category": "Climate & Environment",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "e510bc18c0efbedc",
-      "title": "Bahrain Sounds Alarm For Residents As 6 Iran Drones Attack US Base",
-      "url": "https://www.ndtv.com/world-news/bahrain-sounds-alarm-for-residents-as-6-iran-drones-attack-us-base-12329107#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/bahrain-sounds-alarm-for-residents-as-6-iran-drones-attack-us-base-12329107#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-15T06:40:27+00:00",
-      "published_at_ist": "2026-11-15T12:10:27+05:30",
-      "summary": "Iran's Revolutionary Guards said their forces carried out a drone attack on a US radar system.",
-      "category": "Climate & Environment",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "c162401dda02430d",
-      "title": "Blackmail, Marriage Pressure Drove 28-Year-Old UP Cop To Suicide: Police",
-      "url": "https://www.ndtv.com/india-news/blackmail-marriage-pressure-drove-28-year-old-up-cop-to-suicide-police-12328959#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/blackmail-marriage-pressure-drove-28-year-old-up-cop-to-suicide-police-12328959#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-15T05:51:04+00:00",
-      "published_at_ist": "2026-11-15T11:21:04+05:30",
-      "summary": "The victim has been identified as sub-inspector Sandeep Kumar (28)",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "f499889e6e32706a",
-      "title": "How A Single Router May Have Disrupted US Air Traffic For 5 Hours",
-      "url": "https://www.ndtv.com/world-news/how-a-single-router-may-have-disrupted-us-air-traffic-for-5-hours-12328917#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/how-a-single-router-may-have-disrupted-us-air-traffic-for-5-hours-12328917#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-15T05:36:02+00:00",
-      "published_at_ist": "2026-11-15T11:06:02+05:30",
-      "summary": "The FAA spends $1 billion annually to maintain its old copper wire system.",
+      "published_at_utc": "2026-11-16T07:50:45+00:00",
+      "published_at_ist": "2026-11-16T13:20:45+05:30",
+      "summary": "The court asked State to identify specific statutory provisions authorising restrictions on DJ parties.",
       "category": "Politics & Governance",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "3131baeca1bb98c1",
-      "title": "Eighth Price Hike In 11 Months, Mumbai CNG Price Rises By Rs 1.50",
-      "url": "https://www.ndtv.com/mumbai-news/eighth-price-hike-in-11-months-mumbai-cng-price-rises-by-rs-1-50-12328876#publisher=newsstand",
+      "id": "e69aaa96d4ad460b",
+      "title": "Sabarimala Temple Opens For Mandala-Makaravilakku Season Amid Crowd Curbs",
+      "url": "https://www.ndtv.com/india-news/sabarimala-temple-opens-for-mandala-makaravilakku-season-amid-crowd-curbs-12332570#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -717,20 +707,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/mumbai-news/eighth-price-hike-in-11-months-mumbai-cng-price-rises-by-rs-1-50-12328876#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/sabarimala-temple-opens-for-mandala-makaravilakku-season-amid-crowd-curbs-12332570#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-15T05:17:30+00:00",
-      "published_at_ist": "2026-11-15T10:47:30+05:30",
-      "summary": "Mahanagar Gas Ltd (MGL) raised CNG prices by Rs 1.50 per kg",
+      "published_at_utc": "2026-11-16T07:49:13+00:00",
+      "published_at_ist": "2026-11-16T13:19:13+05:30",
+      "summary": "Pilgrims are urged to adhere strictly to the virtual queue and route-specific allocations.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "7435464ad028f5ab",
-      "title": "\"Your Husband Is Old\": Lebanese Woman Says ICE Agent Offered Green Card For Sex",
-      "url": "https://www.ndtv.com/world-news/lebanese-woman-accuses-texas-ice-agent-of-sexual-assault-offered-me-green-card-12328846#publisher=newsstand",
+      "id": "88573bbdf7b56630",
+      "title": "Ukraine's Winter To Get Tougher? Zelensky Worried Over Starshield Curbs",
+      "url": "https://www.ndtv.com/world-news/ukraines-winter-to-get-tougher-zelensky-worried-over-starshield-curbs-12332547#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -738,20 +728,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/lebanese-woman-accuses-texas-ice-agent-of-sexual-assault-offered-me-green-card-12328846#publisher=newsstand"
+          "url": "https://www.ndtv.com/world-news/ukraines-winter-to-get-tougher-zelensky-worried-over-starshield-curbs-12332547#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-15T05:17:03+00:00",
-      "published_at_ist": "2026-11-15T10:47:03+05:30",
-      "summary": "The woman said she was assaulted at a Texas detention facility (Representational Image)",
-      "category": "India & General",
+      "published_at_utc": "2026-11-16T07:32:26+00:00",
+      "published_at_ist": "2026-11-16T13:02:26+05:30",
+      "summary": "Ukraine's interceptor drones are losing contact with their operators when flying faster than 161 kph.",
+      "category": "Climate & Environment",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "187c9a975d947d4f",
-      "title": "5,000 Stubble Burning Cases Reported In Punjab, Rs 1 Crore Penalty Imposed",
-      "url": "https://www.ndtv.com/india-news/5-000-stubble-burning-cases-reported-in-punjab-rs-1-crore-penalty-imposed-12328874#publisher=newsstand",
+      "id": "438db692aec48bbc",
+      "title": "Clean At Entry, Polluted At Exit: The Data Behind Delhi's Yamuna Debate",
+      "url": "https://www.ndtv.com/india-news/clean-at-entry-polluted-at-exit-the-data-behind-delhis-yamuna-debate-12332548#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -759,12 +749,12 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/5-000-stubble-burning-cases-reported-in-punjab-rs-1-crore-penalty-imposed-12328874#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/clean-at-entry-polluted-at-exit-the-data-behind-delhis-yamuna-debate-12332548#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-15T05:17:00+00:00",
-      "published_at_ist": "2026-11-15T10:47:00+05:30",
-      "summary": "The latest figures underline the scale of the challenge faced by Punjab",
+      "published_at_utc": "2026-11-16T07:30:28+00:00",
+      "published_at_ist": "2026-11-16T13:00:28+05:30",
+      "summary": "People perform rituals amid toxic foam floating on the Yamuna river at Kalindi Kunj during the 'Chhath",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
