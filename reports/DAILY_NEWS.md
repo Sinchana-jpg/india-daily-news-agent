@@ -1,165 +1,163 @@
 # India Daily News Brief
 
-> Published: 16 November 2026, 01:53 PM IST  
+> Published: 17 November 2026, 03:07 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **16**
-- Sources checked successfully: **5**
+- Major stories highlighted: **12**
+- Sources checked successfully: **4**
 
 ### Stories by category
 
-- **India & General:** 12
-- **Politics & Governance:** 11
-- **Climate & Environment:** 8
-- **Security & Defence:** 2
-- **Sports:** 2
+- **India & General:** 17
+- **Politics & Governance:** 13
+- **Climate & Environment:** 5
 
 ## Major stories
 
-### 1. [Ram temple donation theft: Congress seeks new SIT reporting exclusively to Supreme Court](https://www.thehindu.com/news/national/ram-temple-donation-theft-congress-seeks-new-sit-reporting-exclusively-to-supreme-court/article71706910.ece)
+### 1. [How are tropical cyclones named?](https://www.thehindu.com/news/national/cyclone-arnab-how-are-tropical-storms-named/article71622678.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 5/10 (heuristic)
+- **Published:** 17 Nov 2026, 01:43 PM IST
+- **Summary:** Tropical cyclones are the second-most dangerous natural hazards, after earthquakes
+
+### 2. [Cyclone 'Akvan' LIVE updates: Akvan likely to become a severe cyclonic storm by November 19](https://www.thehindu.com/news/national/cyclone-akvan-cyclonic-storm-forms-over-bay-of-bengal-andhra-pradesh-november-17-2026-live-updates/article71710277.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 17 Nov 2026, 02:52 PM IST
+- **Summary:** The clouds associated with the system are projected to bring light to moderate rainfall at some parts of Tamil Nadu, Puducherry, Telangana, Andhra Pradesh, Odisha and West Bengal
+
+### 3. [Cyclone Akvan: Andhra Home Minister Anitha puts coastal districts on high alert, warns fishermen](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-andhra-home-minister-anitha-puts-coastal-districts-on-high-alert-warns-fishermen/article71710830.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
-- **Importance score:** 5/10 (heuristic)
-- **Published:** 16 Nov 2026, 11:46 AM IST
-- **Summary:** Congress said that Prime Minister Narendra Modi’s “silence” on the issue is “deeply troubling” to the nation and asserted that those who have betrayed people’s faith must be held accountable
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 17 Nov 2026, 02:42 PM IST
+- **Summary:** Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the Agriculture Department to help farmers protect crops ready for harvest
 
-### 2. [India’s relation with ASEAN at heart of Act East Policy, says PM Modi](https://www.thehindu.com/news/national/prime-minister-narendra-modi-manila-asean-india-summit-east-asia-summit/article71706657.ece)
+### 4. [Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order](https://www.thehindu.com/news/national/bilkis-bano-says-supreme-court-did-not-inform-or-hear-her-before-granting-bail-to-two-convicts-vows-to-fight-order/article71710839.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
-- **Importance score:** 5/10 (heuristic)
-- **Published:** 16 Nov 2026, 09:00 AM IST
-- **Summary:** Prime Minister Narendra Modi is visiting Manila on November 16-17 to participate in the 23rd ASEAN-India Summit and the 21st East Asia Summit at the invitation of Philippine President Ferdinand R Marcos Jr.
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 17 Nov 2026, 02:22 PM IST
+- **Summary:** The short order, published recently on the court website, had reasoned that the two men had already undergone more than 17 years in prison and one of them suffered a severe handicap
 
-### 3. [Rajat Patidar smashes 13 sixes for record-breaking 135 day before IPL retention](https://www.indiatoday.in/sports/cricket/story/rajat-patidar-record-135-madhya-pradesh-assam-ipl-2027-retention-3039850-2026-11-16?utm_source=rss)
+### 5. [SIR row: Supreme Court to hear Rahul Gandhi’s application on December 9](https://www.thehindu.com/news/national/sir-row-supreme-court-to-hear-rahul-gandhis-application-on-december-9/article71710964.ece)
 
-- **Category:** Sports
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 17 Nov 2026, 02:16 PM IST
+- **Summary:** The affidavit asserted that the massive exercise (SIR), in which approximately 13 crore voters were excluded, was a unanimous decision of the ECI
+
+### 6. [Our future must be shaped by ‘cooperation, not competition’: PM Modi to ASEAN leaders](https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 17 Nov 2026, 02:15 PM IST
+- **Summary:** The Prime Minister, speaking at the India-ASEAN summit, said New Delhi's commitment to the grouping's unity and centrality in the partnership "is and will remain steadfast”
+
+### 7. [Cyclone Akvan: 540 km of Andhra and Yanam coast braces for November 20 landfall](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-540-km-of-andhra-and-yanam-coast-braces-for-november-20-landfall/article71710410.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 17 Nov 2026, 02:00 PM IST
+- **Summary:** Cyclone Akvan is likely to intensify into a very severe cyclonic storm by the evening of November 19 before crossing the Andhra Pradesh coast, the IMD says
+
+### 8. [BJP calls Sonia Gandhi’s memoir launch a ‘self-goal’, says it exposes Congress’ past misdeeds](https://www.thehindu.com/news/national/bjp-calls-sonia-gandhis-memoir-launch-a-self-goal-says-it-exposes-congress-past-misdeeds/article71710399.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 17 Nov 2026, 01:43 PM IST
+- **Summary:** The memoir and the timing of its release, just ahead of state Assembly elections, reek of political opportunism, he said
+
+### 9. [Cyclone Akvan brews over Bay of Bengal: What you need to know](https://www.thehindu.com/news/national/cyclone-akvan-what-you-need-to-know-about-the-third-bay-of-bengal-storm-in-three-weeks/article71706612.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 17 Nov 2026, 01:42 PM IST
+- **Summary:** Cyclone Akvan may intensify into a Severe Cyclonic Storm over westcentral Bay of Bengal by Tuesday (November 17, 2026)
+
+### 10. [Cyclone Akvan to hit India in 3 days. Here's how intense it will be](https://www.indiatoday.in/science/story/cyclone-akvan-andhra-pradesh-landfall-cyclonic-storm-imd-murasu-arnab-3040595-2026-11-17?utm_source=rss)
+
+- **Category:** Climate & Environment
 - **Source(s):** India Today
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 01:48 PM IST
-- **Summary:** Rajat Patidar smashes sixes for recordbreaking day before IPL retention
+- **Published:** 17 Nov 2026, 01:35 PM IST
+- **Summary:** Cyclone Akvan to hit India in days Heres how intense it will be
 
-### 4. [BJP hits back at Rahul Gandhi over 'dead economy' remark](https://www.thehindu.com/news/national/bjp-hits-back-at-rahul-gandhi-over-dead-economy-remark/article71707158.ece)
+### 11. [Yamuna turns toxic during Chhath Puja; Supreme Court flags Delhi's pollution crisis](https://www.indiatoday.in/programme/5ive-live/video/yamuna-turns-toxic-during-chhath-puja-supreme-court-flags-delhis-pollution-crisis-3040220-2026-11-16?utm_source=rss)
 
 - **Category:** Politics & Governance
-- **Source(s):** The Hindu
+- **Source(s):** India Today
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 16 Nov 2026, 09:00 PM IST
+- **Summary:** Yamuna turns toxic during Chhath Puja Supreme Court flags Delhis pollution crisis
+
+### 12. [Prince and Princess of Wales play street cricket in Mumbai](https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss)
+
+- **Category:** Politics & Governance
+- **Source(s):** BBC News India
 - **Importance score:** 4/10 (heuristic)
 - **Published:** 16 Nov 2026, 01:43 PM IST
-- **Summary:** In a post on X, BJP national media convenor Ashish Usha Agarwal said that despite global uncertainties and geopolitical instability, India continued to chart a strong growth trajectory under the leadership of Prime Minister Narendra Modi
-
-### 5. [Supreme Court asks Centre, States to file status reports on setting up of special courts to hear NDPS Act cases](https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 01:15 PM IST
-- **Summary:** Supreme Court took note of the submissions of Additional Solicitor General Aishwarya Bhati, appearing for the Centre, that not much progress has been made in pursuance of the orders passed by the apex court recently on setting up of special courts
-
-### 6. [Cyclone may bring isolated heavy rain to Andhra Pradesh from November 18 to 20](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-may-bring-isolated-heavy-rain-to-andhra-pradesh-from-november-18-to-20/article71701292.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 12:52 PM IST
-- **Summary:** According to the IMD’s afternoon bulletin, heavy rain is likely at one or two places in coastal Andhra Pradesh and gusty winds, with speed reaching 40-50 kmph, on November 18, 19 and 20.
-
-### 7. [Odisha orders early evacuation of vulnerable areas as cyclone threat looms](https://www.thehindu.com/news/national/odisha/odisha-orders-early-evacuation-of-vulnerable-areas-as-cyclone-threat-looms/article71706877.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 12:47 PM IST
-- **Summary:** The weather system is likely to develop into a very severe cyclonic storm before reaching the Andhra Pradesh coast around November 19 night
-
-### 8. [Depression likely to become cyclone, move towards A.P.; Tamil Nadu, Odisha to get rain: IMD](https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 12:45 PM IST
-- **Summary:** If Cyclone Akvan, as the storm is being called, makes landfall in Andhra Pradesh, it will be the third cyclone within a month to hit the State
-
-### 9. [Cyclone likely to form over Bay of Bengal today, IMD alert for Andhra, Odisha](https://www.indiatoday.in/science/story/cyclone-akvan-tracker-andhra-pradesh-odisha-extreme-rain-145-kmph-gusts-3039778-2026-11-16?utm_source=rss)
-
-- **Category:** Climate & Environment
-- **Source(s):** India Today
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 12:38 PM IST
-- **Summary:** Cyclone likely to form over Bay of Bengal today IMD alert for Andhra Odisha
-
-### 10. [Cyclone Akvan to cross Andhra coast between Nellore and Tuni by November 20 noon, says IMD](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 12:37 PM IST
-- **Summary:** Andhra fishermen still awaiting compensation for Cyclone Arnab’s losses are told to stay ashore till November 20 ahead of Akvan
-
-### 11. [Tripura poll panel seeks central forces for civic elections](https://www.thehindu.com/news/national/tripura/tripura-civic-elections/article71706941.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 11:43 AM IST
-- **Summary:** Elections to 16 urban local bodies, including the Agartala Municipal Corporation (AMC), will be held on November 27, while counting will take place on December 3
-
-### 12. [Jawaharlal Nehru through an intelligence prism](https://www.thehindu.com/news/national/jawaharlal-nehru-through-an-intelligence-prism/article71704599.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 16 Nov 2026, 09:19 AM IST
-- **Summary:** Critics of Jawaharlal Nehru have spared no effort to portray him as being rosy-eyed and naive about China; yet, memoirs of Bhola Nath Mullik, the intelligence chief who served under Nehru for almost the entire duration his Prime Ministership make it clear this was far from the truth
+- **Summary:** William and Catherine met locals on their visit to India, ahead of a meeting with Indian Prime Minister Narendra Modi later in the week.
 
 ## All collected stories
 
-- [Ram temple donation theft: Congress seeks new SIT reporting exclusively to Supreme Court](https://www.thehindu.com/news/national/ram-temple-donation-theft-congress-seeks-new-sit-reporting-exclusively-to-supreme-court/article71706910.ece) — **Politics & Governance** · The Hindu
-- [India’s relation with ASEAN at heart of Act East Policy, says PM Modi](https://www.thehindu.com/news/national/prime-minister-narendra-modi-manila-asean-india-summit-east-asia-summit/article71706657.ece) — **Politics & Governance** · The Hindu
-- [Rajat Patidar smashes 13 sixes for record-breaking 135 day before IPL retention](https://www.indiatoday.in/sports/cricket/story/rajat-patidar-record-135-madhya-pradesh-assam-ipl-2027-retention-3039850-2026-11-16?utm_source=rss) — **Sports** · India Today
-- [BJP hits back at Rahul Gandhi over 'dead economy' remark](https://www.thehindu.com/news/national/bjp-hits-back-at-rahul-gandhi-over-dead-economy-remark/article71707158.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court asks Centre, States to file status reports on setting up of special courts to hear NDPS Act cases](https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece) — **Politics & Governance** · The Hindu
-- [Cyclone may bring isolated heavy rain to Andhra Pradesh from November 18 to 20](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-may-bring-isolated-heavy-rain-to-andhra-pradesh-from-november-18-to-20/article71701292.ece) — **Climate & Environment** · The Hindu
-- [Odisha orders early evacuation of vulnerable areas as cyclone threat looms](https://www.thehindu.com/news/national/odisha/odisha-orders-early-evacuation-of-vulnerable-areas-as-cyclone-threat-looms/article71706877.ece) — **Climate & Environment** · The Hindu
-- [Depression likely to become cyclone, move towards A.P.; Tamil Nadu, Odisha to get rain: IMD](https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece) — **Climate & Environment** · The Hindu
-- [Cyclone likely to form over Bay of Bengal today, IMD alert for Andhra, Odisha](https://www.indiatoday.in/science/story/cyclone-akvan-tracker-andhra-pradesh-odisha-extreme-rain-145-kmph-gusts-3039778-2026-11-16?utm_source=rss) — **Climate & Environment** · India Today
-- [Cyclone Akvan to cross Andhra coast between Nellore and Tuni by November 20 noon, says IMD](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece) — **Climate & Environment** · The Hindu
-- [Tripura poll panel seeks central forces for civic elections](https://www.thehindu.com/news/national/tripura/tripura-civic-elections/article71706941.ece) — **Politics & Governance** · The Hindu
-- [Jawaharlal Nehru through an intelligence prism](https://www.thehindu.com/news/national/jawaharlal-nehru-through-an-intelligence-prism/article71704599.ece) — **Politics & Governance** · The Hindu
-- [India News Live Updates, 16 November 2026 \| Cyclone threat: Odisha orders evacuation, Andhra bars fishermen from sea](https://indianexpress.com/article/india/india-news-live-updates-16-november-2026-delhi-mumbai-weather-pollution-aqi-yamuna-chhath-asean-modi-quad-trump-10964698/) — **Climate & Environment** · The Indian Express
-- [Andhra Pradesh braces for third intense cyclone in a month](https://indianexpress.com/article/india/andhra-pradesh-braces-for-third-intense-cyclone-in-a-month-10964246/) — **Climate & Environment** · The Indian Express
-- [Why a Supreme Court order may let Maharashtra’s women prisoners live with their children in a colony](https://indianexpress.com/article/india/maharashtra-open-prison-colony-women-supreme-court-nashik-sambhajinagar-10963956/) — **Politics & Governance** · The Indian Express
-- [Another ‘encounter’ in Assam, why a case in Supreme Court remains stuck](https://indianexpress.com/article/india/another-encounter-in-assam-why-a-case-in-supreme-court-remains-stuck-10963456/) — **Politics & Governance** · The Indian Express
-- ["Will Find You": Iran Threatens 2 US Officers Who "Ordered" Minab Attack](https://www.ndtv.com/world-news/will-find-you-iran-threatens-2-us-officers-who-ordered-minab-school-attack-12332397#publisher=newsstand) — **Security & Defence** · NDTV
-- [Will discuss induction of woman Minister with high command: Karnataka CM](https://www.thehindu.com/news/national/karnataka/will-discuss-induction-of-woman-minister-with-high-command-karnataka-cm/article71705417.ece) — **Politics & Governance** · The Hindu
-- [10 years on, homebuyers seek PM Modi’s intervention to fix RERA; Cabinet Secretariat takes note](https://indianexpress.com/article/india/cabinet-secretary-looking-into-rera-amendment-suggestions-homebuyers-letter-narendra-modi-10964104/) — **Politics & Governance** · The Indian Express
-- [Delhi showroom murder: CCTV captures brutal attack inside store](https://www.indiatoday.in/newsmo/short-videos/delhi-showroom-murder-cctv-captures-brutal-attack-inside-store-3039860-2026-11-16?utm_source=rss) — **India & General** · India Today
-- [When Kate Middleton wore Anita Dongre and crashed the designer's website](https://www.indiatoday.in/lifestyle/fashion/story/when-kate-middleton-wore-anita-dongre-in-india-and-crashed-the-designers-website-prince-william-3039816-2026-11-16?utm_source=rss) — **India & General** · India Today
-- [Silicon Valley backs Jensen Huang for Nvidia return, but can he make a comeback?](https://www.indiatoday.in/technology/news/story/silicon-valley-backs-jensen-huang-for-nvidia-return-but-can-he-make-a-comeback-3039789-2026-11-16?utm_source=rss) — **India & General** · India Today
-- [Prince William and Sachin play gully cricket in Mumbai](https://www.indiatoday.in/newsmo/short-videos/prince-william-and-sachin-play-gully-cricket-in-mumbai-3039855-2026-11-16?utm_source=rss) — **Sports** · India Today
+- [How are tropical cyclones named?](https://www.thehindu.com/news/national/cyclone-arnab-how-are-tropical-storms-named/article71622678.ece) — **Climate & Environment** · The Hindu
+- [Cyclone 'Akvan' LIVE updates: Akvan likely to become a severe cyclonic storm by November 19](https://www.thehindu.com/news/national/cyclone-akvan-cyclonic-storm-forms-over-bay-of-bengal-andhra-pradesh-november-17-2026-live-updates/article71710277.ece) — **Climate & Environment** · The Hindu
+- [Cyclone Akvan: Andhra Home Minister Anitha puts coastal districts on high alert, warns fishermen](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-andhra-home-minister-anitha-puts-coastal-districts-on-high-alert-warns-fishermen/article71710830.ece) — **Politics & Governance** · The Hindu
+- [Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order](https://www.thehindu.com/news/national/bilkis-bano-says-supreme-court-did-not-inform-or-hear-her-before-granting-bail-to-two-convicts-vows-to-fight-order/article71710839.ece) — **Politics & Governance** · The Hindu
+- [SIR row: Supreme Court to hear Rahul Gandhi’s application on December 9](https://www.thehindu.com/news/national/sir-row-supreme-court-to-hear-rahul-gandhis-application-on-december-9/article71710964.ece) — **Politics & Governance** · The Hindu
+- [Our future must be shaped by ‘cooperation, not competition’: PM Modi to ASEAN leaders](https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece) — **Politics & Governance** · The Hindu
+- [Cyclone Akvan: 540 km of Andhra and Yanam coast braces for November 20 landfall](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-540-km-of-andhra-and-yanam-coast-braces-for-november-20-landfall/article71710410.ece) — **Climate & Environment** · The Hindu
+- [BJP calls Sonia Gandhi’s memoir launch a ‘self-goal’, says it exposes Congress’ past misdeeds](https://www.thehindu.com/news/national/bjp-calls-sonia-gandhis-memoir-launch-a-self-goal-says-it-exposes-congress-past-misdeeds/article71710399.ece) — **Politics & Governance** · The Hindu
+- [Cyclone Akvan brews over Bay of Bengal: What you need to know](https://www.thehindu.com/news/national/cyclone-akvan-what-you-need-to-know-about-the-third-bay-of-bengal-storm-in-three-weeks/article71706612.ece) — **Climate & Environment** · The Hindu
+- [Cyclone Akvan to hit India in 3 days. Here's how intense it will be](https://www.indiatoday.in/science/story/cyclone-akvan-andhra-pradesh-landfall-cyclonic-storm-imd-murasu-arnab-3040595-2026-11-17?utm_source=rss) — **Climate & Environment** · India Today
+- [Yamuna turns toxic during Chhath Puja; Supreme Court flags Delhi's pollution crisis](https://www.indiatoday.in/programme/5ive-live/video/yamuna-turns-toxic-during-chhath-puja-supreme-court-flags-delhis-pollution-crisis-3040220-2026-11-16?utm_source=rss) — **Politics & Governance** · India Today
+- [Prince and Princess of Wales play street cricket in Mumbai](https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss) — **Politics & Governance** · BBC News India
+- [Delhi government to open Kejriwal’s former official bungalow for public viewing](https://www.thehindu.com/news/cities/Delhi/delhi-government-to-open-kejriwals-former-official-bungalow-for-public-viewing/article71711128.ece) — **Politics & Governance** · The Hindu
+- [ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives](https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece) — **Politics & Governance** · The Hindu
+- [LPST protests: Keralam mulling lowering teacher-student ratio in govt schools with division fall leading to loss of post](https://www.thehindu.com/news/national/kerala/lpst-protests-keralam-mulling-lowering-teacher-student-ratio-in-govt-schools-with-division-fall-leading-to-loss-of-post/article71710858.ece) — **Politics & Governance** · The Hindu
+- [Sheild Your Portfolio With Defence Stocks: Four Companies To Watch Out For](https://www.ndtv.com/business-news/stock-market-today-sheild-your-portfolio-with-defence-stocks-four-companies-to-watch-out-for-12337542#publisher=newsstand) — **Politics & Governance** · NDTV
+- [iPhone 17 Pro gets cheaper on Amazon](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-gets-cheaper-on-amazon-287542-16-11-2026?utm_source=rss) — **India & General** · India Today
+- [iPhone 16 is available at a lower price on Amazon: Details here](https://www.indiatoday.in/visualstories/technology/iphone-16-is-available-at-a-lower-price-on-amazon-details-here-287538-16-11-2026?utm_source=rss) — **India & General** · India Today
+- [Samsung Galaxy S26 Ultra gets Rs 56,000 discount on Flipkart: details here](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-ultra-gets-rs-56000-discount-on-flipkart-details-here-287533-16-11-2026?utm_source=rss) — **India & General** · India Today
 - [Google Pixel 10 price drops on Amazon: Check the deal](https://www.indiatoday.in/visualstories/technology/google-pixel-10-price-drops-on-amazon-check-the-deal-287513-15-11-2026?utm_source=rss) — **India & General** · India Today
 - [Samsung Galaxy S25 Ultra gets Rs 50,000 discount: Where to buy](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-gets-rs-50000-discount-where-to-buy-287491-14-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 17 Pro Max price drops by Rs 9,000 without conditions](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-price-drops-by-rs-9000-without-conditions-287474-13-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 17 available under Rs 55,000 on Flipkart: Here is how](https://www.indiatoday.in/visualstories/technology/iphone-17-available-under-rs-55000-on-flipkart-here-is-how-2-287471-13-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 17 Pro available under Rs 82,000, but there is a catch](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-available-under-rs-82000-but-there-is-a-catch-287470-13-11-2026?utm_source=rss) — **India & General** · India Today
-- [Google Pixel 11 gets Rs 11,000 off, no conditions](https://www.indiatoday.in/visualstories/technology/google-pixel-11-gets-rs-11000-off-no-conditions-287469-13-11-2026?utm_source=rss) — **India & General** · India Today
-- [Telangana records 11.7°C in Sangareddy on November 15 ; 15.3°C in Hyderabad](https://www.thehindu.com/news/national/telangana/telangana-records-117c-in-sangareddy-on-november-15-153c-in-hyderabad/article71707172.ece) — **India & General** · The Hindu
-- [Security sweep across Kashmir’s Kulgam as ‘some leads’ emerge on CRPF attackers](https://indianexpress.com/article/india/kashmir-security-sweep-kulgam-crpf-attackers-lead-10965070/) — **Security & Defence** · The Indian Express
-- ["Don't Stereotype": Kerala High Court Questions Police Curbs On DJ Parties](https://www.ndtv.com/kerala-news/dont-stereotype-kerala-high-court-questions-police-curbs-on-dj-parties-12332645#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Sabarimala Temple Opens For Mandala-Makaravilakku Season Amid Crowd Curbs](https://www.ndtv.com/india-news/sabarimala-temple-opens-for-mandala-makaravilakku-season-amid-crowd-curbs-12332570#publisher=newsstand) — **India & General** · NDTV
-- [Ukraine's Winter To Get Tougher? Zelensky Worried Over Starshield Curbs](https://www.ndtv.com/world-news/ukraines-winter-to-get-tougher-zelensky-worried-over-starshield-curbs-12332547#publisher=newsstand) — **Climate & Environment** · NDTV
-- [Clean At Entry, Polluted At Exit: The Data Behind Delhi's Yamuna Debate](https://www.ndtv.com/india-news/clean-at-entry-polluted-at-exit-the-data-behind-delhis-yamuna-debate-12332548#publisher=newsstand) — **India & General** · NDTV
+- [2 men offer lift to Telangana woman in auto, gang-rape her on way home](https://www.indiatoday.in/india/telangana/story/telangana-gang-rape-case-two-arrested-rangareddy-auto-ride-3040689-2026-11-17?utm_source=rss) — **India & General** · India Today
+- [Hyundai Neira is a rebadged Kia Carens Clavis EV, will it come to India?](https://www.indiatoday.in/auto/cars/story/hyundai-neira-is-a-rebadged-kia-carens-clavis-ev-will-it-come-to-india-3040687-2026-11-17?utm_source=rss) — **India & General** · India Today
+- [मनीला गाला डिनर में 'बारोंग तागालोग' पहन पहुंचे PM मोदी, जानें इस पोशाक की खासियत](https://www.aajtak.in/world/story/pm-modi-wears-barong-tagalog-philipines-traditional-attire-dinner-ntc-drmt-dskc-2698785-2026-11-17?utm_source=rss) — **India & General** · India Today
+- [बदल जाएगा करोड़ों लोगों का WhatsApp, स्क्रॉल करने पर हो जाएगा गायब](https://www.aajtak.in/visualstories/technology/whatsapp-introduces-a-new-bottom-navigation-bar-on-android-ttecr-287544-17-11-2026?utm_source=rss) — **India & General** · India Today
+- [Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts](https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss) — **Politics & Governance** · BBC News India
+- ["We're Great Friends": DK Shivakumar As Vijay Faces Criticism Over Mekedatu](https://www.ndtv.com/india-news/doesnt-know-mekedatu-issue-dmk-as-vijay-dk-shivakumar-meet-in-delhi-12337815#publisher=newsstand) — **India & General** · NDTV
+- [Israeli Opposition Seeks 'Urgent' Probe Over "Attempted Coup" By Netanyahu](https://www.ndtv.com/world-news/israeli-opposition-seeks-urgent-probe-over-attempted-coup-by-netanyahu-12337762#publisher=newsstand) — **India & General** · NDTV
+- [Cooperation, Not Competition, Must Shape Future: PM Modi At ASEAN Summit](https://www.ndtv.com/world-news/cooperation-not-competition-must-shape-future-pm-narendra-modi-at-asean-summit-12337468#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Duliajan Tenant Another Man Visited Assam Family Hours Before They Were Found Dead](https://www.ndtv.com/india-news/tenant-another-man-visited-assam-family-hours-before-they-were-found-dead-12337752#publisher=newsstand) — **India & General** · NDTV
+- [Israel Uploaded 3.5 Million Photos To Amazon Cloud To Track Palestinians: Report](https://www.ndtv.com/world-news/israel-uploaded-3-5-million-photos-to-amazon-cloud-to-track-palestinians-report-12337352#publisher=newsstand) — **India & General** · NDTV
+- [Mercedes And Question Of Sins: Tamil Nadu Judge vs MP Battle Shifts Gears](https://www.ndtv.com/tamil-nadu-news/mercedes-and-question-of-sins-tamil-nadu-judge-vs-mp-battle-shifts-gears-12337646#publisher=newsstand) — **India & General** · NDTV
+- [US Has Been Probing Nvidia's Partner Megaspeed Since 2024](https://www.ndtv.com/world-news/us-has-been-probing-nvidias-partner-chinese-spy-megaspeed-since-2024-12337636#publisher=newsstand) — **India & General** · NDTV
+- [Gas Leak At ONGC Well In Andhra Triggers Evacuation Within 1 km Radius](https://www.ndtv.com/andhra-pradesh-news/gas-leak-at-ongc-well-in-andhra-triggers-evacuation-within-1-km-radius-12337136#publisher=newsstand) — **India & General** · NDTV
 
 ## Source health
 
 - The Hindu: checked
-- The Indian Express: checked
 - NDTV: checked
 - India Today: checked
 - BBC News India: checked
+- ⚠️ The Indian Express: HTTPError: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/
 
 ---
 _Read original reporting via source links. Headlines and short RSS excerpts are used for discovery; importance scores are heuristic, not an objective measure of truth or significance._
