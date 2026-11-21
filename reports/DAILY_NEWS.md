@@ -1,156 +1,125 @@
 # India Daily News Brief
 
-> Published: 20 November 2026, 02:26 PM IST  
+> Published: 21 November 2026, 02:08 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **13**
+- Major stories highlighted: **8**
 - Sources checked successfully: **4**
 
 ### Stories by category
 
-- **India & General:** 19
-- **Climate & Environment:** 8
-- **Politics & Governance:** 7
+- **India & General:** 21
+- **Politics & Governance:** 9
+- **Climate & Environment:** 2
+- **Security & Defence:** 2
 - **Technology & Science:** 1
 
 ## Major stories
 
-### 1. [Nepal PM Balendra Shah to visit India on November 22–23](https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece)
+### 1. [Srikakulam releases 15,440 cusecs as inflows moderate after cyclone floods](https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-releases-15440-cusecs-as-inflows-moderate-after-cyclone-floods/article71727552.ece)
+
+- **Category:** Climate & Environment
+- **Source(s):** The Hindu
+- **Importance score:** 5/10 (heuristic)
+- **Published:** 21 Nov 2026, 01:17 PM IST
+- **Summary:** The district administration heaved a sigh of relief as inflows are moderate compared to inflows of nearly one lakh cusecs one month ago due to the cyclone that caused havoc in Ichchapuram and other places
+
+### 2. [Cyclone 'Akvan' weakens into depression; no major damage, flood threat \| LIVE](https://www.thehindu.com/news/national/cyclone-akvan-weakens-into-depression-imd-weather-news-live-updates-november-21-2026/article71727124.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 5/10 (heuristic)
-- **Published:** 20 Nov 2026, 01:15 PM IST
-- **Summary:** The two Prime Ministers will inaugurate several energy-related projects; Nepal’s PM will also call on President Murmu during his official visit
+- **Published:** 21 Nov 2026, 11:03 AM IST
+- **Summary:** Odisha Chief Minister said heavy rainfall was expected in Mayurbhanj and Balasore over the next 24 hours, with its impact likely to extend to neighbouring Jajpur, Bhadrak, Kendrapara and Jagatsinghpur districts
 
-### 2. [Cyclone Akvan LIVE Updates: Cyclone Akvan Makes Landfall Along Odisha Coast, No Major Damage Reported](https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand)
-
-- **Category:** Climate & Environment
-- **Source(s):** NDTV
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 02:19 PM IST
-- **Summary:** Cyclone Akvan LIVE Updates: The India Meteorological Department (IMD), in a bulletin, said the landfall process started around 8 am and was completed by 11.20 am.
-
-### 3. [Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins](https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 02:13 PM IST
-- **Summary:** Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours
-
-### 4. [How ports and cyclones are eating away the beaches of Visakhapatnam](https://www.thehindu.com/news/national/andhra-pradesh/time-to-protect-eroding-coastlines/article71720476.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 01:39 PM IST
-- **Summary:** Nearly 31% (318.96 km) of Andhra Pradesh’s coastline is eroding, with about 91.6 km falling into the ‘high erosion’ category. While the losses are concentrated in the delta districts of Kakinada, West Godavari, and Krishna, the coastal port district of Visakhapatnam is also facing the issue. Paul Nicodemus explores how
-
-### 5. [PM Modi calls for sustained government drive against drug trade, stresses financial prudence](https://www.thehindu.com/news/national/pm-modi-calls-for-sustained-government-drive-against-drug-trade-stresses-financial-prudence/article71716138.ece)
+### 3. [Full text of the inaugural Cornelia Sorabji Memorial Lecture delivered by Supreme Court Justice B.V. Nagarathna](https://www.thehindu.com/news/national/full-text-of-the-inaugural-cornelia-sorabji-memorial-lecture-delivered-by-supreme-court-justice-bv-nagarathna/article71727322.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 01:35 PM IST
-- **Summary:** At a review meeting with his Council of Ministers, the Prime Minister also assessed progress in poverty reduction and the elimination of left-wing extremism
+- **Published:** 21 Nov 2026, 01:21 PM IST
+- **Summary:** Only the practice of substantive equality could take care of these differences among women hailing from and living through diverse life experiences, the Judge said.
 
-### 6. [Cyclone Akvan: Heavy rain inundates low-lying areas of Ichchapuram, Sompeta in Srikakulam district](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-heavy-rain-inundates-low-lying-areas-of-ichchapuram-sompeta-in-srikakulam-district/article71723029.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 01:25 PM IST
-- **Summary:** Ichchapuram records 184.6 mm in 24 hours; the Collector says leave for all officials has been cancelled for relief work
-
-### 7. [Cyclone ‘Akvan’ crosses Odisha coast with windspeed of 70-80 kmph](https://www.thehindu.com/news/national/cyclone-akvan-odisha-andhra-pradesh-landfall-imd-updates/article71722866.ece)
+### 4. [Remnants of Cyclone Akvan to bring rain in Bengal till November 22: IMD](https://www.thehindu.com/news/national/west-bengal/remnants-of-cyclone-akvan-to-bring-rain-in-bengal-till-november-22-imd/article71727586.ece)
 
 - **Category:** Climate & Environment
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 01:23 PM IST
-- **Summary:** No untoward incident reported in Odisha due to cyclone, says Chief Secretary Anu Garg
+- **Published:** 21 Nov 2026, 01:03 PM IST
+- **Summary:** According to the IMD, thunderstorms accompanied by gusty winds reaching speeds of 30-40 kmph are likely over most districts of south Bengal and a few places in north Bengal on Saturday
 
-### 8. [Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit](https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece)
-
-- **Category:** Technology & Science
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 01:16 PM IST
-- **Summary:** The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, a joint press release stated
-
-### 9. [Three cyclones within a month: Satellite images reveal what we missed](https://www.indiatoday.in/science/story/three-cyclones-within-a-month-satellite-reveals-how-avkan-arnab-murasu-differed-3042953-2026-11-20?utm_source=rss)
-
-- **Category:** Climate & Environment
-- **Source(s):** India Today
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 12:50 PM IST
-- **Summary:** Three cyclones within a month Satellite images reveal what we missed
-
-### 10. [Cyclone Akvan train cancellations: List of affected trains in Odisha, Andhra Pradesh](https://www.thehindu.com/news/national/cyclone-akvan-train-cancellations-list-of-affected-trains-in-odisha-andhra-pradesh/article71723364.ece)
-
-- **Category:** Climate & Environment
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 12:44 PM IST
-- **Summary:** Railway operations in both Andhra Pradesh and Odisha have been affected due to Cyclone Akvan, with several trains cancelled, diverted or rescheduled.
-
-### 11. [Top Court Dismisses Tamil Nadu Pleas For Cauvery Water Release From Karnataka](https://www.ndtv.com/tamil-nadu-news/supreme-court-dismisses-tamil-nadu-pleas-for-cauvery-water-release-from-karnataka-12352850#publisher=newsstand)
-
-- **Category:** Politics & Governance
-- **Source(s):** NDTV
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 12:04 PM IST
-- **Summary:** Supreme Court dismisses Tamil Nadu's pleas seeking Karnataka to release 11 TMC feet Cauvery water.
-
-### 12. [Supreme Court declines plea for separate hearing on recall of split verdict in ECs’ appointment case](https://www.thehindu.com/news/national/supreme-court-declines-plea-for-separate-hearing-on-recall-of-split-verdict-in-ecs-appointment-case/article71723373.ece)
+### 5. [VCK chief terms Supreme Court’s interim verdict in Thirupparankundram case ‘shocking’](https://www.thehindu.com/news/national/tamil-nadu/vck-chief-terms-supreme-courts-interim-verdict-in-thirupparankundram-case-shocking/article71724836.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 20 Nov 2026, 11:54 AM IST
-- **Summary:** The CJI also said the five-judge Bench could consider the recall application even after the retirement of one of the judges who delivered the split verdict
+- **Published:** 21 Nov 2026, 12:50 PM IST
+- **Summary:** Thirumavalavan said the verdict could be claimed by “communal forces as a victory for themselves” and could “create an atmosphere conducive to violence”
+
+### 6. [Polling begins for Municipal, Panchayat elections across Ladakh](https://www.thehindu.com/news/national/ladakh/ladakh-municipal-and-panchayat-elections/article71727478.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 21 Nov 2026, 11:53 AM IST
+- **Summary:** Polling, which started around 8 a.m., is underway in all 21 wards of the Leh Municipal Council, while representatives in four of the 17 wards of the Kargil Municipal Council have been elected unopposed
+
+### 7. [With highest polling station at 15,057 feet, India‘s high-altitude UT of Ladakh to witness panchayat, municipal polls on November 21](https://www.thehindu.com/news/national/jammu-and-kashmir/with-highest-polling-station-at-15057-feet-indias-high-altitude-ut-of-ladakh-to-witness-panchayat-municipal-polls-on-november-21/article71727502.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 21 Nov 2026, 11:52 AM IST
+- **Summary:** Officials said in the Leh Municipal Council, elections will be held in all 21 wards, while four out of 17 wards in the Kargil Municipal Council have elected representatives unopposed
+
+### 8. [Supreme Court asks Centre for response on bringing in law on marriages between those closely related by blood](https://www.thehindu.com/news/national/supreme-court-asks-centre-for-response-on-bringing-in-law-on-marriages-between-those-closely-related-by-blood/article71723543.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 21 Nov 2026, 10:25 AM IST
+- **Summary:** Counsel for the petitioner highlighted the need to create awareness about the inter-generational consequences of such marriage
 
 ## All collected stories
 
-- [Nepal PM Balendra Shah to visit India on November 22–23](https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece) — **Politics & Governance** · The Hindu
-- [Cyclone Akvan LIVE Updates: Cyclone Akvan Makes Landfall Along Odisha Coast, No Major Damage Reported](https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand) — **Climate & Environment** · NDTV
-- [Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins](https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece) — **Climate & Environment** · The Hindu
-- [How ports and cyclones are eating away the beaches of Visakhapatnam](https://www.thehindu.com/news/national/andhra-pradesh/time-to-protect-eroding-coastlines/article71720476.ece) — **Climate & Environment** · The Hindu
-- [PM Modi calls for sustained government drive against drug trade, stresses financial prudence](https://www.thehindu.com/news/national/pm-modi-calls-for-sustained-government-drive-against-drug-trade-stresses-financial-prudence/article71716138.ece) — **Politics & Governance** · The Hindu
-- [Cyclone Akvan: Heavy rain inundates low-lying areas of Ichchapuram, Sompeta in Srikakulam district](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-heavy-rain-inundates-low-lying-areas-of-ichchapuram-sompeta-in-srikakulam-district/article71723029.ece) — **Climate & Environment** · The Hindu
-- [Cyclone ‘Akvan’ crosses Odisha coast with windspeed of 70-80 kmph](https://www.thehindu.com/news/national/cyclone-akvan-odisha-andhra-pradesh-landfall-imd-updates/article71722866.ece) — **Climate & Environment** · The Hindu
-- [Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit](https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece) — **Technology & Science** · The Hindu
-- [Three cyclones within a month: Satellite images reveal what we missed](https://www.indiatoday.in/science/story/three-cyclones-within-a-month-satellite-reveals-how-avkan-arnab-murasu-differed-3042953-2026-11-20?utm_source=rss) — **Climate & Environment** · India Today
-- [Cyclone Akvan train cancellations: List of affected trains in Odisha, Andhra Pradesh](https://www.thehindu.com/news/national/cyclone-akvan-train-cancellations-list-of-affected-trains-in-odisha-andhra-pradesh/article71723364.ece) — **Climate & Environment** · The Hindu
-- [Top Court Dismisses Tamil Nadu Pleas For Cauvery Water Release From Karnataka](https://www.ndtv.com/tamil-nadu-news/supreme-court-dismisses-tamil-nadu-pleas-for-cauvery-water-release-from-karnataka-12352850#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Supreme Court declines plea for separate hearing on recall of split verdict in ECs’ appointment case](https://www.thehindu.com/news/national/supreme-court-declines-plea-for-separate-hearing-on-recall-of-split-verdict-in-ecs-appointment-case/article71723373.ece) — **Politics & Governance** · The Hindu
-- [Live: Cyclone Akvan weakens into deep depression, to turn into depression in 6 hours](https://www.indiatoday.in/india/story/cyclone-akvan-live-updates-tracker-speed-odisha-red-alert-cyclonic-storm-bay-of-bengal-3042698-2026-11-19?utm_source=rss) — **Climate & Environment** · India Today
-- [Opinion: Opinion \| Trump Has Put The World Order On Notice. What Comes Next?](https://www.ndtv.com/opinion/donald-trump-has-put-the-world-order-on-notice-what-comes-next-12353162#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Srikakulam releases 15,440 cusecs as inflows moderate after cyclone floods](https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-releases-15440-cusecs-as-inflows-moderate-after-cyclone-floods/article71727552.ece) — **Climate & Environment** · The Hindu
+- [Cyclone 'Akvan' weakens into depression; no major damage, flood threat \| LIVE](https://www.thehindu.com/news/national/cyclone-akvan-weakens-into-depression-imd-weather-news-live-updates-november-21-2026/article71727124.ece) — **Politics & Governance** · The Hindu
+- [Full text of the inaugural Cornelia Sorabji Memorial Lecture delivered by Supreme Court Justice B.V. Nagarathna](https://www.thehindu.com/news/national/full-text-of-the-inaugural-cornelia-sorabji-memorial-lecture-delivered-by-supreme-court-justice-bv-nagarathna/article71727322.ece) — **Politics & Governance** · The Hindu
+- [Remnants of Cyclone Akvan to bring rain in Bengal till November 22: IMD](https://www.thehindu.com/news/national/west-bengal/remnants-of-cyclone-akvan-to-bring-rain-in-bengal-till-november-22-imd/article71727586.ece) — **Climate & Environment** · The Hindu
+- [VCK chief terms Supreme Court’s interim verdict in Thirupparankundram case ‘shocking’](https://www.thehindu.com/news/national/tamil-nadu/vck-chief-terms-supreme-courts-interim-verdict-in-thirupparankundram-case-shocking/article71724836.ece) — **Politics & Governance** · The Hindu
+- [Polling begins for Municipal, Panchayat elections across Ladakh](https://www.thehindu.com/news/national/ladakh/ladakh-municipal-and-panchayat-elections/article71727478.ece) — **Politics & Governance** · The Hindu
+- [With highest polling station at 15,057 feet, India‘s high-altitude UT of Ladakh to witness panchayat, municipal polls on November 21](https://www.thehindu.com/news/national/jammu-and-kashmir/with-highest-polling-station-at-15057-feet-indias-high-altitude-ut-of-ladakh-to-witness-panchayat-municipal-polls-on-november-21/article71727502.ece) — **Politics & Governance** · The Hindu
+- [Supreme Court asks Centre for response on bringing in law on marriages between those closely related by blood](https://www.thehindu.com/news/national/supreme-court-asks-centre-for-response-on-bringing-in-law-on-marriages-between-those-closely-related-by-blood/article71723543.ece) — **Politics & Governance** · The Hindu
+- [People will never forget BRS corruption: Telangana Congress president Mahesh Kumar Goud](https://www.thehindu.com/news/national/telangana/people-will-never-forget-brs-corruption-telangana-congress-president-mahesh-kumar-goud/article71727728.ece) — **Politics & Governance** · The Hindu
+- [Telangana man, 25, dies in multi-vehicle crash in US after his car hits deer](https://www.indiatoday.in/world/indians-abroad/story/telangana-youth-eeramalla-sai-teja-dies-new-york-multi-vehicle-crash-3043819-2026-11-21?utm_source=rss) — **India & General** · India Today
+- [Samsung Galaxy S25 price drops by Rs 30,000 on Amazon](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-price-drops-by-rs-30000-on-amazon-287650-20-11-2026?utm_source=rss) — **India & General** · India Today
 - [Samsung Galaxy S25 Ultra price drops by Rs 42,000 on Flipkart](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-price-drops-by-rs-42000-on-flipkart-287623-19-11-2026?utm_source=rss) — **India & General** · India Today
 - [Samsung Galaxy S25 available with Rs 16,000 discount](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-available-with-rs-16000-discount-no-conditions-287599-18-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 16 gets huge discount, price drops by Rs 9,910](https://www.indiatoday.in/visualstories/technology/iphone-16-gets-huge-discount-price-drops-by-rs-9910-287566-17-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 16 Plus gets a price cut on Flipkart: Check new price](https://www.indiatoday.in/visualstories/technology/iphone-16-plus-gets-a-price-cut-on-flipkart-check-new-price-287564-17-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 17 Pro gets cheaper on Amazon](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-gets-cheaper-on-amazon-287542-16-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 16 is available at a lower price on Amazon: Details here](https://www.indiatoday.in/visualstories/technology/iphone-16-is-available-at-a-lower-price-on-amazon-details-here-287538-16-11-2026?utm_source=rss) — **India & General** · India Today
-- [Salesforce layoffs: India office impact, garden leave and severance explained in 5 points](https://www.indiatoday.in/jobs/story/salesforce-layoffs-india-office-impact-garden-leave-and-severance-explained-in-5-points-3043017-2026-11-20?utm_source=rss) — **India & General** · India Today
-- [‘O.M’ movie review: Dhanush, Sai Pallavi score in an otherwise bloated, convenient action thriller](https://www.thehindu.com/entertainment/movies/om-operation-mole-movie-review-dhanush-mammootty-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723539.ece) — **India & General** · The Hindu
-- [Keralam Forest dept to tranquilise, radio-collar and release wild tusker Chakkakompan in Chinnakkanal](https://www.thehindu.com/news/national/kerala/keralam-forest-dept-to-tranquilise-radio-collar-and-release-wild-tusker-chakkakompan-in-chinnakkanal/article71723678.ece) — **India & General** · The Hindu
-- [SC rejects PIL seeking database of individuals filing ‘repeated’ complaints of sexual offences](https://www.thehindu.com/news/national/sc-rejects-pil-seeking-database-of-individuals-filing-repeated-complaints-of-sexual-offences/article71723712.ece) — **India & General** · The Hindu
-- [सबसे सस्ती Royal Enfield... अगले साल आ सकती हैं 250cc की बाइक](https://www.aajtak.in/visualstories/auto/royal-enfield-250cc-bike-launch-expected-2027-details-auam-287645-20-11-2026?utm_source=rss) — **India & General** · India Today
-- [बांग्लादेश में अब मंत्री निशाने पर, तड़के 3 बजे हूमायूं कबीर के घर के बाहर लगाई लाग](https://www.aajtak.in/world/story/humaiun-kobir-home-gate-set-on-fire-bangladesh-violence-awami-leauge-ntcppl-dskc-2701359-2026-11-20?utm_source=rss) — **India & General** · India Today
-- [Kriti Sanon-Kabir Bahia: 9 साल छोटे बिजनेसमैन के प्यार में कृति सेनन, बर्थडे पर लुटाया प्यार](https://www.aajtak.in/entertainment/bollywood-news/story/kriti-sanon-birthday-post-for-kabir-dating-rumours-age-gap-marriage-tmova-dskc-2701356-2026-11-20?utm_source=rss) — **India & General** · India Today
-- [Nepal PM To Visit India On November 22 For First Bilateral Foreign Trip](https://www.ndtv.com/world-news/nepal-pm-balendra-shah-to-visit-india-on-november-22-for-first-bilateral-foreign-trip-12353595#publisher=newsstand) — **India & General** · NDTV
-- [Xi Declines To Meet Japanese PM, Then Comes China's "Attitude" Advice](https://www.ndtv.com/world-news/xi-jinping-declines-to-meet-japanese-pm-sanae-takaichi-apec-chinas-attitude-advice-taiwan-12353426#publisher=newsstand) — **India & General** · NDTV
-- [Chandigarh Professor Files Complaint Against Diljit Dosanjh Ahead Of Ahmedabad Concert](https://www.ndtv.com/ahmedabad-news/chandigarh-professor-files-complaint-against-diljit-dosanjh-ahead-of-ahmedabad-concert-12353567#publisher=newsstand) — **India & General** · NDTV
-- [Myanmar Found Guilty Of Genocide, But Will It Help The Rohingya?](https://www.ndtv.com/world-news/myanmar-found-guilty-of-genocide-but-will-it-help-the-rohingya-12353429#publisher=newsstand) — **India & General** · NDTV
-- [Yusuf Pathan To Get Part Of Disputed Gujarat Plot For Free, Rest At Discount](https://www.ndtv.com/india-news/yusuf-pathan-to-get-part-of-disputed-gujarat-plot-for-free-rest-at-discount-12353374#publisher=newsstand) — **India & General** · NDTV
-- ['We Gotta Bring Jensen Huang Back': Uber Co-Founder Backs Former Nvidia CEO](https://www.ndtv.com/business-news/bring-jensen-huang-back-uber-co-founder-travis-kalanick-backs-former-nvidia-ceo-12353228#publisher=newsstand) — **India & General** · NDTV
-- [Share Market Today: This Tech Company Is Taking AI To Police Stations. Should You Buy Stock?](https://www.ndtv.com/business-news/share-market-today-this-tech-company-is-taking-ai-to-police-stations-should-you-buy-stock-12353303#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Marriage To Indian Does Not Guarantee Right To Stay In India: High Court](https://www.ndtv.com/india-news/marriage-to-indian-does-not-guarantee-right-to-stay-in-india-delhi-high-court-12352512#publisher=newsstand) — **Politics & Governance** · NDTV
+- [PM Modi inaugurates Nitish Setu in Bihar's Vaishali](https://www.indiatoday.in/india/story/pm-modi-inaugurates-nitish-setu-in-bihars-vaishali-3043824-2026-11-21?utm_source=rss) — **India & General** · India Today
+- [Delhi man gets life term for strangling wife to death over affair suspicion](https://www.indiatoday.in/india/law-news/story/delhi-man-life-imprisonment-wife-murder-affair-suspicion-ptag-3043769-2026-11-21?utm_source=rss) — **India & General** · India Today
+- [KL Rahul's biggest lesson: Sometimes, the best shot is the one you don't play](https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-1st-test-kl-rahul-136-century-test-batting-technique-3043823-2026-11-21?utm_source=rss) — **India & General** · India Today
+- [ट्रेन टिकट से रेल मदद तक, सरकारी ऐप Rail One करेगा A To Z काम](https://www.aajtak.in/technology/tech-news/story/railone-app-full-service-reserved-ticket-to-rail-help-ttecr-dskc-2702108-2026-11-21?utm_source=rss) — **India & General** · India Today
+- ['गार्ड तक नहीं था...', गार्डन में कपल से मारपीट के दौरान क्या हुआ था? चश्मदीदों ने AajTak पर बताई पूरी हकीकत](https://www.aajtak.in/india/maharashtra/story/mumbai-kurla-phoenix-mall-couple-beating-viral-video-eye-witness-recalls-incident-ntc-acwi-rpti-2702098-2026-11-21?utm_source=rss) — **India & General** · India Today
+- [Independent SIR Commission asks CM Adityanath for proof of his statement that 1.27 crore Hindus excluded](https://www.thehindu.com/news/national/independent-sir-commission-asks-cm-adityanath-for-proof-of-his-statement-that-127-crore-hindus-excluded/article71727732.ece) — **Politics & Governance** · The Hindu
+- [Four killed in a road accident in Prakasam district](https://www.thehindu.com/news/national/andhra-pradesh/four-killed-in-a-road-accident-in-prakasam-district/article71727455.ece) — **India & General** · The Hindu
+- [Concerns of people of Siang Valley over dam project to be addressed through dialogue: Shah](https://www.thehindu.com/news/national/arunachal-pradesh/concerns-of-people-of-siang-valley-over-dam-project-to-be-addressed-through-dialogue-shah/article71727685.ece) — **Politics & Governance** · The Hindu
+- [Hackers Target US Agriculture Department, FBI Days After Tech Outages](https://www.ndtv.com/world-news/hackers-target-us-agriculture-department-fbi-days-after-tech-outages-12357720#publisher=newsstand) — **Technology & Science** · NDTV
+- ['Lost Way, Crossed By Mistake': Pak Man Arrested Near Jammu Border](https://www.ndtv.com/india-news/pak-man-arrested-near-jammu-border-says-lost-way-crossed-by-mistake-12357955#publisher=newsstand) — **Security & Defence** · NDTV
+- [Yogi Adityanath Performs Mother's Last Rites In Haridwar, Many Leaders Attend](https://www.ndtv.com/india-news/up-chief-minister-yogi-adityanath-performs-mother-savitri-devis-last-rites-in-haridwar-many-leaders-attend-12357943#publisher=newsstand) — **India & General** · NDTV
+- [Delhi Civic Body Proposes Rs 10,000 Fine For Burning Garbage In Open](https://www.ndtv.com/delhi-news/delhi-civic-body-mcd-proposes-rs-10-000-fine-for-burning-garbage-in-open-12357923#publisher=newsstand) — **India & General** · NDTV
+- [On Camera, Boys Assault Couple, Hit Them With Sticks In Mumbai Park](https://www.ndtv.com/mumbai-news/on-camera-group-of-boys-assaults-couple-hit-them-with-sticks-in-mumbai-park-12357904#publisher=newsstand) — **India & General** · NDTV
+- [14 Years After Tripura Teacher Went Missing, Murder Suspect Arrested In Assam](https://www.ndtv.com/india-news/14-years-after-teacher-went-missing-murder-suspect-arrested-in-assam-12357858#publisher=newsstand) — **India & General** · NDTV
+- [Congress Workers Damage Meta Mumbai, Hyderabad Offices Over Account Removals](https://www.ndtv.com/india-news/youth-congress-protest-outside-hyderabad-meta-office-over-account-curbs-12356134#publisher=newsstand) — **India & General** · NDTV
+- ["Didn't Say I Was Unhappy": Trump Rejects Report On Tension With Vance](https://www.ndtv.com/world-news/didnt-say-i-was-unhappy-trump-rejects-report-on-tension-with-vance-iran-war-remark-12357798#publisher=newsstand) — **India & General** · NDTV
+- [Ladakh Votes In Panchayat, Municipal Polls Amid Freezing Cold](https://www.ndtv.com/india-news/ladakh-local-body-elections-news-ladakh-votes-in-panchayat-municipal-polls-amid-freezing-cold-12357747#publisher=newsstand) — **Security & Defence** · NDTV
+- [Noel Tata Seeks Board Meeting Recordings Amid Tata Chairman Row](https://www.ndtv.com/india-news/noel-tata-seeks-board-meeting-recordings-amid-tata-chairman-row-12357691#publisher=newsstand) — **India & General** · NDTV
+- [2 Girls Die After Eating Poisonous Wild Plant Pods While Playing In UP](https://www.ndtv.com/india-news/2-girls-die-after-eating-poisonous-wild-plant-pods-while-playing-in-up-12357620#publisher=newsstand) — **India & General** · NDTV
 
 ## Source health
 
