@@ -1,131 +1,110 @@
 # India Daily News Brief
 
-> Published: 25 November 2026, 03:44 PM IST  
+> Published: 26 November 2026, 03:25 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **9**
+- Major stories highlighted: **6**
 - Sources checked successfully: **4**
 
 ### Stories by category
 
-- **India & General:** 15
-- **Politics & Governance:** 15
-- **Business & Economy:** 4
-- **Security & Defence:** 1
+- **India & General:** 16
+- **Politics & Governance:** 13
+- **Business & Economy:** 3
+- **Education:** 1
+- **Health:** 1
+- **Technology & Science:** 1
 
 ## Major stories
 
-### 1. [‘Should have avoided’: Congress on SP declaring list of five candidates for U.P. polls](https://www.thehindu.com/news/national/uttar-pradesh/should-have-avoided-congress-on-sp-declaring-list-of-five-candidates-for-up-polls/article71741782.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 03:33 PM IST
-- **Summary:** Hours after the second round of the meeting between Congress and the SP on Tuesday (November 24, 2026), the SP announced its list of five candidates for the elections
-
-### 2. [Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi](https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 03:23 PM IST
-- **Summary:** The top court directs the Congress leader to be impleaded as a party in the High Court case
-
-### 3. [Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?](https://www.thehindu.com/news/national/tamil-nadu/thriupparankundram-deepathoon-tamil-nadu-john-doe-order-explained/article71741283.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 03:04 PM IST
-- **Summary:** The Madras High Court restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a ‘limited one-time arrangement’ only.
-
-### 4. [Why has the INDIA bloc posed 48 questions to the Election Commission over SIR?](https://www.thehindu.com/news/national/why-has-the-india-bloc-posed-48-questions-to-the-election-commission-over-sir/article71718779.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 02:51 PM IST
-- **Summary:** Through the interrogatories, the petitioners want the decision making process to be made public
-
-### 5. [Tamil Nadu Blames Temple Board For Defying Supreme Court's Deepam Order](https://www.ndtv.com/india-news/madurai-official-apology-to-supreme-court-on-why-hilltop-lamp-karthigai-deepam-was-not-lit-12374331#publisher=newsstand)
-
-- **Category:** Politics & Governance
-- **Source(s):** NDTV
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 01:48 PM IST
-- **Summary:** Supreme Court on November 20 allowed lighting of the ceremonial lamp at the Deepathoon
-
-### 6. [Supreme Court 'inclined' to stay Calcutta HC order deferring Kolkata civic polls till decision on ward delimitation](https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 01:37 PM IST
-- **Summary:** The KMC has undertaken a revision of municipal ward boundaries ahead of the next civic polls. As part of the plan, the number of wards in the civic body may rise to 209 from the current 144
-
-### 7. [Supreme Court sets aside HC order for CBI, ED probe into Rahul Gandhi's assets](https://www.indiatoday.in/india/law-news/story/sc-sets-aside-hc-directions-for-cbi-ed-to-verify-claims-of-rahul-gandhi-possessing-disproportionate-assets-3046467-2026-11-25?utm_source=rss)
+### 1. [Supreme Court resets rules for food packet warnings](https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss)
 
 - **Category:** Politics & Governance
 - **Source(s):** India Today
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 01:11 PM IST
-- **Summary:** Supreme Court sets aside HC order for CBI ED probe into Rahul Gandhis assets
+- **Published:** 26 Nov 2026, 02:50 PM IST
+- **Summary:** Supreme Court resets rules for food packet warnings
 
-### 8. [Karthigai deepam lit only at traditional spot atop Thirupparankundram hills](https://www.thehindu.com/news/cities/Madurai/karthigai-deepam-lit-only-at-traditional-spot-atop-thirupparankundram-hills/article71738876.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 11:53 AM IST
-- **Summary:** Madurai Collector submitted before the Madurai Bench of the Madras High Court that the administration was taking steps to comply with the Supreme Court order
-
-### 9. [Para-sports selection trials held in Visakhapatnam](https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece)
+### 2. [Supreme Court to hear contempt pleas in Thirupparankundram lamp-lighting row on Nov. 27](https://www.thehindu.com/news/national/supreme-court-to-hear-contempt-pleas-in-thirupparankundram-lamp-lighting-row-on-nov-27/article71745742.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 25 Nov 2026, 11:50 AM IST
+- **Published:** 26 Nov 2026, 02:50 PM IST
+- **Summary:** The application said the four Sthanikars had denied giving any opinion to light the lamp at the Deepa Mandapam nor were they consulted
+
+### 3. [SSC plans to use indigenous examination devices to take computer-based tests beyond private centres](https://www.thehindu.com/news/national/ssc-plans-to-use-indigenous-examination-devices-to-take-computer-based-tests-beyond-private-centres/article71745706.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 26 Nov 2026, 02:19 PM IST
+- **Summary:** The Staff Selection Commission has floated an RFP for indigenous examination tablets, attracting interest from over 25 bidders, says its chairman. It is also exploring edge-based CCTV systems, as defence officials seek homegrown space, AI and communication technologies
+
+### 4. [Supreme Court to hear Deepathoon contempt pleas on November 27](https://www.indiatoday.in/india/law-news/story/deepathoon-lamp-row-supreme-court-contempt-pleas-november-27-ptag-3047266-2026-11-26?utm_source=rss)
+
+- **Category:** Politics & Governance
+- **Source(s):** India Today
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 26 Nov 2026, 02:18 PM IST
+- **Summary:** Supreme Court to hear Deepathoon contempt pleas on November
+
+### 5. [Supreme Court quashes premature release of former MP Anand Mohan in murder case](https://www.thehindu.com/news/national/supreme-court-quashes-premature-release-of-former-mp-anand-mohan-in-murder-case/article71745450.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 26 Nov 2026, 12:05 PM IST
+- **Summary:** The apex court says Article 21 is not a “one-sided guarantee, equally encompasses victims, society at large
+
+### 6. [CBSE 3-language rule: Supreme Court allows students to retain their language choices](https://www.indiatoday.in/education-today/news/story/cbse-three-language-policy-supreme-court-allows-class-6-9-students-existing-choices-3047175-2026-11-26?utm_source=rss)
+
+- **Category:** Politics & Governance
+- **Source(s):** India Today
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 26 Nov 2026, 11:09 AM IST
+- **Summary:** CBSE language rule Supreme Court allows students to retain their language choices
 
 ## All collected stories
 
-- [‘Should have avoided’: Congress on SP declaring list of five candidates for U.P. polls](https://www.thehindu.com/news/national/uttar-pradesh/should-have-avoided-congress-on-sp-declaring-list-of-five-candidates-for-up-polls/article71741782.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi](https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece) — **Politics & Governance** · The Hindu
-- [Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?](https://www.thehindu.com/news/national/tamil-nadu/thriupparankundram-deepathoon-tamil-nadu-john-doe-order-explained/article71741283.ece) — **Politics & Governance** · The Hindu
-- [Why has the INDIA bloc posed 48 questions to the Election Commission over SIR?](https://www.thehindu.com/news/national/why-has-the-india-bloc-posed-48-questions-to-the-election-commission-over-sir/article71718779.ece) — **Politics & Governance** · The Hindu
-- [Tamil Nadu Blames Temple Board For Defying Supreme Court's Deepam Order](https://www.ndtv.com/india-news/madurai-official-apology-to-supreme-court-on-why-hilltop-lamp-karthigai-deepam-was-not-lit-12374331#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Supreme Court 'inclined' to stay Calcutta HC order deferring Kolkata civic polls till decision on ward delimitation](https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court sets aside HC order for CBI, ED probe into Rahul Gandhi's assets](https://www.indiatoday.in/india/law-news/story/sc-sets-aside-hc-directions-for-cbi-ed-to-verify-claims-of-rahul-gandhi-possessing-disproportionate-assets-3046467-2026-11-25?utm_source=rss) — **Politics & Governance** · India Today
-- [Karthigai deepam lit only at traditional spot atop Thirupparankundram hills](https://www.thehindu.com/news/cities/Madurai/karthigai-deepam-lit-only-at-traditional-spot-atop-thirupparankundram-hills/article71738876.ece) — **Politics & Governance** · The Hindu
-- [Para-sports selection trials held in Visakhapatnam](https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece) — **Politics & Governance** · The Hindu
-- [‘Saam, daam, dand, bhed’: Congress’ swipe at Modi Govt over delimitation issue](https://www.thehindu.com/news/national/saam-daam-dand-bhed-congress-swipe-at-modi-govt-over-delimitation-issue/article71741621.ece) — **Politics & Governance** · The Hindu
-- [KPCC steps in to quell infighting over ‘A group’ and Oommen Chandy’s political legacy in Keralam](https://www.thehindu.com/news/national/kerala/kpcc-steps-in-to-quell-infighting-over-a-group-and-oommen-chandys-political-legacy-in-keralam/article71741548.ece) — **Politics & Governance** · The Hindu
-- [Jharkhand Assembly’s special session starts; Finance Minister moves resolution against SIR](https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-special-session-resolution-sir-on-november-25-2026/article71741414.ece) — **Politics & Governance** · The Hindu
-- [Australian senator holds baby daughter while addressing Parliament, wins hearts](https://www.indiatoday.in/newsmo/short-videos/australian-senator-holds-baby-daughter-while-addressing-parliament-wins-hearts-3046481-2026-11-25?utm_source=rss) — **Politics & Governance** · India Today
+- [Supreme Court resets rules for food packet warnings](https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss) — **Politics & Governance** · India Today
+- [Supreme Court to hear contempt pleas in Thirupparankundram lamp-lighting row on Nov. 27](https://www.thehindu.com/news/national/supreme-court-to-hear-contempt-pleas-in-thirupparankundram-lamp-lighting-row-on-nov-27/article71745742.ece) — **Politics & Governance** · The Hindu
+- [SSC plans to use indigenous examination devices to take computer-based tests beyond private centres](https://www.thehindu.com/news/national/ssc-plans-to-use-indigenous-examination-devices-to-take-computer-based-tests-beyond-private-centres/article71745706.ece) — **Politics & Governance** · The Hindu
+- [Supreme Court to hear Deepathoon contempt pleas on November 27](https://www.indiatoday.in/india/law-news/story/deepathoon-lamp-row-supreme-court-contempt-pleas-november-27-ptag-3047266-2026-11-26?utm_source=rss) — **Politics & Governance** · India Today
+- [Supreme Court quashes premature release of former MP Anand Mohan in murder case](https://www.thehindu.com/news/national/supreme-court-quashes-premature-release-of-former-mp-anand-mohan-in-murder-case/article71745450.ece) — **Politics & Governance** · The Hindu
+- [CBSE 3-language rule: Supreme Court allows students to retain their language choices](https://www.indiatoday.in/education-today/news/story/cbse-three-language-policy-supreme-court-allows-class-6-9-students-existing-choices-3047175-2026-11-26?utm_source=rss) — **Politics & Governance** · India Today
+- [Pak Astronaut At Chinese Space Station: How Good Is Tiangong Compared To International Space Station](https://www.ndtv.com/science/pakistani-astronaut-zeeshan-ali-at-chinese-space-station-how-good-is-tiangong-compared-to-international-space-station-12379544#publisher=newsstand) — **Business & Economy** · NDTV
+- ["Let Us Play Bada Bhai": Team Akhilesh MP As Congress Says No To "Junk Seats"](https://www.ndtv.com/india-news/let-us-play-bada-bhai-team-akhilesh-mp-as-congress-says-no-to-junk-seats-12379794#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Jharkhand CM moves resolution against amended Mines and Minerals Act, claims ₹13,000 crore annual revenue loss](https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-resolution-against-amended-mines-minerals-law-hemant-soren-govt/article71745477.ece) — **Politics & Governance** · The Hindu
 - [The rising cost of putting food on the table in India](https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss) — **Business & Economy** · BBC News India
-- [Ramayana in Oscars Best Visual Effects longlist beside Doomsday, Dune 3, The Odyssey](https://www.indiatoday.in/movies/bollywood/story/ramayana-in-oscars-best-visual-effects-longlist-beside-avengers-doomsday-dune-3-the-odyssey-ranbir-sai-pallavi-3046543-2026-11-25?utm_source=rss) — **India & General** · India Today
+- [iPhone 17 Pro Max gets major price drop](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-gets-major-price-drop-287802-25-11-2026?utm_source=rss) — **India & General** · India Today
+- [Apple AirPods 5 available at lowest price on Flipkart: Check deal and offers](https://www.indiatoday.in/visualstories/technology/apple-airpods-5-available-at-lowest-price-on-flipkart-check-deal-and-offers-287801-25-11-2026?utm_source=rss) — **India & General** · India Today
+- [Google Pixel 10 gets Rs 13,961 discount: Details here](https://www.indiatoday.in/visualstories/technology/google-pixel-10-gets-rs-13961-discount-details-here-287797-25-11-2026?utm_source=rss) — **India & General** · India Today
+- [Google Pixel 11 gets Rs 16,000 discount, full details here](https://www.indiatoday.in/visualstories/technology/google-pixel-11-gets-rs-16000-discount-full-details-here-287794-25-11-2026?utm_source=rss) — **India & General** · India Today
+- [iPhone 17 Pro price drops by Rs 18,000, details here](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-price-drops-by-rs-18000-details-here-287787-25-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 17 now available under Rs 58,000, but you need the right cards](https://www.indiatoday.in/visualstories/technology/iphone-17-now-available-under-rs-58000-but-you-need-the-right-cards-287769-24-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 16 Plus price drops to its lowest: Details here](https://www.indiatoday.in/visualstories/technology/iphone-16-plus-price-drops-to-its-lowest-details-here-287768-24-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 16 price drops by Rs 15,000, deal details here](https://www.indiatoday.in/visualstories/technology/iphone-16-price-drops-by-rs-15000-deal-details-here-287758-24-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone Air price drops by Rs 60,000, check deal here](https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-by-rs-60000-check-deal-here-287757-24-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 18 Pro gets price cut on Flipkart, here is how to get it under Rs 1 lakh](https://www.indiatoday.in/visualstories/technology/iphone-18-pro-gets-price-cut-on-flipkart-here-is-how-to-get-it-under-rs-1-lakh-287731-23-11-2026?utm_source=rss) — **India & General** · India Today
-- [iPhone 17 price drop alert, check deal here](https://www.indiatoday.in/visualstories/technology/iphone-17-price-drop-alert-check-deal-here-287729-23-11-2026?utm_source=rss) — **India & General** · India Today
-- [Sensex ends 1,502 points higher, Nifty above 25,800; HUL up 6%](https://www.indiatoday.in/business/market/story/sensex-ends-1502-points-higher-nifty-above-25800-hul-up-6-market-rally-3046584-2026-11-25?utm_source=rss) — **India & General** · India Today
-- [₹14 हजार से कम में खरीदें 5G फोन, Flipkart Sale में तगड़ी डील!](https://www.aajtak.in/visualstories/technology/ai-plus-nova-2-neo-5g-flipkart-black-friday-sale-deal-price-prym-287779-25-11-2026?utm_source=rss) — **India & General** · India Today
-- [मेरठ होटल कांड का आरोपी सलमान गिरफ्तार, रोते हुए बोला- सर, गलती हो गई, माफ कर दो; देखें- VIDEO](https://www.aajtak.in/uttar-pradesh/story/meerut-hotel-incident-accused-salman-shot-in-leg-during-police-encounter-lclam-strc-2705704-2026-11-25?utm_source=rss) — **India & General** · India Today
-- [Thirupparankundram row: Madurai District Collector says Devasthanam did not authorise lamp-lighting team](https://www.thehindu.com/news/national/supreme-court-hearing-on-deepathoon-case-madurai-tamil-nadu/article71741225.ece) — **India & General** · The Hindu
-- [Telangana Govt to set up single window system for hassle free development of poultry sector: CM Revanth Reddy](https://www.thehindu.com/news/national/telangana/telangana-govt-to-set-up-single-window-system-for-hassle-free-development-of-poultry-sector-cm-revanth-reddy/article71741870.ece) — **India & General** · The Hindu
-- [Murder Accused's Hand Chopped Off With Machete, Then Shot Outside Pune Court](https://www.ndtv.com/pune-news/murder-accuseds-hand-chopped-off-with-machete-then-shot-dead-outside-pune-court-12374587#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,300 Points. Infosys, TCS, HDFC Bank Gain](https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-november-us-iran-war-oil-price-12373259#publisher=newsstand) — **Business & Economy** · NDTV
-- [Share Market Today: This Smallcap Stock Plans Rs 648 Crore Fundraise: Do You Own?](https://www.ndtv.com/business-news/share-market-today-this-smallcap-stock-plans-rs-648-crore-fundraise-do-you-own-12374579#publisher=newsstand) — **Business & Economy** · NDTV
-- [After 11 Years At Flipkart, CEO Kalyan Krishnamurthy Is Quitting Ahead Of IPO. Why Now?](https://www.ndtv.com/business-news/after-11-years-at-flipkart-ceo-kalyan-krishnamurthy-is-quitting-ahead-of-ipo-why-now-12374707#publisher=newsstand) — **Business & Economy** · NDTV
-- [After BJP-Akali Alliance In Punjab, Congress Looks At Left](https://www.ndtv.com/india-news/punjab-elections-2027-after-bjp-akali-alliance-in-punjab-congress-looks-at-left-12374676#publisher=newsstand) — **India & General** · NDTV
-- ["No Spy Story": Saudi Man Who Bugged OpenAI Office In US Gets Bail](https://www.ndtv.com/world-news/no-spy-story-saudi-man-who-bugged-openai-office-in-us-gets-bail-12374664#publisher=newsstand) — **India & General** · NDTV
-- [Terrorists Try To Sell J&K Land To Fund Terror, Cops Seal Their Property](https://www.ndtv.com/india-news/terrorists-try-to-sell-jammu-and-kashmir-land-to-fund-terror-cops-seal-their-property-12374642#publisher=newsstand) — **Security & Defence** · NDTV
-- [3 Killed, 2 Missing After 6 Of Family Thrown Into Canal In Gujarat](https://www.ndtv.com/india-news/3-killed-2-missing-after-6-of-maharashtra-family-thrown-into-canal-in-surat-gujarat-12374090#publisher=newsstand) — **India & General** · NDTV
-- [CJP's Saurav Das Approaches Court After He Was Stopped From Flying To UK](https://www.ndtv.com/india-news/cjps-saurav-das-approaches-delhi-high-court-after-he-was-stopped-from-flying-to-uk-12374078#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Garuda Purana: मृत्यु के बाद आत्मा कितने दिन तक भटकती है? गरुड़ पुराण की ये बातें चौंका देंगी!](https://www.aajtak.in/religion/news/story/garuda-purana-what-happens-to-soul-after-death-49-days-yamlok-journey-tviss-dskc-2706670-2026-11-26?utm_source=rss) — **India & General** · India Today
+- ['कम बोलो, काम ज्यादा करो', इमरान मसूद को मल्लिकार्जुन खड़गे की दो टूक नसीहत](https://www.aajtak.in/elections/assembly-chunav/story/mallikarjun-kharge-message-imran-masood-sp-congress-alliance-up-election-2027-ntc-mnrd-dskc-2706668-2026-11-26?utm_source=rss) — **India & General** · India Today
+- [Sri Lanka A vs India A Live Score: भारत और श्रीलंका के बीच आज मुकाबला, किसने जीता टॉस, क्या वैभव करेंगे पहले बल्लेबाजी](https://www.aajtak.in/sports/cricket/story/sri-lanka-a-vs-india-a-1st-semi-final-live-cricket-score-acc-mens-asia-cup-rising-stars-2026-match-vaibhav-tspok-dskc-2706667-2026-11-26?utm_source=rss) — **India & General** · India Today
+- [Stock Market LIVE Updates, Sensex Today: Sensex Jumps 330 Points Higher, Asia Markets Rebound](https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-26-november-us-iran-war-oil-price-12378440#publisher=newsstand) — **Business & Economy** · NDTV
+- [ASI unveils tactile experience model of iconic sculpture of Gangaikondacholapuram Brihadisvara Temple](https://www.thehindu.com/news/cities/Tiruchirapalli/asi-unveils-tactile-experience-model-of-iconic-sculpture-of-brihadisvara-temple/article71742537.ece) — **India & General** · The Hindu
+- [Gadkari announces ₹1 lakh crore road projects for Bengal](https://www.thehindu.com/news/national/west-bengal/gadkari-announces-1-lakh-crore-road-projects-for-bengal/article71745900.ece) — **Politics & Governance** · The Hindu
+- [Nvidia Halts Server Shipments To 4 Southeast Asian Countries: Report](https://www.ndtv.com/world-news/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report-12380116#publisher=newsstand) — **India & General** · NDTV
+- [Defence, aerospace sector outpaces IT and pharma growth in Telangana: Minister Uttam Kumar Reddy](https://www.thehindu.com/news/national/telangana/defence-aerospace-sector-outpaces-it-and-pharma-growth-in-telangana-minister-uttam-kumar-reddy/article71745871.ece) — **Politics & Governance** · The Hindu
+- [Polling under way in 23 urban local bodies and 3,240 gram panchayats in Andhra Pradesh \| LIVE](https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece) — **India & General** · The Hindu
+- [KPSC recruitment scam in Karnataka: How question papers and answer keys reached candidates ahead of exams \| Explained](https://www.thehindu.com/news/national/karnataka/kpsc-recruitment-scam-in-karnataka-how-question-papers-and-answer-keys-reached-candidates-ahead-of-exams-explained/article71741790.ece) — **Education** · The Hindu
+- [78 MoUs signed at second edition of VETTRI Tamil Nadu Investment and Conversion Conclave](https://www.thehindu.com/news/national/tamil-nadu/78-mous-signed-at-second-edition-of-vettri-tamil-nadu-investment-and-conversion-conclave/article71741815.ece) — **India & General** · The Hindu
+- [CPI(M) leader T.I. Madhusoodanan faces flak over ‘threatening’ speech after Dhanraj murder verdict](https://www.thehindu.com/news/national/kerala/cpim-leader-ti-madhusoodanan-faces-flak-over-threatening-speech-after-dhanraj-murder-verdict/article71745888.ece) — **India & General** · The Hindu
+- [Trump's New Tariff Threat To India Comes With Relief Clause, But At A Cost](https://www.ndtv.com/world-news/trumps-new-tariff-threat-to-india-comes-with-relief-clause-but-at-a-cost-12380082#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Church on ‘government land’ vandalised in Odisha village, peace committee formed](https://www.thehindu.com/news/national/odisha/church-on-government-land-vandalised-in-odisha-village-peace-committee-formed/article71745753.ece) — **Politics & Governance** · The Hindu
+- [Opposition Spooked By Supriya Sule's Remarks On Delimitation? What She Said](https://www.ndtv.com/india-news/opposition-spooked-by-ncp-sp-supriya-sule-remarks-on-delimitation-what-she-said-12379997#publisher=newsstand) — **India & General** · NDTV
+- [Court Setback For Lalu Yadav, Wife And Son In Railway Hotel Scam Case](https://www.ndtv.com/india-news/delhi-high-court-setback-for-lalu-prasad-yadav-wife-rabri-devi-and-son-tejashwi-yadav-in-railway-hotel-scam-case-12379821#publisher=newsstand) — **Politics & Governance** · NDTV
+- [How Mumbai Station Railway Announcers Helped People As Kasab, His Aide Fired At Them](https://www.ndtv.com/india-news/how-mumbai-station-railway-announcers-helped-people-as-kasab-his-aide-fired-at-them-26-11-12378990#publisher=newsstand) — **India & General** · NDTV
+- [Not Bigger Homes, Green Spaces Are The New Currency In Luxury Real Estate](https://www.ndtv.com/business-news/not-bigger-homes-green-spaces-are-the-new-currency-in-luxury-real-estate-12378207#publisher=newsstand) — **Technology & Science** · NDTV
+- [Man Falls Ill, Dies During Horse Race At Anant Singh's Daughter's Wedding](https://www.ndtv.com/india-news/man-falls-ill-dies-during-horse-race-at-anant-singhs-daughter-shivangi-singhs-wedding-12379808#publisher=newsstand) — **Health** · NDTV
 
 ## Source health
 

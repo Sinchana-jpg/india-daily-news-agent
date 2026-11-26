@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-25T10:14:24.420382+00:00",
-  "generated_at_ist": "2026-11-25T15:44:24.420382+05:30",
+  "generated_at_utc": "2026-11-26T09:55:03.072730+00:00",
+  "generated_at_ist": "2026-11-26T15:25:03.072730+05:30",
   "title": "India Daily News Brief",
-  "summary": "35 stories collected from 4 sources; 9 highlighted as major.",
+  "summary": "35 stories collected from 4 sources; 6 highlighted as major.",
   "sources_checked": [
     "The Hindu",
     "NDTV",
@@ -14,16 +14,47 @@
   ],
   "total_stories": 35,
   "categories": {
-    "Politics & Governance": 15,
-    "Business & Economy": 4,
-    "India & General": 15,
-    "Security & Defence": 1
+    "Politics & Governance": 13,
+    "Business & Economy": 3,
+    "India & General": 16,
+    "Education": 1,
+    "Technology & Science": 1,
+    "Health": 1
   },
   "stories": [
     {
-      "id": "47a7c46c85dc0905",
-      "title": "‘Should have avoided’: Congress on SP declaring list of five candidates for U.P. polls",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/should-have-avoided-congress-on-sp-declaring-list-of-five-candidates-for-up-polls/article71741782.ece",
+      "id": "df81de0425804ac1",
+      "title": "Supreme Court resets rules for food packet warnings",
+      "url": "https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:20:34+00:00",
+      "published_at_ist": "2026-11-26T14:50:34+05:30",
+      "summary": "Supreme Court resets rules for food packet warnings",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "f29ed07109d11b45",
+      "title": "Supreme Court to hear contempt pleas in Thirupparankundram lamp-lighting row on Nov. 27",
+      "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-contempt-pleas-in-thirupparankundram-lamp-lighting-row-on-nov-27/article71745742.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -31,20 +62,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/uttar-pradesh/should-have-avoided-congress-on-sp-declaring-list-of-five-candidates-for-up-polls/article71741782.ece"
+          "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-contempt-pleas-in-thirupparankundram-lamp-lighting-row-on-nov-27/article71745742.ece"
         }
       ],
-      "published_at_utc": "2026-11-25T10:03:24+00:00",
-      "published_at_ist": "2026-11-25T15:33:24+05:30",
-      "summary": "Hours after the second round of the meeting between Congress and the SP on Tuesday (November 24, 2026), the SP announced its list of five candidates for the elections",
+      "published_at_utc": "2026-11-26T09:20:25+00:00",
+      "published_at_ist": "2026-11-26T14:50:25+05:30",
+      "summary": "The application said the four Sthanikars had denied giving any opinion to light the lamp at the Deepa Mandapam nor were they consulted",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "cca34c20991d27f8",
-      "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
-      "url": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+      "id": "7cd4f3fe960865a6",
+      "title": "SSC plans to use indigenous examination devices to take computer-based tests beyond private centres",
+      "url": "https://www.thehindu.com/news/national/ssc-plans-to-use-indigenous-examination-devices-to-take-computer-based-tests-beyond-private-centres/article71745706.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -52,20 +83,41 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece"
+          "url": "https://www.thehindu.com/news/national/ssc-plans-to-use-indigenous-examination-devices-to-take-computer-based-tests-beyond-private-centres/article71745706.ece"
         }
       ],
-      "published_at_utc": "2026-11-25T09:53:09+00:00",
-      "published_at_ist": "2026-11-25T15:23:09+05:30",
-      "summary": "The top court directs the Congress leader to be impleaded as a party in the High Court case",
+      "published_at_utc": "2026-11-26T08:49:10+00:00",
+      "published_at_ist": "2026-11-26T14:19:10+05:30",
+      "summary": "The Staff Selection Commission has floated an RFP for indigenous examination tablets, attracting interest from over 25 bidders, says its chairman. It is also exploring edge-based CCTV systems, as defence officials seek homegrown space, AI and communication technologies",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "0968ccaa256b7495",
-      "title": "Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/thriupparankundram-deepathoon-tamil-nadu-john-doe-order-explained/article71741283.ece",
+      "id": "53cd1734014d5918",
+      "title": "Supreme Court to hear Deepathoon contempt pleas on November 27",
+      "url": "https://www.indiatoday.in/india/law-news/story/deepathoon-lamp-row-supreme-court-contempt-pleas-november-27-ptag-3047266-2026-11-26?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/india/law-news/story/deepathoon-lamp-row-supreme-court-contempt-pleas-november-27-ptag-3047266-2026-11-26?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-26T08:48:44+00:00",
+      "published_at_ist": "2026-11-26T14:18:44+05:30",
+      "summary": "Supreme Court to hear Deepathoon contempt pleas on November",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "c19f00d1b479cd57",
+      "title": "Supreme Court quashes premature release of former MP Anand Mohan in murder case",
+      "url": "https://www.thehindu.com/news/national/supreme-court-quashes-premature-release-of-former-mp-anand-mohan-in-murder-case/article71745450.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -73,41 +125,41 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/thriupparankundram-deepathoon-tamil-nadu-john-doe-order-explained/article71741283.ece"
+          "url": "https://www.thehindu.com/news/national/supreme-court-quashes-premature-release-of-former-mp-anand-mohan-in-murder-case/article71745450.ece"
         }
       ],
-      "published_at_utc": "2026-11-25T09:34:35+00:00",
-      "published_at_ist": "2026-11-25T15:04:35+05:30",
-      "summary": "The Madras High Court restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a ‘limited one-time arrangement’ only.",
+      "published_at_utc": "2026-11-26T06:35:14+00:00",
+      "published_at_ist": "2026-11-26T12:05:14+05:30",
+      "summary": "The apex court says Article 21 is not a “one-sided guarantee, equally encompasses victims, society at large",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "7cda1beb0db3c48a",
-      "title": "Why has the INDIA bloc posed 48 questions to the Election Commission over SIR?",
-      "url": "https://www.thehindu.com/news/national/why-has-the-india-bloc-posed-48-questions-to-the-election-commission-over-sir/article71718779.ece",
-      "source": "The Hindu",
+      "id": "30305c0353d1df84",
+      "title": "CBSE 3-language rule: Supreme Court allows students to retain their language choices",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-three-language-policy-supreme-court-allows-class-6-9-students-existing-choices-3047175-2026-11-26?utm_source=rss",
+      "source": "India Today",
       "sources": [
-        "The Hindu"
+        "India Today"
       ],
       "source_links": [
         {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/why-has-the-india-bloc-posed-48-questions-to-the-election-commission-over-sir/article71718779.ece"
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/education-today/news/story/cbse-three-language-policy-supreme-court-allows-class-6-9-students-existing-choices-3047175-2026-11-26?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-25T09:21:53+00:00",
-      "published_at_ist": "2026-11-25T14:51:53+05:30",
-      "summary": "Through the interrogatories, the petitioners want the decision making process to be made public",
+      "published_at_utc": "2026-11-26T05:39:45+00:00",
+      "published_at_ist": "2026-11-26T11:09:45+05:30",
+      "summary": "CBSE language rule Supreme Court allows students to retain their language choices",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "2c5c3ba396398e80",
-      "title": "Tamil Nadu Blames Temple Board For Defying Supreme Court's Deepam Order",
-      "url": "https://www.ndtv.com/india-news/madurai-official-apology-to-supreme-court-on-why-hilltop-lamp-karthigai-deepam-was-not-lit-12374331#publisher=newsstand",
+      "id": "2bc38d96bc543350",
+      "title": "Pak Astronaut At Chinese Space Station: How Good Is Tiangong Compared To International Space Station",
+      "url": "https://www.ndtv.com/science/pakistani-astronaut-zeeshan-ali-at-chinese-space-station-how-good-is-tiangong-compared-to-international-space-station-12379544#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -115,129 +167,41 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/madurai-official-apology-to-supreme-court-on-why-hilltop-lamp-karthigai-deepam-was-not-lit-12374331#publisher=newsstand"
+          "url": "https://www.ndtv.com/science/pakistani-astronaut-zeeshan-ali-at-chinese-space-station-how-good-is-tiangong-compared-to-international-space-station-12379544#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-25T08:18:36+00:00",
-      "published_at_ist": "2026-11-25T13:48:36+05:30",
-      "summary": "Supreme Court on November 20 allowed lighting of the ceremonial lamp at the Deepathoon",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
+      "published_at_utc": "2026-11-26T09:18:14+00:00",
+      "published_at_ist": "2026-11-26T14:48:14+05:30",
+      "summary": "A Chinese astronaut steps outside China's Tiangong space station in orbit around Earth",
+      "category": "Business & Economy",
+      "importance_score": 2,
+      "is_major": false
     },
     {
-      "id": "736ea9957e6d3f5a",
-      "title": "Supreme Court 'inclined' to stay Calcutta HC order deferring Kolkata civic polls till decision on ward delimitation",
-      "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
-      "source": "The Hindu",
+      "id": "cfd619be33cdc783",
+      "title": "\"Let Us Play Bada Bhai\": Team Akhilesh MP As Congress Says No To \"Junk Seats\"",
+      "url": "https://www.ndtv.com/india-news/let-us-play-bada-bhai-team-akhilesh-mp-as-congress-says-no-to-junk-seats-12379794#publisher=newsstand",
+      "source": "NDTV",
       "sources": [
-        "The Hindu"
+        "NDTV"
       ],
       "source_links": [
         {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/let-us-play-bada-bhai-team-akhilesh-mp-as-congress-says-no-to-junk-seats-12379794#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-25T08:07:14+00:00",
-      "published_at_ist": "2026-11-25T13:37:14+05:30",
-      "summary": "The KMC has undertaken a revision of municipal ward boundaries ahead of the next civic polls. As part of the plan, the number of wards in the civic body may rise to 209 from the current 144",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "09e1fc45127a36fd",
-      "title": "Supreme Court sets aside HC order for CBI, ED probe into Rahul Gandhi's assets",
-      "url": "https://www.indiatoday.in/india/law-news/story/sc-sets-aside-hc-directions-for-cbi-ed-to-verify-claims-of-rahul-gandhi-possessing-disproportionate-assets-3046467-2026-11-25?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/sc-sets-aside-hc-directions-for-cbi-ed-to-verify-claims-of-rahul-gandhi-possessing-disproportionate-assets-3046467-2026-11-25?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/india/law-news/story/sc-sets-aside-hc-directions-for-cbi-ed-to-verify-claims-of-rahul-gandhi-possessing-disproportionate-assets-3046467-2026-11-25?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-25T07:41:15+00:00",
-      "published_at_ist": "2026-11-25T13:11:15+05:30",
-      "summary": "Supreme Court sets aside HC order for CBI ED probe into Rahul Gandhis assets",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "d4b943316979e5a4",
-      "title": "Karthigai deepam lit only at traditional spot atop Thirupparankundram hills",
-      "url": "https://www.thehindu.com/news/cities/Madurai/karthigai-deepam-lit-only-at-traditional-spot-atop-thirupparankundram-hills/article71738876.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/Madurai/karthigai-deepam-lit-only-at-traditional-spot-atop-thirupparankundram-hills/article71738876.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-25T06:23:10+00:00",
-      "published_at_ist": "2026-11-25T11:53:10+05:30",
-      "summary": "Madurai Collector submitted before the Madurai Bench of the Madras High Court that the administration was taking steps to comply with the Supreme Court order",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "d8c64cc446325d46",
-      "title": "Para-sports selection trials held in Visakhapatnam",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-25T06:20:59+00:00",
-      "published_at_ist": "2026-11-25T11:50:59+05:30",
-      "summary": "",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "6264bb48cafe34a1",
-      "title": "‘Saam, daam, dand, bhed’: Congress’ swipe at Modi Govt over delimitation issue",
-      "url": "https://www.thehindu.com/news/national/saam-daam-dand-bhed-congress-swipe-at-modi-govt-over-delimitation-issue/article71741621.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/saam-daam-dand-bhed-congress-swipe-at-modi-govt-over-delimitation-issue/article71741621.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-25T09:08:20+00:00",
-      "published_at_ist": "2026-11-25T14:38:20+05:30",
-      "summary": "The Congress had earlier claimed that the continued suspense over the Parliament session suggested that either the \"PM-HM jodi\" is being trapped by its own bluff and bluster or something \"truly sinister\" is in the works",
+      "published_at_utc": "2026-11-26T08:53:35+00:00",
+      "published_at_ist": "2026-11-26T14:23:35+05:30",
+      "summary": "Congress MP Imran Masood, the party's working president in the state, has been arguing against the scanty seat allocation by the Akhilesh Yadav's party. It has sought 120 seats and is unwilling to accept a lower number.",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "d2a936401b3beadc",
-      "title": "KPCC steps in to quell infighting over ‘A group’ and Oommen Chandy’s political legacy in Keralam",
-      "url": "https://www.thehindu.com/news/national/kerala/kpcc-steps-in-to-quell-infighting-over-a-group-and-oommen-chandys-political-legacy-in-keralam/article71741548.ece",
+      "id": "22fcfa2e9545b649",
+      "title": "Jharkhand CM moves resolution against amended Mines and Minerals Act, claims ₹13,000 crore annual revenue loss",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-resolution-against-amended-mines-minerals-law-hemant-soren-govt/article71745477.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -245,54 +209,12 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/kpcc-steps-in-to-quell-infighting-over-a-group-and-oommen-chandys-political-legacy-in-keralam/article71741548.ece"
+          "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-resolution-against-amended-mines-minerals-law-hemant-soren-govt/article71745477.ece"
         }
       ],
-      "published_at_utc": "2026-11-25T08:39:52+00:00",
-      "published_at_ist": "2026-11-25T14:09:52+05:30",
-      "summary": "According to party insiders, KPCC president Sunny Joseph has asked AICC member and Kasaragod MP Rajmohan Unnithan not to escalate matters",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "1341be6d9d6bff8b",
-      "title": "Jharkhand Assembly’s special session starts; Finance Minister moves resolution against SIR",
-      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-special-session-resolution-sir-on-november-25-2026/article71741414.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-special-session-resolution-sir-on-november-25-2026/article71741414.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-25T08:00:28+00:00",
-      "published_at_ist": "2026-11-25T13:30:28+05:30",
-      "summary": "During the session, the House will deliberate on the special intensive revision (SIR) exercise and the amended mines law that was passed in Parliament in August",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "b5b2ecb76a6b3ad5",
-      "title": "Australian senator holds baby daughter while addressing Parliament, wins hearts",
-      "url": "https://www.indiatoday.in/newsmo/short-videos/australian-senator-holds-baby-daughter-while-addressing-parliament-wins-hearts-3046481-2026-11-25?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/newsmo/short-videos/australian-senator-holds-baby-daughter-while-addressing-parliament-wins-hearts-3046481-2026-11-25?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-25T07:53:09+00:00",
-      "published_at_ist": "2026-11-25T13:23:09+05:30",
-      "summary": "Australian senator holds baby daughter while addressing Parliament wins hearts",
+      "published_at_utc": "2026-11-26T06:40:57+00:00",
+      "published_at_ist": "2026-11-26T12:10:57+05:30",
+      "summary": "Moving the resolution, Hemant Soren said the amendment, passed by Parliament in August, would adversely affect the State's financial position and its ability to fund welfare and development programmes",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
@@ -319,9 +241,9 @@
       "is_major": false
     },
     {
-      "id": "e1ee86a352ce8709",
-      "title": "Ramayana in Oscars Best Visual Effects longlist beside Doomsday, Dune 3, The Odyssey",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-in-oscars-best-visual-effects-longlist-beside-avengers-doomsday-dune-3-the-odyssey-ranbir-sai-pallavi-3046543-2026-11-25?utm_source=rss",
+      "id": "913f87db11fae2e2",
+      "title": "iPhone 17 Pro Max gets major price drop",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-gets-major-price-drop-287802-25-11-2026?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -329,16 +251,96 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-in-oscars-best-visual-effects-longlist-beside-avengers-doomsday-dune-3-the-odyssey-ranbir-sai-pallavi-3046543-2026-11-25?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-in-oscars-best-visual-effects-longlist-beside-avengers-doomsday-dune-3-the-odyssey-ranbir-sai-pallavi-3046543-2026-11-25?utm_source=rss"
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-gets-major-price-drop-287802-25-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-25T10:11:37+00:00",
-      "published_at_ist": "2026-11-25T15:41:37+05:30",
-      "summary": "Ramayana in Oscars Best Visual Effects longlist beside Doomsday Dune The Odyssey",
+      "published_at_utc": "2026-11-26T09:50:03+00:00",
+      "published_at_ist": "2026-11-26T15:20:03+05:30",
+      "summary": "iPhone Pro Max gets major price drop",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "f1d3513fe4aa1398",
+      "title": "Apple AirPods 5 available at lowest price on Flipkart: Check deal and offers",
+      "url": "https://www.indiatoday.in/visualstories/technology/apple-airpods-5-available-at-lowest-price-on-flipkart-check-deal-and-offers-287801-25-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/apple-airpods-5-available-at-lowest-price-on-flipkart-check-deal-and-offers-287801-25-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:50:03+00:00",
+      "published_at_ist": "2026-11-26T15:20:03+05:30",
+      "summary": "Apple AirPods available at lowest price on Flipkart Check deal and offers",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "47a415b0d83b6adc",
+      "title": "Google Pixel 10 gets Rs 13,961 discount: Details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-gets-rs-13961-discount-details-here-287797-25-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-10-gets-rs-13961-discount-details-here-287797-25-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:50:03+00:00",
+      "published_at_ist": "2026-11-26T15:20:03+05:30",
+      "summary": "Google Pixel gets Rs discount Details here",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "0e24694828bd249d",
+      "title": "Google Pixel 11 gets Rs 16,000 discount, full details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-11-gets-rs-16000-discount-full-details-here-287794-25-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-11-gets-rs-16000-discount-full-details-here-287794-25-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:50:03+00:00",
+      "published_at_ist": "2026-11-26T15:20:03+05:30",
+      "summary": "Google Pixel gets Rs discount full details here",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "39fc180f947d3d7b",
+      "title": "iPhone 17 Pro price drops by Rs 18,000, details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-price-drops-by-rs-18000-details-here-287787-25-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-price-drops-by-rs-18000-details-here-287787-25-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:50:03+00:00",
+      "published_at_ist": "2026-11-26T15:20:03+05:30",
+      "summary": "iPhone Pro price drops by Rs details here",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
@@ -357,17 +359,17 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-now-available-under-rs-58000-but-you-need-the-right-cards-287769-24-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-25T10:10:05+00:00",
-      "published_at_ist": "2026-11-25T15:40:05+05:30",
+      "published_at_utc": "2026-11-26T09:50:03+00:00",
+      "published_at_ist": "2026-11-26T15:20:03+05:30",
       "summary": "iPhone now available under Rs but you need the right cards",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "be5f6793b322f761",
-      "title": "iPhone 16 Plus price drops to its lowest: Details here",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-plus-price-drops-to-its-lowest-details-here-287768-24-11-2026?utm_source=rss",
+      "id": "b95ff30e5c24ce76",
+      "title": "Garuda Purana: मृत्यु के बाद आत्मा कितने दिन तक भटकती है? गरुड़ पुराण की ये बातें चौंका देंगी!",
+      "url": "https://www.aajtak.in/religion/news/story/garuda-purana-what-happens-to-soul-after-death-49-days-yamlok-journey-tviss-dskc-2706670-2026-11-26?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -375,20 +377,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-plus-price-drops-to-its-lowest-details-here-287768-24-11-2026?utm_source=rss"
+          "url": "https://www.aajtak.in/religion/news/story/garuda-purana-what-happens-to-soul-after-death-49-days-yamlok-journey-tviss-dskc-2706670-2026-11-26?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-25T10:10:05+00:00",
-      "published_at_ist": "2026-11-25T15:40:05+05:30",
-      "summary": "iPhone Plus price drops to its lowest Details here",
+      "published_at_utc": "2026-11-26T09:48:03+00:00",
+      "published_at_ist": "2026-11-26T15:18:03+05:30",
+      "summary": "Garuda Purana",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "66a6d18c2ce799de",
-      "title": "iPhone 16 price drops by Rs 15,000, deal details here",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-price-drops-by-rs-15000-deal-details-here-287758-24-11-2026?utm_source=rss",
+      "id": "7f638ec492a991cc",
+      "title": "'कम बोलो, काम ज्यादा करो', इमरान मसूद को मल्लिकार्जुन खड़गे की दो टूक नसीहत",
+      "url": "https://www.aajtak.in/elections/assembly-chunav/story/mallikarjun-kharge-message-imran-masood-sp-congress-alliance-up-election-2027-ntc-mnrd-dskc-2706668-2026-11-26?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -396,20 +398,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-price-drops-by-rs-15000-deal-details-here-287758-24-11-2026?utm_source=rss"
+          "url": "https://www.aajtak.in/elections/assembly-chunav/story/mallikarjun-kharge-message-imran-masood-sp-congress-alliance-up-election-2027-ntc-mnrd-dskc-2706668-2026-11-26?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-25T10:10:05+00:00",
-      "published_at_ist": "2026-11-25T15:40:05+05:30",
-      "summary": "iPhone price drops by Rs deal details here",
+      "published_at_utc": "2026-11-26T09:48:03+00:00",
+      "published_at_ist": "2026-11-26T15:18:03+05:30",
+      "summary": "",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "90e5e780bb2a2f65",
-      "title": "iPhone Air price drops by Rs 60,000, check deal here",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-by-rs-60000-check-deal-here-287757-24-11-2026?utm_source=rss",
+      "id": "bc03d064a50588e6",
+      "title": "Sri Lanka A vs India A Live Score: भारत और श्रीलंका के बीच आज मुकाबला, किसने जीता टॉस, क्या वैभव करेंगे पहले बल्लेबाजी",
+      "url": "https://www.aajtak.in/sports/cricket/story/sri-lanka-a-vs-india-a-1st-semi-final-live-cricket-score-acc-mens-asia-cup-rising-stars-2026-match-vaibhav-tspok-dskc-2706667-2026-11-26?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -417,175 +419,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-air-price-drops-by-rs-60000-check-deal-here-287757-24-11-2026?utm_source=rss"
+          "url": "https://www.aajtak.in/sports/cricket/story/sri-lanka-a-vs-india-a-1st-semi-final-live-cricket-score-acc-mens-asia-cup-rising-stars-2026-match-vaibhav-tspok-dskc-2706667-2026-11-26?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-25T10:10:05+00:00",
-      "published_at_ist": "2026-11-25T15:40:05+05:30",
-      "summary": "iPhone Air price drops by Rs check deal here",
+      "published_at_utc": "2026-11-26T09:48:03+00:00",
+      "published_at_ist": "2026-11-26T15:18:03+05:30",
+      "summary": "Sri Lanka A vs India A Live Score",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "0542eb55c90a76f5",
-      "title": "iPhone 18 Pro gets price cut on Flipkart, here is how to get it under Rs 1 lakh",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-18-pro-gets-price-cut-on-flipkart-here-is-how-to-get-it-under-rs-1-lakh-287731-23-11-2026?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-18-pro-gets-price-cut-on-flipkart-here-is-how-to-get-it-under-rs-1-lakh-287731-23-11-2026?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-25T10:10:05+00:00",
-      "published_at_ist": "2026-11-25T15:40:05+05:30",
-      "summary": "iPhone Pro gets price cut on Flipkart here is how to get it under Rs lakh",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "cfc76229a6984049",
-      "title": "iPhone 17 price drop alert, check deal here",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drop-alert-check-deal-here-287729-23-11-2026?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drop-alert-check-deal-here-287729-23-11-2026?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-25T10:10:05+00:00",
-      "published_at_ist": "2026-11-25T15:40:05+05:30",
-      "summary": "iPhone price drop alert check deal here",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "ccbe3d8289345395",
-      "title": "Sensex ends 1,502 points higher, Nifty above 25,800; HUL up 6%",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-ends-1502-points-higher-nifty-above-25800-hul-up-6-market-rally-3046584-2026-11-25?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/business/market/story/sensex-ends-1502-points-higher-nifty-above-25800-hul-up-6-market-rally-3046584-2026-11-25?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/business/market/story/sensex-ends-1502-points-higher-nifty-above-25800-hul-up-6-market-rally-3046584-2026-11-25?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-25T10:09:12+00:00",
-      "published_at_ist": "2026-11-25T15:39:12+05:30",
-      "summary": "Sensex ends points higher Nifty above HUL up",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "c2ff2aa6b94212e7",
-      "title": "₹14 हजार से कम में खरीदें 5G फोन, Flipkart Sale में तगड़ी डील!",
-      "url": "https://www.aajtak.in/visualstories/technology/ai-plus-nova-2-neo-5g-flipkart-black-friday-sale-deal-price-prym-287779-25-11-2026?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/visualstories/technology/ai-plus-nova-2-neo-5g-flipkart-black-friday-sale-deal-price-prym-287779-25-11-2026?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-25T10:06:03+00:00",
-      "published_at_ist": "2026-11-25T15:36:03+05:30",
-      "summary": "G Flipkart Sale",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "9a49a6119b7fc175",
-      "title": "मेरठ होटल कांड का आरोपी सलमान गिरफ्तार, रोते हुए बोला- सर, गलती हो गई, माफ कर दो; देखें- VIDEO",
-      "url": "https://www.aajtak.in/uttar-pradesh/story/meerut-hotel-incident-accused-salman-shot-in-leg-during-police-encounter-lclam-strc-2705704-2026-11-25?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/uttar-pradesh/story/meerut-hotel-incident-accused-salman-shot-in-leg-during-police-encounter-lclam-strc-2705704-2026-11-25?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-25T10:06:03+00:00",
-      "published_at_ist": "2026-11-25T15:36:03+05:30",
-      "summary": "VIDEO",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "db4d1cb9dc0a235f",
-      "title": "Thirupparankundram row: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
-      "url": "https://www.thehindu.com/news/national/supreme-court-hearing-on-deepathoon-case-madurai-tamil-nadu/article71741225.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-hearing-on-deepathoon-case-madurai-tamil-nadu/article71741225.ece"
-        },
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-25T10:04:25+00:00",
-      "published_at_ist": "2026-11-25T15:34:25+05:30",
-      "summary": "The Board of Trustees’ resolution recorded their unanimous decision to light the lamp at the traditional place “on the basis of historical continuity, Agamic evidence and the opinions of the Sthanikars”",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "79ffdd8a7a904938",
-      "title": "Telangana Govt to set up single window system for hassle free development of poultry sector: CM Revanth Reddy",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-set-up-single-window-system-for-hassle-free-development-of-poultry-sector-cm-revanth-reddy/article71741870.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-set-up-single-window-system-for-hassle-free-development-of-poultry-sector-cm-revanth-reddy/article71741870.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-25T10:04:11+00:00",
-      "published_at_ist": "2026-11-25T15:34:11+05:30",
-      "summary": "Revanth Reddy says poultry sector will be treated as priority area to formulate long term policies",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "dbfc561b75cff0eb",
-      "title": "Murder Accused's Hand Chopped Off With Machete, Then Shot Outside Pune Court",
-      "url": "https://www.ndtv.com/pune-news/murder-accuseds-hand-chopped-off-with-machete-then-shot-dead-outside-pune-court-12374587#publisher=newsstand",
+      "id": "581d61539d0bbd4b",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 330 Points Higher, Asia Markets Rebound",
+      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-26-november-us-iran-war-oil-price-12378440#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -593,181 +440,328 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/pune-news/murder-accuseds-hand-chopped-off-with-machete-then-shot-dead-outside-pune-court-12374587#publisher=newsstand"
+          "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-26-november-us-iran-war-oil-price-12378440#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-25T09:39:43+00:00",
-      "published_at_ist": "2026-11-25T15:09:43+05:30",
-      "summary": "The man was identified as Mandar Maruti Kiwale",
-      "category": "Politics & Governance",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "1d36ea058116f619",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,300 Points. Infosys, TCS, HDFC Bank Gain",
-      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-november-us-iran-war-oil-price-12373259#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-november-us-iran-war-oil-price-12373259#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-25T09:12:52+00:00",
-      "published_at_ist": "2026-11-25T14:42:52+05:30",
+      "published_at_utc": "2026-11-26T09:44:50+00:00",
+      "published_at_ist": "2026-11-26T15:14:50+05:30",
       "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
       "category": "Business & Economy",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "08f27f07cff00250",
-      "title": "Share Market Today: This Smallcap Stock Plans Rs 648 Crore Fundraise: Do You Own?",
-      "url": "https://www.ndtv.com/business-news/share-market-today-this-smallcap-stock-plans-rs-648-crore-fundraise-do-you-own-12374579#publisher=newsstand",
-      "source": "NDTV",
+      "id": "431537315a50fe06",
+      "title": "ASI unveils tactile experience model of iconic sculpture of Gangaikondacholapuram Brihadisvara Temple",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/asi-unveils-tactile-experience-model-of-iconic-sculpture-of-brihadisvara-temple/article71742537.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/business-news/share-market-today-this-smallcap-stock-plans-rs-648-crore-fundraise-do-you-own-12374579#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/asi-unveils-tactile-experience-model-of-iconic-sculpture-of-brihadisvara-temple/article71742537.ece"
         }
       ],
-      "published_at_utc": "2026-11-25T09:10:03+00:00",
-      "published_at_ist": "2026-11-25T14:40:03+05:30",
-      "summary": "Share Market News: The proposed issue price includes a premium of Rs 107 per share.",
-      "category": "Business & Economy",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "acbd100a12a67582",
-      "title": "After 11 Years At Flipkart, CEO Kalyan Krishnamurthy Is Quitting Ahead Of IPO. Why Now?",
-      "url": "https://www.ndtv.com/business-news/after-11-years-at-flipkart-ceo-kalyan-krishnamurthy-is-quitting-ahead-of-ipo-why-now-12374707#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/business-news/after-11-years-at-flipkart-ceo-kalyan-krishnamurthy-is-quitting-ahead-of-ipo-why-now-12374707#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-25T09:07:33+00:00",
-      "published_at_ist": "2026-11-25T14:37:33+05:30",
-      "summary": "During his Kalyan Krishnamurthy's tenure, Flipkart's business grew more than fivefold.",
-      "category": "Business & Economy",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "9c3689493488efaf",
-      "title": "After BJP-Akali Alliance In Punjab, Congress Looks At Left",
-      "url": "https://www.ndtv.com/india-news/punjab-elections-2027-after-bjp-akali-alliance-in-punjab-congress-looks-at-left-12374676#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/punjab-elections-2027-after-bjp-akali-alliance-in-punjab-congress-looks-at-left-12374676#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-25T09:00:48+00:00",
-      "published_at_ist": "2026-11-25T14:30:48+05:30",
-      "summary": "Both Communist parties are constituents of the INDIA bloc at the national level.",
+      "published_at_utc": "2026-11-26T09:44:41+00:00",
+      "published_at_ist": "2026-11-26T15:14:41+05:30",
+      "summary": "Booklet in Braille language on the temple, listed as one of the great living Chola temples by UNESCO, also released",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "c4dc0f9e3020b3e4",
-      "title": "\"No Spy Story\": Saudi Man Who Bugged OpenAI Office In US Gets Bail",
-      "url": "https://www.ndtv.com/world-news/no-spy-story-saudi-man-who-bugged-openai-office-in-us-gets-bail-12374664#publisher=newsstand",
-      "source": "NDTV",
+      "id": "a948503db605fd21",
+      "title": "Gadkari announces ₹1 lakh crore road projects for Bengal",
+      "url": "https://www.thehindu.com/news/national/west-bengal/gadkari-announces-1-lakh-crore-road-projects-for-bengal/article71745900.ece",
+      "source": "The Hindu",
       "sources": [
-        "NDTV"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/no-spy-story-saudi-man-who-bugged-openai-office-in-us-gets-bail-12374664#publisher=newsstand"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/west-bengal/gadkari-announces-1-lakh-crore-road-projects-for-bengal/article71745900.ece"
         }
       ],
-      "published_at_utc": "2026-11-25T08:59:06+00:00",
-      "published_at_ist": "2026-11-25T14:29:06+05:30",
-      "summary": "Alfozan is expected to be released on Wednesday.",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "5e4fe8cd4299cfa8",
-      "title": "Terrorists Try To Sell J&K Land To Fund Terror, Cops Seal Their Property",
-      "url": "https://www.ndtv.com/india-news/terrorists-try-to-sell-jammu-and-kashmir-land-to-fund-terror-cops-seal-their-property-12374642#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/terrorists-try-to-sell-jammu-and-kashmir-land-to-fund-terror-cops-seal-their-property-12374642#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-25T08:53:49+00:00",
-      "published_at_ist": "2026-11-25T14:23:49+05:30",
-      "summary": "All five terrorists are associated with the Hizbul Mujahideen terror outfit.",
-      "category": "Security & Defence",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "5f6a3114d25f2847",
-      "title": "3 Killed, 2 Missing After 6 Of Family Thrown Into Canal In Gujarat",
-      "url": "https://www.ndtv.com/india-news/3-killed-2-missing-after-6-of-maharashtra-family-thrown-into-canal-in-surat-gujarat-12374090#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/3-killed-2-missing-after-6-of-maharashtra-family-thrown-into-canal-in-surat-gujarat-12374090#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-25T08:41:21+00:00",
-      "published_at_ist": "2026-11-25T14:11:21+05:30",
-      "summary": "During the search, the bodies of a man, a woman, and a girl were recovered from the Ukai-Kakrapar canal near Dungri in Mahuva taluka, police said.",
-      "category": "India & General",
-      "importance_score": 1,
-      "is_major": false
-    },
-    {
-      "id": "10596821643ff0fe",
-      "title": "CJP's Saurav Das Approaches Court After He Was Stopped From Flying To UK",
-      "url": "https://www.ndtv.com/india-news/cjps-saurav-das-approaches-delhi-high-court-after-he-was-stopped-from-flying-to-uk-12374078#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/cjps-saurav-das-approaches-delhi-high-court-after-he-was-stopped-from-flying-to-uk-12374078#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-25T08:36:13+00:00",
-      "published_at_ist": "2026-11-25T14:06:13+05:30",
-      "summary": "Saurav Das' counsel mentioned the matter for urgent hearing before a bench.",
+      "published_at_utc": "2026-11-26T09:44:40+00:00",
+      "published_at_ist": "2026-11-26T15:14:40+05:30",
+      "summary": "The Union Minister said the Centre is committed to strengthening road infrastructure in the State and accelerating projects that would improve connectivity with neighbouring States",
       "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "4a1844d1cc50327f",
+      "title": "Nvidia Halts Server Shipments To 4 Southeast Asian Countries: Report",
+      "url": "https://www.ndtv.com/world-news/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report-12380116#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report-12380116#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:42:13+00:00",
+      "published_at_ist": "2026-11-26T15:12:13+05:30",
+      "summary": "The move follows new US curbs that took effect last week",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "f8e9542329b4713d",
+      "title": "Defence, aerospace sector outpaces IT and pharma growth in Telangana: Minister Uttam Kumar Reddy",
+      "url": "https://www.thehindu.com/news/national/telangana/defence-aerospace-sector-outpaces-it-and-pharma-growth-in-telangana-minister-uttam-kumar-reddy/article71745871.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/telangana/defence-aerospace-sector-outpaces-it-and-pharma-growth-in-telangana-minister-uttam-kumar-reddy/article71745871.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:41:47+00:00",
+      "published_at_ist": "2026-11-26T15:11:47+05:30",
+      "summary": "Telangana well positioned to emerge as a major partner in global defence and aerospace manufacturing networks, Uttam Kumar Reddy said at CII conclave in Hyderabad",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "4119735c7294b0e0",
+      "title": "Polling under way in 23 urban local bodies and 3,240 gram panchayats in Andhra Pradesh | LIVE",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:37:56+00:00",
+      "published_at_ist": "2026-11-26T15:07:56+05:30",
+      "summary": "Around 25 lakh voters to exercise their franchise in 964 wards; 2,968 candidates are in the fray; the count of votes scheduled for November 30",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "3ca97b29b6b2ddb0",
+      "title": "KPSC recruitment scam in Karnataka: How question papers and answer keys reached candidates ahead of exams | Explained",
+      "url": "https://www.thehindu.com/news/national/karnataka/kpsc-recruitment-scam-in-karnataka-how-question-papers-and-answer-keys-reached-candidates-ahead-of-exams-explained/article71741790.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/kpsc-recruitment-scam-in-karnataka-how-question-papers-and-answer-keys-reached-candidates-ahead-of-exams-explained/article71741790.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:37:25+00:00",
+      "published_at_ist": "2026-11-26T15:07:25+05:30",
+      "summary": "The ED has filed a filed a prosecution complaint under the Prevention of Money Laundering Act (PMLA) against the former KPSC Chairman Shivashankarappa Sahukar, member B.V. Geetha Shivamurthy, Controller of Examinations Gyanendra Kumar Gangwar and his associate Basavaraj Kannale",
+      "category": "Education",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "a6924a2c7e20d051",
+      "title": "78 MoUs signed at second edition of VETTRI Tamil Nadu Investment and Conversion Conclave",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/78-mous-signed-at-second-edition-of-vettri-tamil-nadu-investment-and-conversion-conclave/article71741815.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/78-mous-signed-at-second-edition-of-vettri-tamil-nadu-investment-and-conversion-conclave/article71741815.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:36:29+00:00",
+      "published_at_ist": "2026-11-26T15:06:29+05:30",
+      "summary": "The MoUs involve investments worth ₹58,214 crore, with the potential to generate 65,786 jobs across various sectors.",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "0a436458fe4e9ec8",
+      "title": "CPI(M) leader T.I. Madhusoodanan faces flak over ‘threatening’ speech after Dhanraj murder verdict",
+      "url": "https://www.thehindu.com/news/national/kerala/cpim-leader-ti-madhusoodanan-faces-flak-over-threatening-speech-after-dhanraj-murder-verdict/article71745888.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/cpim-leader-ti-madhusoodanan-faces-flak-over-threatening-speech-after-dhanraj-murder-verdict/article71745888.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:35:33+00:00",
+      "published_at_ist": "2026-11-26T15:05:33+05:30",
+      "summary": "",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "7da635b123155f47",
+      "title": "Trump's New Tariff Threat To India Comes With Relief Clause, But At A Cost",
+      "url": "https://www.ndtv.com/world-news/trumps-new-tariff-threat-to-india-comes-with-relief-clause-but-at-a-cost-12380082#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/trumps-new-tariff-threat-to-india-comes-with-relief-clause-but-at-a-cost-12380082#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:35:23+00:00",
+      "published_at_ist": "2026-11-26T15:05:23+05:30",
+      "summary": "Washington has claimed that Indian industrial policy is contributing to global overcapacity",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "3041d89770f6308b",
+      "title": "Church on ‘government land’ vandalised in Odisha village, peace committee formed",
+      "url": "https://www.thehindu.com/news/national/odisha/church-on-government-land-vandalised-in-odisha-village-peace-committee-formed/article71745753.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/odisha/church-on-government-land-vandalised-in-odisha-village-peace-committee-formed/article71745753.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:32:31+00:00",
+      "published_at_ist": "2026-11-26T15:02:31+05:30",
+      "summary": "The incident came to light after an individual belonging to the only Christian family in the tribal village, lodged a police complaint on November 21, alleging that a group of locals had vandalised the Beersheba Pentecostal Church",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "cffa9d1f7b90c9ab",
+      "title": "Opposition Spooked By Supriya Sule's Remarks On Delimitation? What She Said",
+      "url": "https://www.ndtv.com/india-news/opposition-spooked-by-ncp-sp-supriya-sule-remarks-on-delimitation-what-she-said-12379997#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/opposition-spooked-by-ncp-sp-supriya-sule-remarks-on-delimitation-what-she-said-12379997#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:20:24+00:00",
+      "published_at_ist": "2026-11-26T14:50:24+05:30",
+      "summary": "NCP(SP) leader Supriya Sule",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "f8e84e315cc604aa",
+      "title": "Court Setback For Lalu Yadav, Wife And Son In Railway Hotel Scam Case",
+      "url": "https://www.ndtv.com/india-news/delhi-high-court-setback-for-lalu-prasad-yadav-wife-rabri-devi-and-son-tejashwi-yadav-in-railway-hotel-scam-case-12379821#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/delhi-high-court-setback-for-lalu-prasad-yadav-wife-rabri-devi-and-son-tejashwi-yadav-in-railway-hotel-scam-case-12379821#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:15:31+00:00",
+      "published_at_ist": "2026-11-26T14:45:31+05:30",
+      "summary": "A single-judge Bench of Justice Swarana Kanta Sharma rejected the pleas and upheld the trial court's order framing charges against the accused.",
+      "category": "Politics & Governance",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "45b2ed996801ab37",
+      "title": "How Mumbai Station Railway Announcers Helped People As Kasab, His Aide Fired At Them",
+      "url": "https://www.ndtv.com/india-news/how-mumbai-station-railway-announcers-helped-people-as-kasab-his-aide-fired-at-them-26-11-12378990#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/how-mumbai-station-railway-announcers-helped-people-as-kasab-his-aide-fired-at-them-26-11-12378990#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:09:56+00:00",
+      "published_at_ist": "2026-11-26T14:39:56+05:30",
+      "summary": "Deepak, then a relatively new announcer, said he noticed thick smoke near platforms.",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "c420696f9463eb07",
+      "title": "Not Bigger Homes, Green Spaces Are The New Currency In Luxury Real Estate",
+      "url": "https://www.ndtv.com/business-news/not-bigger-homes-green-spaces-are-the-new-currency-in-luxury-real-estate-12378207#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/business-news/not-bigger-homes-green-spaces-are-the-new-currency-in-luxury-real-estate-12378207#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:08:14+00:00",
+      "published_at_ist": "2026-11-26T14:38:14+05:30",
+      "summary": "The growing preference for greenery comes at a time when urban density is increasing.",
+      "category": "Technology & Science",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "2a4a6d0b49e61194",
+      "title": "Man Falls Ill, Dies During Horse Race At Anant Singh's Daughter's Wedding",
+      "url": "https://www.ndtv.com/india-news/man-falls-ill-dies-during-horse-race-at-anant-singhs-daughter-shivangi-singhs-wedding-12379808#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/man-falls-ill-dies-during-horse-race-at-anant-singhs-daughter-shivangi-singhs-wedding-12379808#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-26T09:06:11+00:00",
+      "published_at_ist": "2026-11-26T14:36:11+05:30",
+      "summary": "Police personnel rushed him to the Barh Sub-Divisional Hospital in an unconscious condition.",
+      "category": "Health",
       "importance_score": 1,
       "is_major": false
     }
