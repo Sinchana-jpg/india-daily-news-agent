@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-27T09:59:05.571808+00:00",
-  "generated_at_ist": "2026-11-27T15:29:05.571808+05:30",
+  "generated_at_utc": "2026-11-28T09:15:26.879514+00:00",
+  "generated_at_ist": "2026-11-28T14:45:26.879514+05:30",
   "title": "India Daily News Brief",
-  "summary": "35 stories collected from 4 sources; 10 highlighted as major.",
+  "summary": "35 stories collected from 4 sources; 9 highlighted as major.",
   "sources_checked": [
     "The Hindu",
     "NDTV",
@@ -14,16 +14,16 @@
   ],
   "total_stories": 35,
   "categories": {
-    "Politics & Governance": 22,
-    "India & General": 11,
-    "Security & Defence": 1,
-    "Climate & Environment": 1
+    "Politics & Governance": 16,
+    "Business & Economy": 3,
+    "India & General": 15,
+    "Technology & Science": 1
   },
   "stories": [
     {
-      "id": "0d8ac4e838e90b93",
-      "title": "Thirupparankundram 'deepathoon' row LIVE: Supreme Court declares authorities 'wilfully disobeyed' court orders, suspends Board of Trustees",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece",
+      "id": "86fd18cc6e37b0cd",
+      "title": "Supreme Court clears way for Hockey India election on December 5, sets aside Orissa HC orders",
+      "url": "https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -31,41 +31,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece"
+          "url": "https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T09:46:07+00:00",
-      "published_at_ist": "2026-11-27T15:16:07+05:30",
-      "summary": "The apex court issues show cause notices on contempt against Tamil Nadu Chief Secretary, DGP, HR&CE Commissioner, Board of Trustees Chairperson and Trustees",
+      "published_at_utc": "2026-11-28T09:10:29+00:00",
+      "published_at_ist": "2026-11-28T14:40:29+05:30",
+      "summary": "The bench said grievances of Hockey Odisha will be redressed by a committee headed by ex-apex court judge Justice A.K. Sikri",
       "category": "Politics & Governance",
-      "importance_score": 4,
+      "importance_score": 5,
       "is_major": true
     },
     {
-      "id": "ca0a76262676818c",
-      "title": "The bulldozer and the balance sheet: Is Yogi Adityanath an election shoo-in ?",
-      "url": "https://www.indiatoday.in/opinion/story/yogi-adityanath-up-election-welfare-law-order-jobs-caste-3048242-2026-11-27?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/opinion/story/yogi-adityanath-up-election-welfare-law-order-jobs-caste-3048242-2026-11-27?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-27T09:30:30+00:00",
-      "published_at_ist": "2026-11-27T15:00:30+05:30",
-      "summary": "The bulldozer and the balance sheet Is Yogi Adityanath an election shooin",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "5d6377a4f2a99b10",
-      "title": "Polavaram evacuees boycott panchayat polls in Eluru district, demand separate panchayat",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/polavaram-evacuees-boycott-panchayat-polls-in-eluru-district-demand-separate-panchayat/article71746897.ece",
+      "id": "fe3e2bd4b1041396",
+      "title": "Supreme Court refuses to entertain plea to reduce minimum age for contesting elections",
+      "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -73,20 +52,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/polavaram-evacuees-boycott-panchayat-polls-in-eluru-district-demand-separate-panchayat/article71746897.ece"
+          "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T09:13:39+00:00",
-      "published_at_ist": "2026-11-27T14:43:39+05:30",
-      "summary": "Families resettled at Koruturu R&R Colony also stayed away from the MPTC and ZPTC elections earlier this month",
+      "published_at_utc": "2026-11-28T08:08:30+00:00",
+      "published_at_ist": "2026-11-28T13:38:30+05:30",
+      "summary": "When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’",
       "category": "Politics & Governance",
-      "importance_score": 4,
+      "importance_score": 5,
       "is_major": true
     },
     {
-      "id": "c2fd0032c338bd7f",
-      "title": "Madras High Court refuses to reject election petition challenging CM Vijay’s victory from Perambur",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-petition-filed-against-cm-vijays-victory-from-perambur/article71749399.ece",
+      "id": "ae8451a7f6febe36",
+      "title": "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; access restricted to select witnesses",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -94,20 +73,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-petition-filed-against-cm-vijays-victory-from-perambur/article71749399.ece"
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T09:11:22+00:00",
-      "published_at_ist": "2026-11-27T14:41:22+05:30",
-      "summary": "Justice V. Lakshminarayanan dismisses an application filed by the Chief Minister to reject the election petition filed by a voter, S. Dinesh",
+      "published_at_utc": "2026-11-28T09:00:09+00:00",
+      "published_at_ist": "2026-11-28T14:30:09+05:30",
+      "summary": "Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "ea17adbab6ce1e7f",
-      "title": "Supreme Court rejects plea to remove video of Italian politician’s ‘Vote Chor’ slogan at Bharat Summit 2026",
-      "url": "https://www.thehindu.com/news/national/supreme-court-rejects-plea-to-remove-video-of-italian-politicians-vote-chor-slogan-at-bharat-summit-2026/article71749802.ece",
+      "id": "ea1160701272959a",
+      "title": "Thirupparankundram row: Palaniswami condemns TVK-led govt. over Supreme Court’s remarks",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-palaniswami-condemns-tvk-led-govt-over-supreme-courts-remarks/article71753623.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -115,20 +94,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-rejects-plea-to-remove-video-of-italian-politicians-vote-chor-slogan-at-bharat-summit-2026/article71749802.ece"
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-palaniswami-condemns-tvk-led-govt-over-supreme-courts-remarks/article71753623.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T08:55:13+00:00",
-      "published_at_ist": "2026-11-27T14:25:13+05:30",
-      "summary": "After the Bench said it was dismissing the petition, the petitioner’s counsel urged that the authorities be asked to treat the same as a representation",
+      "published_at_utc": "2026-11-28T07:49:40+00:00",
+      "published_at_ist": "2026-11-28T13:19:40+05:30",
+      "summary": "The law, the Constitution, and the Supreme Court must be treated with dignity, he said",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "9b11fa260c06420a",
-      "title": "Supreme Court refuses urgent listing of plea against Ranbir Kapoor-starrer Ramayana",
-      "url": "https://www.thehindu.com/entertainment/movies/supreme-court-refuses-urgent-listing-of-plea-against-ranbir-kapoor-starrer-ramayana/article71749619.ece",
+      "id": "d2a171db3a621c76",
+      "title": "In Kolkata, the BJP redraws power lines",
+      "url": "https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -136,20 +115,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/entertainment/movies/supreme-court-refuses-urgent-listing-of-plea-against-ranbir-kapoor-starrer-ramayana/article71749619.ece"
+          "url": "https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T07:53:35+00:00",
-      "published_at_ist": "2026-11-27T13:23:35+05:30",
-      "summary": "A Bench headed by CJI Surya Kant said anyone with a different view of the epic is free to make a film of their own, as the film is already running in theatres",
+      "published_at_utc": "2026-11-28T06:43:44+00:00",
+      "published_at_ist": "2026-11-28T12:13:44+05:30",
+      "summary": "The BJP government in West Bengal has taken up a delimitation exercise of civic bodies of the twin cities of Kolkata and Howrah, increasing the number of wards in both municipal corporations. Opposition parties have claimed there has been gerrymandering. Elections will impact over seven million people. Shrabana Chatterjee and Shiv Sahay Singh examine the delimitation exercise and the related legal challenges",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "546836ada797a6cc",
-      "title": "Supreme Court grants bail to former AAP MLA Naresh Balyan in MCOCA case",
-      "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-grants-bail-to-former-aap-mla-naresh-balyan-in-mcoca-case/article71749634.ece",
+      "id": "dc679f76ef96d871",
+      "title": "Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit",
+      "url": "https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -157,34 +136,55 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-grants-bail-to-former-aap-mla-naresh-balyan-in-mcoca-case/article71749634.ece"
+          "url": "https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T07:46:49+00:00",
-      "published_at_ist": "2026-11-27T13:16:49+05:30",
-      "summary": "A bench of Justices Vikram Nath and Aparesh Kumar Singh passed the order while hearing Mr. Balyan’s plea challenging a Delhi High Court order denying him bail in the case",
+      "published_at_utc": "2026-11-28T05:48:38+00:00",
+      "published_at_ist": "2026-11-28T11:18:38+05:30",
+      "summary": "Indian and Nepali delegations came up with the ten-pillar vision document titled ‘Viksit Bharat-Samunnat Nepal: Reimagining the Partnership’",
       "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
     {
-      "id": "23a810f37f2f3c38",
-      "title": "UK man spots late daughter's name on plaque in GTA 6, shares heartbreaking story",
-      "url": "https://www.indiatoday.in/trending-news/story/uk-man-spots-late-daughters-name-on-plaque-in-gta-6-shares-heartbreaking-story-3048104-2026-11-27?utm_source=rss",
-      "source": "India Today",
+      "id": "3a103f0d9b6ac4d7",
+      "title": "Why the Supreme Court wants red warning labels on unhealthy packaged foods | Explained",
+      "url": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece",
+      "source": "The Hindu",
       "sources": [
-        "India Today"
+        "The Hindu"
       ],
       "source_links": [
         {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/trending-news/story/uk-man-spots-late-daughters-name-on-plaque-in-gta-6-shares-heartbreaking-story-3048104-2026-11-27?utm_source=rss"
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T07:36:18+00:00",
-      "published_at_ist": "2026-11-27T13:06:18+05:30",
-      "summary": "UK man spots late daughters name on plaque in GTA shares heartbreaking story",
-      "category": "India & General",
+      "published_at_utc": "2026-11-28T05:42:18+00:00",
+      "published_at_ist": "2026-11-28T11:12:18+05:30",
+      "summary": "The Supreme Court, earlier this week, directed the FSSAI to introduce a single-phase front-of-pack nutrition labelling (FoPNL) regime and gave the regulator four months to finalise the draft regulations",
+      "category": "Politics & Governance",
+      "importance_score": 4,
+      "is_major": true
+    },
+    {
+      "id": "ef7af2a081bb1e5f",
+      "title": "Supreme Court orders Karthigai Deepam to be lit at ‘deepathoon’ on November 28; issues contempt notice",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-orders-karthigai-deepam-to-be-lit-on-deepathoon-on-november-28-issues-contempt-notice/article71751465.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-orders-karthigai-deepam-to-be-lit-on-deepathoon-on-november-28-issues-contempt-notice/article71751465.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-28T05:03:34+00:00",
+      "published_at_ist": "2026-11-28T10:33:34+05:30",
+      "summary": "Bench directs Tamil Nadu Chief Secretary, DGP, Madurai District Collector, temple authorities to be present for next hearing on Dec. 15; court sees ‘pre-meditated conspiracy' between State and temple trustees",
+      "category": "Politics & Governance",
       "importance_score": 4,
       "is_major": true
     },
@@ -210,30 +210,9 @@
       "is_major": true
     },
     {
-      "id": "df81de0425804ac1",
-      "title": "Supreme Court resets rules for food packet warnings",
-      "url": "https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-26T09:20:34+00:00",
-      "published_at_ist": "2026-11-26T14:50:34+05:30",
-      "summary": "Supreme Court resets rules for food packet warnings",
-      "category": "Politics & Governance",
-      "importance_score": 4,
-      "is_major": true
-    },
-    {
-      "id": "809a4422e1d359a1",
-      "title": "Odisha’s interest must be protected: BJD on delimitation bill",
-      "url": "https://www.thehindu.com/news/national/odisha/odishas-interest-must-be-protected-bjd-on-delimitation-bill/article71750126.ece",
+      "id": "129e11ddef05a53d",
+      "title": "INDIA bloc leaders meet at Kharge’s residence to discuss joint strategy ahead of Parliament’s special sitting",
+      "url": "https://www.thehindu.com/news/national/parliaments-special-sitting-india-bloc-floor-leaders-deliberate-joint-strategy/article71753841.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -241,125 +220,20 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/odisha/odishas-interest-must-be-protected-bjd-on-delimitation-bill/article71750126.ece"
+          "url": "https://www.thehindu.com/news/national/parliaments-special-sitting-india-bloc-floor-leaders-deliberate-joint-strategy/article71753841.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T09:44:11+00:00",
-      "published_at_ist": "2026-11-27T15:14:11+05:30",
-      "summary": "The regional party says the party will come up with a formal stand once details of bill to be discussed in Parliament is made available",
+      "published_at_utc": "2026-11-28T08:28:23+00:00",
+      "published_at_ist": "2026-11-28T13:58:23+05:30",
+      "summary": "Kapil Sibal alleged that the government’s delimitation Bill is aimed at keeping the BJP in power for 30-40 years, as the Centre is set to introduce a fresh constitutional amendment Bill on Monday (November 30, 2026)",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "02d6bf689968ffb7",
-      "title": "Ex-CJI Gavai writes to President Murmu, alleges ‘complete disregard’ for merit and inclusivity in judicial appointments",
-      "url": "https://www.thehindu.com/news/national/ex-cji-gavai-writes-to-president-murmu-alleges-complete-disregard-for-merit-and-inclusivity-in-judicial-appointments/article71750043.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/ex-cji-gavai-writes-to-president-murmu-alleges-complete-disregard-for-merit-and-inclusivity-in-judicial-appointments/article71750043.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-27T09:37:18+00:00",
-      "published_at_ist": "2026-11-27T15:07:18+05:30",
-      "summary": "Former CJI says recent Collegium recommendations to constitutional courts favour ‘one particular section’, to the exclusion of marginalised communities",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "7bac321f634ad048",
-      "title": "Kharge convenes Opposition floor leaders to meet on November 28 for devising strategy, DMK invited",
-      "url": "https://www.thehindu.com/news/national/kharge-convenes-opposition-floor-leaders-to-meet-on-november-28-for-devising-strategy-dmk-invited/article71750083.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kharge-convenes-opposition-floor-leaders-to-meet-on-november-28-for-devising-strategy-dmk-invited/article71750083.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-27T09:36:30+00:00",
-      "published_at_ist": "2026-11-27T15:06:30+05:30",
-      "summary": "While INDIA bloc parties’ floor leaders in Parliament will be present, non-INDIA bloc Opposition parties such as the DMK, the AAP and the BJD, among others, have also been invited for the meeting, says sources",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "b8dd5345576acc87",
-      "title": "Parliament's special sitting not for women’s quota but delimitation, will be resisted with all might: Congress",
-      "url": "https://www.thehindu.com/news/national/pm-hm-jodi-lying-special-sitting-not-for-womens-quota-but-delimitation-congress/article71749507.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/pm-hm-jodi-lying-special-sitting-not-for-womens-quota-but-delimitation-congress/article71749507.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-27T08:26:02+00:00",
-      "published_at_ist": "2026-11-27T13:56:02+05:30",
-      "summary": "The Opposition party said the government is convening a session, slated to begin on November 30, on the delimitation bill, which it will firmly oppose",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "01b9a8439b683544",
-      "title": "KTR condemns Congress supporters’ attack on BRS leaders at hotel in Hyderabad’s RTC X roads",
-      "url": "https://www.thehindu.com/news/national/telangana/ktr-condemns-congress-supporters-attack-on-brs-leaders-at-hotel-in-hyderabads-rtc-x-roads/article71747940.ece",
-      "source": "The Hindu",
-      "sources": [
-        "The Hindu"
-      ],
-      "source_links": [
-        {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/ktr-condemns-congress-supporters-attack-on-brs-leaders-at-hotel-in-hyderabads-rtc-x-roads/article71747940.ece"
-        }
-      ],
-      "published_at_utc": "2026-11-27T07:58:21+00:00",
-      "published_at_ist": "2026-11-27T13:28:21+05:30",
-      "summary": "BRS working president sought to know how arranging a dinner to commemorate Rahul Gandhi’s promise was a crime",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "9e24fab8e184e565",
-      "title": "India's 'AI kid' snags a selfie and a sit-down with President Putin",
-      "url": "https://www.indiatoday.in/newsmo/short-videos/indias-ai-kid-snags-a-selfie-and-a-sit-down-with-president-putin-3048164-2026-11-27?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/newsmo/short-videos/indias-ai-kid-snags-a-selfie-and-a-sit-down-with-president-putin-3048164-2026-11-27?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-27T07:51:20+00:00",
-      "published_at_ist": "2026-11-27T13:21:20+05:30",
-      "summary": "Indias AI kid snags a selfie and a sitdown with President Putin",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "6847bad20cab3a23",
-      "title": "How Huang Foundation Gained $2.3 Billion In A Day With Jensen's Nvidia Return",
-      "url": "https://www.ndtv.com/world-news/the-huang-foundation-gained-2-3-billion-in-a-day-with-jensens-nvidia-return-12383819#publisher=newsstand",
+      "id": "5db99609977f3169",
+      "title": "Boost To Centre As DMK Declares Support For Delimitation Bill",
+      "url": "https://www.ndtv.com/india-news/parliament-special-session-boost-to-centre-as-dmk-declares-support-for-delimitation-bill-12387945#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -367,41 +241,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/world-news/the-huang-foundation-gained-2-3-billion-in-a-day-with-jensens-nvidia-return-12383819#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/parliament-special-session-boost-to-centre-as-dmk-declares-support-for-delimitation-bill-12387945#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-27T07:33:07+00:00",
-      "published_at_ist": "2026-11-27T13:03:07+05:30",
-      "summary": "Lori Huang has served as the foundation's president since 2014",
+      "published_at_utc": "2026-11-28T07:57:41+00:00",
+      "published_at_ist": "2026-11-28T13:27:41+05:30",
+      "summary": "DMK's 22 MPs will bolster ruling side's numbers in Parliament",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "6c6938f5e495918b",
-      "title": "Big Push For Jobs, Affordable Homes In Budget? What Gen Z Told N Sitharaman",
-      "url": "https://www.ndtv.com/business-news/n-sitharaman-meets-gen-z-affordable-home-push-in-budget-2027-what-we-know-12383739#publisher=newsstand",
-      "source": "NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "source_links": [
-        {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/business-news/n-sitharaman-meets-gen-z-affordable-home-push-in-budget-2027-what-we-know-12383739#publisher=newsstand"
-        }
-      ],
-      "published_at_utc": "2026-11-27T07:11:28+00:00",
-      "published_at_ist": "2026-11-27T12:41:28+05:30",
-      "summary": "Finance Minister Nirmala Sitharaman held a pre-Budget consultation with Gen Z representatives.",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "0161eca8f6bfa352",
-      "title": "Special session of Parliament: Congress, NCP(SP) issue whip to party MPs",
-      "url": "https://www.thehindu.com/news/national/special-session-of-parliament-from-nov-30-congress-ncp-sp/article71749775.ece",
+      "id": "c1e2e9d44417f30b",
+      "title": "President Murmu says maritime domain increasingly important in interconnected world",
+      "url": "https://www.thehindu.com/news/national/kerala/president-murmu-says-maritime-domain-increasingly-important-in-interconnected-world/article71753670.ece",
       "source": "The Hindu",
       "sources": [
         "The Hindu"
@@ -409,20 +262,62 @@
       "source_links": [
         {
           "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/special-session-of-parliament-from-nov-30-congress-ncp-sp/article71749775.ece"
+          "url": "https://www.thehindu.com/news/national/kerala/president-murmu-says-maritime-domain-increasingly-important-in-interconnected-world/article71753670.ece"
         }
       ],
-      "published_at_utc": "2026-11-27T07:10:38+00:00",
-      "published_at_ist": "2026-11-27T12:40:38+05:30",
-      "summary": "The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill",
+      "published_at_utc": "2026-11-28T07:55:39+00:00",
+      "published_at_ist": "2026-11-28T13:25:39+05:30",
+      "summary": "Addressing the passing-out parade of the Indian Naval Academy at Ezhimala, Droupadi Murmu said the security of maritime routes is closely linked to the economic well-being of nations",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "437ba7158b24317d",
-      "title": "Live: Cabinet approves constitutional changes linked to delimitation and women's quota",
-      "url": "https://www.indiatoday.in/india/story/union-cabinet-meeting-live-updates-special-parliament-session-2026-delimitation-bill-lok-sabha-3048010-2026-11-27?utm_source=rss",
+      "id": "fc90573183216514",
+      "title": "DMK MPs’ meeting demands fair delimitation based on 1971 census",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mps-meeting-demands-fair-delimitation-based-on-1971-census/article71753766.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mps-meeting-demands-fair-delimitation-based-on-1971-census/article71753766.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-28T07:51:40+00:00",
+      "published_at_ist": "2026-11-28T13:21:40+05:30",
+      "summary": "A resolution adopted at the meeting said the MPs would act with determination during the special session of Parliament to protect Tamil Nadu’s right to representation",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "17969a141e57be70",
+      "title": "Centre’s delimitation fix steadies Yogi Adityanath’s nerves ahead of polls",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/centres-delimitation-fix-steadies-yogi-adityanaths-nerves-ahead-of-polls/article71753568.ece",
+      "source": "The Hindu",
+      "sources": [
+        "The Hindu"
+      ],
+      "source_links": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/uttar-pradesh/centres-delimitation-fix-steadies-yogi-adityanaths-nerves-ahead-of-polls/article71753568.ece"
+        }
+      ],
+      "published_at_utc": "2026-11-28T07:51:21+00:00",
+      "published_at_ist": "2026-11-28T13:21:21+05:30",
+      "summary": "By raising the constitutional ceiling on State assemblies from 500 to 650 seats, the Union Cabinet’s revised delimitation bill allows U.P. assembly to expand to 605 members without dividing the State",
+      "category": "Politics & Governance",
+      "importance_score": 2,
+      "is_major": false
+    },
+    {
+      "id": "757930920231e3b7",
+      "title": "RBI eases daily CRR requirement to 90% from 99%. What does it mean?",
+      "url": "https://www.indiatoday.in/business/story/rbi-eases-daily-crr-requirement-to-90-from-99-what-does-it-mean-3048503-2026-11-27?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -430,20 +325,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/india/story/union-cabinet-meeting-live-updates-special-parliament-session-2026-delimitation-bill-lok-sabha-3048010-2026-11-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/business/story/rbi-eases-daily-crr-requirement-to-90-from-99-what-does-it-mean-3048503-2026-11-27?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-27T04:31:11+00:00",
-      "published_at_ist": "2026-11-27T10:01:11+05:30",
-      "summary": "Live Cabinet approves constitutional changes linked to delimitation and womens quota",
-      "category": "Politics & Governance",
+      "published_at_utc": "2026-11-27T14:00:33+00:00",
+      "published_at_ist": "2026-11-27T19:30:33+05:30",
+      "summary": "RBI eases daily CRR requirement to from What does it mean",
+      "category": "Business & Economy",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "4a1f8ff414c8af43",
-      "title": "Delimitation, women's quota: What's brewing ahead of Parliament's special session?",
-      "url": "https://www.indiatoday.in/programme/newstrack/video/parliament-special-session-delimitation-womens-quota-nda-bjp-congress-dmk-ncp-3047899-2026-11-26?utm_source=rss",
+      "id": "d2fdacf907ac77a5",
+      "title": "One community favoured: Ex-CJI flags bias in judicial appointments to President",
+      "url": "https://www.indiatoday.in/india/law-news/story/former-chief-justice-of-india-br-gavai-letter-president-droupadi-murmu-diversity-judicial-appointments-3048293-2026-11-27?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -451,24 +346,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/newstrack/video/parliament-special-session-delimitation-womens-quota-nda-bjp-congress-dmk-ncp-3047899-2026-11-26?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/newstrack/video/parliament-special-session-delimitation-womens-quota-nda-bjp-congress-dmk-ncp-3047899-2026-11-26?utm_source=rss"
+          "url": "https://www.indiatoday.in/india/law-news/story/former-chief-justice-of-india-br-gavai-letter-president-droupadi-murmu-diversity-judicial-appointments-3048293-2026-11-27?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-26T18:20:53+00:00",
-      "published_at_ist": "2026-11-26T23:50:53+05:30",
-      "summary": "Delimitation womens quota Whats brewing ahead of Parliaments special session",
+      "published_at_utc": "2026-11-27T11:50:29+00:00",
+      "published_at_ist": "2026-11-27T17:20:29+05:30",
+      "summary": "One community favoured ExCJI flags bias in judicial appointments to President",
       "category": "Politics & Governance",
       "importance_score": 2,
       "is_major": false
     },
     {
-      "id": "b206224ea2a27b9f",
-      "title": "Special Parliament sitting next week: What NDA's floor math on delimitation push says",
-      "url": "https://www.indiatoday.in/programme/news-today/video/special-parliament-session-called-delimitation-push-nda-floor-math-frvd-3047849-2026-11-26?utm_source=rss",
+      "id": "cf821e746927d4da",
+      "title": "Samsung Galaxy S25 Ultra available with big price drop",
+      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-available-with-big-price-drop-287868-27-11-2026?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -476,45 +367,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/news-today/video/special-parliament-session-called-delimitation-push-nda-floor-math-frvd-3047849-2026-11-26?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/programme/news-today/video/special-parliament-session-called-delimitation-push-nda-floor-math-frvd-3047849-2026-11-26?utm_source=rss"
+          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-available-with-big-price-drop-287868-27-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-26T17:20:11+00:00",
-      "published_at_ist": "2026-11-26T22:50:11+05:30",
-      "summary": "Special Parliament sitting next week What NDAs floor math on delimitation push says",
-      "category": "Politics & Governance",
-      "importance_score": 2,
-      "is_major": false
-    },
-    {
-      "id": "12346b1f71860b3d",
-      "title": "Shani Margi 2026: शनि की मार्गी चाल से पलटेगी 3 राशियों की तकदीर, खूब बढ़ेगा पैसा!",
-      "url": "https://www.aajtak.in/religion/news/story/shani-margi-2026-3-zodiac-signs-money-wealth-benefits-tvisz-dskc-2707783-2026-11-27?utm_source=rss",
-      "source": "India Today",
-      "sources": [
-        "India Today"
-      ],
-      "source_links": [
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/religion/news/story/shani-margi-2026-3-zodiac-signs-money-wealth-benefits-tvisz-dskc-2707783-2026-11-27?utm_source=rss"
-        }
-      ],
-      "published_at_utc": "2026-11-27T09:57:02+00:00",
-      "published_at_ist": "2026-11-27T15:27:02+05:30",
-      "summary": "Shani Margi",
+      "published_at_utc": "2026-11-28T09:10:05+00:00",
+      "published_at_ist": "2026-11-28T14:40:05+05:30",
+      "summary": "Samsung Galaxy S Ultra available with big price drop",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "5ecdd683b9fea89d",
-      "title": "सहारनपुर: शादी में डीजे पर डांस करते वक्त गिरा फौजी, हार्ट फेल होने से मौत; मां-बाप का इकलौता सहारा था दुष्यंत",
-      "url": "https://www.aajtak.in/uttar-pradesh/story/army-soldier-collapses-while-dancing-to-dj-at-wedding-dies-of-heart-failure-saharanpur-dushyant-lclam-strc-2707749-2026-11-27?utm_source=rss",
+      "id": "2538fb87a036a366",
+      "title": "iPhone 17 Pro Max gets massive discount during Croma Black Friday sale",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-gets-massive-discount-during-croma-black-friday-sale-287867-27-11-2026?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -522,28 +388,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.aajtak.in/uttar-pradesh/story/army-soldier-collapses-while-dancing-to-dj-at-wedding-dies-of-heart-failure-saharanpur-dushyant-lclam-strc-2707749-2026-11-27?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/sports/cricket/story/anaya-bangar-latest-photos-instagram-new-look-blue-dress-tea-pose-tspok-dskc-2707831-2026-11-27?utm_source=rss"
-        },
-        {
-          "source": "India Today",
-          "url": "https://www.aajtak.in/india/delhi/story/rohtak-hotel-shootout-honeytrap-girl-sunny-ritholia-himanshu-bhau-gang-lcla-rpti-2707829-2026-11-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-gets-massive-discount-during-croma-black-friday-sale-287867-27-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-27T09:57:02+00:00",
-      "published_at_ist": "2026-11-27T15:27:02+05:30",
-      "summary": "",
+      "published_at_utc": "2026-11-28T09:10:05+00:00",
+      "published_at_ist": "2026-11-28T14:40:05+05:30",
+      "summary": "iPhone Pro Max gets massive discount during Croma Black Friday sale",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "48b079d2873d7631",
-      "title": "2 करोड़ का मुर्रा भैंसा, जिसे देखने उमड़ी भीड़! सोनपुर मेले का बना अट्रेक्शन",
-      "url": "https://www.aajtak.in/trending/story/sonepur-mela-2026-rs-2-crore-murrah-buffalo-viral-video-tstsd-dskc-2707838-2026-11-27?utm_source=rss",
+      "id": "0c9463dd42a0a076",
+      "title": "Samsung Galaxy S26 Ultra gets Rs 69,000 discount on Black Friday, details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-ultra-gets-rs-69000-discount-on-black-friday-details-here-287859-27-11-2026?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -551,20 +409,20 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.aajtak.in/trending/story/sonepur-mela-2026-rs-2-crore-murrah-buffalo-viral-video-tstsd-dskc-2707838-2026-11-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-ultra-gets-rs-69000-discount-on-black-friday-details-here-287859-27-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-27T09:57:02+00:00",
-      "published_at_ist": "2026-11-27T15:27:02+05:30",
-      "summary": "",
+      "published_at_utc": "2026-11-28T09:10:05+00:00",
+      "published_at_ist": "2026-11-28T14:40:05+05:30",
+      "summary": "Samsung Galaxy S Ultra gets Rs discount on Black Friday details here",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "0655ea1ebd01e1e5",
-      "title": "₹45,490 में iPhone 16, ₹85,999 में Samsung Ultra! Croma की Black Friday Sale में मिल रहे बड़े ऑफर",
-      "url": "https://www.aajtak.in/technology/tech-news/story/croma-black-friday-sale-2026-iphone-samsung-macbook-offers-ttecm-dskc-2707834-2026-11-27?utm_source=rss",
+      "id": "0096cfaa168ccc7d",
+      "title": "iPhone 17 price drops by up to Rs 13,000, details here",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drop-alert-check-deiphone-17-price-drops-by-up-to-rs-13000-details-hereal-here-copy-287850-27-11-2026?utm_source=rss",
       "source": "India Today",
       "sources": [
         "India Today"
@@ -572,12 +430,12 @@
       "source_links": [
         {
           "source": "India Today",
-          "url": "https://www.aajtak.in/technology/tech-news/story/croma-black-friday-sale-2026-iphone-samsung-macbook-offers-ttecm-dskc-2707834-2026-11-27?utm_source=rss"
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drop-alert-check-deiphone-17-price-drops-by-up-to-rs-13000-details-hereal-here-copy-287850-27-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-27T09:57:02+00:00",
-      "published_at_ist": "2026-11-27T15:27:02+05:30",
-      "summary": "iPhone Samsung Ultra Croma Black Friday Sale",
+      "published_at_utc": "2026-11-28T09:10:05+00:00",
+      "published_at_ist": "2026-11-28T14:40:05+05:30",
+      "summary": "iPhone price drops by up to Rs details here",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
@@ -596,59 +454,126 @@
           "url": "https://www.indiatoday.in/visualstories/technology/iphone-16-price-cut-by-rs-12910-full-details-inside-287833-26-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-27T09:55:03+00:00",
-      "published_at_ist": "2026-11-27T15:25:03+05:30",
+      "published_at_utc": "2026-11-28T09:10:05+00:00",
+      "published_at_ist": "2026-11-28T14:40:05+05:30",
       "summary": "iPhone price cut by Rs Full details inside",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "45356d06165b73b8",
-      "title": "Millions of wives in South Asia unprotected from marital rape - study",
-      "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News India",
+      "id": "eeb2d41df11d8abe",
+      "title": "iPhone 17 Pro available under Rs 55,000, check deal here",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-available-under-rs-55000-check-deal-here-287823-26-11-2026?utm_source=rss",
+      "source": "India Today",
       "sources": [
-        "BBC News India"
+        "India Today"
       ],
       "source_links": [
         {
-          "source": "BBC News India",
-          "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss"
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-pro-available-under-rs-55000-check-deal-here-287823-26-11-2026?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-27T08:13:43+00:00",
-      "published_at_ist": "2026-11-27T13:43:43+05:30",
-      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "published_at_utc": "2026-11-28T09:10:05+00:00",
+      "published_at_ist": "2026-11-28T14:40:05+05:30",
+      "summary": "iPhone Pro available under Rs check deal here",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "2cc52ae4674cf712",
-      "title": "Jaish Terrorist Arrested From Gujarat, Was Planning Attack On Air Force Station",
-      "url": "https://www.ndtv.com/india-news/jaish-terrorist-arrested-from-gujarat-was-planning-attack-on-vadodara-air-force-station-12383894#publisher=newsstand",
-      "source": "NDTV",
+      "id": "a4eb56b0894af6cf",
+      "title": "Anthropic denies Claude sabotages AI research, explains what is actually happening",
+      "url": "https://www.indiatoday.in/technology/news/story/anthropic-denies-claude-sabotages-ai-research-explains-what-is-actually-happening-3048982-2026-11-28?utm_source=rss",
+      "source": "India Today",
       "sources": [
-        "NDTV"
+        "India Today"
       ],
       "source_links": [
         {
-          "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/jaish-terrorist-arrested-from-gujarat-was-planning-attack-on-vadodara-air-force-station-12383894#publisher=newsstand"
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/technology/news/story/anthropic-denies-claude-sabotages-ai-research-explains-what-is-actually-happening-3048982-2026-11-28?utm_source=rss"
+        },
+        {
+          "source": "India Today",
+          "url": "https://www.indiatoday.in/technology/news/story/anthropic-denies-claude-sabotages-ai-research-explains-what-is-actually-happening-3048982-2026-11-28?utm_source=rss"
         }
       ],
-      "published_at_utc": "2026-11-27T08:06:38+00:00",
-      "published_at_ist": "2026-11-27T13:36:38+05:30",
-      "summary": "Pictures of the air force station were recovered from him",
-      "category": "Security & Defence",
+      "published_at_utc": "2026-11-28T09:06:10+00:00",
+      "published_at_ist": "2026-11-28T14:36:10+05:30",
+      "summary": "Anthropic denies Claude sabotages AI research explains what is actually happening",
+      "category": "Technology & Science",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "44d54dfc8f58dc9a",
-      "title": "No Court Relief For Vijay In Petition Challenging Perambur Win",
-      "url": "https://www.ndtv.com/india-news/no-madras-high-court-relief-for-c-joseph-vijay-in-petition-challenging-perambur-win-12383706#publisher=newsstand",
+      "id": "8910c405e2a357ba",
+      "title": "सुरेश रैना के बर्थडे पर ग्लैमरस लुक में छाईं प्रियंका चौधरी, कैरेमल साड़ी के साथ पहना लाखों मोतियों से सजा ब्लाउज! पति के लिए लिखा रोमांटिक मैसेज, PHOTO",
+      "url": "https://www.aajtak.in/lifestyle/fashion/photo/suresh-raina-birthday-wife-priyanka-look-stylish-in-saree-romantic-wish-suresh-raina-ke-janamdin-pe-chayin-priyanka-tvisp-2708629-2026-11-28?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.aajtak.in/lifestyle/fashion/photo/suresh-raina-birthday-wife-priyanka-look-stylish-in-saree-romantic-wish-suresh-raina-ke-janamdin-pe-chayin-priyanka-tvisp-2708629-2026-11-28?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-28T09:06:02+00:00",
+      "published_at_ist": "2026-11-28T14:36:02+05:30",
+      "summary": "PHOTO",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "230dca803a2c3cec",
+      "title": "'नारी शक्ति से किया वादा हर हाल में निभाएंगे', परिसीमन और महिला आरक्षण बिल पर बोले PM मोदी",
+      "url": "https://www.aajtak.in/india/news/story/pm-narendra-modi-statement-on-womens-reservation-delimitation-bill-lok-sabha-seats-ntc-apdy-dskc-2708627-2026-11-28?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.aajtak.in/india/news/story/pm-narendra-modi-statement-on-womens-reservation-delimitation-bill-lok-sabha-seats-ntc-apdy-dskc-2708627-2026-11-28?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-28T09:06:02+00:00",
+      "published_at_ist": "2026-11-28T14:36:02+05:30",
+      "summary": "PM",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "4542723c60af763f",
+      "title": "इस सस्ती 7-सीटर कार का जलवा! 70% ने खरीदा CNG मॉडल",
+      "url": "https://www.aajtak.in/visualstories/auto/maruti-ertiga-cng-sales-share-october-2026-auaw-287875-28-11-2026?utm_source=rss",
+      "source": "India Today",
+      "sources": [
+        "India Today"
+      ],
+      "source_links": [
+        {
+          "source": "India Today",
+          "url": "https://www.aajtak.in/visualstories/auto/maruti-ertiga-cng-sales-share-october-2026-auaw-287875-28-11-2026?utm_source=rss"
+        }
+      ],
+      "published_at_utc": "2026-11-28T09:06:02+00:00",
+      "published_at_ist": "2026-11-28T14:36:02+05:30",
+      "summary": "CNG",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "8719733e83e0a500",
+      "title": "Yogi Adityanath To Open NDTV Creators Manch Event In Varanasi Shortly",
+      "url": "https://www.ndtv.com/india-news/ndtv-creators-manch-2026-yogi-adityanath-to-open-three-day-event-in-varanasi-12378895#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -656,20 +581,41 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/no-madras-high-court-relief-for-c-joseph-vijay-in-petition-challenging-perambur-win-12383706#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/ndtv-creators-manch-2026-yogi-adityanath-to-open-three-day-event-in-varanasi-12378895#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-27T07:49:41+00:00",
-      "published_at_ist": "2026-11-27T13:19:41+05:30",
-      "summary": "Court held issues raised require full trial and cannot be decided at preliminary stage.",
+      "published_at_utc": "2026-11-28T08:12:25+00:00",
+      "published_at_ist": "2026-11-28T13:42:25+05:30",
+      "summary": "The three-day event is being held at Namo Ghat",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "69100c93ecd81c96",
+      "title": "Alliance Done, BJP And Akali Dal Begin Seat-Sharing Talks, But Challenges Remain",
+      "url": "https://www.ndtv.com/india-news/punjab-assembly-elections-alliance-done-bjp-and-akali-dal-begin-seat-sharing-talks-but-challenges-remain-12388183#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/punjab-assembly-elections-alliance-done-bjp-and-akali-dal-begin-seat-sharing-talks-but-challenges-remain-12388183#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-28T08:00:31+00:00",
+      "published_at_ist": "2026-11-28T13:30:31+05:30",
+      "summary": "BJP's Punjab leader Gurdarshan Singh Saini met Haryana Chief Minister Nayab Saini on Friday",
       "category": "Politics & Governance",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "ee8c037fa8ab7f86",
-      "title": "Opinion: Opinion | When India Went Nuclear, There Was One American Who Helped Change Everything",
-      "url": "https://www.ndtv.com/opinion/the-nuclear-crisis-that-nearly-broke-india-us-ties-and-how-one-american-fixed-them-12383789#publisher=newsstand",
+      "id": "ce6da76a3a1b7be7",
+      "title": "Minor Driving Scorpio Injures 40-Year-Old Pedestrian In Delhi",
+      "url": "https://www.ndtv.com/delhi-news/minor-driving-scorpio-injures-40-year-old-pedestrian-in-delhis-paharganj-12388260#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -677,20 +623,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/opinion/the-nuclear-crisis-that-nearly-broke-india-us-ties-and-how-one-american-fixed-them-12383789#publisher=newsstand"
+          "url": "https://www.ndtv.com/delhi-news/minor-driving-scorpio-injures-40-year-old-pedestrian-in-delhis-paharganj-12388260#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-27T07:47:16+00:00",
-      "published_at_ist": "2026-11-27T13:17:16+05:30",
-      "summary": "US Dep. State Secy. Strobe Talbott (L) w. PM P.V. Narasimha Rao (R).",
+      "published_at_utc": "2026-11-28T07:49:40+00:00",
+      "published_at_ist": "2026-11-28T13:19:40+05:30",
+      "summary": "Police also learnt that two other minors sustained minor injuries in the accident.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "8fcb92dbf1b1b2dc",
-      "title": "In Haryana Dhaba Bloodbath, Cops Probe Mystery Woman's Role",
-      "url": "https://www.ndtv.com/india-news/mystery-woman-at-haryana-dhaba-behind-murder-of-4-gangsters-cops-probe-link-12383805#publisher=newsstand",
+      "id": "4f431c6874825f25",
+      "title": "The Hidden Economics Of Destination Weddings: Is Abroad Really Cheaper?",
+      "url": "https://www.ndtv.com/business-news/destination-wedding-in-india-vs-abroad-how-much-can-couples-save-12380411#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -698,20 +644,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/mystery-woman-at-haryana-dhaba-behind-murder-of-4-gangsters-cops-probe-link-12383805#publisher=newsstand"
+          "url": "https://www.ndtv.com/business-news/destination-wedding-in-india-vs-abroad-how-much-can-couples-save-12380411#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-27T07:47:09+00:00",
-      "published_at_ist": "2026-11-27T13:17:09+05:30",
-      "summary": "The woman allegedly signaled the attackers to target the victims.",
+      "published_at_utc": "2026-11-28T07:34:04+00:00",
+      "published_at_ist": "2026-11-28T13:04:04+05:30",
+      "summary": "The biggest mistake families can make is comparing wedding packages without calculating the total cost.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "2e90fdefa7817a86",
-      "title": "How 'Thalapathy' Vijay's Victory Set Off A Chain Reaction That Could Change India's Electoral Map Forever",
-      "url": "https://www.ndtv.com/india-news/how-thalapathy-vijay-set-off-chain-reaction-that-could-alter-india-electoral-map-with-delimitation-bill-at-special-parliament-session-12383338#publisher=newsstand",
+      "id": "fce554d0fef10249",
+      "title": "60-Year-Old Woman Thrashed, Raped Inside Toilet At Railway Station In Mumbai",
+      "url": "https://www.ndtv.com/mumbai-news/60-year-old-woman-thrashed-raped-inside-toilet-at-ghatkopar-railway-station-in-mumbai-12388159#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -719,20 +665,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/how-thalapathy-vijay-set-off-chain-reaction-that-could-alter-india-electoral-map-with-delimitation-bill-at-special-parliament-session-12383338#publisher=newsstand"
+          "url": "https://www.ndtv.com/mumbai-news/60-year-old-woman-thrashed-raped-inside-toilet-at-ghatkopar-railway-station-in-mumbai-12388159#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-27T07:14:14+00:00",
-      "published_at_ist": "2026-11-27T12:44:14+05:30",
-      "summary": "Vijay has said the BJP is his political and ideological enemy.",
+      "published_at_utc": "2026-11-28T07:19:22+00:00",
+      "published_at_ist": "2026-11-28T12:49:22+05:30",
+      "summary": "A man secretly followed the elderly woman into the public washroom and forced himself on her.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "7e1d8ad81af0d15a",
-      "title": "Revanth Reddy Makes 'Peanuts' Jibe At BJP Leaders, Gets 'Brain Chori' Retort",
-      "url": "https://www.ndtv.com/india-news/revanth-reddy-makes-peanuts-jibe-at-bjp-leaders-after-nitin-nabin-amit-shah-telangana-visits-gets-brain-chori-retort-12383666#publisher=newsstand",
+      "id": "2cb0a7126524c5d1",
+      "title": "Why Imported Whisky Costs Double In India: The Hidden Price Trail",
+      "url": "https://www.ndtv.com/business-news/why-imported-whisky-costs-double-in-india-the-hidden-alcohol-price-trail-12388110#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -740,20 +686,20 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/revanth-reddy-makes-peanuts-jibe-at-bjp-leaders-after-nitin-nabin-amit-shah-telangana-visits-gets-brain-chori-retort-12383666#publisher=newsstand"
+          "url": "https://www.ndtv.com/business-news/why-imported-whisky-costs-double-in-india-the-hidden-alcohol-price-trail-12388110#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-27T07:04:26+00:00",
-      "published_at_ist": "2026-11-27T12:34:26+05:30",
-      "summary": "Revanth Reddy was addressing a public meeting in Nagarkurnool (File photo)",
-      "category": "Climate & Environment",
+      "published_at_utc": "2026-11-28T07:04:00+00:00",
+      "published_at_ist": "2026-11-28T12:34:00+05:30",
+      "summary": "India's liquor market has a complicated tax structure.",
+      "category": "Business & Economy",
       "importance_score": 1,
       "is_major": false
     },
     {
-      "id": "f938c0664d461b5e",
-      "title": "From 'Will See' To Riders: Delimitation Exposes Widening Cracks In Opposition",
-      "url": "https://www.ndtv.com/india-news/its-house-divided-opposition-braces-for-centres-2nd-bid-for-delimitation-12383608#publisher=newsstand",
+      "id": "f40cd42a44b601be",
+      "title": "Haryana Gangster's Lover Led His Rivals To Him. He Escapes Firing By Minutes",
+      "url": "https://www.ndtv.com/india-news/mystery-woman-in-rohtak-firing-was-gangster-sunny-ritolias-lover-cops-12387801#publisher=newsstand",
       "source": "NDTV",
       "sources": [
         "NDTV"
@@ -761,12 +707,54 @@
       "source_links": [
         {
           "source": "NDTV",
-          "url": "https://www.ndtv.com/india-news/its-house-divided-opposition-braces-for-centres-2nd-bid-for-delimitation-12383608#publisher=newsstand"
+          "url": "https://www.ndtv.com/india-news/mystery-woman-in-rohtak-firing-was-gangster-sunny-ritolias-lover-cops-12387801#publisher=newsstand"
         }
       ],
-      "published_at_utc": "2026-11-27T07:01:34+00:00",
-      "published_at_ist": "2026-11-27T12:31:34+05:30",
-      "summary": "The special sittings will be an extension of the Monsoon Session.",
+      "published_at_utc": "2026-11-28T06:57:39+00:00",
+      "published_at_ist": "2026-11-28T12:27:39+05:30",
+      "summary": "The attack resulted in the killing of four young men.",
+      "category": "India & General",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "1517a4b8698819d9",
+      "title": "Stock Market: This Defence Stock Turns Multibagger In 2026, Jumps 200%: Do You Own?",
+      "url": "https://www.ndtv.com/business-news/stock-market-news-this-defence-stock-turns-multibagger-in-2026-jumps-200-do-you-own-12388089#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/business-news/stock-market-news-this-defence-stock-turns-multibagger-in-2026-jumps-200-do-you-own-12388089#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-28T06:56:05+00:00",
+      "published_at_ist": "2026-11-28T12:26:05+05:30",
+      "summary": "Sensex, Nifty News: The stock has also delivered returns of around 165% over the past year.",
+      "category": "Business & Economy",
+      "importance_score": 1,
+      "is_major": false
+    },
+    {
+      "id": "cb2c1123d45c5b28",
+      "title": "Coliform Bacteria Found In Bisleri Water Sample. Firm Says Product Is Safe",
+      "url": "https://www.ndtv.com/india-news/bisleri-water-fails-lab-tests-coliform-bacteria-found-in-one-sample-report-12386738#publisher=newsstand",
+      "source": "NDTV",
+      "sources": [
+        "NDTV"
+      ],
+      "source_links": [
+        {
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/bisleri-water-fails-lab-tests-coliform-bacteria-found-in-one-sample-report-12386738#publisher=newsstand"
+        }
+      ],
+      "published_at_utc": "2026-11-28T06:51:59+00:00",
+      "published_at_ist": "2026-11-28T12:21:59+05:30",
+      "summary": "The regulator prohibited the sale of only one batch on August 12, 2026.",
       "category": "India & General",
       "importance_score": 1,
       "is_major": false

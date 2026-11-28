@@ -1,86 +1,86 @@
 # India Daily News Brief
 
-> Published: 27 November 2026, 03:29 PM IST  
+> Published: 28 November 2026, 02:45 PM IST  
 > Coverage: approximately the last 36 hours
 
 ## At a glance
 
 - Stories after deduplication: **35**
-- Major stories highlighted: **10**
+- Major stories highlighted: **9**
 - Sources checked successfully: **4**
 
 ### Stories by category
 
-- **Politics & Governance:** 22
-- **India & General:** 11
-- **Climate & Environment:** 1
-- **Security & Defence:** 1
+- **Politics & Governance:** 16
+- **India & General:** 15
+- **Business & Economy:** 3
+- **Technology & Science:** 1
 
 ## Major stories
 
-### 1. [Thirupparankundram 'deepathoon' row LIVE: Supreme Court declares authorities 'wilfully disobeyed' court orders, suspends Board of Trustees](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece)
+### 1. [Supreme Court clears way for Hockey India election on December 5, sets aside Orissa HC orders](https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 5/10 (heuristic)
+- **Published:** 28 Nov 2026, 02:40 PM IST
+- **Summary:** The bench said grievances of Hockey Odisha will be redressed by a committee headed by ex-apex court judge Justice A.K. Sikri
+
+### 2. [Supreme Court refuses to entertain plea to reduce minimum age for contesting elections](https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 5/10 (heuristic)
+- **Published:** 28 Nov 2026, 01:38 PM IST
+- **Summary:** When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’
+
+### 3. [Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; access restricted to select witnesses](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 27 Nov 2026, 03:16 PM IST
-- **Summary:** The apex court issues show cause notices on contempt against Tamil Nadu Chief Secretary, DGP, HR&CE Commissioner, Board of Trustees Chairperson and Trustees
+- **Published:** 28 Nov 2026, 02:30 PM IST
+- **Summary:** Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
 
-### 2. [The bulldozer and the balance sheet: Is Yogi Adityanath an election shoo-in ?](https://www.indiatoday.in/opinion/story/yogi-adityanath-up-election-welfare-law-order-jobs-caste-3048242-2026-11-27?utm_source=rss)
-
-- **Category:** Politics & Governance
-- **Source(s):** India Today
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 27 Nov 2026, 03:00 PM IST
-- **Summary:** The bulldozer and the balance sheet Is Yogi Adityanath an election shooin
-
-### 3. [Polavaram evacuees boycott panchayat polls in Eluru district, demand separate panchayat](https://www.thehindu.com/news/national/andhra-pradesh/polavaram-evacuees-boycott-panchayat-polls-in-eluru-district-demand-separate-panchayat/article71746897.ece)
+### 4. [Thirupparankundram row: Palaniswami condemns TVK-led govt. over Supreme Court’s remarks](https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-palaniswami-condemns-tvk-led-govt-over-supreme-courts-remarks/article71753623.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 27 Nov 2026, 02:43 PM IST
-- **Summary:** Families resettled at Koruturu R&R Colony also stayed away from the MPTC and ZPTC elections earlier this month
+- **Published:** 28 Nov 2026, 01:19 PM IST
+- **Summary:** The law, the Constitution, and the Supreme Court must be treated with dignity, he said
 
-### 4. [Madras High Court refuses to reject election petition challenging CM Vijay’s victory from Perambur](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-petition-filed-against-cm-vijays-victory-from-perambur/article71749399.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 27 Nov 2026, 02:41 PM IST
-- **Summary:** Justice V. Lakshminarayanan dismisses an application filed by the Chief Minister to reject the election petition filed by a voter, S. Dinesh
-
-### 5. [Supreme Court rejects plea to remove video of Italian politician’s ‘Vote Chor’ slogan at Bharat Summit 2026](https://www.thehindu.com/news/national/supreme-court-rejects-plea-to-remove-video-of-italian-politicians-vote-chor-slogan-at-bharat-summit-2026/article71749802.ece)
+### 5. [In Kolkata, the BJP redraws power lines](https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 27 Nov 2026, 02:25 PM IST
-- **Summary:** After the Bench said it was dismissing the petition, the petitioner’s counsel urged that the authorities be asked to treat the same as a representation
+- **Published:** 28 Nov 2026, 12:13 PM IST
+- **Summary:** The BJP government in West Bengal has taken up a delimitation exercise of civic bodies of the twin cities of Kolkata and Howrah, increasing the number of wards in both municipal corporations. Opposition parties have claimed there has been gerrymandering. Elections will impact over seven million people. Shrabana Chatter
 
-### 6. [Supreme Court refuses urgent listing of plea against Ranbir Kapoor-starrer Ramayana](https://www.thehindu.com/entertainment/movies/supreme-court-refuses-urgent-listing-of-plea-against-ranbir-kapoor-starrer-ramayana/article71749619.ece)
-
-- **Category:** Politics & Governance
-- **Source(s):** The Hindu
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 27 Nov 2026, 01:23 PM IST
-- **Summary:** A Bench headed by CJI Surya Kant said anyone with a different view of the epic is free to make a film of their own, as the film is already running in theatres
-
-### 7. [Supreme Court grants bail to former AAP MLA Naresh Balyan in MCOCA case](https://www.thehindu.com/news/cities/Delhi/supreme-court-grants-bail-to-former-aap-mla-naresh-balyan-in-mcoca-case/article71749634.ece)
+### 6. [Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit](https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece)
 
 - **Category:** Politics & Governance
 - **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 27 Nov 2026, 01:16 PM IST
-- **Summary:** A bench of Justices Vikram Nath and Aparesh Kumar Singh passed the order while hearing Mr. Balyan’s plea challenging a Delhi High Court order denying him bail in the case
+- **Published:** 28 Nov 2026, 11:18 AM IST
+- **Summary:** Indian and Nepali delegations came up with the ten-pillar vision document titled ‘Viksit Bharat-Samunnat Nepal: Reimagining the Partnership’
 
-### 8. [UK man spots late daughter's name on plaque in GTA 6, shares heartbreaking story](https://www.indiatoday.in/trending-news/story/uk-man-spots-late-daughters-name-on-plaque-in-gta-6-shares-heartbreaking-story-3048104-2026-11-27?utm_source=rss)
+### 7. [Why the Supreme Court wants red warning labels on unhealthy packaged foods \| Explained](https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece)
 
-- **Category:** India & General
-- **Source(s):** India Today
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
 - **Importance score:** 4/10 (heuristic)
-- **Published:** 27 Nov 2026, 01:06 PM IST
-- **Summary:** UK man spots late daughters name on plaque in GTA shares heartbreaking story
+- **Published:** 28 Nov 2026, 11:12 AM IST
+- **Summary:** The Supreme Court, earlier this week, directed the FSSAI to introduce a single-phase front-of-pack nutrition labelling (FoPNL) regime and gave the regulator four months to finalise the draft regulations
+
+### 8. [Supreme Court orders Karthigai Deepam to be lit at ‘deepathoon’ on November 28; issues contempt notice](https://www.thehindu.com/news/national/tamil-nadu/supreme-court-orders-karthigai-deepam-to-be-lit-on-deepathoon-on-november-28-issues-contempt-notice/article71751465.ece)
+
+- **Category:** Politics & Governance
+- **Source(s):** The Hindu
+- **Importance score:** 4/10 (heuristic)
+- **Published:** 28 Nov 2026, 10:33 AM IST
+- **Summary:** Bench directs Tamil Nadu Chief Secretary, DGP, Madurai District Collector, temple authorities to be present for next hearing on Dec. 15; court sees ‘pre-meditated conspiracy' between State and temple trustees
 
 ### 9. [Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind](https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss)
 
@@ -90,51 +90,43 @@
 - **Published:** 27 Nov 2026, 06:17 AM IST
 - **Summary:** The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.
 
-### 10. [Supreme Court resets rules for food packet warnings](https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss)
-
-- **Category:** Politics & Governance
-- **Source(s):** India Today
-- **Importance score:** 4/10 (heuristic)
-- **Published:** 26 Nov 2026, 02:50 PM IST
-- **Summary:** Supreme Court resets rules for food packet warnings
-
 ## All collected stories
 
-- [Thirupparankundram 'deepathoon' row LIVE: Supreme Court declares authorities 'wilfully disobeyed' court orders, suspends Board of Trustees](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece) — **Politics & Governance** · The Hindu
-- [The bulldozer and the balance sheet: Is Yogi Adityanath an election shoo-in ?](https://www.indiatoday.in/opinion/story/yogi-adityanath-up-election-welfare-law-order-jobs-caste-3048242-2026-11-27?utm_source=rss) — **Politics & Governance** · India Today
-- [Polavaram evacuees boycott panchayat polls in Eluru district, demand separate panchayat](https://www.thehindu.com/news/national/andhra-pradesh/polavaram-evacuees-boycott-panchayat-polls-in-eluru-district-demand-separate-panchayat/article71746897.ece) — **Politics & Governance** · The Hindu
-- [Madras High Court refuses to reject election petition challenging CM Vijay’s victory from Perambur](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-petition-filed-against-cm-vijays-victory-from-perambur/article71749399.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court rejects plea to remove video of Italian politician’s ‘Vote Chor’ slogan at Bharat Summit 2026](https://www.thehindu.com/news/national/supreme-court-rejects-plea-to-remove-video-of-italian-politicians-vote-chor-slogan-at-bharat-summit-2026/article71749802.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court refuses urgent listing of plea against Ranbir Kapoor-starrer Ramayana](https://www.thehindu.com/entertainment/movies/supreme-court-refuses-urgent-listing-of-plea-against-ranbir-kapoor-starrer-ramayana/article71749619.ece) — **Politics & Governance** · The Hindu
-- [Supreme Court grants bail to former AAP MLA Naresh Balyan in MCOCA case](https://www.thehindu.com/news/cities/Delhi/supreme-court-grants-bail-to-former-aap-mla-naresh-balyan-in-mcoca-case/article71749634.ece) — **Politics & Governance** · The Hindu
-- [UK man spots late daughter's name on plaque in GTA 6, shares heartbreaking story](https://www.indiatoday.in/trending-news/story/uk-man-spots-late-daughters-name-on-plaque-in-gta-6-shares-heartbreaking-story-3048104-2026-11-27?utm_source=rss) — **India & General** · India Today
+- [Supreme Court clears way for Hockey India election on December 5, sets aside Orissa HC orders](https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece) — **Politics & Governance** · The Hindu
+- [Supreme Court refuses to entertain plea to reduce minimum age for contesting elections](https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece) — **Politics & Governance** · The Hindu
+- [Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; access restricted to select witnesses](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece) — **Politics & Governance** · The Hindu
+- [Thirupparankundram row: Palaniswami condemns TVK-led govt. over Supreme Court’s remarks](https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-palaniswami-condemns-tvk-led-govt-over-supreme-courts-remarks/article71753623.ece) — **Politics & Governance** · The Hindu
+- [In Kolkata, the BJP redraws power lines](https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece) — **Politics & Governance** · The Hindu
+- [Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit](https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece) — **Politics & Governance** · The Hindu
+- [Why the Supreme Court wants red warning labels on unhealthy packaged foods \| Explained](https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece) — **Politics & Governance** · The Hindu
+- [Supreme Court orders Karthigai Deepam to be lit at ‘deepathoon’ on November 28; issues contempt notice](https://www.thehindu.com/news/national/tamil-nadu/supreme-court-orders-karthigai-deepam-to-be-lit-on-deepathoon-on-november-28-issues-contempt-notice/article71751465.ece) — **Politics & Governance** · The Hindu
 - [Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind](https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss) — **Politics & Governance** · BBC News India
-- [Supreme Court resets rules for food packet warnings](https://www.indiatoday.in/health/story/supreme-court-fssai-food-label-warnings-total-sugar-saturated-fat-3047356-2026-11-26?utm_source=rss) — **Politics & Governance** · India Today
-- [Odisha’s interest must be protected: BJD on delimitation bill](https://www.thehindu.com/news/national/odisha/odishas-interest-must-be-protected-bjd-on-delimitation-bill/article71750126.ece) — **Politics & Governance** · The Hindu
-- [Ex-CJI Gavai writes to President Murmu, alleges ‘complete disregard’ for merit and inclusivity in judicial appointments](https://www.thehindu.com/news/national/ex-cji-gavai-writes-to-president-murmu-alleges-complete-disregard-for-merit-and-inclusivity-in-judicial-appointments/article71750043.ece) — **Politics & Governance** · The Hindu
-- [Kharge convenes Opposition floor leaders to meet on November 28 for devising strategy, DMK invited](https://www.thehindu.com/news/national/kharge-convenes-opposition-floor-leaders-to-meet-on-november-28-for-devising-strategy-dmk-invited/article71750083.ece) — **Politics & Governance** · The Hindu
-- [Parliament's special sitting not for women’s quota but delimitation, will be resisted with all might: Congress](https://www.thehindu.com/news/national/pm-hm-jodi-lying-special-sitting-not-for-womens-quota-but-delimitation-congress/article71749507.ece) — **Politics & Governance** · The Hindu
-- [KTR condemns Congress supporters’ attack on BRS leaders at hotel in Hyderabad’s RTC X roads](https://www.thehindu.com/news/national/telangana/ktr-condemns-congress-supporters-attack-on-brs-leaders-at-hotel-in-hyderabads-rtc-x-roads/article71747940.ece) — **Politics & Governance** · The Hindu
-- [India's 'AI kid' snags a selfie and a sit-down with President Putin](https://www.indiatoday.in/newsmo/short-videos/indias-ai-kid-snags-a-selfie-and-a-sit-down-with-president-putin-3048164-2026-11-27?utm_source=rss) — **Politics & Governance** · India Today
-- [How Huang Foundation Gained $2.3 Billion In A Day With Jensen's Nvidia Return](https://www.ndtv.com/world-news/the-huang-foundation-gained-2-3-billion-in-a-day-with-jensens-nvidia-return-12383819#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Big Push For Jobs, Affordable Homes In Budget? What Gen Z Told N Sitharaman](https://www.ndtv.com/business-news/n-sitharaman-meets-gen-z-affordable-home-push-in-budget-2027-what-we-know-12383739#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Special session of Parliament: Congress, NCP(SP) issue whip to party MPs](https://www.thehindu.com/news/national/special-session-of-parliament-from-nov-30-congress-ncp-sp/article71749775.ece) — **Politics & Governance** · The Hindu
-- [Live: Cabinet approves constitutional changes linked to delimitation and women's quota](https://www.indiatoday.in/india/story/union-cabinet-meeting-live-updates-special-parliament-session-2026-delimitation-bill-lok-sabha-3048010-2026-11-27?utm_source=rss) — **Politics & Governance** · India Today
-- [Delimitation, women's quota: What's brewing ahead of Parliament's special session?](https://www.indiatoday.in/programme/newstrack/video/parliament-special-session-delimitation-womens-quota-nda-bjp-congress-dmk-ncp-3047899-2026-11-26?utm_source=rss) — **Politics & Governance** · India Today
-- [Special Parliament sitting next week: What NDA's floor math on delimitation push says](https://www.indiatoday.in/programme/news-today/video/special-parliament-session-called-delimitation-push-nda-floor-math-frvd-3047849-2026-11-26?utm_source=rss) — **Politics & Governance** · India Today
-- [Shani Margi 2026: शनि की मार्गी चाल से पलटेगी 3 राशियों की तकदीर, खूब बढ़ेगा पैसा!](https://www.aajtak.in/religion/news/story/shani-margi-2026-3-zodiac-signs-money-wealth-benefits-tvisz-dskc-2707783-2026-11-27?utm_source=rss) — **India & General** · India Today
-- [सहारनपुर: शादी में डीजे पर डांस करते वक्त गिरा फौजी, हार्ट फेल होने से मौत; मां-बाप का इकलौता सहारा था दुष्यंत](https://www.aajtak.in/uttar-pradesh/story/army-soldier-collapses-while-dancing-to-dj-at-wedding-dies-of-heart-failure-saharanpur-dushyant-lclam-strc-2707749-2026-11-27?utm_source=rss) — **India & General** · India Today
-- [2 करोड़ का मुर्रा भैंसा, जिसे देखने उमड़ी भीड़! सोनपुर मेले का बना अट्रेक्शन](https://www.aajtak.in/trending/story/sonepur-mela-2026-rs-2-crore-murrah-buffalo-viral-video-tstsd-dskc-2707838-2026-11-27?utm_source=rss) — **India & General** · India Today
-- [₹45,490 में iPhone 16, ₹85,999 में Samsung Ultra! Croma की Black Friday Sale में मिल रहे बड़े ऑफर](https://www.aajtak.in/technology/tech-news/story/croma-black-friday-sale-2026-iphone-samsung-macbook-offers-ttecm-dskc-2707834-2026-11-27?utm_source=rss) — **India & General** · India Today
+- [INDIA bloc leaders meet at Kharge’s residence to discuss joint strategy ahead of Parliament’s special sitting](https://www.thehindu.com/news/national/parliaments-special-sitting-india-bloc-floor-leaders-deliberate-joint-strategy/article71753841.ece) — **Politics & Governance** · The Hindu
+- [Boost To Centre As DMK Declares Support For Delimitation Bill](https://www.ndtv.com/india-news/parliament-special-session-boost-to-centre-as-dmk-declares-support-for-delimitation-bill-12387945#publisher=newsstand) — **Politics & Governance** · NDTV
+- [President Murmu says maritime domain increasingly important in interconnected world](https://www.thehindu.com/news/national/kerala/president-murmu-says-maritime-domain-increasingly-important-in-interconnected-world/article71753670.ece) — **Politics & Governance** · The Hindu
+- [DMK MPs’ meeting demands fair delimitation based on 1971 census](https://www.thehindu.com/news/national/tamil-nadu/dmk-mps-meeting-demands-fair-delimitation-based-on-1971-census/article71753766.ece) — **Politics & Governance** · The Hindu
+- [Centre’s delimitation fix steadies Yogi Adityanath’s nerves ahead of polls](https://www.thehindu.com/news/national/uttar-pradesh/centres-delimitation-fix-steadies-yogi-adityanaths-nerves-ahead-of-polls/article71753568.ece) — **Politics & Governance** · The Hindu
+- [RBI eases daily CRR requirement to 90% from 99%. What does it mean?](https://www.indiatoday.in/business/story/rbi-eases-daily-crr-requirement-to-90-from-99-what-does-it-mean-3048503-2026-11-27?utm_source=rss) — **Business & Economy** · India Today
+- [One community favoured: Ex-CJI flags bias in judicial appointments to President](https://www.indiatoday.in/india/law-news/story/former-chief-justice-of-india-br-gavai-letter-president-droupadi-murmu-diversity-judicial-appointments-3048293-2026-11-27?utm_source=rss) — **Politics & Governance** · India Today
+- [Samsung Galaxy S25 Ultra available with big price drop](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s25-ultra-available-with-big-price-drop-287868-27-11-2026?utm_source=rss) — **India & General** · India Today
+- [iPhone 17 Pro Max gets massive discount during Croma Black Friday sale](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-max-gets-massive-discount-during-croma-black-friday-sale-287867-27-11-2026?utm_source=rss) — **India & General** · India Today
+- [Samsung Galaxy S26 Ultra gets Rs 69,000 discount on Black Friday, details here](https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s26-ultra-gets-rs-69000-discount-on-black-friday-details-here-287859-27-11-2026?utm_source=rss) — **India & General** · India Today
+- [iPhone 17 price drops by up to Rs 13,000, details here](https://www.indiatoday.in/visualstories/technology/iphone-17-price-drop-alert-check-deiphone-17-price-drops-by-up-to-rs-13000-details-hereal-here-copy-287850-27-11-2026?utm_source=rss) — **India & General** · India Today
 - [iPhone 16 price cut by Rs 12,910: Full details inside](https://www.indiatoday.in/visualstories/technology/iphone-16-price-cut-by-rs-12910-full-details-inside-287833-26-11-2026?utm_source=rss) — **India & General** · India Today
-- [Millions of wives in South Asia unprotected from marital rape - study](https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss) — **India & General** · BBC News India
-- [Jaish Terrorist Arrested From Gujarat, Was Planning Attack On Air Force Station](https://www.ndtv.com/india-news/jaish-terrorist-arrested-from-gujarat-was-planning-attack-on-vadodara-air-force-station-12383894#publisher=newsstand) — **Security & Defence** · NDTV
-- [No Court Relief For Vijay In Petition Challenging Perambur Win](https://www.ndtv.com/india-news/no-madras-high-court-relief-for-c-joseph-vijay-in-petition-challenging-perambur-win-12383706#publisher=newsstand) — **Politics & Governance** · NDTV
-- [Opinion: Opinion \| When India Went Nuclear, There Was One American Who Helped Change Everything](https://www.ndtv.com/opinion/the-nuclear-crisis-that-nearly-broke-india-us-ties-and-how-one-american-fixed-them-12383789#publisher=newsstand) — **India & General** · NDTV
-- [In Haryana Dhaba Bloodbath, Cops Probe Mystery Woman's Role](https://www.ndtv.com/india-news/mystery-woman-at-haryana-dhaba-behind-murder-of-4-gangsters-cops-probe-link-12383805#publisher=newsstand) — **India & General** · NDTV
-- [How 'Thalapathy' Vijay's Victory Set Off A Chain Reaction That Could Change India's Electoral Map Forever](https://www.ndtv.com/india-news/how-thalapathy-vijay-set-off-chain-reaction-that-could-alter-india-electoral-map-with-delimitation-bill-at-special-parliament-session-12383338#publisher=newsstand) — **India & General** · NDTV
-- [Revanth Reddy Makes 'Peanuts' Jibe At BJP Leaders, Gets 'Brain Chori' Retort](https://www.ndtv.com/india-news/revanth-reddy-makes-peanuts-jibe-at-bjp-leaders-after-nitin-nabin-amit-shah-telangana-visits-gets-brain-chori-retort-12383666#publisher=newsstand) — **Climate & Environment** · NDTV
-- [From 'Will See' To Riders: Delimitation Exposes Widening Cracks In Opposition](https://www.ndtv.com/india-news/its-house-divided-opposition-braces-for-centres-2nd-bid-for-delimitation-12383608#publisher=newsstand) — **India & General** · NDTV
+- [iPhone 17 Pro available under Rs 55,000, check deal here](https://www.indiatoday.in/visualstories/technology/iphone-17-pro-available-under-rs-55000-check-deal-here-287823-26-11-2026?utm_source=rss) — **India & General** · India Today
+- [Anthropic denies Claude sabotages AI research, explains what is actually happening](https://www.indiatoday.in/technology/news/story/anthropic-denies-claude-sabotages-ai-research-explains-what-is-actually-happening-3048982-2026-11-28?utm_source=rss) — **Technology & Science** · India Today
+- [सुरेश रैना के बर्थडे पर ग्लैमरस लुक में छाईं प्रियंका चौधरी, कैरेमल साड़ी के साथ पहना लाखों मोतियों से सजा ब्लाउज! पति के लिए लिखा रोमांटिक मैसेज, PHOTO](https://www.aajtak.in/lifestyle/fashion/photo/suresh-raina-birthday-wife-priyanka-look-stylish-in-saree-romantic-wish-suresh-raina-ke-janamdin-pe-chayin-priyanka-tvisp-2708629-2026-11-28?utm_source=rss) — **India & General** · India Today
+- ['नारी शक्ति से किया वादा हर हाल में निभाएंगे', परिसीमन और महिला आरक्षण बिल पर बोले PM मोदी](https://www.aajtak.in/india/news/story/pm-narendra-modi-statement-on-womens-reservation-delimitation-bill-lok-sabha-seats-ntc-apdy-dskc-2708627-2026-11-28?utm_source=rss) — **India & General** · India Today
+- [इस सस्ती 7-सीटर कार का जलवा! 70% ने खरीदा CNG मॉडल](https://www.aajtak.in/visualstories/auto/maruti-ertiga-cng-sales-share-october-2026-auaw-287875-28-11-2026?utm_source=rss) — **India & General** · India Today
+- [Yogi Adityanath To Open NDTV Creators Manch Event In Varanasi Shortly](https://www.ndtv.com/india-news/ndtv-creators-manch-2026-yogi-adityanath-to-open-three-day-event-in-varanasi-12378895#publisher=newsstand) — **India & General** · NDTV
+- [Alliance Done, BJP And Akali Dal Begin Seat-Sharing Talks, But Challenges Remain](https://www.ndtv.com/india-news/punjab-assembly-elections-alliance-done-bjp-and-akali-dal-begin-seat-sharing-talks-but-challenges-remain-12388183#publisher=newsstand) — **Politics & Governance** · NDTV
+- [Minor Driving Scorpio Injures 40-Year-Old Pedestrian In Delhi](https://www.ndtv.com/delhi-news/minor-driving-scorpio-injures-40-year-old-pedestrian-in-delhis-paharganj-12388260#publisher=newsstand) — **India & General** · NDTV
+- [The Hidden Economics Of Destination Weddings: Is Abroad Really Cheaper?](https://www.ndtv.com/business-news/destination-wedding-in-india-vs-abroad-how-much-can-couples-save-12380411#publisher=newsstand) — **India & General** · NDTV
+- [60-Year-Old Woman Thrashed, Raped Inside Toilet At Railway Station In Mumbai](https://www.ndtv.com/mumbai-news/60-year-old-woman-thrashed-raped-inside-toilet-at-ghatkopar-railway-station-in-mumbai-12388159#publisher=newsstand) — **India & General** · NDTV
+- [Why Imported Whisky Costs Double In India: The Hidden Price Trail](https://www.ndtv.com/business-news/why-imported-whisky-costs-double-in-india-the-hidden-alcohol-price-trail-12388110#publisher=newsstand) — **Business & Economy** · NDTV
+- [Haryana Gangster's Lover Led His Rivals To Him. He Escapes Firing By Minutes](https://www.ndtv.com/india-news/mystery-woman-in-rohtak-firing-was-gangster-sunny-ritolias-lover-cops-12387801#publisher=newsstand) — **India & General** · NDTV
+- [Stock Market: This Defence Stock Turns Multibagger In 2026, Jumps 200%: Do You Own?](https://www.ndtv.com/business-news/stock-market-news-this-defence-stock-turns-multibagger-in-2026-jumps-200-do-you-own-12388089#publisher=newsstand) — **Business & Economy** · NDTV
+- [Coliform Bacteria Found In Bisleri Water Sample. Firm Says Product Is Safe](https://www.ndtv.com/india-news/bisleri-water-fails-lab-tests-coliform-bacteria-found-in-one-sample-report-12386738#publisher=newsstand) — **India & General** · NDTV
 
 ## Source health
 
